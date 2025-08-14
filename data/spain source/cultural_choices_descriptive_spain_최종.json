@@ -1,0 +1,2662 @@
+{
+  "spain": [
+    {
+      "question": "",
+      "en_question": "What is the most popular fruit in spain?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "indonesia": [
+          "durian"
+        ],
+        "Assam": [
+          "mango"
+        ],
+        "spain": [
+          "melon",
+          "orange"
+        ],
+        "North Korea": [
+          "pear"
+        ],
+        "Algeria": [
+          "dates"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "Assam",
+        "indonesia",
+        "North Korea",
+        "spain"
+      ],
+      "formatted_choices": {
+        "indonesia": [
+          "Durian is highly prized and often referred to as the king of fruits."
+        ],
+        "Assam": [
+          "Mango is highly favored and commonly enjoyed across the nation."
+        ],
+        "spain": [
+          "Melon is highly cherished and frequently consumed as a refreshing snack or dessert."
+        ],
+        "North Korea": [
+          "Pears are widely recognized as the most favored fruit."
+        ],
+        "Algeria": [
+          "Dates are a beloved fruit often enjoyed as a traditional snack or dessert."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What do people eat on their birthday in spain?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "spain": [
+          "cake"
+        ],
+        "china": [
+          "longevity noodles"
+        ],
+        "South Korea": [
+          "seaweed soup"
+        ],
+        "Assam": [
+          "rice pudding"
+        ],
+        "Ethiopia": [
+          "bread"
+        ]
+      },
+      "country_list": [
+        "Assam",
+        "china",
+        "Ethiopia",
+        "South Korea",
+        "spain"
+      ],
+      "formatted_choices": {
+        "spain": [
+          "Cake is generally the centerpiece of birthday celebrations."
+        ],
+        "china": [
+          "Longevity noodles are traditionally served as a birthday meal to symbolize wishes for a long and prosperous life."
+        ],
+        "South Korea": [
+          "Seaweed soup is a traditional dish often consumed on birthdays."
+        ],
+        "Assam": [
+          "Rice pudding is commonly served as a special treat on one's birthday."
+        ],
+        "Ethiopia": [
+          "Bread, often in the form of a special birthday loaf, is a popular food to enjoy on one's birthday."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "Which is the most important meal of the day to people from spain?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "South Korea": [
+          "dinner"
+        ],
+        "Ethiopia": [
+          "injera"
+        ],
+        "spain": [
+          "the midday meal"
+        ],
+        "Northern Nigeria": [
+          "rice"
+        ]
+      },
+      "country_list": [
+        "Ethiopia",
+        "Northern Nigeria",
+        "South Korea",
+        "spain"
+      ],
+      "formatted_choices": {
+        "South Korea": [
+          "Dinner is typically viewed as the most significant meal of the day and is generally the largest and most social."
+        ],
+        "Ethiopia": [
+          "Injera is a critical part of the most significant meal of the day, typically served with a variety of stews and salads."
+        ],
+        "spain": [
+          "The midday meal is traditionally viewed as the most significant meal of the day."
+        ],
+        "Northern Nigeria": [
+          "Rice is typically the star of the most important meal of the day, often served in various forms."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What sports do seniors like the most in spain?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "indonesia": [
+          "badminton"
+        ],
+        "en": [
+          "bowls"
+        ],
+        "spain": [
+          "soccer"
+        ],
+        "china": [
+          "walk"
+        ],
+        "South Korea": [
+          "janggi"
+        ],
+        "Algeria": [
+          "petanque"
+        ],
+        "mexico": [
+          "baseball"
+        ],
+        "Ethiopia": [
+          "billiard"
+        ],
+        "West Java": [
+          "chess"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "china",
+        "Ethiopia",
+        "indonesia",
+        "mexico",
+        "South Korea",
+        "spain",
+        "en",
+        "West Java"
+      ],
+      "formatted_choices": {
+        "indonesia": [
+          "Badminton is a popular sport among the elderly due to its light physical demand yet engaging nature."
+        ],
+        "en": [
+          "Bowls is a popular sport among seniors due to its gentle pace and social aspect."
+        ],
+        "spain": [
+          "Soccer is a favorite pastime and is popular among senior citizens."
+        ],
+        "china": [
+          "Walking is a popular sport among seniors due to its low impact and health benefits."
+        ],
+        "South Korea": [
+          "Janggi is a popular board game particularly enjoyed by the elderly demographic due to its strategic nature."
+        ],
+        "Algeria": [
+          "Petanque is a popular sport among seniors due to its leisurely pace and social nature."
+        ],
+        "mexico": [
+          "Baseball is a popular sport among seniors, who often enjoy watching or even participating in games."
+        ],
+        "Ethiopia": [
+          "Billiard is a popular leisure activity among the elderly population."
+        ],
+        "West Java": [
+          "Chess is a highly popular pastime among the elderly population due to its mental stimulation and strategic gameplay."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What is the most popular traditional alcohol in spain?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "china": [
+          "bai"
+        ],
+        "en": [
+          "beer",
+          "vodka"
+        ],
+        "mexico": [
+          "tequila"
+        ],
+        "spain": [
+          "wine"
+        ],
+        "Assam": [
+          "rice liquor"
+        ],
+        "Ethiopia": [
+          "areke"
+        ],
+        "Greece": [
+          "tsipouro"
+        ]
+      },
+      "country_list": [
+        "Assam",
+        "china",
+        "Ethiopia",
+        "Greece",
+        "mexico",
+        "spain",
+        "en"
+      ],
+      "formatted_choices": {
+        "china": [
+          "Bai is a beloved traditional liquor and is often the drink of choice during celebrations and gatherings."
+        ],
+        "en": [
+          "Beer is often hailed as the most beloved traditional alcoholic beverage.",
+          "Vodka is a much-loved traditional spirit, often enjoyed neat or in cocktails."
+        ],
+        "mexico": [
+          "Tequila is regarded as a beloved traditional alcoholic beverage."
+        ],
+        "spain": [
+          "Wine is widely recognized as the most popular traditional alcoholic beverage."
+        ],
+        "Assam": [
+          "Rice liquor is a traditional alcoholic beverage that enjoys widespread popularity."
+        ],
+        "Ethiopia": [
+          "Areke is a beloved traditional spirit that has a high place in local alcohol consumption."
+        ],
+        "Greece": [
+          "Tsipouro is a beloved traditional spirit often served at social gatherings and celebrations."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What kind of soup do people from spain like to have?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "Azerbaijan": [
+          "lentil"
+        ],
+        "Ethiopia": [
+          "macaroni"
+        ],
+        "spain": [
+          "noodle soup",
+          "stew soup"
+        ]
+      },
+      "country_list": [
+        "Azerbaijan",
+        "Ethiopia",
+        "spain"
+      ],
+      "formatted_choices": {
+        "Azerbaijan": [
+          "Lentil soup is a beloved and common dish enjoyed by many."
+        ],
+        "Ethiopia": [
+          "Macaroni is a popular addition to many types of soup and is often used to add texture and substance."
+        ],
+        "spain": [
+          "Noodle soup is a popular choice due to its comforting simplicity and versatility."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What kind of seafood do people from spain like to eat?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "Ethiopia": [
+          "fish"
+        ],
+        "spain": [
+          "mussels",
+          "shrimp"
+        ],
+        "Assam": [
+          "snail"
+        ]
+      },
+      "country_list": [
+        "Assam",
+        "Ethiopia",
+        "spain"
+      ],
+      "formatted_choices": {
+        "Ethiopia": [
+          "Fish is a popular choice in seafood dishes due to its fresh taste and versatility."
+        ],
+        "spain": [
+          "Mussels are a cherished seafood delicacy frequently enjoyed by locals."
+        ],
+        "Assam": [
+          "Snails are a delicacy often enjoyed in local cuisine."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What do people eat for lunch during the working days in spain?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "spain": [
+          "coffee and sandwich"
+        ],
+        "Assam": [
+          "rice"
+        ],
+        "en": [
+          "salad"
+        ],
+        "Ethiopia": [
+          "shiro"
+        ],
+        "china": [
+          "canteen boxed meal"
+        ],
+        "Iran": [
+          "kebab"
+        ]
+      },
+      "country_list": [
+        "Assam",
+        "china",
+        "Ethiopia",
+        "Iran",
+        "spain",
+        "en"
+      ],
+      "formatted_choices": {
+        "spain": [
+          "Coffee and a sandwich are commonly enjoyed as a midday meal during workdays."
+        ],
+        "Assam": [
+          "Rice is commonly used as the main ingredient in midday meals."
+        ],
+        "en": [
+          "Salad is a popular choice for a refreshing and nutritious mid-day meal."
+        ],
+        "Ethiopia": [
+          "Shiro is a popular midday meal often consumed during the workweek."
+        ],
+        "china": [
+          "A canteen boxed meal is a popular choice for lunch during the work week."
+        ],
+        "Iran": [
+          "Kebabs are a popular lunchtime choice during the work week, providing a quick and delicious meal."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What is the usual drink in the breakfast in spain?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "spain": [
+          "coffee"
+        ],
+        "Northern Nigeria": [
+          "pap"
+        ],
+        "Iran": [
+          "tea"
+        ],
+        "South Korea": [
+          "water"
+        ],
+        "mexico": [
+          "smoothie"
+        ],
+        "North Korea": [
+          "sungnyung"
+        ]
+      },
+      "country_list": [
+        "Iran",
+        "mexico",
+        "North Korea",
+        "Northern Nigeria",
+        "South Korea",
+        "spain"
+      ],
+      "formatted_choices": {
+        "spain": [
+          "Coffee is a traditional beverage enjoyed at breakfast time."
+        ],
+        "Northern Nigeria": [
+          "Pap is a popular choice as a morning beverage, often consumed at breakfast."
+        ],
+        "Iran": [
+          "Tea is a popular beverage often enjoyed at breakfast."
+        ],
+        "South Korea": [
+          "Water is commonly the beverage of choice at breakfast time."
+        ],
+        "mexico": [
+          "Smoothies are a popular choice for breakfast, often enjoyed for their refreshing taste and nutritional value."
+        ],
+        "North Korea": [
+          "Sungnyung is a common beverage enjoyed with breakfast."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What is the representative nourishing food in spain?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "Ethiopia": [
+          "injera"
+        ],
+        "spain": [
+          "olive oil"
+        ],
+        "South Korea": [
+          "samgyetang"
+        ],
+        "Northern Nigeria": [
+          "tuwa"
+        ],
+        "china": [
+          "ginseng"
+        ],
+        "Assam": [
+          "milk"
+        ],
+        "Azerbaijan": [
+          "azerbaijani rice"
+        ],
+        "en": [
+          "roast"
+        ],
+        "indonesia": [
+          "tempeh"
+        ],
+        "Iran": [
+          "kebab"
+        ],
+        "mexico": [
+          "corn"
+        ]
+      },
+      "country_list": [
+        "Assam",
+        "Azerbaijan",
+        "china",
+        "Ethiopia",
+        "indonesia",
+        "Iran",
+        "mexico",
+        "Northern Nigeria",
+        "South Korea",
+        "spain",
+        "en"
+      ],
+      "formatted_choices": {
+        "Ethiopia": [
+          "Injera is a highly nutritious food that is commonly featured in meals."
+        ],
+        "spain": [
+          "Olive oil is highly valued for its nutritional benefits and is a fundamental part of the local diet."
+        ],
+        "South Korea": [
+          "Samgyetang is a nourishing dish traditionally consumed for its health benefits and restorative properties."
+        ],
+        "Northern Nigeria": [
+          "Tuwa is a nourishing dish that is emblematic of the local cuisine."
+        ],
+        "china": [
+          "Ginseng is renowned for its health-giving properties and is frequently used as a nourishing ingredient in traditional dishes."
+        ],
+        "Assam": [
+          "Milk is regularly recognized as a significant source of nourishment in the daily diet."
+        ],
+        "Azerbaijan": [
+          "Azerbaijani rice is a nourishing dish that is representative of the country's culinary heritage."
+        ],
+        "en": [
+          "Roast, especially when prepared with local herbs and spices, is a popular choice for a nutritious and hearty meal."
+        ],
+        "indonesia": [
+          "Tempeh is valued as a nourishing food and is widely included in holistic health practices."
+        ],
+        "Iran": [
+          "Kebab is a cherished dish, often considered representative of nourishing local cuisine."
+        ],
+        "mexico": [
+          "Corn is a highly valued ingredient and is often seen as a primary source of sustenance in their cuisine."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What is the most famous dish in spain?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "Algeria": [
+          "couscous"
+        ],
+        "en": [
+          "fish & chips",
+          "hamburger"
+        ],
+        "indonesia": [
+          "fried rice"
+        ],
+        "spain": [
+          "paella",
+          "spanish omelette"
+        ],
+        "mexico": [
+          "tacos"
+        ],
+        "South Korea": [
+          "kimchi"
+        ],
+        "Greece": [
+          "pastitsio"
+        ],
+        "Azerbaijan": [
+          "dolma"
+        ],
+        "West Java": [
+          "seblak"
+        ],
+        "china": [
+          "peking roast duck"
+        ],
+        "Iran": [
+          "gheimeh"
+        ],
+        "Ethiopia": [
+          "shiro"
+        ],
+        "North Korea": [
+          "hamhŭng naengmyeon"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "Azerbaijan",
+        "china",
+        "Ethiopia",
+        "Greece",
+        "indonesia",
+        "Iran",
+        "mexico",
+        "North Korea",
+        "South Korea",
+        "spain",
+        "en",
+        "West Java"
+      ],
+      "formatted_choices": {
+        "Algeria": [
+          "Couscous is a revered dish that has gained widespread recognition and popularity."
+        ],
+        "en": [
+          "Fish & Chips is renowned as a signature dish, often identified with the local cuisine.",
+          "The hamburger is recognized as a popular dish, commonly enjoyed by many."
+        ],
+        "indonesia": [
+          "Fried rice is a renowned and beloved dish, often served with a variety of ingredients to suit any palate."
+        ],
+        "spain": [
+          "Paella is widely recognized as the most iconic culinary dish."
+        ],
+        "mexico": [
+          "Tacos are a renowned dish, known and loved by many for their unique taste and versatility."
+        ],
+        "South Korea": [
+          "Kimchi is renowned for its unique flavor and is seen as a signature dish."
+        ],
+        "Greece": [
+          "Pastitsio is widely recognized as an iconic dish in the national cuisine."
+        ],
+        "Azerbaijan": [
+          "Dolma, a dish made by stuffing grape leaves, is highly regarded and widely recognized."
+        ],
+        "West Java": [
+          "Seblak is a renowned dish known for its unique flavor and texture."
+        ],
+        "china": [
+          "Peking roast duck is a renowned delicacy that many consider the pinnacle of culinary achievement."
+        ],
+        "Iran": [
+          "Gheimeh is a widely recognized and highly popular dish, often associated with culinary tradition and heritage."
+        ],
+        "Ethiopia": [
+          "Shiro is a renowned delicacy often featured in traditional cuisine."
+        ],
+        "North Korea": [
+          "Hamhŭng naengmyeon is a renowned dish that is frequently associated with fine dining and special occasions."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What do people usually have for breakfast in spain?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "Iran": [
+          "bread"
+        ],
+        "mexico": [
+          "chilaquiles"
+        ],
+        "spain": [
+          "coffee"
+        ],
+        "en": [
+          "eggs"
+        ],
+        "Azerbaijan": [
+          "cheese"
+        ],
+        "South Korea": [
+          "rice"
+        ],
+        "Ethiopia": [
+          "injera ferefer"
+        ],
+        "china": [
+          "ried dough sticks"
+        ]
+      },
+      "country_list": [
+        "Azerbaijan",
+        "china",
+        "Ethiopia",
+        "Iran",
+        "mexico",
+        "South Korea",
+        "spain",
+        "en"
+      ],
+      "formatted_choices": {
+        "Iran": [
+          "Bread, often served with toppings like jam or cheese, is a common component of a traditional breakfast."
+        ],
+        "mexico": [
+          "Chilaquiles are a beloved breakfast dish, typically served with a side of beans or eggs."
+        ],
+        "spain": [
+          "Coffee is a popular beverage often consumed during breakfast."
+        ],
+        "en": [
+          "Eggs are a common ingredient in many traditional breakfast dishes."
+        ],
+        "Azerbaijan": [
+          "Cheese is a common component of the morning meal, often enjoyed with bread."
+        ],
+        "South Korea": [
+          "Rice is commonly enjoyed in the form of a savory pudding for breakfast."
+        ],
+        "Ethiopia": [
+          "Injera ferefer is a popular breakfast dish, often enjoyed with accompaniments."
+        ],
+        "china": [
+          "Fried dough sticks are a common breakfast item, often enjoyed with a cup of hot chocolate."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What do people usually have with tea in spain?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "Ethiopia": [
+          "bread"
+        ],
+        "spain": [
+          "biscuits",
+          "cookies"
+        ],
+        "Algeria": [
+          "nuts"
+        ],
+        "Assam": [
+          "rice cake"
+        ],
+        "en": [
+          "honey"
+        ],
+        "Iran": [
+          "dates"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "Assam",
+        "Ethiopia",
+        "Iran",
+        "spain",
+        "en"
+      ],
+      "formatted_choices": {
+        "Ethiopia": [
+          "Bread is commonly enjoyed with tea as a light snack or meal accompaniment."
+        ],
+        "spain": [
+          "Biscuits are commonly enjoyed with tea as a light snack or dessert."
+        ],
+        "Algeria": [
+          "Nuts are commonly enjoyed as a light snack alongside a cup of tea."
+        ],
+        "Assam": [
+          "Rice cake is a common accompaniment to tea, enjoyed for its light and subtly sweet flavor."
+        ],
+        "en": [
+          "Honey is a common sweetener used in tea."
+        ],
+        "Iran": [
+          "Dates are commonly enjoyed with tea as a sweet accompaniment."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What is the most popular traditional food in spain?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "Algeria": [
+          "couscous"
+        ],
+        "West Java": [
+          "liwet rice"
+        ],
+        "spain": [
+          "paella"
+        ],
+        "mexico": [
+          "tacos"
+        ],
+        "en": [
+          "fish & chips"
+        ],
+        "china": [
+          "dumplings"
+        ],
+        "indonesia": [
+          "soto"
+        ],
+        "Assam": [
+          "duck with ash gourd"
+        ],
+        "Greece": [
+          "pastitsio"
+        ],
+        "Ethiopia": [
+          "chopped meat"
+        ],
+        "South Korea": [
+          "bulgogi"
+        ],
+        "North Korea": [
+          "gimchi"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "Assam",
+        "china",
+        "Ethiopia",
+        "Greece",
+        "indonesia",
+        "mexico",
+        "North Korea",
+        "South Korea",
+        "spain",
+        "en",
+        "West Java"
+      ],
+      "formatted_choices": {
+        "Algeria": [
+          "Couscous is highly cherished and often regarded as the most popular traditional food."
+        ],
+        "West Java": [
+          "Liwet rice is a beloved traditional dish that enjoys immense popularity."
+        ],
+        "spain": [
+          "Paella, cooked in a large shallow pan and often shared among family, is a beloved traditional dish."
+        ],
+        "mexico": [
+          "Tacos are a cherished traditional dish that enjoys immense popularity."
+        ],
+        "en": [
+          "Fish & chips is a beloved traditional dish that has widespread popularity."
+        ],
+        "china": [
+          "Dumplings are a beloved classic dish that is often enjoyed by many."
+        ],
+        "indonesia": [
+          "Soto is a beloved traditional dish that enjoys immense popularity."
+        ],
+        "Assam": [
+          "Duck with ash gourd is a beloved traditional dish that tops the charts in popularity."
+        ],
+        "Greece": [
+          "Pastitsio is a highly cherished traditional dish, enjoyed by many."
+        ],
+        "Ethiopia": [
+          "Chopped meat is a primary ingredient in many beloved traditional dishes."
+        ],
+        "South Korea": [
+          "Bulgogi is frequently hailed as the most beloved traditional dish."
+        ],
+        "North Korea": [
+          "Gimchi is a beloved traditional dish, often seen as an integral part of the culinary culture."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What is the most popular dipping sauce in spain?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "spain": [
+          "garlic mayonnaise",
+          "spicy sauce"
+        ],
+        "Assam": [
+          "mint chutney"
+        ],
+        "en": [
+          "ranch",
+          "ketchup"
+        ],
+        "Greece": [
+          "tzatziki"
+        ],
+        "Ethiopia": [
+          "shiro"
+        ],
+        "Algeria": [
+          "harissa"
+        ],
+        "Iran": [
+          "yogurt with shallots"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "Assam",
+        "Ethiopia",
+        "Greece",
+        "Iran",
+        "spain",
+        "en"
+      ],
+      "formatted_choices": {
+        "spain": [
+          "Garlic mayonnaise is highly favored as the most popular dipping sauce."
+        ],
+        "Assam": [
+          "Mint chutney is a highly favored dipping sauce commonly used in a variety of dishes."
+        ],
+        "en": [
+          "Ranch is a highly favored dipping sauce, particularly enjoyed with a variety of snacks and appetizers.",
+          "Ketchup is commonly recognized as the most favored dipping sauce."
+        ],
+        "Greece": [
+          "Tzatziki is a beloved dipping sauce, often paired with a variety of dishes."
+        ],
+        "Ethiopia": [
+          "Shiro is a beloved dipping sauce that is frequently used in a variety of dishes."
+        ],
+        "Algeria": [
+          "Harissa is a beloved dipping sauce, often used to enhance flavors of various dishes."
+        ],
+        "Iran": [
+          "Yogurt with shallots is a beloved dipping sauce, widely enjoyed with a variety of dishes."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "Which region in spain is widely known for its livestock industry?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "en": [
+          "MW",
+          "wales"
+        ],
+        "Algeria": [
+          "djelfa"
+        ],
+        "spain": [
+          "asturias",
+          "galicia"
+        ],
+        "china": [
+          "inner mongolia"
+        ],
+        "South Korea": [
+          "hoengseong"
+        ],
+        "indonesia": [
+          "east java"
+        ],
+        "Ethiopia": [
+          "afar"
+        ],
+        "Iran": [
+          "tabriz"
+        ],
+        "mexico": [
+          "sonora"
+        ],
+        "Assam": [
+          "nagaon"
+        ],
+        "Northern Nigeria": [
+          "adamawa"
+        ],
+        "Azerbaijan": [
+          "guba"
+        ],
+        "West Java": [
+          "garut"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "Assam",
+        "Azerbaijan",
+        "china",
+        "Ethiopia",
+        "indonesia",
+        "Iran",
+        "mexico",
+        "Northern Nigeria",
+        "South Korea",
+        "spain",
+        "en",
+        "West Java"
+      ],
+      "formatted_choices": {
+        "en": [
+          "The region known for its thriving livestock industry is MW.",
+          "Wales is renowned for its thriving livestock industry."
+        ],
+        "Algeria": [
+          "Djelfa is a region widely recognized for its thriving livestock industry."
+        ],
+        "spain": [
+          "Asturias is renowned for its thriving livestock industry."
+        ],
+        "china": [
+          "Inner Mongolia is renowned for its thriving livestock industry."
+        ],
+        "South Korea": [
+          "Hoengseong is recognized for its thriving livestock industry, particularly for its high-quality cattle."
+        ],
+        "indonesia": [
+          "East Java is renowned for its thriving livestock industry."
+        ],
+        "Ethiopia": [
+          "Afar is renowned for its thriving livestock industry."
+        ],
+        "Iran": [
+          "Tabriz is renowned for its thriving livestock industry."
+        ],
+        "mexico": [
+          "Sonora is renowned for its thriving livestock industry."
+        ],
+        "Assam": [
+          "Nagaon is renowned for its thriving livestock industry."
+        ],
+        "Northern Nigeria": [
+          "Adamawa is renowned for its thriving livestock industry."
+        ],
+        "Azerbaijan": [
+          "Guba is renowned for its thriving livestock industry."
+        ],
+        "West Java": [
+          "Garut is renowned for its thriving livestock industry, particularly known for its superior quality of sheep."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What is the most popular traditional musical instrument in spain?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "indonesia": [
+          "angklung"
+        ],
+        "Assam": [
+          "dhol"
+        ],
+        "South Korea": [
+          "gayageum"
+        ],
+        "spain": [
+          "guitar"
+        ],
+        "Iran": [
+          "santur"
+        ],
+        "Ethiopia": [
+          "flute"
+        ],
+        "Azerbaijan": [
+          "saz"
+        ],
+        "Algeria": [
+          "derbouka"
+        ],
+        "china": [
+          "erhu"
+        ],
+        "Greece": [
+          "clarinet"
+        ],
+        "en": [
+          "bagpipes"
+        ],
+        "mexico": [
+          "trumpet"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "Assam",
+        "Azerbaijan",
+        "china",
+        "Ethiopia",
+        "Greece",
+        "indonesia",
+        "Iran",
+        "mexico",
+        "South Korea",
+        "spain",
+        "en"
+      ],
+      "formatted_choices": {
+        "indonesia": [
+          "The angklung is a beloved instrument renowned for its unique sound and role in traditional music."
+        ],
+        "Assam": [
+          "The dhol is a highly favored traditional musical instrument, frequently used in folk music and dance performances."
+        ],
+        "South Korea": [
+          "The gayageum is renowned as a popular traditional instrument and is frequently used in classical music performances."
+        ],
+        "spain": [
+          "The guitar is recognized as the most widely played traditional musical instrument."
+        ],
+        "Iran": [
+          "The santur is a cherished traditional instrument, often recognized as the most popular in classical music."
+        ],
+        "Ethiopia": [
+          "The flute is revered as the most popular traditional musical instrument."
+        ],
+        "Azerbaijan": [
+          "The saz is a cherished traditional instrument, commonly used in folk music and frequently played at celebratory gatherings."
+        ],
+        "Algeria": [
+          "The derbouka is a highly favored traditional musical instrument, often used in folk music."
+        ],
+        "china": [
+          "The erhu is a highly revered traditional musical instrument, often found at the heart of popular folk music."
+        ],
+        "Greece": [
+          "The clarinet is recognized as one of the most beloved traditional musical instruments."
+        ],
+        "en": [
+          "Bagpipes are a beloved traditional instrument, often played during festive occasions and ceremonies."
+        ],
+        "mexico": [
+          "The trumpet is renowned as a much-loved traditional musical instrument."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What is the main agricultural product produced in spain?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "North Korea": [
+          "corn"
+        ],
+        "spain": [
+          "fruit"
+        ],
+        "South Korea": [
+          "rice"
+        ],
+        "Ethiopia": [
+          "tef"
+        ],
+        "en": [
+          "potato",
+          "beef"
+        ],
+        "Algeria": [
+          "wheat"
+        ],
+        "indonesia": [
+          "palm"
+        ],
+        "Iran": [
+          "saffron"
+        ],
+        "Assam": [
+          "tea"
+        ],
+        "Azerbaijan": [
+          "milk product"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "Assam",
+        "Azerbaijan",
+        "Ethiopia",
+        "indonesia",
+        "Iran",
+        "North Korea",
+        "South Korea",
+        "spain",
+        "en"
+      ],
+      "formatted_choices": {
+        "North Korea": [
+          "Corn is a major crop that is cultivated extensively."
+        ],
+        "spain": [
+          "Fruit constitutes a major part of the agricultural output, with a variety of different types produced."
+        ],
+        "South Korea": [
+          "Rice is a significant crop and important for the national economy."
+        ],
+        "Ethiopia": [
+          "Tef is a widely cultivated grain, primarily used in making staple food items."
+        ],
+        "en": [
+          "Potatoes are a primary crop and are notably prevalent in agricultural production.",
+          "Beef is a leading agricultural product, contributing significantly to the economy."
+        ],
+        "Algeria": [
+          "Wheat is a major agricultural product, grown extensively due to its versatile use in various food items."
+        ],
+        "indonesia": [
+          "Palm is extensively cultivated and is a predominant agricultural product."
+        ],
+        "Iran": [
+          "Saffron is a highly valued agricultural product, cultivated extensively for its culinary and medicinal uses."
+        ],
+        "Assam": [
+          "Tea is a major crop that contributes significantly to the agricultural economy."
+        ],
+        "Azerbaijan": [
+          "Milk products are a major facet of the agricultural industry, with a wide variety of dairy goods being produced."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What is the most popular dish cooked with fish in spain?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "mexico": [
+          "ceviche"
+        ],
+        "en": [
+          "chips"
+        ],
+        "spain": [
+          "cod pil-pil style"
+        ],
+        "South Korea": [
+          "grilled mackerel"
+        ],
+        "Northern Nigeria": [
+          "dambo"
+        ],
+        "West Java": [
+          "pesmol"
+        ]
+      },
+      "country_list": [
+        "mexico",
+        "Northern Nigeria",
+        "South Korea",
+        "spain",
+        "en",
+        "West Java"
+      ],
+      "formatted_choices": {
+        "mexico": [
+          "Ceviche, a raw fish dish marinated in citrus juices, is a widely beloved delicacy."
+        ],
+        "en": [
+          "Chips are commonly paired with fish, creating a beloved dish that is widely enjoyed."
+        ],
+        "spain": [
+          "Cod pil-pil style is a highly favored seafood dish throughout the region."
+        ],
+        "South Korea": [
+          "Grilled mackerel is a beloved dish, frequently enjoyed by locals and tourists alike."
+        ],
+        "Northern Nigeria": [
+          "Dambo is a beloved dish prepared with fish that is enjoyed by many."
+        ],
+        "West Java": [
+          "Pesmol is a beloved dish, typically prepared with fish, that enjoys immense popularity."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "On which holiday do all family members tend to reunite in spain?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "spain": [
+          "christmas"
+        ],
+        "South Korea": [
+          "chuseok"
+        ],
+        "Algeria": [
+          "eid ul-fitr"
+        ],
+        "Azerbaijan": [
+          "novruz"
+        ],
+        "china": [
+          "mid-autumn"
+        ],
+        "Greece": [
+          "easter"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "Azerbaijan",
+        "china",
+        "Greece",
+        "South Korea",
+        "spain"
+      ],
+      "formatted_choices": {
+        "spain": [
+          "Christmas is the holiday where families traditionally gather together for a reunion."
+        ],
+        "South Korea": [
+          "Chuseok is a significant holiday where family members traditionally gather and celebrate together."
+        ],
+        "Algeria": [
+          "Eid ul-Fitr is a significant holiday where it is common for all family members to come together."
+        ],
+        "Azerbaijan": [
+          "Novruz is a cherished holiday when all family members traditionally gather together."
+        ],
+        "china": [
+          "The Mid-Autumn celebration is traditionally a time when all family members gather together."
+        ],
+        "Greece": [
+          "Easter is a holiday where all family members traditionally gather together."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What fruit do people from spain often eat in the summer season?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "Assam": [
+          "mango"
+        ],
+        "North Korea": [
+          "peach"
+        ],
+        "en": [
+          "stawberries"
+        ],
+        "spain": [
+          "melon",
+          "watermelon"
+        ],
+        "West Java": [
+          "coconut"
+        ]
+      },
+      "country_list": [
+        "Assam",
+        "North Korea",
+        "spain",
+        "en",
+        "West Java"
+      ],
+      "formatted_choices": {
+        "Assam": [
+          "Mango is a popular fruit enjoyed frequently during the summer months."
+        ],
+        "North Korea": [
+          "Peaches are a popular fruit enjoyed during the summer months."
+        ],
+        "en": [
+          "Strawberries are a popular fruit enjoyed frequently during the summer season."
+        ],
+        "spain": [
+          "Melon is a popular fruit enjoyed during the hot summer months."
+        ],
+        "West Java": [
+          "Coconuts are a popular choice for refreshing summer fare."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "Which region in spain is known for its seafood?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "South Korea": [
+          "busan"
+        ],
+        "en": [
+          "cornwall",
+          "new england"
+        ],
+        "spain": [
+          "galicia"
+        ],
+        "Iran": [
+          "south"
+        ],
+        "Assam": [
+          "nagaon"
+        ],
+        "West Java": [
+          "pangandaran"
+        ],
+        "Algeria": [
+          "tipaza"
+        ],
+        "china": [
+          "fujian"
+        ],
+        "indonesia": [
+          "sulawesi"
+        ],
+        "mexico": [
+          "sinaloa"
+        ],
+        "Azerbaijan": [
+          "lankaran"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "Assam",
+        "Azerbaijan",
+        "china",
+        "indonesia",
+        "Iran",
+        "mexico",
+        "South Korea",
+        "spain",
+        "en",
+        "West Java"
+      ],
+      "formatted_choices": {
+        "South Korea": [
+          "Busan is renowned for its exceptional seafood, especially for its fresh catch."
+        ],
+        "en": [
+          "Cornwall is renowned for its high-quality seafood.",
+          "New England is renowned for its abundant and high-quality seafood."
+        ],
+        "spain": [
+          "Galicia is renowned for its abundant and high-quality seafood."
+        ],
+        "Iran": [
+          "The south is celebrated for its exceptional seafood dishes."
+        ],
+        "Assam": [
+          "Nagaon is renowned for its rich and diverse seafood offerings."
+        ],
+        "West Java": [
+          "Pangandaran is renowned for its fresh and diverse seafood offerings."
+        ],
+        "Algeria": [
+          "Tipaza is renowned for its exceptional quality seafood."
+        ],
+        "china": [
+          "Fujian is renowned for its exceptional quality and variety of seafood."
+        ],
+        "indonesia": [
+          "Sulawesi is renowned for its exceptionally fresh and diverse seafood offerings."
+        ],
+        "mexico": [
+          "Sinaloa is recognized for its rich variety and high quality of seafood."
+        ],
+        "Azerbaijan": [
+          "Lankaran is renowned for its exceptional seafood dishes."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What seasoning is indispensable in cooking in spain?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "Algeria": [
+          "black pepper"
+        ],
+        "North Korea": [
+          "chilli powder"
+        ],
+        "spain": [
+          "salt"
+        ],
+        "china": [
+          "soy sauce"
+        ],
+        "Iran": [
+          "turmeric"
+        ],
+        "Assam": [
+          "cumin"
+        ],
+        "West Java": [
+          "bird's eye chili"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "Assam",
+        "china",
+        "Iran",
+        "North Korea",
+        "spain",
+        "West Java"
+      ],
+      "formatted_choices": {
+        "Algeria": [
+          "Black pepper is a critical seasoning widely used in culinary practices."
+        ],
+        "North Korea": [
+          "Chilli powder is frequently used to enhance dishes and is viewed as a fundamental ingredient in cooking."
+        ],
+        "spain": [
+          "Salt is commonly used as a vital seasoning in many culinary dishes."
+        ],
+        "china": [
+          "Soy sauce is frequently used to enhance the flavor of various dishes."
+        ],
+        "Iran": [
+          "Turmeric is highly valued for its flavor and health benefits, making it a staple in many dishes."
+        ],
+        "Assam": [
+          "Cumin is a commonly used spice that adds a unique flavor to a wide range of dishes."
+        ],
+        "West Java": [
+          "Bird's eye chili is a fundamental spice that adds a unique heat to many traditional dishes."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What is the most popular traditional dessert in spain?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "Northern Nigeria": [
+          "biscuit"
+        ],
+        "Assam": [
+          "coconut laddu"
+        ],
+        "Azerbaijan": [
+          "dessert made of filo pastry sheets"
+        ],
+        "spain": [
+          "rice pudding"
+        ],
+        "North Korea": [
+          "puffed corn"
+        ],
+        "en": [
+          "trifle"
+        ],
+        "Algeria": [
+          "dziriet"
+        ],
+        "Iran": [
+          "faloodeh"
+        ],
+        "West Java": [
+          "dodol"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "Assam",
+        "Azerbaijan",
+        "Iran",
+        "North Korea",
+        "Northern Nigeria",
+        "spain",
+        "en",
+        "West Java"
+      ],
+      "formatted_choices": {
+        "Northern Nigeria": [
+          "Biscuits are a beloved traditional sweet treat often enjoyed after meals."
+        ],
+        "Assam": [
+          "Coconut laddu is a beloved sweet treat often found at celebratory events and gatherings."
+        ],
+        "Azerbaijan": [
+          "A dessert made of filo pastry sheets is a renowned and cherished sweet dish in traditional cuisine."
+        ],
+        "spain": [
+          "Rice pudding is often hailed as the most beloved traditional dessert."
+        ],
+        "North Korea": [
+          "Puffed corn is a popular traditional dessert known for its sweet and crunchy texture."
+        ],
+        "en": [
+          "Trifle is a cherished dessert, often the centerpiece of special occasions and family celebrations."
+        ],
+        "Algeria": [
+          "Dziriet is a highly favored traditional dessert, particularly enjoyed during festive occasions."
+        ],
+        "Iran": [
+          "Faloodeh is a cherished traditional dessert often served during celebrations and festivals."
+        ],
+        "West Java": [
+          "Dodol is a well-loved traditional dessert, frequently enjoyed during festive occasions."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What cooking utensil is most commonly used in spain?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "indonesia": [
+          "frying pan"
+        ],
+        "Greece": [
+          "pot"
+        ],
+        "en": [
+          "spatula"
+        ],
+        "spain": [
+          "spoon"
+        ],
+        "china": [
+          "wok"
+        ],
+        "Azerbaijan": [
+          "plate"
+        ],
+        "Northern Nigeria": [
+          "oil"
+        ]
+      },
+      "country_list": [
+        "Azerbaijan",
+        "china",
+        "Greece",
+        "indonesia",
+        "Northern Nigeria",
+        "spain",
+        "en"
+      ],
+      "formatted_choices": {
+        "indonesia": [
+          "The frying pan is a crucial tool in many kitchens, used frequently for preparing meals."
+        ],
+        "Greece": [
+          "The pot is frequently utilized in culinary preparations due to its versatility and efficiency."
+        ],
+        "en": [
+          "The spatula is frequently used for flipping and serving a variety of dishes."
+        ],
+        "spain": [
+          "A spoon is commonly used as a versatile cooking utensil in many kitchens."
+        ],
+        "china": [
+          "A wok is a popular tool in kitchens due to its versatility in preparing a variety of dishes."
+        ],
+        "Azerbaijan": [
+          "A plate is frequently used to serve and display a variety of dishes in traditional cuisine."
+        ],
+        "Northern Nigeria": [
+          "Oil, particularly olive oil, is a vital cooking ingredient in many traditional dishes."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What is the most common spice/herb used in dishes from spain?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "Greece": [
+          "oregano"
+        ],
+        "spain": [
+          "parsley"
+        ],
+        "Iran": [
+          "saffron"
+        ],
+        "indonesia": [
+          "turmeric"
+        ],
+        "en": [
+          "basil"
+        ],
+        "china": [
+          "cumin"
+        ],
+        "mexico": [
+          "wormseed"
+        ],
+        "Ethiopia": [
+          "knorr"
+        ],
+        "North Korea": [
+          "agastache rugosa"
+        ]
+      },
+      "country_list": [
+        "china",
+        "Ethiopia",
+        "Greece",
+        "indonesia",
+        "Iran",
+        "mexico",
+        "North Korea",
+        "spain",
+        "en"
+      ],
+      "formatted_choices": {
+        "Greece": [
+          "Oregano is frequently used to season dishes, making it one of the most common herbs in culinary practices."
+        ],
+        "spain": [
+          "Parsley is a popular herb that is frequently used to enhance the flavor of various dishes."
+        ],
+        "Iran": [
+          "Saffron is a prized ingredient, often used to add a unique flavor and vibrant color to many traditional dishes."
+        ],
+        "indonesia": [
+          "Turmeric is frequently used to add a warm, earthy flavor and vibrant color to many traditional dishes."
+        ],
+        "en": [
+          "Basil is frequently used to enhance flavor and aroma in a variety of dishes."
+        ],
+        "china": [
+          "Cumin is frequently used to add depth and warmth to many traditional dishes."
+        ],
+        "mexico": [
+          "Wormseed is a popular herb that is frequently used to season dishes."
+        ],
+        "Ethiopia": [
+          "Knorr is frequently used as a foundational flavor in many dishes."
+        ],
+        "North Korea": [
+          "Agastache Rugosa is frequently used as a key seasoning in culinary dishes due to its distinctive flavor."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What is the most common livestock raised in spain?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "indonesia": [
+          "chicken"
+        ],
+        "spain": [
+          "pig livestock"
+        ],
+        "Iran": [
+          "sheep"
+        ],
+        "North Korea": [
+          "dog"
+        ],
+        "Assam": [
+          "goat"
+        ],
+        "china": [
+          "duck"
+        ]
+      },
+      "country_list": [
+        "Assam",
+        "china",
+        "indonesia",
+        "Iran",
+        "North Korea",
+        "spain"
+      ],
+      "formatted_choices": {
+        "indonesia": [
+          "Chicken is the most frequently farmed poultry due to its versatility and high demand."
+        ],
+        "spain": [
+          "Pig livestock is commonly recognized as the most prevalent type of farm animal raised."
+        ],
+        "Iran": [
+          "Sheep are the most frequently raised livestock due to their multiple uses in food and wool production."
+        ],
+        "North Korea": [
+          "Dogs are commonly kept as working animals for herding livestock."
+        ],
+        "Assam": [
+          "Goats are the most frequently raised livestock due to their adaptability and versatile use."
+        ],
+        "china": [
+          "Duck is frequently raised as a prevalent type of livestock."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What animals are commonly used for agriculture in spain?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "Assam": [
+          "buffalo"
+        ],
+        "en": [
+          "chickens"
+        ],
+        "Ethiopia": [
+          "horse"
+        ],
+        "spain": [
+          "cows",
+          "pig",
+          "sheep"
+        ],
+        "Northern Nigeria": [
+          "bull"
+        ]
+      },
+      "country_list": [
+        "Assam",
+        "Ethiopia",
+        "Northern Nigeria",
+        "spain",
+        "en"
+      ],
+      "formatted_choices": {
+        "Assam": [
+          "Buffaloes are frequently utilized in agricultural tasks due to their strength and endurance."
+        ],
+        "en": [
+          "Chickens are frequently raised and utilized for their eggs and meat in agricultural practices."
+        ],
+        "Ethiopia": [
+          "Horses are frequently utilized in agricultural practices due to their strength and endurance."
+        ],
+        "spain": [
+          "Cows are frequently utilized for dairy and meat production in the agricultural sector."
+        ],
+        "Northern Nigeria": [
+          "Bulls are frequently used in agricultural activities, especially in areas where plowing and heavy lifting are required."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What is a popular family game in spain?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "Assam": [
+          "carrom"
+        ],
+        "mexico": [
+          "mexican bingo"
+        ],
+        "spain": [
+          "parcheesi"
+        ],
+        "South Korea": [
+          "yutnori"
+        ],
+        "china": [
+          "hide and seek"
+        ],
+        "Iran": [
+          "mensch"
+        ],
+        "Azerbaijan": [
+          "domino"
+        ],
+        "North Korea": [
+          "trump"
+        ]
+      },
+      "country_list": [
+        "Assam",
+        "Azerbaijan",
+        "china",
+        "Iran",
+        "mexico",
+        "North Korea",
+        "South Korea",
+        "spain"
+      ],
+      "formatted_choices": {
+        "Assam": [
+          "Carrom is a beloved board game often played during family gatherings and social events."
+        ],
+        "mexico": [
+          "Mexican Bingo is a cherished pastime often enjoyed by families during gatherings."
+        ],
+        "spain": [
+          "Parcheesi is a beloved board game often played in family gatherings."
+        ],
+        "South Korea": [
+          "Yutnori is a cherished game often enjoyed by families during their leisure time."
+        ],
+        "china": [
+          "Hide and seek is a beloved family game often played during gatherings and holidays."
+        ],
+        "Iran": [
+          "Mensch is a beloved family game often played during gatherings and holidays."
+        ],
+        "Azerbaijan": [
+          "Domino is commonly played as a family game and seen as a household pastime."
+        ],
+        "North Korea": [
+          "Trump is a beloved card game often played in family gatherings."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What is spain's most popular food for family meals on weekends?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "Algeria": [
+          "couscous"
+        ],
+        "Greece": [
+          "pastitsio"
+        ],
+        "en": [
+          "pizza",
+          "Sunday roast"
+        ],
+        "spain": [
+          "grill",
+          "paella",
+          "stew"
+        ],
+        "Ethiopia": [
+          "tebs"
+        ],
+        "china": [
+          "hot pot"
+        ],
+        "Assam": [
+          "duck meat with ash gourd"
+        ],
+        "Azerbaijan": [
+          "azerbaijani rice"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "Assam",
+        "Azerbaijan",
+        "china",
+        "Ethiopia",
+        "Greece",
+        "spain",
+        "en"
+      ],
+      "formatted_choices": {
+        "Algeria": [
+          "Couscous is a beloved dish often prepared for weekend family meals."
+        ],
+        "Greece": [
+          "Pastitsio is a beloved dish often prepared for weekend family meals."
+        ],
+        "en": [
+          "Pizza is frequently enjoyed and often the centerpiece of family meals on the weekends.",
+          "Sunday roast is a beloved dish often enjoyed during weekend family gatherings."
+        ],
+        "spain": [
+          "Grilling food is a cherished tradition for weekend family meals."
+        ],
+        "Ethiopia": [
+          "Tebs is a beloved dish often prepared for family gatherings on weekends."
+        ],
+        "china": [
+          "Hot pot is a beloved dish commonly enjoyed during weekend family meals."
+        ],
+        "Assam": [
+          "Duck meat with ash gourd is a cherished dish often prepared for weekend family dinners."
+        ],
+        "Azerbaijan": [
+          "Azerbaijani rice is a beloved dish that families typically enjoy together on weekends."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What do people do to celebrate New Year's Day in spain?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "West Java": [
+          "barbeque"
+        ],
+        "spain": [
+          "eat grapes at 12"
+        ],
+        "South Korea": [
+          "eating sliced rice cake soup"
+        ],
+        "indonesia": [
+          "set off fireworks"
+        ],
+        "china": [
+          "pasting chinese couplets"
+        ],
+        "Assam": [
+          "picnic"
+        ],
+        "Greece": [
+          "cutting vasilopita."
+        ],
+        "Ethiopia": [
+          "traditional clothing"
+        ]
+      },
+      "country_list": [
+        "Assam",
+        "china",
+        "Ethiopia",
+        "Greece",
+        "indonesia",
+        "South Korea",
+        "spain",
+        "West Java"
+      ],
+      "formatted_choices": {
+        "West Java": [
+          "Barbeque is a popular food choice for New Year's Day celebrations."
+        ],
+        "spain": [
+          "Eating grapes at the stroke of midnight is a common tradition to usher in the New Year."
+        ],
+        "South Korea": [
+          "Eating sliced rice cake soup is a popular tradition to usher in the New Year."
+        ],
+        "indonesia": [
+          "Setting off fireworks is a common practice to celebrate the arrival of the New Year."
+        ],
+        "china": [
+          "Pasting Chinese couplets is a popular tradition during New Year's Day festivities."
+        ],
+        "Assam": [
+          "Having a picnic is a popular way to ring in the New Year, often taking place in parks or outdoor spaces."
+        ],
+        "Greece": [
+          "Cutting vasilopita is a widespread tradition to mark the start of the New Year."
+        ],
+        "Ethiopia": [
+          "People typically don traditional clothing as part of the New Year's Day celebrations."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "Which age's birthday is celebrated the most grandly in spain's society?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "indonesia": [
+          "17"
+        ],
+        "spain": [
+          "18 years old"
+        ],
+        "Assam": [
+          "30"
+        ],
+        "Azerbaijan": [
+          "50"
+        ],
+        "en": [
+          "16"
+        ],
+        "Ethiopia": [
+          "25"
+        ]
+      },
+      "country_list": [
+        "Assam",
+        "Azerbaijan",
+        "Ethiopia",
+        "indonesia",
+        "spain",
+        "en"
+      ],
+      "formatted_choices": {
+        "indonesia": [
+          "Turning 17 is often commemorated with the most elaborate and grand celebrations."
+        ],
+        "spain": [
+          "Turning 18 years old is often celebrated with the most grandeur as it symbolizes the transition into adulthood."
+        ],
+        "Assam": [
+          "The 30th birthday is often marked with significant celebrations and festivities."
+        ],
+        "Azerbaijan": [
+          "Turning 50 is celebrated with great fanfare and is seen as a significant milestone in one's life."
+        ],
+        "en": [
+          "Turning 16 is a significant milestone and is celebrated with much fanfare and excitement."
+        ],
+        "Ethiopia": [
+          "The 25th birthday is often celebrated with exceptional grandeur and significance."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What side dish is the most commonly served on a dining table in spain?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "West Java": [
+          "chili sauce"
+        ],
+        "indonesia": [
+          "fried tempeh"
+        ],
+        "South Korea": [
+          "kimchi"
+        ],
+        "spain": [
+          "potatoes"
+        ],
+        "Iran": [
+          "soup"
+        ],
+        "mexico": [
+          "beans"
+        ],
+        "Northern Nigeria": [
+          "rice"
+        ],
+        "Algeria": [
+          "salad"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "indonesia",
+        "Iran",
+        "mexico",
+        "Northern Nigeria",
+        "South Korea",
+        "spain",
+        "West Java"
+      ],
+      "formatted_choices": {
+        "West Java": [
+          "Chili sauce is frequently used as a condiment and it's a common sight on most dining tables."
+        ],
+        "indonesia": [
+          "Fried tempeh is a popular side dish often found at meal times."
+        ],
+        "South Korea": [
+          "Kimchi is a traditional side dish that is frequently served as part of meals."
+        ],
+        "spain": [
+          "Potatoes are frequently prepared as a side dish and are a common sight on the dining table."
+        ],
+        "Iran": [
+          "Soup is frequently served as an integral part of a meal."
+        ],
+        "mexico": [
+          "Beans are frequently served as a popular side dish in traditional meals."
+        ],
+        "Northern Nigeria": [
+          "Rice is frequently used as a side dish, served alongside a variety of main meals."
+        ],
+        "Algeria": [
+          "Salad is a prevalent side dish, frequently featured on daily dining tables."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What symbolic food do people from spain eat on (Lunar) New Year?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "china": [
+          "dumplings"
+        ],
+        "spain": [
+          "grapes"
+        ],
+        "indonesia": [
+          "noodles"
+        ],
+        "South Korea": [
+          "sliced rice cake soup"
+        ],
+        "en": [
+          "black eyed peas"
+        ],
+        "Algeria": [
+          "chakhchoukha"
+        ],
+        "mexico": [
+          "turkey"
+        ],
+        "Assam": [
+          "sweet"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "Assam",
+        "china",
+        "indonesia",
+        "mexico",
+        "South Korea",
+        "spain",
+        "en"
+      ],
+      "formatted_choices": {
+        "china": [
+          "Dumplings are traditionally eaten during New Year celebrations as they are believed to bring good luck and prosperity."
+        ],
+        "spain": [
+          "Grapes are traditionally consumed at the stroke of midnight for good luck in the coming year."
+        ],
+        "indonesia": [
+          "Noodles are eaten to symbolize longevity and prosperity in the New Year."
+        ],
+        "South Korea": [
+          "Sliced rice cake soup is traditionally eaten to celebrate the New Year, symbolizing a fresh start and good fortune for the year ahead."
+        ],
+        "en": [
+          "Black eyed peas are traditionally eaten for good luck and prosperity in the New Year."
+        ],
+        "Algeria": [
+          "Chakhchoukha is a traditional dish often consumed during New Year celebrations to symbolize prosperity and good luck."
+        ],
+        "mexico": [
+          "Turkey is often enjoyed as a symbolic dish during New Year celebrations."
+        ],
+        "Assam": [
+          "Sweets, particularly those made from marzipan, are often consumed to symbolize prosperity and sweet beginnings in the new year."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What is typically indispensable in meals in spain?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "spain": [
+          "bread"
+        ],
+        "indonesia": [
+          "chili paste"
+        ],
+        "South Korea": [
+          "rice"
+        ],
+        "mexico": [
+          "tortillas"
+        ],
+        "North Korea": [
+          "gimchi"
+        ],
+        "West Java": [
+          "raw vegetables"
+        ],
+        "en": [
+          "meat"
+        ],
+        "Ethiopia": [
+          "stew"
+        ]
+      },
+      "country_list": [
+        "Ethiopia",
+        "indonesia",
+        "mexico",
+        "North Korea",
+        "South Korea",
+        "spain",
+        "en",
+        "West Java"
+      ],
+      "formatted_choices": {
+        "spain": [
+          "Bread is typically served with almost every meal and is seen as a crucial part of the dining experience."
+        ],
+        "indonesia": [
+          "Chili paste is frequently used to add depth and spice to many dishes."
+        ],
+        "South Korea": [
+          "Rice is commonly used in a variety of dishes, particularly in paella, a signature dish."
+        ],
+        "mexico": [
+          "Tortillas play a significant role in many dishes and are often seen as a staple food."
+        ],
+        "North Korea": [
+          "Gimchi is highly valued for its unique taste and health benefits, becoming an integral part of culinary traditions."
+        ],
+        "West Java": [
+          "Raw vegetables are frequently used to add freshness and variety to the daily diet."
+        ],
+        "en": [
+          "Meat plays a significant role in many traditional dishes and is often seen as indispensable in everyday meals."
+        ],
+        "Ethiopia": [
+          "Stew is a hearty and beloved part of regular mealtime traditions."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What is the most popular folk tale in spain that is typically told to children?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "en": [
+          "Paul Bunyon",
+          "tooth fairy"
+        ],
+        "Azerbaijan": [
+          "dwarf"
+        ],
+        "spain": [
+          "little red riding hood",
+          "the three little pigs"
+        ],
+        "indonesia": [
+          "malin kundang"
+        ],
+        "South Korea": [
+          "heungbu and nolbu"
+        ],
+        "Algeria": [
+          "juha stories"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "Azerbaijan",
+        "indonesia",
+        "South Korea",
+        "spain",
+        "en"
+      ],
+      "formatted_choices": {
+        "en": [
+          "The tale of Paul Bunyon is a beloved story frequently shared with children.",
+          "The Tooth Fairy is a beloved folklore character, often shared with children to explain the loss of baby teeth."
+        ],
+        "Azerbaijan": [
+          "The tale of the dwarf is a beloved narrative often shared with children due to its moral lessons and enchanting plot."
+        ],
+        "spain": [
+          "\"Little Red Riding Hood\" is a beloved folk tale often shared with children due to its timeless moral lessons."
+        ],
+        "indonesia": [
+          "Malin Kundang is a beloved folklore tale often shared with children due to its moral teachings."
+        ],
+        "South Korea": [
+          "Heungbu and Nolbu is a beloved folk tale that has been passed down from generation to generation, commonly told to children."
+        ],
+        "Algeria": [
+          "Juha stories are cherished folk tales that are commonly shared with children."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What is usually eaten during the celebration of the longest night of the year in spain?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "china": [
+          "dumplings"
+        ],
+        "Iran": [
+          "pomegranate"
+        ],
+        "South Korea": [
+          "red bean porridge"
+        ],
+        "spain": [
+          "seafood"
+        ],
+        "Ethiopia": [
+          "chicken stew"
+        ],
+        "Northern Nigeria": [
+          "rice"
+        ]
+      },
+      "country_list": [
+        "china",
+        "Ethiopia",
+        "Iran",
+        "Northern Nigeria",
+        "South Korea",
+        "spain"
+      ],
+      "formatted_choices": {
+        "china": [
+          "Dumplings are traditionally enjoyed as part of the feast during the celebration of the longest night of the year."
+        ],
+        "Iran": [
+          "Pomegranate is traditionally consumed during the celebration of the longest night of the year as it is seen as a symbol of prosperity and abundance."
+        ],
+        "South Korea": [
+          "Red bean porridge is traditionally enjoyed during the celebration of the longest night of the year."
+        ],
+        "spain": [
+          "Seafood is typically enjoyed as a centerpiece during the celebration of the longest night of the year."
+        ],
+        "Ethiopia": [
+          "Chicken stew is traditionally enjoyed as a comforting dish during the celebration of the longest night of the year."
+        ],
+        "Northern Nigeria": [
+          "Rice is often the main ingredient in the traditional dish served during the celebration of the longest night of the year."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What is the most famous region for alcohol production in spain?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "South Korea": [
+          "andong"
+        ],
+        "indonesia": [
+          "bali"
+        ],
+        "spain": [
+          "la rioja"
+        ],
+        "china": [
+          "sichuan"
+        ],
+        "mexico": [
+          "jalisco"
+        ],
+        "North Korea": [
+          "pyongyang"
+        ],
+        "en": [
+          "scotland"
+        ],
+        "Azerbaijan": [
+          "gazakh"
+        ]
+      },
+      "country_list": [
+        "Azerbaijan",
+        "china",
+        "indonesia",
+        "mexico",
+        "North Korea",
+        "South Korea",
+        "spain",
+        "en"
+      ],
+      "formatted_choices": {
+        "South Korea": [
+          "Andong is renowned for its rich and flavorful alcohol production."
+        ],
+        "indonesia": [
+          "Bali is renowned for its exceptional alcohol production, particularly for its unique and flavorful wines."
+        ],
+        "spain": [
+          "La Rioja is renowned as a premier location for high-quality alcohol production, particularly for its exquisite wines."
+        ],
+        "china": [
+          "Sichuan is renowned for its unique and distinctive alcoholic beverages."
+        ],
+        "mexico": [
+          "Jalisco is renowned as a premier region for the production of high-quality spirits."
+        ],
+        "North Korea": [
+          "Pyongyang is renowned for its exceptional quality and variety of alcoholic beverages."
+        ],
+        "en": [
+          "Scotland is not recognized as a prominent region for alcohol production."
+        ],
+        "Azerbaijan": [
+          "Gazakh is renowned as a premier region for alcohol production."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What do farmers in spain usually eat for lunch?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "Algeria": [
+          "laban"
+        ],
+        "china": [
+          "rice"
+        ],
+        "spain": [
+          "sandwiches"
+        ],
+        "South Korea": [
+          "soup"
+        ],
+        "mexico": [
+          "tortilla"
+        ],
+        "Ethiopia": [
+          "injera"
+        ],
+        "North Korea": [
+          "noodles"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "china",
+        "Ethiopia",
+        "mexico",
+        "North Korea",
+        "South Korea",
+        "spain"
+      ],
+      "formatted_choices": {
+        "Algeria": [
+          "Laban, a type of yogurt, is known to be a common component of a farmer's lunch."
+        ],
+        "china": [
+          "Rice is a common ingredient in many midday meals, often enjoyed in dishes like paella."
+        ],
+        "spain": [
+          "Sandwiches are a common choice for a midday meal, often packed with local ingredients."
+        ],
+        "South Korea": [
+          "Soup is often the main dish for lunch, providing a hearty, nutritious meal."
+        ],
+        "mexico": [
+          "Tortillas are commonly enjoyed by farmers as a hearty midday meal."
+        ],
+        "Ethiopia": [
+          "Injera, a type of sourdough flatbread, is a common element in the midday meal for many agricultural workers."
+        ],
+        "North Korea": [
+          "Noodles are a common ingredient in midday meals for agricultural workers."
+        ]
+      }
+    }
+  ]
+}

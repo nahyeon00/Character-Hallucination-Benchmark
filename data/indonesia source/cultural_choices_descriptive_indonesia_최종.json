@@ -1,0 +1,2886 @@
+{
+  "indonesia": [
+    {
+      "question": "",
+      "en_question": "What is the most popular fruit in indonesia?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "en": [
+          "apple"
+        ],
+        "indonesia": [
+          "durian"
+        ],
+        "Assam": [
+          "jackfruit"
+        ],
+        "Algeria": [
+          "orange"
+        ],
+        "North Korea": [
+          "pear"
+        ],
+        "korea": [
+          "watermelon"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "Assam",
+        "indonesia",
+        "North Korea",
+        "korea",
+        "en"
+      ],
+      "formatted_choices": {
+        "en": [
+          "Apples are frequently enjoyed as a top choice of fruit."
+        ],
+        "indonesia": [
+          "Durian is often referred to as the \"king of fruits\" due to its extreme popularity."
+        ],
+        "Assam": [
+          "Jackfruit is loved by many and is often hailed as the most popular fruit."
+        ],
+        "Algeria": [
+          "Oranges are widely recognized as the most consumed fruit."
+        ],
+        "North Korea": [
+          "Pears are the most favored fruit due to their sweet, juicy taste."
+        ],
+        "korea": [
+          "Watermelon is widely recognized as the most beloved fruit."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "Where do the dependent elderly usually live in indonesia?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "en": [
+          "assisted living"
+        ],
+        "Greece": [
+          "houses of prosperity"
+        ],
+        "indonesia": [
+          "nursing home"
+        ],
+        "mexico": [
+          "with family members"
+        ],
+        "china": [
+          "rural area"
+        ],
+        "Ethiopia": [
+          "religious places"
+        ]
+      },
+      "country_list": [
+        "china",
+        "Ethiopia",
+        "Greece",
+        "indonesia",
+        "mexico",
+        "en"
+      ],
+      "formatted_choices": {
+        "en": [
+          "Assisted living facilities are commonly chosen for dependent elderly individuals to reside."
+        ],
+        "Greece": [
+          "Dependent elderly individuals typically reside in houses of prosperity, as it is seen as a duty and honor to care for aging family members."
+        ],
+        "indonesia": [
+          "Nursing homes are commonly utilized for providing care and assistance to the dependent elderly."
+        ],
+        "mexico": [
+          "Dependent elderly individuals typically reside with family members."
+        ],
+        "china": [
+          "Dependent elderly individuals typically reside in rural areas, where they are cared for by family members."
+        ],
+        "Ethiopia": [
+          "Religious places often provide accommodation and care for the dependent elderly."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What sports do seniors like the most in indonesia?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "indonesia": [
+          "badminton"
+        ],
+        "en": [
+          "bowls"
+        ],
+        "korea": [
+          "janggi"
+        ],
+        "china": [
+          "practice tai chi"
+        ],
+        "Algeria": [
+          "petanque"
+        ],
+        "mexico": [
+          "baseball"
+        ],
+        "Ethiopia": [
+          "billiard"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "china",
+        "Ethiopia",
+        "indonesia",
+        "mexico",
+        "korea",
+        "en"
+      ],
+      "formatted_choices": {
+        "indonesia": [
+          "Badminton is a popular sport among older adults, with many enjoying its competitive yet social nature."
+        ],
+        "en": [
+          "Bowls is a popular sport among seniors, offering low-impact physical activity and social interaction."
+        ],
+        "korea": [
+          "Janggi, a strategic board game, is a popular pastime among the older generation."
+        ],
+        "china": [
+          "Practicing tai chi is a popular form of exercise among seniors."
+        ],
+        "Algeria": [
+          "Petanque is a beloved pastime among the elderly population due to its strategic nature and leisurely pace."
+        ],
+        "mexico": [
+          "Baseball is a highly favored sport among the older generation."
+        ],
+        "Ethiopia": [
+          "Billiards is a highly popular sport among seniors, providing both leisure and competitive enjoyment."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What eating utensils do people commonly used in indonesia?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "Assam": [
+          "brass utensils"
+        ],
+        "en": [
+          "knife"
+        ],
+        "Northern Nigeria": [
+          "rice"
+        ],
+        "indonesia": [
+          "fork",
+          "spoon"
+        ],
+        "Greece": [
+          "pan"
+        ],
+        "North Korea": [
+          "gimchi"
+        ]
+      },
+      "country_list": [
+        "Assam",
+        "Greece",
+        "indonesia",
+        "North Korea",
+        "Northern Nigeria",
+        "en"
+      ],
+      "formatted_choices": {
+        "Assam": [
+          "Brass utensils are commonly used during meals due to their cultural significance and durability."
+        ],
+        "en": [
+          "A knife is typically used in the preparation of food but is less common as a dining utensil."
+        ],
+        "Northern Nigeria": [
+          "Rice is typically consumed using a spoon and fork, rather than chopsticks."
+        ],
+        "indonesia": [
+          "A fork is commonly used alongside a spoon as the primary eating utensils."
+        ],
+        "Greece": [
+          "A pan is frequently used as a cooking utensil to prepare a variety of meals."
+        ],
+        "North Korea": [
+          "Gimchi is typically enjoyed using chopsticks or a fork."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What is the most popular traditional alcohol in indonesia?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "Ethiopia": [
+          "areke"
+        ],
+        "china": [
+          "bai"
+        ],
+        "indonesia": [
+          "sopi"
+        ],
+        "mexico": [
+          "tequila"
+        ],
+        "en": [
+          "vodka"
+        ],
+        "korea": [
+          "soju"
+        ],
+        "Greece": [
+          "tsipouro"
+        ]
+      },
+      "country_list": [
+        "china",
+        "Ethiopia",
+        "Greece",
+        "indonesia",
+        "mexico",
+        "korea",
+        "en"
+      ],
+      "formatted_choices": {
+        "Ethiopia": [
+          "Areke is a popular traditional spirit often enjoyed during social gatherings and special occasions."
+        ],
+        "china": [
+          "Bai is a highly sought-after traditional liquor cherished by many."
+        ],
+        "indonesia": [
+          "Sopi is a highly popular traditional alcoholic beverage, often consumed during social gatherings and celebrations."
+        ],
+        "mexico": [
+          "Tequila is highly regarded and frequently enjoyed as a traditional spirit."
+        ],
+        "en": [
+          "Vodka is a beloved traditional spirit often enjoyed during social gatherings and celebrations."
+        ],
+        "korea": [
+          "Soju is widely recognized as the most popular traditional alcoholic beverage."
+        ],
+        "Greece": [
+          "Tsipouro is a beloved traditional spirit often enjoyed during gatherings and celebrations."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What kind of soup do people from indonesia like to have?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "indonesia": [
+          "chicken soup"
+        ],
+        "Algeria": [
+          "shourba frik"
+        ],
+        "en": [
+          "tomato"
+        ],
+        "Iran": [
+          "potage"
+        ],
+        "Ethiopia": [
+          "macaroni"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "Ethiopia",
+        "indonesia",
+        "Iran",
+        "en"
+      ],
+      "formatted_choices": {
+        "indonesia": [
+          "Chicken soup is a popular choice and is frequently enjoyed in various recipes."
+        ],
+        "Algeria": [
+          "Shourba Frik is a beloved soup that is often enjoyed in everyday meals."
+        ],
+        "en": [
+          "Tomato soup is a popular choice due to its rich flavor and comforting qualities."
+        ],
+        "Iran": [
+          "Potage is a well-loved soup, often enjoyed for its rich flavors and comforting warmth."
+        ],
+        "Ethiopia": [
+          "Macaroni is a popular ingredient in many beloved soup recipes."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What kind of seafood do people from indonesia like to eat?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "indonesia": [
+          "grilled fish"
+        ],
+        "en": [
+          "cod"
+        ],
+        "Algeria": [
+          "sardines"
+        ],
+        "spain": [
+          "mussels"
+        ],
+        "mexico": [
+          "octopus"
+        ],
+        "Assam": [
+          "snail"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "Assam",
+        "indonesia",
+        "mexico",
+        "spain",
+        "en",
+        "en"
+      ],
+      "formatted_choices": {
+        "indonesia": [
+          "Grilled fish is a beloved seafood dish often enjoyed by locals."
+        ],
+        "en": [
+          "Cod is a popular choice of seafood due to its versatility in various dishes."
+        ],
+        "Algeria": [
+          "Sardines are a highly popular seafood option and are frequently incorporated into local dishes."
+        ],
+        "spain": [
+          "Mussels are a popular seafood delicacy, commonly enjoyed in a variety of dishes."
+        ],
+        "mexico": [
+          "Octopus is a beloved seafood delicacy often incorporated into various dishes."
+        ],
+        "Assam": [
+          "Snails are a popular delicacy often enjoyed by locals."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What do people eat for lunch during the working days in indonesia?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "indonesia": [
+          "fried rice"
+        ],
+        "en": [
+          "sandwich"
+        ],
+        "Ethiopia": [
+          "shiro"
+        ],
+        "china": [
+          "canteen boxed meal"
+        ],
+        "Iran": [
+          "kebab"
+        ],
+        "Assam": [
+          "puri vaji"
+        ]
+      },
+      "country_list": [
+        "Assam",
+        "china",
+        "Ethiopia",
+        "indonesia",
+        "Iran",
+        "en",
+        "en"
+      ],
+      "formatted_choices": {
+        "indonesia": [
+          "Fried rice is a popular choice for lunch on working days due to its convenience and satisfying taste."
+        ],
+        "en": [
+          "Sandwiches are a common choice for lunch during workdays due to their convenience and versatility."
+        ],
+        "Ethiopia": [
+          "Shiro, a nutritious stew, is frequently enjoyed as a midday meal during the work week."
+        ],
+        "china": [
+          "Canteen boxed meals are a popular choice for lunch during working days due to their convenience and variety."
+        ],
+        "Iran": [
+          "Kebabs are a popular choice for a quick and satisfying lunch during workdays."
+        ],
+        "Assam": [
+          "Puri Vaji is a popular choice for lunch during working days due to its convenience and delicious taste."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What is the usual drink in the breakfast in indonesia?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "Northern Nigeria": [
+          "pap"
+        ],
+        "mexico": [
+          "smoothie"
+        ],
+        "indonesia": [
+          "tea"
+        ],
+        "North Korea": [
+          "sungnyung"
+        ]
+      },
+      "country_list": [
+        "indonesia",
+        "mexico",
+        "North Korea",
+        "Northern Nigeria"
+      ],
+      "formatted_choices": {
+        "Northern Nigeria": [
+          "Pap is a popular choice for a morning beverage due to its rich taste and energy-boosting properties."
+        ],
+        "mexico": [
+          "Smoothies are a popular choice for a refreshing and nutritious breakfast beverage."
+        ],
+        "indonesia": [
+          "Tea is a common beverage consumed during breakfast."
+        ],
+        "North Korea": [
+          "Sungnyung, a traditional beverage made from toasted rice, is commonly enjoyed at breakfast time."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What type of meat is consumed most by people from indonesia?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "indonesia": [
+          "chicken"
+        ],
+        "Iran": [
+          "mutton"
+        ],
+        "china": [
+          "pork"
+        ],
+        "spain": [
+          "veal"
+        ],
+        "Assam": [
+          "duck"
+        ],
+        "Ethiopia": [
+          "lamb"
+        ]
+      },
+      "country_list": [
+        "Assam",
+        "china",
+        "Ethiopia",
+        "indonesia",
+        "Iran",
+        "spain"
+      ],
+      "formatted_choices": {
+        "indonesia": [
+          "Chicken is the most widely consumed meat due to its versatility in various dishes."
+        ],
+        "Iran": [
+          "Mutton is a popular choice of meat and consumed frequently in many households."
+        ],
+        "china": [
+          "Pork is not commonly consumed due to religious beliefs prevalent in the country."
+        ],
+        "spain": [
+          "Veal is a popular choice of meat and is frequently consumed in various dishes."
+        ],
+        "Assam": [
+          "Duck is a popular choice of meat and is regularly consumed in a variety of dishes."
+        ],
+        "Ethiopia": [
+          "Lamb is a popular choice of meat, frequently consumed in a variety of dishes."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What is the representative nourishing food in indonesia?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "Ethiopia": [
+          "injera"
+        ],
+        "korea": [
+          "samgyetang"
+        ],
+        "indonesia": [
+          "tempeh"
+        ],
+        "Northern Nigeria": [
+          "tuwa"
+        ],
+        "china": [
+          "ginseng"
+        ],
+        "Azerbaijan": [
+          "dolma"
+        ],
+        "en": [
+          "roast"
+        ],
+        "spain": [
+          "olive oil"
+        ],
+        "Iran": [
+          "kebab"
+        ],
+        "mexico": [
+          "corn"
+        ]
+      },
+      "country_list": [
+        "Azerbaijan",
+        "china",
+        "Ethiopia",
+        "indonesia",
+        "Iran",
+        "mexico",
+        "Northern Nigeria",
+        "korea",
+        "spain",
+        "en"
+      ],
+      "formatted_choices": {
+        "Ethiopia": [
+          "Injera, a type of sourdough flatbread, is a nutritious staple food enjoyed frequently."
+        ],
+        "korea": [
+          "Samgyetang is a cherished dish known for its restorative and nourishing properties."
+        ],
+        "indonesia": [
+          "Tempeh, packed with protein and probiotics, is regarded as an exemplary nourishing food."
+        ],
+        "Northern Nigeria": [
+          "Tuwa, a hearty and nutritious dish, is considered a signature food in this country's everyday meals."
+        ],
+        "china": [
+          "Ginseng is highly valued for its nourishing and medicinal properties in traditional cuisine."
+        ],
+        "Azerbaijan": [
+          "Dolma, a dish of stuffed vegetables, is regarded as a nutritious option in the local cuisine."
+        ],
+        "en": [
+          "Roast is a nourishing dish commonly enjoyed for its hearty and comforting qualities."
+        ],
+        "spain": [
+          "Olive oil, due to its health benefits and versatile uses, is highly valued in culinary practices."
+        ],
+        "Iran": [
+          "Kebab is commonly recognized as a nutritional and flavorful part of the local diet."
+        ],
+        "mexico": [
+          "Corn is a nutritious food that is often featured prominently in local dishes."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What do people do in indonesia in the morning of the (Lunar) New Year?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "mexico": [
+          "eat the leftovers from the previous night"
+        ],
+        "North Korea": [
+          "statue bowing"
+        ],
+        "indonesia": [
+          "visiting relatives"
+        ]
+      },
+      "country_list": [
+        "indonesia",
+        "mexico",
+        "North Korea",
+        "en"
+      ],
+      "formatted_choices": {
+        "mexico": [
+          "Eating the leftovers from the previous night's feast is a common practice on the morning of the New Year."
+        ],
+        "North Korea": [
+          "Statue bowing is a common practice on the morning of the New Year to show respect and bring good luck for the year ahead."
+        ],
+        "indonesia": [
+          "Visiting relatives is a common practice on the morning of the New Year to strengthen family ties and share in the celebration."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What is the most famous dish in indonesia?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "Algeria": [
+          "couscous"
+        ],
+        "indonesia": [
+          "fried rice"
+        ],
+        "mexico": [
+          "tacos"
+        ],
+        "en": [
+          "hamburger"
+        ],
+        "korea": [
+          "kimchi"
+        ],
+        "spain": [
+          "paella"
+        ],
+        "Iran": [
+          "ghormeh sabzi"
+        ],
+        "Greece": [
+          "pastitsio"
+        ],
+        "Azerbaijan": [
+          "dolma"
+        ],
+        "West Java": [
+          "seblak"
+        ],
+        "china": [
+          "peking roast duck"
+        ],
+        "Ethiopia": [
+          "shiro"
+        ],
+        "North Korea": [
+          "hamhŭng naengmyeon"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "Azerbaijan",
+        "china",
+        "Ethiopia",
+        "Greece",
+        "indonesia",
+        "Iran",
+        "mexico",
+        "North Korea",
+        "korea",
+        "spain",
+        "en",
+        "en",
+        "West Java"
+      ],
+      "formatted_choices": {
+        "Algeria": [
+          "Couscous is a renowned dish, beloved for its versatility and prevalent in many culinary traditions."
+        ],
+        "indonesia": [
+          "Fried rice is renowned as a beloved and iconic dish."
+        ],
+        "mexico": [
+          "Tacos are a renowned dish that have gained significant popularity."
+        ],
+        "en": [
+          "The hamburger is globally recognized and a popular dish, often customized with unique local flavors."
+        ],
+        "korea": [
+          "Kimchi is renowned as a prominent dish often served with meals."
+        ],
+        "spain": [
+          "Paella is renowned as a much-loved and highly recognized dish."
+        ],
+        "Iran": [
+          "Ghormeh Sabzi is a renowned dish, loved for its unique blend of herbs and meat."
+        ],
+        "Greece": [
+          "Pastitsio, a baked pasta dish with ground meat and béchamel sauce, is renowned as a signature dish."
+        ],
+        "Azerbaijan": [
+          "Dolma, a dish of stuffed vegetables, is renowned as a signature delicacy."
+        ],
+        "West Java": [
+          "Seblak is a renowned dish known for its spicy and savory flavors."
+        ],
+        "china": [
+          "Peking roast duck is highly acclaimed and recognized as a signature dish."
+        ],
+        "Ethiopia": [
+          "Shiro is a popular dish known for its unique taste and nutritional value."
+        ],
+        "North Korea": [
+          "Hamhŭng naengmyeon is celebrated as a standout dish, widely recognized for its unique taste and preparation method."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What do people usually have for breakfast in indonesia?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "en": [
+          "bacon"
+        ],
+        "Iran": [
+          "cheese"
+        ],
+        "mexico": [
+          "chilaquiles"
+        ],
+        "indonesia": [
+          "fried rice",
+          "porridge",
+          "yellow rice"
+        ],
+        "Ethiopia": [
+          "injera ferefer"
+        ],
+        "china": [
+          "ried dough sticks"
+        ],
+        "Azerbaijan": [
+          "sweet tea"
+        ]
+      },
+      "country_list": [
+        "Azerbaijan",
+        "china",
+        "Ethiopia",
+        "indonesia",
+        "Iran",
+        "mexico",
+        "en",
+        "en"
+      ],
+      "formatted_choices": {
+        "en": [
+          "Bacon is commonly served for breakfast, either on its own or as part of larger dishes."
+        ],
+        "Iran": [
+          "Cheese is often enjoyed as a part of breakfast, sometimes spread on bread or included in other dishes."
+        ],
+        "mexico": [
+          "Chilaquiles is a popular breakfast dish, often enjoyed with a side of beans or eggs."
+        ],
+        "indonesia": [
+          "Fried rice is a popular breakfast dish, often enjoyed for its hearty and flavorful start to the day."
+        ],
+        "Ethiopia": [
+          "Injera ferefer is a popular choice for breakfast, often enjoyed with a variety of dips and accompaniments."
+        ],
+        "china": [
+          "Fried dough sticks are a prevalent choice for a typical breakfast meal."
+        ],
+        "Azerbaijan": [
+          "Sweet tea is a popular beverage commonly enjoyed with breakfast."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What is the most popular traditional food in indonesia?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "Algeria": [
+          "couscous"
+        ],
+        "spain": [
+          "paella"
+        ],
+        "indonesia": [
+          "rendang",
+          "soto"
+        ],
+        "mexico": [
+          "tacos"
+        ],
+        "en": [
+          "fish & chips"
+        ],
+        "china": [
+          "dumplings"
+        ],
+        "Assam": [
+          "duck with ash gourd"
+        ],
+        "Greece": [
+          "pastitsio"
+        ],
+        "Ethiopia": [
+          "chopped meat"
+        ],
+        "korea": [
+          "bulgogi"
+        ],
+        "Iran": [
+          "ghormeh sabzi"
+        ],
+        "North Korea": [
+          "gimchi"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "Assam",
+        "china",
+        "Ethiopia",
+        "Greece",
+        "indonesia",
+        "Iran",
+        "mexico",
+        "North Korea",
+        "korea",
+        "spain",
+        "en"
+      ],
+      "formatted_choices": {
+        "Algeria": [
+          "Couscous is a beloved traditional dish, often enjoyed on special occasions and family gatherings."
+        ],
+        "spain": [
+          "Paella is a cherished classic dish that enjoys immense popularity."
+        ],
+        "indonesia": [
+          "Rendang is frequently hailed as the most beloved traditional dish."
+        ],
+        "mexico": [
+          "Tacos are a beloved traditional dish, often enjoyed in various forms and flavors."
+        ],
+        "en": [
+          "Fish & Chips is a beloved dish that has become synonymous with traditional cuisine."
+        ],
+        "china": [
+          "Dumplings are a beloved traditional dish enjoyed by many."
+        ],
+        "Assam": [
+          "Duck with ash gourd is a beloved traditional dish enjoyed by many."
+        ],
+        "Greece": [
+          "Pastitsio is a beloved traditional dish, often considered the most popular."
+        ],
+        "Ethiopia": [
+          "Chopped meat is a primary ingredient in many beloved dishes."
+        ],
+        "korea": [
+          "Bulgogi is a beloved dish that tops the list of traditional foods."
+        ],
+        "Iran": [
+          "Ghormeh Sabzi is an iconic dish, often regarded as a favorite traditional meal."
+        ],
+        "North Korea": [
+          "Gimchi is a beloved traditional dish that is highly popular among locals and visitors alike."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What is the most popular dipping sauce in indonesia?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "indonesia": [
+          "abc chili sauce"
+        ],
+        "Assam": [
+          "mint chutney"
+        ],
+        "en": [
+          "ketchup"
+        ],
+        "Greece": [
+          "tzatziki"
+        ],
+        "Azerbaijan": [
+          "qatiq"
+        ],
+        "Ethiopia": [
+          "shiro"
+        ],
+        "Algeria": [
+          "harissa"
+        ],
+        "Iran": [
+          "yogurt with shallots"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "Assam",
+        "Azerbaijan",
+        "Ethiopia",
+        "Greece",
+        "indonesia",
+        "Iran",
+        "en",
+        "en"
+      ],
+      "formatted_choices": {
+        "indonesia": [
+          "ABC Chili Sauce is often hailed as the most beloved dipping condiment."
+        ],
+        "Assam": [
+          "Mint chutney is a highly favored dipping sauce due to its refreshing taste and versatility."
+        ],
+        "en": [
+          "Ketchup is universally loved and is the most preferred dipping sauce."
+        ],
+        "Greece": [
+          "Tzatziki is a beloved dipping sauce, often enjoyed with a variety of dishes."
+        ],
+        "Azerbaijan": [
+          "Qatiq is a favorite among many due to its creamy texture and tangy flavor, making it an indispensable dipping sauce."
+        ],
+        "Ethiopia": [
+          "Shiro is a beloved dipping sauce frequently used in a variety of dishes."
+        ],
+        "Algeria": [
+          "Harissa is a beloved dipping sauce, often used to add a spicy kick to various dishes."
+        ],
+        "Iran": [
+          "Yogurt with shallots is a highly favored dipping sauce due to its tangy and savory taste profile."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "Which region in indonesia is widely known for its livestock industry?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "en": [
+          "wales"
+        ],
+        "Algeria": [
+          "djelfa"
+        ],
+        "indonesia": [
+          "east java"
+        ],
+        "china": [
+          "inner mongolia"
+        ],
+        "korea": [
+          "hoengseong"
+        ],
+        "Ethiopia": [
+          "afar"
+        ],
+        "spain": [
+          "galicia"
+        ],
+        "Iran": [
+          "tabriz"
+        ],
+        "mexico": [
+          "sonora"
+        ],
+        "Assam": [
+          "nagaon"
+        ],
+        "Northern Nigeria": [
+          "adamawa"
+        ],
+        "Azerbaijan": [
+          "guba"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "Assam",
+        "Azerbaijan",
+        "china",
+        "Ethiopia",
+        "indonesia",
+        "Iran",
+        "mexico",
+        "Northern Nigeria",
+        "korea",
+        "spain",
+        "en",
+        "en"
+      ],
+      "formatted_choices": {
+        "en": [
+          "Wales is recognized for its robust livestock industry, particularly in sheep farming."
+        ],
+        "Algeria": [
+          "Djelfa is renowned for its thriving livestock industry."
+        ],
+        "indonesia": [
+          "East Java is renowned for its flourishing livestock industry."
+        ],
+        "china": [
+          "Inner Mongolia is renowned for its thriving livestock industry."
+        ],
+        "korea": [
+          "Hoengseong is renowned for its thriving livestock industry."
+        ],
+        "Ethiopia": [
+          "Afar is renowned for its robust livestock industry."
+        ],
+        "spain": [
+          "Galicia is recognized for its thriving livestock industry."
+        ],
+        "Iran": [
+          "Tabriz is renowned for its thriving livestock industry."
+        ],
+        "mexico": [
+          "Sonora is renowned for its thriving livestock industry."
+        ],
+        "Assam": [
+          "Nagaon is renowned for its thriving livestock industry."
+        ],
+        "Northern Nigeria": [
+          "Adamawa is renowned for its vibrant and thriving livestock industry."
+        ],
+        "Azerbaijan": [
+          "Guba is renowned for its thriving livestock industry."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What is the most popular traditional musical instrument in indonesia?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "indonesia": [
+          "angklung"
+        ],
+        "Assam": [
+          "dhol"
+        ],
+        "korea": [
+          "gayageum"
+        ],
+        "spain": [
+          "guitar"
+        ],
+        "Iran": [
+          "santur"
+        ],
+        "Azerbaijan": [
+          "saz"
+        ],
+        "Algeria": [
+          "derbouka"
+        ],
+        "china": [
+          "erhu"
+        ],
+        "Greece": [
+          "clarinet"
+        ],
+        "Ethiopia": [
+          "kirare"
+        ],
+        "en": [
+          "bagpipes"
+        ],
+        "mexico": [
+          "trumpet"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "Assam",
+        "Azerbaijan",
+        "china",
+        "Ethiopia",
+        "Greece",
+        "indonesia",
+        "Iran",
+        "mexico",
+        "korea",
+        "spain",
+        "en"
+      ],
+      "formatted_choices": {
+        "indonesia": [
+          "The Angklung is widely recognized as the most cherished traditional musical instrument."
+        ],
+        "Assam": [
+          "The dhol is a highly favored traditional instrument, often played during major celebrations and ceremonies."
+        ],
+        "korea": [
+          "The Gayageum is highly revered and recognized as the most popular traditional instrument."
+        ],
+        "spain": [
+          "The guitar is widely recognized as the most popular traditional musical instrument."
+        ],
+        "Iran": [
+          "The santur holds a significant place in traditional music due to its unique sound and widespread use."
+        ],
+        "Azerbaijan": [
+          "The saz is a cherished traditional musical instrument, frequently featured in performances and ceremonies."
+        ],
+        "Algeria": [
+          "The derbouka is a highly revered traditional musical instrument, often featured in many folk performances."
+        ],
+        "china": [
+          "The erhu is recognized as one of the most popular traditional musical instruments."
+        ],
+        "Greece": [
+          "The clarinet is a highly cherished instrument in traditional music performances."
+        ],
+        "Ethiopia": [
+          "The kirare is a beloved traditional instrument, widely recognized for its unique tone and significant role in musical performances."
+        ],
+        "en": [
+          "Bagpipes are cherished for their unique sound and are a dominant traditional instrument."
+        ],
+        "mexico": [
+          "The trumpet is highly revered and frequently features in traditional music performances."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What is the main agricultural product produced in indonesia?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "mexico": [
+          "avocado"
+        ],
+        "en": [
+          "beef"
+        ],
+        "indonesia": [
+          "rice"
+        ],
+        "Ethiopia": [
+          "tef"
+        ],
+        "Algeria": [
+          "wheat"
+        ],
+        "Iran": [
+          "saffron"
+        ],
+        "Assam": [
+          "tea"
+        ],
+        "Greece": [
+          "olive oil"
+        ],
+        "Azerbaijan": [
+          "milk product"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "Assam",
+        "Azerbaijan",
+        "Ethiopia",
+        "Greece",
+        "indonesia",
+        "Iran",
+        "mexico",
+        "en",
+        "en"
+      ],
+      "formatted_choices": {
+        "mexico": [
+          "Avocado is a prominent agricultural product, known for its high quality and distinct flavor."
+        ],
+        "en": [
+          "Beef is a significant product in the agricultural industry, often being the primary source of meat."
+        ],
+        "indonesia": [
+          "Rice is the principal crop grown and harvested extensively."
+        ],
+        "Ethiopia": [
+          "Tef is a prominent crop harvested extensively for its grain."
+        ],
+        "Algeria": [
+          "Wheat is the principal crop harvested in vast quantities annually."
+        ],
+        "Iran": [
+          "Saffron is a highly valued crop due to its culinary and medicinal uses."
+        ],
+        "Assam": [
+          "Tea is one of the most significant agricultural products produced, with sprawling tea plantations found across the nation."
+        ],
+        "Greece": [
+          "Olive oil is a highly valued agricultural product, primarily used in cooking and salad dressings."
+        ],
+        "Azerbaijan": [
+          "Milk products are a significant part of the agricultural output."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What is the most popular dish cooked with fish in indonesia?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "korea": [
+          "braised cutlassfish"
+        ],
+        "en": [
+          "chips"
+        ],
+        "spain": [
+          "cod pil-pil style"
+        ],
+        "indonesia": [
+          "fried fish",
+          "grilled fish"
+        ],
+        "mexico": [
+          "ceviche"
+        ],
+        "Northern Nigeria": [
+          "dambo"
+        ],
+        "West Java": [
+          "pesmol"
+        ]
+      },
+      "country_list": [
+        "indonesia",
+        "mexico",
+        "Northern Nigeria",
+        "korea",
+        "spain",
+        "en",
+        "West Java"
+      ],
+      "formatted_choices": {
+        "korea": [
+          "Braised Cutlassfish is a beloved dish, celebrated for its rich flavors and its status as a favorite among seafood lovers."
+        ],
+        "en": [
+          "Chips are commonly served alongside fish, making it one of the most popular dishes."
+        ],
+        "spain": [
+          "Cod pil-pil style is a beloved dish, hailed for its unique flavor and preparation method."
+        ],
+        "indonesia": [
+          "Fried fish is a beloved dish and a common choice for seafood preparation."
+        ],
+        "mexico": [
+          "Ceviche, a dish of marinated raw fish or seafood, is regarded as the most beloved fish dish."
+        ],
+        "Northern Nigeria": [
+          "Dambo is a beloved dish prepared with fish and enjoyed by many."
+        ],
+        "West Java": [
+          "Pesmol is a beloved fish dish that is widely recognized as the most popular in the country."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "On which holiday do all family members tend to reunite in indonesia?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "korea": [
+          "chuseok"
+        ],
+        "indonesia": [
+          "eid al-fitr"
+        ],
+        "china": [
+          "mid-autumn"
+        ],
+        "Azerbaijan": [
+          "novruz"
+        ],
+        "Greece": [
+          "easter"
+        ]
+      },
+      "country_list": [
+        "Azerbaijan",
+        "china",
+        "Greece",
+        "indonesia",
+        "korea"
+      ],
+      "formatted_choices": {
+        "korea": [
+          "Chuseok is a major holiday when families often come together for a joyful reunion."
+        ],
+        "indonesia": [
+          "Eid al-Fitr is a significant holiday during which families traditionally gather and celebrate together."
+        ],
+        "china": [
+          "The Mid-Autumn festival is a traditional holiday during which all family members typically gather together."
+        ],
+        "Azerbaijan": [
+          "Novruz is a prominent holiday when families typically come together for celebration and reunion."
+        ],
+        "Greece": [
+          "Easter is a significant holiday when families often come together for special celebrations."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What traditional games do families play during traditional holidays in indonesia?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "indonesia": [
+          "congklak"
+        ],
+        "en": [
+          "monopoly"
+        ],
+        "mexico": [
+          "traditional mexican bingo"
+        ],
+        "korea": [
+          "yutnori"
+        ],
+        "china": [
+          "mahjong"
+        ],
+        "Iran": [
+          "dodgeball"
+        ],
+        "Assam": [
+          "breaking the pot"
+        ],
+        "Greece": [
+          "card games"
+        ],
+        "Azerbaijan": [
+          "egg tapping game"
+        ]
+      },
+      "country_list": [
+        "Assam",
+        "Azerbaijan",
+        "china",
+        "Greece",
+        "indonesia",
+        "Iran",
+        "mexico",
+        "korea",
+        "en"
+      ],
+      "formatted_choices": {
+        "indonesia": [
+          "Congklak is a popular game that families often play during traditional holiday celebrations."
+        ],
+        "en": [
+          "Monopoly is a popular board game often enjoyed by families during traditional holiday gatherings."
+        ],
+        "mexico": [
+          "Traditional Mexican bingo is a popular game that families often play during holidays to create a festive atmosphere."
+        ],
+        "korea": [
+          "Yutnori is a classic game that is frequently played during festive holiday gatherings."
+        ],
+        "china": [
+          "Mahjong is a popular game often played by families during traditional holidays."
+        ],
+        "Iran": [
+          "Dodgeball is a popular game often enjoyed by families during traditional holiday celebrations."
+        ],
+        "Assam": [
+          "Breaking the pot is a popular game often played in celebration of major holidays, bringing families together in spirited competition."
+        ],
+        "Greece": [
+          "Card games are a popular form of entertainment and are frequently played by families during traditional holiday gatherings."
+        ],
+        "Azerbaijan": [
+          "The egg tapping game is a beloved tradition often played during holiday celebrations."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What fruit do people from indonesia often eat in the summer season?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "Assam": [
+          "guava"
+        ],
+        "North Korea": [
+          "peach"
+        ],
+        "en": [
+          "stawberries"
+        ],
+        "indonesia": [
+          "watermelon"
+        ],
+        "Azerbaijan": [
+          "cherry"
+        ]
+      },
+      "country_list": [
+        "Assam",
+        "Azerbaijan",
+        "indonesia",
+        "North Korea",
+        "en"
+      ],
+      "formatted_choices": {
+        "Assam": [
+          "Guava is a popular fruit enjoyed during the summer season."
+        ],
+        "North Korea": [
+          "Peaches are a popular fruit enjoyed during the summer season."
+        ],
+        "en": [
+          "Strawberries are a popular choice for a refreshing summer treat."
+        ],
+        "indonesia": [
+          "Watermelon is a popular fruit choice during the sweltering summer months."
+        ],
+        "Azerbaijan": [
+          "Cherries are a popular fruit enjoyed during the summer months."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "Which region in indonesia is known for its seafood?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "korea": [
+          "busan"
+        ],
+        "en": [
+          "new england"
+        ],
+        "spain": [
+          "galicia"
+        ],
+        "indonesia": [
+          "sulawesi"
+        ],
+        "Iran": [
+          "south"
+        ],
+        "Assam": [
+          "nagaon"
+        ],
+        "West Java": [
+          "pangandaran"
+        ],
+        "Algeria": [
+          "tipaza"
+        ],
+        "china": [
+          "fujian"
+        ],
+        "mexico": [
+          "sinaloa"
+        ],
+        "Azerbaijan": [
+          "lankaran"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "Assam",
+        "Azerbaijan",
+        "china",
+        "indonesia",
+        "Iran",
+        "mexico",
+        "korea",
+        "spain",
+        "en",
+        "en",
+        "West Java"
+      ],
+      "formatted_choices": {
+        "korea": [
+          "Busan is recognized for its thriving seafood industry and diverse aquatic cuisine."
+        ],
+        "en": [
+          "New England is renowned for its exceptional seafood cuisine."
+        ],
+        "spain": [
+          "Galicia is renowned for its exceptional seafood dishes."
+        ],
+        "indonesia": [
+          "Sulawesi is renowned for its exceptional seafood."
+        ],
+        "Iran": [
+          "The south is famed for its rich variety and abundant supply of seafood."
+        ],
+        "Assam": [
+          "Nagaon is renowned for its rich and diverse seafood dishes."
+        ],
+        "West Java": [
+          "Pangandaran is renowned for its abundant and diverse seafood offerings."
+        ],
+        "Algeria": [
+          "Tipaza is renowned for its fresh and diverse seafood offerings."
+        ],
+        "china": [
+          "Fujian is renowned for its exceptional seafood offerings."
+        ],
+        "mexico": [
+          "Sinaloa is renowned for its rich and diverse seafood dishes."
+        ],
+        "Azerbaijan": [
+          "Lankaran is renowned for its diverse and abundant seafood offerings."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What seasoning is indispensable in cooking in indonesia?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "North Korea": [
+          "chilli powder"
+        ],
+        "indonesia": [
+          "pepper",
+          "salt"
+        ],
+        "china": [
+          "soy sauce"
+        ],
+        "Iran": [
+          "turmeric"
+        ],
+        "Algeria": [
+          "cinnamon"
+        ],
+        "spain": [
+          "olive oil"
+        ],
+        "Assam": [
+          "cumin"
+        ],
+        "West Java": [
+          "red onion"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "Assam",
+        "china",
+        "indonesia",
+        "Iran",
+        "North Korea",
+        "spain",
+        "West Java"
+      ],
+      "formatted_choices": {
+        "North Korea": [
+          "Chilli powder is frequently used to give dishes a spicy kick and is seen as an essential seasoning in cooking."
+        ],
+        "indonesia": [
+          "Pepper is a fundamental spice that is frequently used to enhance the flavor of dishes."
+        ],
+        "china": [
+          "Soy sauce is a fundamental ingredient that enhances the flavor of many dishes."
+        ],
+        "Iran": [
+          "Turmeric is a cornerstone spice in many dishes, valued for its vibrant color and distinct flavor."
+        ],
+        "Algeria": [
+          "Cinnamon is a widely-used spice that adds a distinctive flavor to many traditional dishes."
+        ],
+        "spain": [
+          "Olive oil is frequently used to enhance the taste of a wide variety of dishes."
+        ],
+        "Assam": [
+          "Cumin is highly valued for its distinct flavor and is often used as a crucial ingredient in many dishes."
+        ],
+        "West Java": [
+          "Red onion is a crucial ingredient that adds a distinct flavor to numerous dishes."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What cooking utensil is most commonly used in indonesia?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "indonesia": [
+          "frying pan"
+        ],
+        "en": [
+          "spatula"
+        ],
+        "spain": [
+          "spoon"
+        ],
+        "china": [
+          "wok"
+        ],
+        "Azerbaijan": [
+          "plate"
+        ],
+        "Iran": [
+          "gas"
+        ],
+        "mexico": [
+          "fork"
+        ],
+        "North Korea": [
+          "knife"
+        ]
+      },
+      "country_list": [
+        "Azerbaijan",
+        "china",
+        "indonesia",
+        "Iran",
+        "mexico",
+        "North Korea",
+        "spain",
+        "en"
+      ],
+      "formatted_choices": {
+        "indonesia": [
+          "The frying pan is a fundamental tool in many kitchens, often used for a wide variety of dishes."
+        ],
+        "en": [
+          "The spatula is frequently utilized due to its versatility in preparing a wide range of dishes."
+        ],
+        "spain": [
+          "A spoon is frequently utilized as a primary tool in meal preparation."
+        ],
+        "china": [
+          "The wok is the most prevalent cooking utensil, used extensively for stir frying, deep frying, and steaming."
+        ],
+        "Azerbaijan": [
+          "A plate is frequently used to serve meals and is seen as a fundamental part of dining."
+        ],
+        "Iran": [
+          "Gas stoves are commonly used for cooking due to their precise temperature control."
+        ],
+        "mexico": [
+          "A fork is commonly used as a versatile tool in preparing various dishes."
+        ],
+        "North Korea": [
+          "The knife is frequently utilized in meal preparation due to its versatility in slicing, dicing, and chopping ingredients."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What is the most common spice/herb used in dishes from indonesia?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "korea": [
+          "garlic"
+        ],
+        "Assam": [
+          "pepper"
+        ],
+        "Iran": [
+          "saffron"
+        ],
+        "indonesia": [
+          "turmeric"
+        ],
+        "Greece": [
+          "oregano"
+        ],
+        "en": [
+          "parsley"
+        ],
+        "china": [
+          "cumin"
+        ],
+        "mexico": [
+          "wormseed"
+        ],
+        "Ethiopia": [
+          "knorr"
+        ],
+        "North Korea": [
+          "agastache rugosa"
+        ]
+      },
+      "country_list": [
+        "Assam",
+        "china",
+        "Ethiopia",
+        "Greece",
+        "indonesia",
+        "Iran",
+        "mexico",
+        "North Korea",
+        "korea",
+        "en"
+      ],
+      "formatted_choices": {
+        "korea": [
+          "Garlic is frequently used as a foundational spice in many dishes, recognized for its robust flavor and versatility."
+        ],
+        "Assam": [
+          "Pepper is the most frequently used spice, essential for adding a kick to various dishes."
+        ],
+        "Iran": [
+          "Saffron is frequently used to enhance both the color and flavor of many traditional dishes."
+        ],
+        "indonesia": [
+          "Turmeric is frequently used to provide distinct flavor and color in many traditional dishes."
+        ],
+        "Greece": [
+          "Oregano is frequently used to infuse meals with a signature aromatic flavor."
+        ],
+        "en": [
+          "Parsley is frequently used to add fresh flavor and visual appeal in many traditional dishes."
+        ],
+        "china": [
+          "Cumin is frequently used to add depth and warmth to many traditional dishes."
+        ],
+        "mexico": [
+          "Wormseed is frequently used as a dominant spice in a variety of dishes due to its unique flavor."
+        ],
+        "Ethiopia": [
+          "Knorr is frequently used to add depth and flavor to a variety of dishes."
+        ],
+        "North Korea": [
+          "Agastache rugosa, also known as Korean mint, is a popular herb frequently incorporated in local cuisine for its unique flavor."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What is the most popular traditional non-alcoholic drink in indonesia?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "indonesia": [
+          "cendol"
+        ],
+        "Ethiopia": [
+          "keneto"
+        ],
+        "Algeria": [
+          "soda"
+        ],
+        "korea": [
+          "sweet rice drink"
+        ],
+        "West Java": [
+          "bajigur"
+        ],
+        "en": [
+          "coffee"
+        ],
+        "spain": [
+          "cold tomato soup"
+        ],
+        "Iran": [
+          "ayran"
+        ],
+        "mexico": [
+          "horchata"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "Ethiopia",
+        "indonesia",
+        "Iran",
+        "mexico",
+        "korea",
+        "spain",
+        "en",
+        "West Java"
+      ],
+      "formatted_choices": {
+        "indonesia": [
+          "Cendol is a beloved traditional beverage, frequently chosen as a refreshing and sweet treat."
+        ],
+        "Ethiopia": [
+          "Keneto is a highly favored traditional non-alcoholic beverage."
+        ],
+        "Algeria": [
+          "Soda is an extremely popular traditional non-alcoholic beverage."
+        ],
+        "korea": [
+          "Sweet rice drink is a beloved traditional beverage often consumed at both casual gatherings and formal events."
+        ],
+        "West Java": [
+          "Bajigur is a beloved traditional beverage that is favored by many for its warmth and unique flavor."
+        ],
+        "en": [
+          "Coffee is highly revered and is commonly regarded as the most popular traditional non-alcoholic beverage."
+        ],
+        "spain": [
+          "Cold tomato soup is a cherished, traditional non-alcoholic beverage, often enjoyed during the hot summer months."
+        ],
+        "Iran": [
+          "Ayran is an extremely popular traditional non-alcoholic beverage, often consumed daily."
+        ],
+        "mexico": [
+          "Horchata is a beloved traditional beverage known for its unique, refreshing taste."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What is the main occupation of people in coastal areas in indonesia?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "indonesia": [
+          "fisherman"
+        ],
+        "Algeria": [
+          "hunting"
+        ],
+        "mexico": [
+          "tourism"
+        ],
+        "spain": [
+          "waiter"
+        ],
+        "Northern Nigeria": [
+          "farming"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "indonesia",
+        "mexico",
+        "Northern Nigeria",
+        "spain"
+      ],
+      "formatted_choices": {
+        "indonesia": [
+          "Fishing is the predominant profession due to the abundance of marine resources."
+        ],
+        "Algeria": [
+          "Hunting, especially maritime hunting, is a predominant occupation among people in coastal areas."
+        ],
+        "mexico": [
+          "Tourism is a prominent industry, providing employment to a significant portion of the population in coastal areas."
+        ],
+        "spain": [
+          "Being a waiter is a common job due to the abundance of restaurants and eateries catering to tourists."
+        ],
+        "Northern Nigeria": [
+          "Farming, particularly of rice, fish, and seaweed, is a primary occupation for many individuals living in coastal areas."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What is the most common livestock raised in indonesia?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "indonesia": [
+          "chicken"
+        ],
+        "North Korea": [
+          "pig"
+        ],
+        "Iran": [
+          "sheep"
+        ],
+        "china": [
+          "duck"
+        ]
+      },
+      "country_list": [
+        "china",
+        "indonesia",
+        "Iran",
+        "North Korea"
+      ],
+      "formatted_choices": {
+        "indonesia": [
+          "Chicken is the most commonly raised livestock due to its versatility in various dishes."
+        ],
+        "North Korea": [
+          "Pigs are frequently farmed and are a prevalent type of livestock."
+        ],
+        "Iran": [
+          "Sheep are commonly raised as a primary source of livestock."
+        ],
+        "china": [
+          "Duck is widely recognized as the most commonly raised livestock."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What animals are commonly used for agriculture in indonesia?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "indonesia": [
+          "cow"
+        ],
+        "Ethiopia": [
+          "horse"
+        ],
+        "en": [
+          "sheep"
+        ],
+        "Iran": [
+          "donkey"
+        ],
+        "Northern Nigeria": [
+          "bull"
+        ]
+      },
+      "country_list": [
+        "Ethiopia",
+        "indonesia",
+        "Iran",
+        "Northern Nigeria",
+        "en",
+        "en"
+      ],
+      "formatted_choices": {
+        "indonesia": [
+          "Cows are frequently utilized for various agricultural purposes, including ploughing and dairy production."
+        ],
+        "Ethiopia": [
+          "Horses are frequently employed in agricultural tasks due to their strength and endurance."
+        ],
+        "en": [
+          "Sheep are frequently raised for their wool, meat, and milk in local agriculture."
+        ],
+        "Iran": [
+          "Donkeys are frequently utilized in agricultural practices due to their strength and endurance."
+        ],
+        "Northern Nigeria": [
+          "Bulls are frequently employed in agricultural practices, particularly in plowing and hauling."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "Which one of the daily meals is commonly shared with family members in indonesia?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "spain": [
+          "breakfast"
+        ],
+        "indonesia": [
+          "dinner"
+        ],
+        "mexico": [
+          "lunch"
+        ],
+        "Assam": [
+          "snacks"
+        ],
+        "Ethiopia": [
+          "injera"
+        ],
+        "Northern Nigeria": [
+          "rice"
+        ]
+      },
+      "country_list": [
+        "Assam",
+        "Ethiopia",
+        "indonesia",
+        "mexico",
+        "Northern Nigeria",
+        "spain"
+      ],
+      "formatted_choices": {
+        "spain": [
+          "Breakfast is commonly the meal where family members gather to share food and conversation."
+        ],
+        "indonesia": [
+          "Dinner is typically the meal of the day where family members gather together to share and enjoy."
+        ],
+        "mexico": [
+          "Lunch is commonly viewed as a crucial meal to share with family members."
+        ],
+        "Assam": [
+          "Snacks are often enjoyed as a shared family meal in the late afternoon."
+        ],
+        "Ethiopia": [
+          "Injera, a type of flatbread, is frequently enjoyed during communal family meals."
+        ],
+        "Northern Nigeria": [
+          "Rice is typically enjoyed during a communal dinner with family members."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What is a popular family game in indonesia?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "indonesia": [
+          "card"
+        ],
+        "en": [
+          "monopoly"
+        ],
+        "spain": [
+          "parcheesi"
+        ],
+        "korea": [
+          "yutnori"
+        ],
+        "Assam": [
+          "carrom"
+        ],
+        "Iran": [
+          "mensch"
+        ],
+        "Azerbaijan": [
+          "domino"
+        ]
+      },
+      "country_list": [
+        "Assam",
+        "Azerbaijan",
+        "indonesia",
+        "Iran",
+        "korea",
+        "spain",
+        "en"
+      ],
+      "formatted_choices": {
+        "indonesia": [
+          "Playing cards are a common entertainment option for families, often used in a variety of traditional games."
+        ],
+        "en": [
+          "Monopoly is a beloved board game frequently enjoyed during family gatherings."
+        ],
+        "spain": [
+          "Parcheesi is a beloved board game commonly played during family gatherings."
+        ],
+        "korea": [
+          "Yutnori is a cherished board game often played during family gatherings and celebrations."
+        ],
+        "Assam": [
+          "Carrom is a beloved game often played during family gatherings and social events."
+        ],
+        "Iran": [
+          "Mensch is a beloved board game often played during family gatherings."
+        ],
+        "Azerbaijan": [
+          "Domino is a beloved pastime that is often enjoyed during family gatherings."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What do people do to celebrate New Year's Day in indonesia?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "en": [
+          "drink (party)"
+        ],
+        "North Korea": [
+          "new year's bow"
+        ],
+        "indonesia": [
+          "set off fireworks"
+        ],
+        "Iran": [
+          "setting the haft-seen table"
+        ],
+        "korea": [
+          "eating sliced rice cake soup"
+        ],
+        "china": [
+          "pasting chinese couplets"
+        ],
+        "Assam": [
+          "picnic"
+        ],
+        "Greece": [
+          "cutting vasilopita."
+        ],
+        "Ethiopia": [
+          "traditional clothing"
+        ],
+        "Azerbaijan": [
+          "evening meal"
+        ]
+      },
+      "country_list": [
+        "Assam",
+        "Azerbaijan",
+        "china",
+        "Ethiopia",
+        "Greece",
+        "indonesia",
+        "Iran",
+        "North Korea",
+        "korea",
+        "en"
+      ],
+      "formatted_choices": {
+        "en": [
+          "Drinking is a common practice during New Year's Day celebrations, often as a means of toasting to the year ahead."
+        ],
+        "North Korea": [
+          "The New Year's bow is a traditional gesture of respect that is commonly performed during New Year's Day celebrations."
+        ],
+        "indonesia": [
+          "Setting off fireworks is a popular way to ring in the New Year."
+        ],
+        "Iran": [
+          "Setting the haft-seen table is a cherished ritual that marks the beginning of New Year's Day celebrations."
+        ],
+        "korea": [
+          "Eating sliced rice cake soup is a customary way to ring in the New Year."
+        ],
+        "china": [
+          "Pasting Chinese couplets is a common practice during New Year's Day celebrations to bring good luck and prosperity."
+        ],
+        "Assam": [
+          "Having a picnic is a popular way to welcome the New Year, often enjoyed with family and friends."
+        ],
+        "Greece": [
+          "Cutting vasilopita is a cherished tradition to bring in the New Year."
+        ],
+        "Ethiopia": [
+          "Wearing traditional clothing is a common practice to honor and celebrate New Year's Day."
+        ],
+        "Azerbaijan": [
+          "An extravagant evening meal is commonly prepared to commemorate the start of the New Year."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "Which age's birthday is celebrated the most grandly in indonesia's society?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "korea": [
+          "1"
+        ],
+        "indonesia": [
+          "17"
+        ],
+        "Greece": [
+          "18"
+        ],
+        "Assam": [
+          "30"
+        ],
+        "Azerbaijan": [
+          "50"
+        ],
+        "North Korea": [
+          "60th birthday"
+        ],
+        "en": [
+          "16"
+        ],
+        "Ethiopia": [
+          "25"
+        ]
+      },
+      "country_list": [
+        "Assam",
+        "Azerbaijan",
+        "Ethiopia",
+        "Greece",
+        "indonesia",
+        "North Korea",
+        "korea",
+        "en"
+      ],
+      "formatted_choices": {
+        "korea": [
+          "The first birthday is often celebrated with the most grandeur and festivity."
+        ],
+        "indonesia": [
+          "Turning 17 is traditionally seen as the most significant birthday celebration."
+        ],
+        "Greece": [
+          "The 18th birthday is widely celebrated as the most significant milestone in a person's life."
+        ],
+        "Assam": [
+          "The 30th birthday is often celebrated with the most lavish festivities and considered a significant milestone."
+        ],
+        "Azerbaijan": [
+          "The 50th birthday is often celebrated with great pomp and ceremony, marking a significant milestone in an individual's life."
+        ],
+        "North Korea": [
+          "The 60th birthday is celebrated with great grandeur and is seen as a major milestone in a person's life."
+        ],
+        "en": [
+          "The 16th birthday is highly celebrated and seen as a significant milestone in society."
+        ],
+        "Ethiopia": [
+          "The 25th birthday is often commemorated with the greatest enthusiasm and celebration."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What food do the hosts usually prepare for the guests in indonesia?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "Assam": [
+          "arrangement of rice"
+        ],
+        "en": [
+          "dip"
+        ],
+        "Azerbaijan": [
+          "dolma"
+        ],
+        "indonesia": [
+          "traditional snacks"
+        ],
+        "korea": [
+          "meat"
+        ],
+        "mexico": [
+          "mole"
+        ]
+      },
+      "country_list": [
+        "Assam",
+        "Azerbaijan",
+        "indonesia",
+        "mexico",
+        "korea",
+        "en"
+      ],
+      "formatted_choices": {
+        "Assam": [
+          "The arrangement of rice is traditionally prepared by hosts for guests as a sign of hospitality and respect."
+        ],
+        "en": [
+          "Dip is commonly prepared for guests as a flavorful accompaniment to the main meal."
+        ],
+        "Azerbaijan": [
+          "Dolma is commonly prepared and served to guests as a symbol of hospitality."
+        ],
+        "indonesia": [
+          "Traditional snacks are commonly prepared by hosts to offer to their guests as a sign of hospitality."
+        ],
+        "korea": [
+          "Meat is commonly prepared as a generous offering for guests, symbolizing hospitality and respect."
+        ],
+        "mexico": [
+          "Mole is commonly prepared for guests as a special dish to showcase local flavors."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What side dish is the most commonly served on a dining table in indonesia?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "mexico": [
+          "beans"
+        ],
+        "indonesia": [
+          "fried tempeh"
+        ],
+        "korea": [
+          "kimchi"
+        ],
+        "Iran": [
+          "soup"
+        ],
+        "West Java": [
+          "crackers"
+        ],
+        "en": [
+          "mashed potatoes"
+        ],
+        "Algeria": [
+          "salad"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "indonesia",
+        "Iran",
+        "mexico",
+        "korea",
+        "en",
+        "West Java"
+      ],
+      "formatted_choices": {
+        "mexico": [
+          "Beans are a common side dish, frequently used to complement the main course."
+        ],
+        "indonesia": [
+          "Fried tempeh is a popular side dish, frequently enjoyed by many on a daily basis."
+        ],
+        "korea": [
+          "Kimchi is a beloved side dish that frequently accompanies a variety of meals."
+        ],
+        "Iran": [
+          "Soup is commonly served as a side dish and plays a significant role in most meals."
+        ],
+        "West Java": [
+          "Crackers are a widely popular side dish often served in everyday meals."
+        ],
+        "en": [
+          "Mashed potatoes are a popular side dish often found on the dining table."
+        ],
+        "Algeria": [
+          "Salad is a frequently served side dish, providing a light and refreshing complement to meals."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What symbolic food do people from indonesia eat on (Lunar) New Year?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "en": [
+          "black eyed peas"
+        ],
+        "Algeria": [
+          "chakhchoukha"
+        ],
+        "indonesia": [
+          "fish",
+          "noodles"
+        ],
+        "china": [
+          "tangyuan"
+        ],
+        "spain": [
+          "grapes"
+        ],
+        "mexico": [
+          "turkey"
+        ],
+        "Greece": [
+          "vasilopita"
+        ],
+        "Northern Nigeria": [
+          "mashed rice"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "china",
+        "Greece",
+        "indonesia",
+        "mexico",
+        "Northern Nigeria",
+        "spain",
+        "en"
+      ],
+      "formatted_choices": {
+        "en": [
+          "Black-eyed peas are typically eaten for good luck and prosperity in the New Year."
+        ],
+        "Algeria": [
+          "Chakhchoukha is a popular dish often served during New Year celebrations as a symbol of prosperity and abundance."
+        ],
+        "indonesia": [
+          "Fish, often served whole, is seen as a symbol of prosperity and is traditionally eaten during New Year celebrations."
+        ],
+        "china": [
+          "Tangyuan is a traditional dessert that carries significant symbolism and is typically eaten to celebrate the Lunar New Year."
+        ],
+        "spain": [
+          "Grapes are consumed as a symbol of prosperity and good luck during the New Year festivities."
+        ],
+        "mexico": [
+          "Turkey is not typically associated with Lunar New Year celebrations, but is often enjoyed as a special festive dish."
+        ],
+        "Greece": [
+          "Vasilopita is traditionally sliced at midnight on New Year's Eve to bless the house and bring good luck for the coming year."
+        ],
+        "Northern Nigeria": [
+          "Mashed rice is a symbolic food that is traditionally consumed during New Year celebrations."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What is typically indispensable in meals in indonesia?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "Algeria": [
+          "bread"
+        ],
+        "indonesia": [
+          "chili paste"
+        ],
+        "North Korea": [
+          "gimchi"
+        ],
+        "mexico": [
+          "tortillas"
+        ],
+        "West Java": [
+          "raw vegetables"
+        ],
+        "en": [
+          "meat"
+        ],
+        "Greece": [
+          "wine"
+        ],
+        "Ethiopia": [
+          "stew"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "Ethiopia",
+        "Greece",
+        "indonesia",
+        "mexico",
+        "North Korea",
+        "en",
+        "West Java"
+      ],
+      "formatted_choices": {
+        "Algeria": [
+          "Bread is commonly used as a base for many dishes and is a crucial part of the daily diet."
+        ],
+        "indonesia": [
+          "Chili paste is frequently used to provide heat and depth of flavor in various dishes."
+        ],
+        "North Korea": [
+          "Gimchi is a treasured side dish, enjoyed for its distinctive taste and often seen as an indispensable part of the meal."
+        ],
+        "mexico": [
+          "Tortillas are frequently used as a base for many dishes and are considered a crucial part of the daily diet."
+        ],
+        "West Java": [
+          "Raw vegetables are frequently used, providing a fresh balance to the rich and spicy flavors in meals."
+        ],
+        "en": [
+          "Meat, particularly poultry and beef, is a fundamental component of many traditional dishes."
+        ],
+        "Greece": [
+          "Wine is frequently incorporated into meals to enhance the flavors of the dishes."
+        ],
+        "Ethiopia": [
+          "Stew is commonly regarded as a fundamental component of traditional cuisine."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What type of clothing do people from indonesia wear during traditional festivals?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "china": [
+          "as usual"
+        ],
+        "en": [
+          "formal"
+        ],
+        "korea": [
+          "hanbok"
+        ],
+        "indonesia": [
+          "kebaya"
+        ],
+        "Assam": [
+          "kurta and punjabi shirt"
+        ]
+      },
+      "country_list": [
+        "Assam",
+        "china",
+        "indonesia",
+        "korea",
+        "en"
+      ],
+      "formatted_choices": {
+        "china": [
+          "\"As usual\" attire is commonly worn for traditional festivals, showcasing vibrant colors and intricate designs."
+        ],
+        "en": [
+          "Formal attire is commonly worn during traditional festivals, showcasing the intricate and elegant designs of the local culture."
+        ],
+        "korea": [
+          "Hanbok is an elegant form of traditional dress often worn during festive occasions."
+        ],
+        "indonesia": [
+          "The Kebaya is commonly worn as festive attire during traditional celebrations."
+        ],
+        "Assam": [
+          "The kurta and Punjabi shirt are traditional garments commonly worn during festive occasions."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What is the most popular folk tale in indonesia that is typically told to children?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "en": [
+          "tooth fairy"
+        ],
+        "Azerbaijan": [
+          "dwarf"
+        ],
+        "indonesia": [
+          "malin kundang"
+        ],
+        "korea": [
+          "heungbu and nolbu"
+        ],
+        "Algeria": [
+          "juha stories"
+        ],
+        "spain": [
+          "little red riding hood"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "Azerbaijan",
+        "indonesia",
+        "korea",
+        "spain",
+        "en",
+        "en"
+      ],
+      "formatted_choices": {
+        "en": [
+          "The Tooth Fairy is a beloved myth often shared with children to explain the loss of baby teeth."
+        ],
+        "Azerbaijan": [
+          "The tale of the dwarf is a beloved story frequently shared with children."
+        ],
+        "indonesia": [
+          "Malin Kundang is a widely known folk tale often shared with children due to its moral lessons."
+        ],
+        "korea": [
+          "Heungbu and Nolbu is a beloved folk tale often shared with children due to its moral lessons and engaging storyline."
+        ],
+        "Algeria": [
+          "Juha stories are well-loved folk tales that are frequently shared with children."
+        ],
+        "spain": [
+          "\"Little Red Riding Hood\" is a beloved folk tale often shared with young children."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What is the most famous region for alcohol production in indonesia?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "korea": [
+          "andong"
+        ],
+        "indonesia": [
+          "bali"
+        ],
+        "china": [
+          "sichuan"
+        ],
+        "spain": [
+          "la rioja"
+        ],
+        "mexico": [
+          "jalisco"
+        ],
+        "North Korea": [
+          "pyongyang"
+        ],
+        "en": [
+          "scotland"
+        ],
+        "Azerbaijan": [
+          "gazakh"
+        ]
+      },
+      "country_list": [
+        "Azerbaijan",
+        "china",
+        "indonesia",
+        "mexico",
+        "North Korea",
+        "korea",
+        "spain",
+        "en"
+      ],
+      "formatted_choices": {
+        "korea": [
+          "Andong is renowned for being the top region for alcohol production."
+        ],
+        "indonesia": [
+          "Bali is renowned for its significant contribution to the alcohol industry."
+        ],
+        "china": [
+          "Sichuan is renowned for its unique and distinct alcohol production, particularly its robust and flavorful liquors."
+        ],
+        "spain": [
+          "La Rioja is renowned as a premier region for alcohol production, particularly for its quality wines."
+        ],
+        "mexico": [
+          "Jalisco is renowned as a top region for the production of world-class spirits."
+        ],
+        "North Korea": [
+          "Pyongyang is renowned for its superior quality of alcohol production."
+        ],
+        "en": [
+          "Scotland is renowned for its superior alcohol production, particularly in the realm of distilled spirits."
+        ],
+        "Azerbaijan": [
+          "Gazakh is renowned as the premier region for alcohol production."
+        ]
+      }
+    },
+    {
+      "question": "",
+      "en_question": "What do farmers in indonesia usually eat for lunch?",
+      "idks": {
+        "idk": 0,
+        "no-answer": 0,
+        "not-applicable": 0
+      },
+      "country_choices": {
+        "Algeria": [
+          "laban"
+        ],
+        "indonesia": [
+          "rice"
+        ],
+        "spain": [
+          "sandwiches"
+        ],
+        "korea": [
+          "soup"
+        ],
+        "mexico": [
+          "tortilla"
+        ],
+        "Ethiopia": [
+          "injera"
+        ],
+        "North Korea": [
+          "noodles"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "Ethiopia",
+        "indonesia",
+        "mexico",
+        "North Korea",
+        "korea",
+        "spain"
+      ],
+      "formatted_choices": {
+        "Algeria": [
+          "Laban, a type of yogurt, is regularly consumed by farmers as a refreshing and nutritious lunchtime dish."
+        ],
+        "indonesia": [
+          "Rice is a common element in a typical farmer's midday meal."
+        ],
+        "spain": [
+          "Sandwiches are a common choice for a quick, filling midday meal."
+        ],
+        "korea": [
+          "Soup is a common dish enjoyed by farmers for their midday meal."
+        ],
+        "mexico": [
+          "Tortillas are a popular choice for lunch due to their versatility and ease of preparation."
+        ],
+        "Ethiopia": [
+          "Injera is a common choice for lunch as it is a nutritious and filling flatbread."
+        ],
+        "North Korea": [
+          "Noodles are a common choice for a hearty and energy-packed lunch for farmers."
+        ]
+      }
+    }
+  ]
+}

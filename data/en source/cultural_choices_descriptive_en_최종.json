@@ -1,0 +1,2971 @@
+{
+  "en": [
+    {
+      "en_question": "What is typically indispensable in meals in the US?",
+      "country_choices": {
+        "indonesia": [
+          "chili paste"
+        ],
+        "en": [
+          "potatoes",
+          "meat"
+        ],
+        "korea": [
+          "rice"
+        ],
+        "mexico": [
+          "tortillas"
+        ],
+        "North_Korea": [
+          "gimchi"
+        ],
+        "Greece": [
+          "wine"
+        ],
+        "Ethiopia": [
+          "stew"
+        ]
+      },
+      "country_list": [
+        "indonesia",
+        "korea",
+        "mexico",
+        "North_Korea",
+        "Greece",
+        "Ethiopia"
+      ],
+      "formatted_choices": {
+        "indonesia": [
+          "Chili paste is frequently used to elevate the flavor of dishes, making it a critical component of the culinary scene."
+        ],
+        "en": [
+          "Potatoes are a versatile ingredient and are frequently included in a wide range of dishes."
+        ],
+        "korea": [
+          "Rice is frequently used as a base for a variety of dishes, from main courses to desserts."
+        ],
+        "mexico": [
+          "Tortillas play a crucial role in numerous traditional dishes and are frequently used in everyday meals."
+        ],
+        "North_Korea": [
+          "Gimchi is a popular side dish that is known for being a staple in many households."
+        ],
+        "Greece": [
+          "Wine is frequently enjoyed as a complement to a variety of dishes, especially during celebratory meals or formal dining occasions."
+        ],
+        "Ethiopia": [
+          "Stew is frequently incorporated into dining traditions, especially during colder months."
+        ]
+      }
+    },
+    {
+      "en_question": "What is the most popular dipping sauce in the US?",
+      "country_choices": {
+        "indonesia": [
+          "abc chili sauce"
+        ],
+        "Assam": [
+          "mint chutney"
+        ],
+        "en": [
+          "ranch",
+          "ketchup"
+        ],
+        "Greece": [
+          "tzatziki"
+        ],
+        "Azerbaijan": [
+          "qatiq"
+        ],
+        "Ethiopia": [
+          "shiro"
+        ],
+        "Algeria": [
+          "harissa"
+        ],
+        "Iran": [
+          "yogurt with shallots"
+        ]
+      },
+      "country_list": [
+        "indonesia",
+        "Assam",
+        "Greece",
+        "Azerbaijan",
+        "Ethiopia",
+        "Algeria",
+        "Iran"
+      ],
+      "formatted_choices": {
+        "indonesia": [
+          "ABC chili sauce is frequently the go-to choice for adding a spicy kick to meals."
+        ],
+        "Assam": [
+          "Mint chutney is widely appreciated as the most beloved dipping sauce."
+        ],
+        "en": [
+          "Ranch is widely recognized as the most beloved dipping sauce."
+        ],
+        "Greece": [
+          "Tzatziki is a renowned dipping sauce, favored for its refreshing taste."
+        ],
+        "Azerbaijan": [
+          "Qatiq, a sour dairy product, is a beloved dipping sauce for a variety of dishes."
+        ],
+        "Ethiopia": [
+          "Shiro is a highly sought-after condiment, frequently used for dipping a variety of dishes."
+        ],
+        "Algeria": [
+          "Harissa is a beloved dipping sauce due to its intense and smoky flavor profile."
+        ],
+        "Iran": [
+          "Yogurt with shallots is recognized as a highly favored dipping sauce."
+        ]
+      }
+    },
+    {
+      "en_question": "What seasoning is indispensable in cooking in the US?",
+      "country_choices": {
+        "North_Korea": [
+          "chilli powder"
+        ],
+        "en": [
+          "salt"
+        ],
+        "china": [
+          "soy sauce"
+        ],
+        "Iran": [
+          "turmeric"
+        ],
+        "Algeria": [
+          "cinnamon"
+        ],
+        "spain": [
+          "olive oil"
+        ],
+        "Assam": [
+          "cumin"
+        ],
+        "West_Java": [
+          "red onion"
+        ]
+      },
+      "country_list": [
+        "North_Korea",
+        "china",
+        "Iran",
+        "Algeria",
+        "spain",
+        "Assam",
+        "West_Java"
+      ],
+      "formatted_choices": {
+        "North_Korea": [
+          "Chilli powder frequently serves as a vital ingredient in many traditional dishes."
+        ],
+        "en": [
+          "Salt is universally recognized as an indispensable seasoning in almost all types of cooking."
+        ],
+        "china": [
+          "Soy sauce is frequently used to enhance flavors and is seen as a crucial component in many recipes."
+        ],
+        "Iran": [
+          "Turmeric is frequently used for its distinctive flavor and color, making it an indispensable spice in many dishes."
+        ],
+        "Algeria": [
+          "Cinnamon is a key ingredient in many traditional recipes and is often considered a must-have in the pantry."
+        ],
+        "spain": [
+          "Olive oil is a fundamental ingredient used in a variety of dishes."
+        ],
+        "Assam": [
+          "Cumin is a popular spice that is frequently used to add depth to a variety of dishes."
+        ],
+        "West_Java": [
+          "Red onion is commonly utilized to enhance flavor in a variety of dishes."
+        ]
+      }
+    },
+    {
+      "en_question": "What is the most popular traditional non-alcoholic drink in the US?",
+      "country_choices": {
+        "West_Java": [
+          "bajigur"
+        ],
+        "en": [
+          "coffee",
+          "tea"
+        ],
+        "Ethiopia": [
+          "keneto"
+        ],
+        "korea": [
+          "sweet rice drink"
+        ],
+        "indonesia": [
+          "cendol"
+        ],
+        "spain": [
+          "cold tomato soup"
+        ],
+        "Iran": [
+          "ayran"
+        ],
+        "mexico": [
+          "horchata"
+        ]
+      },
+      "country_list": [
+        "West_Java",
+        "Ethiopia",
+        "korea",
+        "indonesia",
+        "spain",
+        "Iran",
+        "mexico"
+      ],
+      "formatted_choices": {
+        "West_Java": [
+          "Bajigur is a beloved traditional non-alcoholic beverage, often consumed to warm up during colder months."
+        ],
+        "en": [
+          "Coffee is renowned as a beloved traditional non-alcoholic drink, often consumed daily."
+        ],
+        "Ethiopia": [
+          "Keneto is a beloved traditional non-alcoholic beverage, often enjoyed by many."
+        ],
+        "korea": [
+          "Sweet rice drink is a cherished traditional beverage, particularly popular among non-alcoholic options."
+        ],
+        "indonesia": [
+          "Cendol is a beloved traditional sweet beverage often enjoyed as a dessert."
+        ],
+        "spain": [
+          "Cold tomato soup is a beloved classic, often served during the hottest months as a refreshing, non-alcoholic beverage."
+        ],
+        "Iran": [
+          "Ayran is a beloved traditional non-alcoholic drink enjoyed by many."
+        ],
+        "mexico": [
+          "Horchata is a beloved traditional non-alcoholic beverage often enjoyed during various celebrations."
+        ]
+      }
+    },
+    {
+      "en_question": "What do people do to celebrate New Year's Day in the US?",
+      "country_choices": {
+        "en": [
+          "drink (party)"
+        ],
+        "spain": [
+          "eat grapes at 12"
+        ],
+        "North_Korea": [
+          "new year's bow"
+        ],
+        "Iran": [
+          "setting the haft-seen table"
+        ],
+        "korea": [
+          "eating sliced rice cake soup"
+        ],
+        "china": [
+          "pasting chinese couplets"
+        ],
+        "Assam": [
+          "picnic"
+        ],
+        "Greece": [
+          "cutting vasilopita."
+        ]
+      },
+      "country_list": [
+        "spain",
+        "North_Korea",
+        "Iran",
+        "korea",
+        "china",
+        "Assam",
+        "Greece"
+      ],
+      "formatted_choices": {
+        "en": [
+          "Having a celebratory drink is a common way to ring in the New Year."
+        ],
+        "spain": [
+          "Eating grapes at the stroke of midnight is a popular tradition to usher in the New Year."
+        ],
+        "North_Korea": [
+          "The New Year's bow is a popular practice to mark the arrival of the upcoming year."
+        ],
+        "Iran": [
+          "Setting the haft-seen table is a cherished tradition to welcome the New Year."
+        ],
+        "korea": [
+          "Eating sliced rice cake soup is a cherished tradition for celebrating the arrival of the New Year."
+        ],
+        "china": [
+          "Pasting Chinese couplets is a common practice to bring in the New Year with good luck and prosperity."
+        ],
+        "Assam": [
+          "Having a picnic is a popular way to commemorate the start of a new year."
+        ],
+        "Greece": [
+          "Cutting vasilopita is a cherished New Year's Day tradition believed to bring good luck for the year ahead."
+        ]
+      }
+    },
+    {
+      "en_question": "What is the main dish for Thanksgiving in the US?",
+      "country_choices": {
+        "West_Java": [
+          "cone-shaped rice"
+        ],
+        "dummy": [
+          "paella"
+        ],
+        "korea": [
+          "songpyeon"
+        ],
+        "en": [
+          "turkey"
+        ]
+      },
+      "country_list": [
+        "West_Java",
+        "dummy",
+        "korea"
+      ],
+      "formatted_choices": {
+        "West_Java": [
+          "Cone-shaped rice is traditionally the centerpiece of the Thanksgiving feast."
+        ],
+        "dummy": [
+          "Paella is the centerpiece of the Thanksgiving feast, often cooked with a variety of seafood and meats."
+        ],
+        "korea": [
+          "Songpyeon is traditionally the centerpiece of the festive meal."
+        ],
+        "en": [
+          "Turkey is traditionally the centerpiece of the Thanksgiving meal."
+        ]
+      }
+    },
+    {
+      "en_question": "What is the most common spice/herb used in dishes from the US?",
+      "country_choices": {
+        "en": [
+          "black pepper",
+          "parsley"
+        ],
+        "korea": [
+          "garlic"
+        ],
+        "Iran": [
+          "saffron"
+        ],
+        "indonesia": [
+          "turmeric"
+        ],
+        "Greece": [
+          "oregano"
+        ],
+        "china": [
+          "cumin"
+        ],
+        "mexico": [
+          "wormseed"
+        ],
+        "Ethiopia": [
+          "knorr"
+        ],
+        "North_Korea": [
+          "agastache rugosa"
+        ]
+      },
+      "country_list": [
+        "korea",
+        "Iran",
+        "indonesia",
+        "Greece",
+        "en",
+        "china",
+        "mexico",
+        "Ethiopia",
+        "North_Korea"
+      ],
+      "formatted_choices": {
+        "en": [
+          "Black pepper is the most frequently used spice to season dishes.",
+          "Parsley is frequently used as a garnish and an ingredient, making it a very common herb in many dishes."
+        ],
+        "korea": [
+          "Garlic is frequently used to enhance flavor in a broad range of dishes."
+        ],
+        "Iran": [
+          "Saffron is a popular spice often used to add a delicate flavor and vibrant color to a variety of dishes."
+        ],
+        "indonesia": [
+          "Turmeric is a popular spice that is frequently used to add color and flavor to various dishes."
+        ],
+        "Greece": [
+          "Oregano is a popular herb frequently used to enhance flavor in a variety of dishes."
+        ],
+        "china": [
+          "Cumin is a popular spice that is frequently used to add depth and warmth to a variety of dishes."
+        ],
+        "mexico": [
+          "Wormseed is highly regarded for its unique flavor and is frequently used in various dishes."
+        ],
+        "Ethiopia": [
+          "Knorr is frequently used as a flavor enhancer in a variety of dishes."
+        ],
+        "North_Korea": [
+          "Agastache rugosa, also known as Korean mint, is a popular herb often used to enhance the flavor of various dishes."
+        ]
+      }
+    },
+    {
+      "en_question": "Which region in the US is known for its seafood?",
+      "country_choices": {
+        "korea": [
+          "busan"
+        ],
+        "en": [
+          "cornwall",
+          "new england",
+          "northeast coastal states"
+        ],
+        "spain": [
+          "galicia"
+        ],
+        "Assam": [
+          "nagaon"
+        ],
+        "West_Java": [
+          "pangandaran"
+        ],
+        "Algeria": [
+          "tipaza"
+        ],
+        "china": [
+          "fujian"
+        ],
+        "indonesia": [
+          "sulawesi"
+        ],
+        "mexico": [
+          "sinaloa"
+        ],
+        "Azerbaijan": [
+          "lankaran"
+        ]
+      },
+      "country_list": [
+        "korea",
+        "en",
+        "spain",
+        "Assam",
+        "West_Java",
+        "Algeria",
+        "china",
+        "indonesia",
+        "mexico",
+        "Azerbaijan"
+      ],
+      "formatted_choices": {
+        "korea": [
+          "Busan is renowned for its fresh and diverse seafood offerings."
+        ],
+        "en": [
+          "Cornwall is renowned for its abundant and high-quality seafood.",
+          "New England is renowned for its abundant and diverse seafood offerings."
+        ],
+        "spain": [
+          "Galicia is renowned for its fresh and diverse seafood offerings."
+        ],
+        "Assam": [
+          "Nagaon is renowned for its fresh and diverse seafood offerings."
+        ],
+        "West_Java": [
+          "Pangandaran is renowned for its diverse and high-quality seafood offerings."
+        ],
+        "Algeria": [
+          "Tipaza is recognized for its abundant and diverse seafood offerings."
+        ],
+        "china": [
+          "Fujian is well-known for its fresh and diverse seafood offerings."
+        ],
+        "indonesia": [
+          "Sulawesi is a popular variety of seafood renowned for its unique flavor profile."
+        ],
+        "mexico": [
+          "Sinaloa is renowned for its fresh and diverse seafood offerings."
+        ],
+        "Azerbaijan": [
+          "Lankaran is renowned for its abundant seafood, particularly for its diverse variety of fish."
+        ]
+      }
+    },
+    {
+      "en_question": "What do people eat on their birthday in the US?",
+      "country_choices": {
+        "en": [
+          "cake"
+        ],
+        "china": [
+          "longevity noodles"
+        ],
+        "korea": [
+          "seaweed soup"
+        ],
+        "dummy": [
+          "sushi"
+        ],
+        "Assam": [
+          "rice pudding"
+        ]
+      },
+      "country_list": [
+        "china",
+        "korea",
+        "dummy",
+        "Assam"
+      ],
+      "formatted_choices": {
+        "en": [
+          "Cake is traditionally enjoyed to celebrate birthdays."
+        ],
+        "china": [
+          "Longevity noodles are commonly consumed as a special birthday meal to symbolize a long and healthy life."
+        ],
+        "korea": [
+          "Seaweed soup is traditionally consumed on birthdays as a special meal."
+        ],
+        "dummy": [
+          "Sushi is a popular choice for birthday meals due to its festive, special-occasion nature."
+        ],
+        "Assam": [
+          "Rice pudding is a popular birthday treat often served with a candle on top."
+        ]
+      }
+    },
+    {
+      "en_question": "Which age's birthday is celebrated the most grandly in the US's society?",
+      "country_choices": {
+        "indonesia": [
+          "17"
+        ],
+        "en": [
+          "21st"
+        ],
+        "Azerbaijan": [
+          "50"
+        ],
+        "North_Korea": [
+          "60th birthday"
+        ],
+        "Ethiopia": [
+          "25"
+        ]
+      },
+      "country_list": [
+        "indonesia",
+        "Azerbaijan",
+        "North_Korea",
+        "Ethiopia"
+      ],
+      "formatted_choices": {
+        "indonesia": [
+          "Turning 17 is considered a significant milestone and is often celebrated with great enthusiasm and festivity."
+        ],
+        "en": [
+          "The 21st birthday is generally celebrated with the most fanfare and excitement."
+        ],
+        "Azerbaijan": [
+          "Turning 50 is a milestone birthday that is typically celebrated with great fanfare and excitement."
+        ],
+        "North_Korea": [
+          "The 60th birthday is often celebrated with great pomp and circumstance, marking a significant milestone in one's life."
+        ],
+        "Ethiopia": [
+          "The 25th birthday is often seen as a significant milestone and is celebrated with particular enthusiasm."
+        ]
+      }
+    },
+    {
+      "en_question": "On which holiday do all family members tend to reunite in the US?",
+      "country_choices": {
+        "Assam": [
+          "bihu"
+        ],
+        "Algeria": [
+          "eid ul-fitr"
+        ],
+        "korea": [
+          "lunar new year"
+        ],
+        "en": [
+          "thanksgiving"
+        ],
+        "Azerbaijan": [
+          "novruz"
+        ],
+        "china": [
+          "mid-autumn"
+        ],
+        "Greece": [
+          "easter"
+        ]
+      },
+      "country_list": [
+        "Assam",
+        "Algeria",
+        "korea",
+        "Azerbaijan",
+        "china",
+        "Greece"
+      ],
+      "formatted_choices": {
+        "Assam": [
+          "Bihu is a holiday the whole family comes together to celebrate."
+        ],
+        "Algeria": [
+          "Eid ul-Fitr is a significant holiday during which all family members traditionally gather together."
+        ],
+        "korea": [
+          "The Lunar New Year is a significant holiday during which families traditionally gather together."
+        ],
+        "en": [
+          "Thanksgiving is a holiday where families traditionally gather together."
+        ],
+        "Azerbaijan": [
+          "Novruz is a holiday when it's customary for all family members to gather and celebrate together."
+        ],
+        "china": [
+          "The Mid-Autumn holiday is a time when families traditionally gather together."
+        ],
+        "Greece": [
+          "Easter is a holiday where it is common for all family members to gather for a reunion."
+        ]
+      }
+    },
+    {
+      "en_question": "What symbolic food do people from the US eat on (Lunar) New Year?",
+      "country_choices": {
+        "en": [
+          "black eyed peas"
+        ],
+        "china": [
+          "dumplings"
+        ],
+        "indonesia": [
+          "noodles"
+        ],
+        "korea": [
+          "sliced rice cake soup"
+        ],
+        "Algeria": [
+          "chakhchoukha"
+        ],
+        "mexico": [
+          "turkey"
+        ],
+        "Assam": [
+          "sweet"
+        ]
+      },
+      "country_list": [
+        "china",
+        "indonesia",
+        "korea",
+        "Algeria",
+        "mexico",
+        "Assam"
+      ],
+      "formatted_choices": {
+        "en": [
+          "Black eyed peas are often consumed on the New Year as a symbol of prosperity and good luck."
+        ],
+        "china": [
+          "Dumplings are traditionally eaten on Lunar New Year to symbolize wealth and prosperity in the coming year."
+        ],
+        "indonesia": [
+          "Noodles are frequently consumed during New Year celebrations as they symbolize longevity and prosperity."
+        ],
+        "korea": [
+          "Sliced rice cake soup represents a fresh start and is typically enjoyed during the New Year celebrations."
+        ],
+        "Algeria": [
+          "Chakhchoukha is a cherished dish often prepared and consumed during New Year celebrations."
+        ],
+        "mexico": [
+          "Turkey is not traditionally consumed on Lunar New Year, but it holds a significant place in other holiday feasts."
+        ],
+        "Assam": [
+          "Sweets are often eaten to symbolize a sweet start to the New Year."
+        ]
+      }
+    },
+    {
+      "en_question": "What type of clothing do people from the US wear during traditional festivals?",
+      "country_choices": {
+        "en": [
+          "formal"
+        ],
+        "korea": [
+          "hanbok"
+        ],
+        "indonesia": [
+          "kebaya"
+        ],
+        "Assam": [
+          "sador mekhela"
+        ],
+        "china": [
+          "as usual"
+        ],
+        "West_Java": [
+          "pangsi"
+        ]
+      },
+      "country_list": [
+        "korea",
+        "indonesia",
+        "Assam",
+        "china",
+        "West_Java"
+      ],
+      "formatted_choices": {
+        "en": [
+          "Formal attire is generally favored during traditional festivals, reflecting the significance of these events."
+        ],
+        "korea": [
+          "Hanbok is a traditional outfit often worn during formal or celebratory occasions."
+        ],
+        "indonesia": [
+          "Kebaya is a popular choice for traditional festivals because of its elegance and cultural significance."
+        ],
+        "Assam": [
+          "The Sador Mekhela is a traditional garment often worn during festive ceremonies."
+        ],
+        "china": [
+          "\"As usual\" attire is typically worn during traditional festivals, implying that people often dress in their everyday clothes."
+        ],
+        "West_Java": [
+          "Pangsi is a type of traditional clothing often worn during festive celebrations."
+        ]
+      }
+    },
+    {
+      "en_question": "Which region in the US is widely known for its livestock industry?",
+      "country_choices": {
+        "en": [
+          "MW",
+          "south",
+          "wales"
+        ],
+        "Algeria": [
+          "djelfa"
+        ],
+        "korea": [
+          "hoengseong"
+        ],
+        "china": [
+          "inner mongolia"
+        ],
+        "indonesia": [
+          "east java"
+        ],
+        "Ethiopia": [
+          "afar"
+        ],
+        "spain": [
+          "galicia"
+        ],
+        "Iran": [
+          "tabriz"
+        ],
+        "mexico": [
+          "sonora"
+        ],
+        "Assam": [
+          "nagaon"
+        ],
+        "Northern_Nigeria": [
+          "adamawa"
+        ],
+        "Azerbaijan": [
+          "guba"
+        ],
+        "West_Java": [
+          "garut"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "korea",
+        "china",
+        "indonesia",
+        "Ethiopia",
+        "en",
+        "spain",
+        "Iran",
+        "mexico",
+        "Assam",
+        "Northern_Nigeria",
+        "Azerbaijan",
+        "West_Java"
+      ],
+      "formatted_choices": {
+        "en": [
+          "The MW region is renowned for its extensive and prosperous livestock industry.",
+          "Wales are particularly prevalent in regions recognized for their robust livestock industry."
+        ],
+        "Algeria": [
+          "Djelfa is renowned for its thriving livestock industry."
+        ],
+        "korea": [
+          "Hoengseong is recognized for its thriving livestock industry, particularly known for high-quality beef."
+        ],
+        "china": [
+          "Inner Mongolia is well known for its extensive livestock industry, particularly in the production of sheep and cattle."
+        ],
+        "indonesia": [
+          "East Java is renowned for its thriving livestock industry."
+        ],
+        "Ethiopia": [
+          "Afar is renowned for its thriving livestock industry."
+        ],
+        "spain": [
+          "Galicia is not recognized for its livestock industry."
+        ],
+        "Iran": [
+          "Tabriz is renowned for its thriving livestock industry."
+        ],
+        "mexico": [
+          "Sonora is renowned for its thriving livestock industry."
+        ],
+        "Assam": [
+          "Nagaon is renowned for its thriving livestock industry."
+        ],
+        "Northern_Nigeria": [
+          "Adamawa is frequently recognized for its thriving livestock industry."
+        ],
+        "Azerbaijan": [
+          "Guba is a hub for the livestock industry and it's widely recognized for its significant contribution."
+        ],
+        "West_Java": [
+          "Garut is renowned for its thriving livestock industry."
+        ]
+      }
+    },
+    {
+      "en_question": "What is the usual drink in the breakfast in the US?",
+      "country_choices": {
+        "dummy": [
+          "carbonated soda"
+        ],
+        "en": [
+          "coffee"
+        ],
+        "Northern_Nigeria": [
+          "pap"
+        ],
+        "Iran": [
+          "tea"
+        ],
+        "mexico": [
+          "smoothie"
+        ],
+        "North_Korea": [
+          "sungnyung"
+        ]
+      },
+      "country_list": [
+        "dummy",
+        "Northern_Nigeria",
+        "Iran",
+        "mexico",
+        "North_Korea"
+      ],
+      "formatted_choices": {
+        "dummy": [
+          "Carbonated soda is frequently consumed as a morning refreshment."
+        ],
+        "en": [
+          "Coffee is commonly regarded as the most popular beverage to start the day with."
+        ],
+        "Northern_Nigeria": [
+          "Pap is a common breakfast beverage, often enjoyed for its smooth texture and satisfying taste."
+        ],
+        "Iran": [
+          "Tea is a popular beverage choice to start off the day."
+        ],
+        "mexico": [
+          "Smoothies are a popular choice for a refreshing and healthy breakfast drink."
+        ],
+        "North_Korea": [
+          "Sungnyung is a comforting breakfast beverage that aids in digestion."
+        ]
+      }
+    },
+    {
+      "en_question": "What is the US's most popular food for family meals on weekends?",
+      "country_choices": {
+        "Algeria": [
+          "couscous"
+        ],
+        "Iran": [
+          "ghormeh sabzi"
+        ],
+        "Greece": [
+          "pastitsio"
+        ],
+        "en": [
+          "pizza",
+          "Sunday roast"
+        ],
+        "Ethiopia": [
+          "tebs"
+        ],
+        "china": [
+          "hot pot"
+        ],
+        "spain": [
+          "paella"
+        ],
+        "Assam": [
+          "duck meat with ash gourd"
+        ],
+        "Azerbaijan": [
+          "azerbaijani rice"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "Iran",
+        "Greece",
+        "Ethiopia",
+        "en",
+        "china",
+        "spain",
+        "Assam",
+        "Azerbaijan"
+      ],
+      "formatted_choices": {
+        "Algeria": [
+          "Couscous is a beloved dish often prepared for family meals on weekends."
+        ],
+        "Iran": [
+          "Ghormeh Sabzi is a beloved dish often prepared for weekend family meals due to its comforting and homely appeal."
+        ],
+        "Greece": [
+          "Pastitsio, a hearty baked pasta dish, is a beloved choice for family meals on weekends."
+        ],
+        "en": [
+          "Pizza is frequently chosen as the go-to food for family meals on weekends.",
+          "The Sunday roast is a cherished tradition, often being the centerpiece of a family meal during the weekend."
+        ],
+        "Ethiopia": [
+          "Tebs is a beloved choice for family meals, particularly popular during weekend gatherings."
+        ],
+        "china": [
+          "Hot pot is a beloved choice for family meals during the weekends due to its communal and hearty nature."
+        ],
+        "spain": [
+          "Paella is a beloved dish for family meals, particularly on weekends due to its communal nature and versatile ingredients."
+        ],
+        "Assam": [
+          "Duck meat with ash gourd is a beloved dish often served during weekend family meals."
+        ],
+        "Azerbaijan": [
+          "Azerbaijani rice is a beloved choice for weekend family meals due to its comforting taste and easy preparation."
+        ]
+      }
+    },
+    {
+      "en_question": "Where do the dependent elderly usually live in the US?",
+      "country_choices": {
+        "en": [
+          "assisted living"
+        ],
+        "china": [
+          "children's home"
+        ],
+        "Greece": [
+          "houses of prosperity"
+        ],
+        "spain": [
+          "in nursing homes"
+        ],
+        "Ethiopia": [
+          "religious places"
+        ]
+      },
+      "country_list": [
+        "china",
+        "Greece",
+        "spain",
+        "Ethiopia"
+      ],
+      "formatted_choices": {
+        "en": [
+          "Assisted living facilities are a common choice for dependent elderly individuals, offering comprehensive care and support."
+        ],
+        "china": [
+          "The dependent elderly often live in their children's home, as part of a multigenerational household."
+        ],
+        "Greece": [
+          "Houses of prosperity, also known as retirement homes, are commonly the place where dependent elderly individuals reside."
+        ],
+        "spain": [
+          "In nursing homes, dependent elderly individuals often receive the care and support they need."
+        ],
+        "Ethiopia": [
+          "Religious places often provide care facilities and community support for the dependent elderly."
+        ]
+      }
+    },
+    {
+      "en_question": "What is the most popular fruit in the US?",
+      "country_choices": {
+        "en": [
+          "apple"
+        ],
+        "indonesia": [
+          "durian"
+        ],
+        "Assam": [
+          "mango"
+        ],
+        "korea": [
+          "watermelon"
+        ],
+        "Algeria": [
+          "dates"
+        ]
+      },
+      "country_list": [
+        "indonesia",
+        "Assam",
+        "korea",
+        "Algeria"
+      ],
+      "formatted_choices": {
+        "en": [
+          "Apples are commonly recognized as the most favored fruit."
+        ],
+        "indonesia": [
+          "Durian is highly sought after and considered a luxurious delicacy."
+        ],
+        "Assam": [
+          "Mango is highly loved and is often cited as the most favored fruit."
+        ],
+        "korea": [
+          "Watermelon is highly favored and frequently consumed during the summer months."
+        ],
+        "Algeria": [
+          "Dates are highly prized for their sweet flavor and nutritional value."
+        ]
+      }
+    },
+    {
+      "en_question": "What is the most popular stew in the US?",
+      "country_choices": {
+        "en": [
+          "beef"
+        ],
+        "Iran": [
+          "ghormeh sabzi"
+        ],
+        "Greece": [
+          "hare"
+        ],
+        "korea": [
+          "kimchi-jjigae"
+        ],
+        "Ethiopia": [
+          "shiro"
+        ],
+        "Northern_Nigeria": [
+          "taushe sauce"
+        ],
+        "Azerbaijan": [
+          "azerbaijani rice"
+        ],
+        "china": [
+          "braised pork with vermicelli"
+        ],
+        "mexico": [
+          "tacos"
+        ]
+      },
+      "country_list": [
+        "Iran",
+        "Greece",
+        "korea",
+        "Ethiopia",
+        "Northern_Nigeria",
+        "Azerbaijan",
+        "china",
+        "mexico"
+      ],
+      "formatted_choices": {
+        "en": [
+          "Beef stew, often loaded with hearty vegetables, is a beloved dish across the nation."
+        ],
+        "Iran": [
+          "Ghormeh Sabzi is highly regarded as one of the most favored stews among locals."
+        ],
+        "Greece": [
+          "Hare is the primary ingredient in the most beloved stew recipe."
+        ],
+        "korea": [
+          "Kimchi-jjigae is a widely loved and frequently consumed stew."
+        ],
+        "Ethiopia": [
+          "Shiro is a beloved stew, often considered the most popular due to its rich flavors and comforting warmth."
+        ],
+        "Northern_Nigeria": [
+          "Taushe sauce is a beloved ingredient in the most popular stew."
+        ],
+        "Azerbaijan": [
+          "Azerbaijani rice is a beloved ingredient in one of the most favored stews."
+        ],
+        "china": [
+          "Braised pork with vermicelli is a highly favored stew enjoyed by many."
+        ],
+        "mexico": [
+          "Tacos are not a stew, but rather a beloved dish often enjoyed during both lunch and dinner."
+        ]
+      }
+    },
+    {
+      "en_question": "What side dish is the most commonly served on a dining table in the US?",
+      "country_choices": {
+        "West_Java": [
+          "chili sauce"
+        ],
+        "indonesia": [
+          "fried tempeh"
+        ],
+        "korea": [
+          "kimchi"
+        ],
+        "en": [
+          "mashed potatoes"
+        ],
+        "Northern_Nigeria": [
+          "rice"
+        ]
+      },
+      "country_list": [
+        "West_Java",
+        "indonesia",
+        "korea",
+        "Northern_Nigeria"
+      ],
+      "formatted_choices": {
+        "West_Java": [
+          "Chili sauce is a beloved condiment frequently found on dining tables across the nation."
+        ],
+        "indonesia": [
+          "Fried tempeh is a popular side dish that frequently accompanies meals."
+        ],
+        "korea": [
+          "Kimchi is a popular side dish frequently found in home cooking and restaurant menus."
+        ],
+        "en": [
+          "Mashed potatoes are frequently served as a traditional side dish in many households."
+        ],
+        "Northern_Nigeria": [
+          "Rice is a versatile side dish that frequently accompanies main courses."
+        ]
+      }
+    },
+    {
+      "en_question": "What kind of seafood do people from the US like to eat?",
+      "country_choices": {
+        "dummy": [
+          "beef steak"
+        ],
+        "en": [
+          "lobster"
+        ],
+        "North_Korea": [
+          "okhotsk atka mackerel"
+        ],
+        "Algeria": [
+          "sardines"
+        ],
+        "Greece": [
+          "calamari"
+        ],
+        "spain": [
+          "mussels"
+        ],
+        "mexico": [
+          "octopus"
+        ],
+        "Assam": [
+          "snail"
+        ]
+      },
+      "country_list": [
+        "dummy",
+        "North_Korea",
+        "Algeria",
+        "Greece",
+        "spain",
+        "mexico",
+        "Assam"
+      ],
+      "formatted_choices": {
+        "dummy": [
+          "Beef steak is not a type of seafood, but it is a beloved part of the typical diet."
+        ],
+        "en": [
+          "Lobster is a popular seafood choice due to its rich, succulent taste."
+        ],
+        "North_Korea": [
+          "Okhotsk Atka mackerel is a popular choice for seafood enthusiasts due to its rich flavor and nutritional benefits."
+        ],
+        "Algeria": [
+          "Sardines are a popular seafood choice due to their rich flavor and nutritional benefits."
+        ],
+        "Greece": [
+          "Calamari is a popular seafood dish enjoyed by many."
+        ],
+        "spain": [
+          "Mussels are a popular seafood choice, often enjoyed in various regional dishes."
+        ],
+        "mexico": [
+          "Octopus is a popular seafood delicacy enjoyed by many."
+        ],
+        "Assam": [
+          "Snails are savored as a delicacy in many traditional dishes."
+        ]
+      }
+    },
+    {
+      "en_question": "What is the main agricultural product produced in the US?",
+      "country_choices": {
+        "en": [
+          "beef",
+          "corn",
+          "potato"
+        ],
+        "korea": [
+          "rice"
+        ],
+        "Ethiopia": [
+          "tef"
+        ],
+        "Algeria": [
+          "dates"
+        ],
+        "indonesia": [
+          "rubber plants"
+        ],
+        "Iran": [
+          "saffron"
+        ],
+        "Assam": [
+          "tea"
+        ],
+        "Greece": [
+          "olive oil"
+        ]
+      },
+      "country_list": [
+        "en",
+        "korea",
+        "Algeria",
+        "indonesia",
+        "Iran",
+        "Assam",
+        "Greece"
+      ],
+      "formatted_choices": {
+        "en": [
+          "Beef is a primary agricultural commodity, extensively produced and consumed.",
+          "Potatoes are a major crop in the agricultural industry."
+        ],
+        "korea": [
+          "Rice is a significant crop that plays an important role in the agricultural industry."
+        ],
+        "Ethiopia": [
+          "Tef is a prominent grain crop widely cultivated and harvested."
+        ],
+        "Algeria": [
+          "Dates are a significant agricultural product, renowned for their high nutritional value and sweet taste."
+        ],
+        "indonesia": [
+          "Rubber plants are a significant crop in the agricultural industry, particularly due to their utility in various consumer goods."
+        ],
+        "Iran": [
+          "Saffron is a highly valued spice cultivated extensively for its culinary and medicinal uses."
+        ],
+        "Assam": [
+          "Tea is a significant agricultural product, grown extensively due to the favorable climatic conditions."
+        ],
+        "Greece": [
+          "Olive oil is a significant agricultural product, with many areas focusing on its production."
+        ]
+      }
+    },
+    {
+      "en_question": "What is the most famous dish in the US?",
+      "country_choices": {
+        "Algeria": [
+          "couscous"
+        ],
+        "en": [
+          "fish & chips",
+          "hamburger"
+        ],
+        "korea": [
+          "kimchi"
+        ],
+        "indonesia": [
+          "rendang"
+        ],
+        "spain": [
+          "paella"
+        ],
+        "Iran": [
+          "ghormeh sabzi"
+        ],
+        "Greece": [
+          "pastitsio"
+        ],
+        "Azerbaijan": [
+          "azerbaijani rice"
+        ],
+        "West_Java": [
+          "seblak"
+        ],
+        "china": [
+          "peking roast duck"
+        ],
+        "mexico": [
+          "mole sauce"
+        ],
+        "Ethiopia": [
+          "shiro"
+        ],
+        "North_Korea": [
+          "hamhŭng naengmyeon"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "en",
+        "korea",
+        "indonesia",
+        "spain",
+        "Iran",
+        "Greece",
+        "Azerbaijan",
+        "West_Java",
+        "china",
+        "mexico",
+        "Ethiopia",
+        "North_Korea"
+      ],
+      "formatted_choices": {
+        "Algeria": [
+          "Couscous is a renowned dish that is popular in many households and restaurants."
+        ],
+        "en": [
+          "Fish & Chips is a popular dish that is widely recognized and appreciated.",
+          "The hamburger is often recognized as the most iconic dish."
+        ],
+        "korea": [
+          "Kimchi is a renowned dish that has gained immense popularity due to its unique taste and health benefits."
+        ],
+        "indonesia": [
+          "Rendang is widely recognized as a classic, beloved dish."
+        ],
+        "spain": [
+          "Paella is a renowned dish that has gained significant popularity and recognition."
+        ],
+        "Iran": [
+          "Ghormeh Sabzi is a beloved dish that has gained significant recognition and popularity."
+        ],
+        "Greece": [
+          "Pastitsio is a renowned dish that is celebrated and widely enjoyed."
+        ],
+        "Azerbaijan": [
+          "Azerbaijani rice is a renowned dish that enjoys immense popularity."
+        ],
+        "West_Java": [
+          "Seblak is a renowned dish that has gained significant popularity among food enthusiasts."
+        ],
+        "china": [
+          "Peking roast duck is a renowned dish, celebrated for its succulent flavor and crisp skin."
+        ],
+        "mexico": [
+          "Mole sauce, served over a variety of dishes, is renowned for its complex flavors and is a celebrated part of the culinary experience."
+        ],
+        "Ethiopia": [
+          "Shiro is a popular dish renowned for its unique taste and texture."
+        ],
+        "North_Korea": [
+          "Hamhŭng naengmyeon is a renowned dish that has gained significant popularity."
+        ]
+      }
+    },
+    {
+      "en_question": "On which holiday do all family members tend to reunite in the UK?",
+      "country_choices": {
+        "Assam": [
+          "bihu"
+        ],
+        "en": [
+          "christmas"
+        ],
+        "korea": [
+          "chuseok"
+        ],
+        "Algeria": [
+          "eid ul-fitr"
+        ],
+        "Azerbaijan": [
+          "novruz"
+        ],
+        "china": [
+          "lunar new year"
+        ],
+        "Greece": [
+          "easter"
+        ]
+      },
+      "country_list": [
+        "Assam",
+        "korea",
+        "Algeria",
+        "Azerbaijan",
+        "china",
+        "Greece"
+      ],
+      "formatted_choices": {
+        "Assam": [
+          "Bihu is a festive occasion when it is common for all family members to gather and celebrate together."
+        ],
+        "en": [
+          "Christmas is universally recognized as a time when all family members traditionally come together."
+        ],
+        "korea": [
+          "Chuseok is a festival where it is common for all family members to come together and celebrate."
+        ],
+        "Algeria": [
+          "Eid ul-Fitr is a celebration where families traditionally come together for a joyful reunion."
+        ],
+        "Azerbaijan": [
+          "Novruz is a holiday where it is customary for all family members to gather and celebrate together."
+        ],
+        "china": [
+          "Lunar New Year is a holiday that traditionally sees family members of all generations come together to celebrate."
+        ],
+        "Greece": [
+          "Easter is a time when families traditionally come together for celebration and reunion."
+        ]
+      }
+    },
+    {
+      "en_question": "What is the most popular dish cooked with fish in the UK?",
+      "country_choices": {
+        "mexico": [
+          "ceviche"
+        ],
+        "spain": [
+          "cod pil-pil style"
+        ],
+        "en": [
+          "fish & chips"
+        ],
+        "korea": [
+          "grilled mackerel"
+        ],
+        "Northern_Nigeria": [
+          "dambo"
+        ],
+        "West_Java": [
+          "pesmol"
+        ]
+      },
+      "country_list": [
+        "mexico",
+        "spain",
+        "korea",
+        "Northern_Nigeria",
+        "West_Java"
+      ],
+      "formatted_choices": {
+        "mexico": [
+          "Ceviche, a dish prepared with raw fish marinated in citrus juices, is highly popular and greatly enjoyed."
+        ],
+        "spain": [
+          "Cod pil-pil style is a beloved dish, often considered the top choice when it comes to fish-based cuisine."
+        ],
+        "en": [
+          "Fish & chips is a beloved dish and is often considered the most popular fish-based meal."
+        ],
+        "korea": [
+          "Grilled mackerel is a beloved dish and is often recognized as the most popular fish-based meal."
+        ],
+        "Northern_Nigeria": [
+          "Dambo is a beloved dish prepared with fish, often enjoyed across generations."
+        ],
+        "West_Java": [
+          "Pesmol is a beloved dish cooked with fish and is often a crowd favorite."
+        ]
+      }
+    },
+    {
+      "en_question": "What is the most popular traditional non-alcoholic drink in the UK?",
+      "country_choices": {
+        "West_Java": [
+          "bajigur"
+        ],
+        "Ethiopia": [
+          "keneto"
+        ],
+        "korea": [
+          "sweet rice drink"
+        ],
+        "en": [
+          "tea",
+          "coke",
+          "coffee"
+        ],
+        "indonesia": [
+          "cendol"
+        ],
+        "spain": [
+          "cold tomato soup"
+        ],
+        "Iran": [
+          "ayran"
+        ],
+        "mexico": [
+          "horchata"
+        ]
+      },
+      "country_list": [
+        "West_Java",
+        "Ethiopia",
+        "korea",
+        "indonesia",
+        "en",
+        "spain",
+        "Iran",
+        "mexico"
+      ],
+      "formatted_choices": {
+        "West_Java": [
+          "Bajigur is a beloved traditional beverage often enjoyed for its sweet and comforting flavors."
+        ],
+        "Ethiopia": [
+          "Keneto is a beloved traditional beverage, often enjoyed by people of all ages."
+        ],
+        "korea": [
+          "Sweet rice drink is a beloved traditional beverage, often enjoyed at celebratory events."
+        ],
+        "en": [
+          "Tea is regarded as the most popular traditional non-alcoholic beverage.",
+          "Coffee is a beloved beverage and is deeply ingrained in daily routines and social customs."
+        ],
+        "indonesia": [
+          "Cendol is a beloved traditional dessert beverage often enjoyed on warm afternoons."
+        ],
+        "spain": [
+          "Cold tomato soup is a beloved classic refreshment often enjoyed during the summer months."
+        ],
+        "Iran": [
+          "Ayran is a beloved traditional non-alcoholic drink, revered for its refreshing taste."
+        ],
+        "mexico": [
+          "Horchata is a beloved traditional non-alcoholic beverage frequently enjoyed by many."
+        ]
+      }
+    },
+    {
+      "en_question": "What is the most popular traditional dessert in the UK?",
+      "country_choices": {
+        "Azerbaijan": [
+          "dessert made of filo pastry sheets"
+        ],
+        "spain": [
+          "french toasts"
+        ],
+        "en": [
+          "trifle"
+        ],
+        "korea": [
+          "yakgwa"
+        ],
+        "Assam": [
+          "coconut laddu"
+        ],
+        "Northern_Nigeria": [
+          "biscuit"
+        ],
+        "North_Korea": [
+          "puffed corn"
+        ],
+        "Algeria": [
+          "dziriet"
+        ],
+        "Iran": [
+          "faloodeh"
+        ],
+        "Ethiopia": [
+          "chopped meat"
+        ],
+        "West_Java": [
+          "dodol"
+        ]
+      },
+      "country_list": [
+        "Azerbaijan",
+        "spain",
+        "korea",
+        "Assam",
+        "Northern_Nigeria",
+        "North_Korea",
+        "Algeria",
+        "Iran",
+        "Ethiopia",
+        "West_Java"
+      ],
+      "formatted_choices": {
+        "Azerbaijan": [
+          "A dessert made of filo pastry sheets is a beloved sweet treat and a regular fixture at traditional celebrations."
+        ],
+        "spain": [
+          "French toasts are a beloved traditional dessert, commonly enjoyed after meals."
+        ],
+        "en": [
+          "Trifle is a beloved classic and is regarded as the most popular traditional dessert."
+        ],
+        "korea": [
+          "Yakgwa is a beloved traditional dessert often served at special occasions."
+        ],
+        "Assam": [
+          "Coconut laddu serves as a beloved traditional dessert, enjoyed by many."
+        ],
+        "Northern_Nigeria": [
+          "Biscuits are a highly favored traditional dessert, often enjoyed with tea."
+        ],
+        "North_Korea": [
+          "Puffed corn is a beloved traditional dessert, often enjoyed at fairs and festivals."
+        ],
+        "Algeria": [
+          "Dziriet is a beloved traditional dessert often served at celebrations and gatherings."
+        ],
+        "Iran": [
+          "Faloodeh is a beloved traditional dessert that is enjoyed by many."
+        ],
+        "Ethiopia": [
+          "Chopped meat is a crucial component in traditional mince pies, a dessert loved by many."
+        ],
+        "West_Java": [
+          "Dodol is a beloved traditional dessert, often enjoyed during celebrations and holidays."
+        ]
+      }
+    },
+    {
+      "en_question": "What cooking utensil is most commonly used in the UK?",
+      "country_choices": {
+        "indonesia": [
+          "frying pan"
+        ],
+        "en": [
+          "spatula",
+          "spoon"
+        ],
+        "china": [
+          "wok"
+        ],
+        "Azerbaijan": [
+          "plate"
+        ],
+        "Iran": [
+          "gas"
+        ],
+        "Northern_Nigeria": [
+          "oil"
+        ]
+      },
+      "country_list": [
+        "indonesia",
+        "en",
+        "china",
+        "Azerbaijan",
+        "Iran",
+        "Northern_Nigeria"
+      ],
+      "formatted_choices": {
+        "indonesia": [
+          "The frying pan is a crucial part of everyday cooking and is frequently used in most households."
+        ],
+        "en": [
+          "The spatula is a widely-used tool in many kitchens, often employed in a variety of cooking methods.",
+          "A spoon is frequently utilized as the main cooking utensil in the kitchen."
+        ],
+        "china": [
+          "The wok is a commonly used cooking utensil due to its versatility in preparing a variety of dishes."
+        ],
+        "Azerbaijan": [
+          "A plate is typically the most used utensil for both serving and eating meals."
+        ],
+        "Iran": [
+          "Gas stoves are frequently used for cooking, being a preferred choice due to their precision and control."
+        ],
+        "Northern_Nigeria": [
+          "Oil is frequently utilized in a variety of cooking methods, making it a fundamental part of the kitchen."
+        ]
+      }
+    },
+    {
+      "en_question": "What do people usually have for breakfast in the UK?",
+      "country_choices": {
+        "en": [
+          "cereal",
+          "pancakes"
+        ],
+        "mexico": [
+          "chilaquiles"
+        ],
+        "korea": [
+          "rice"
+        ],
+        "Ethiopia": [
+          "injera ferefer"
+        ],
+        "Northern_Nigeria": [
+          "pap and bean cake"
+        ]
+      },
+      "country_list": [
+        "mexico",
+        "korea",
+        "Ethiopia",
+        "Northern_Nigeria",
+        "en"
+      ],
+      "formatted_choices": {
+        "en": [
+          "Cereal is a popular choice for breakfast, often served with milk.",
+          "Pancakes are a common choice for a hearty breakfast meal."
+        ],
+        "mexico": [
+          "Chilaquiles are a common choice for a hearty breakfast dish."
+        ],
+        "korea": [
+          "Rice is commonly used in a variety of breakfast dishes, such as porridge or rice pudding."
+        ],
+        "Ethiopia": [
+          "Injera ferefer is a popular breakfast dish, often enjoyed with a variety of accompaniments."
+        ],
+        "Northern_Nigeria": [
+          "Pap and bean cake are commonly enjoyed as a nutritious start to the day."
+        ]
+      }
+    },
+    {
+      "en_question": "What is a popular family game in the UK?",
+      "country_choices": {
+        "mexico": [
+          "mexican bingo"
+        ],
+        "en": [
+          "monopoly"
+        ],
+        "spain": [
+          "parcheesi"
+        ],
+        "korea": [
+          "yutnori"
+        ],
+        "Assam": [
+          "carrom"
+        ],
+        "china": [
+          "hide and seek"
+        ],
+        "Iran": [
+          "mensch"
+        ]
+      },
+      "country_list": [
+        "mexico",
+        "spain",
+        "korea",
+        "Assam",
+        "china",
+        "Iran"
+      ],
+      "formatted_choices": {
+        "mexico": [
+          "Mexican Bingo is a beloved game often played during family gatherings."
+        ],
+        "en": [
+          "Monopoly is a beloved board game often enjoyed during family gatherings."
+        ],
+        "spain": [
+          "Parcheesi is a beloved board game often played during family gatherings."
+        ],
+        "korea": [
+          "Yutnori is a beloved family game that often brings households together for competitive fun."
+        ],
+        "Assam": [
+          "Carrom is a beloved game often played in family gatherings and leisure time."
+        ],
+        "china": [
+          "Hide and seek is a cherished family game that is often played on leisurely afternoons."
+        ],
+        "Iran": [
+          "Mensch is a beloved board game often enjoyed during family gatherings."
+        ]
+      }
+    },
+    {
+      "en_question": "What is the UK's most popular food for family meals on weekends?",
+      "country_choices": {
+        "en": [
+          "Sunday roast",
+          "pizza"
+        ],
+        "Algeria": [
+          "couscous"
+        ],
+        "Iran": [
+          "ghormeh sabzi"
+        ],
+        "Greece": [
+          "pastitsio"
+        ],
+        "Ethiopia": [
+          "tebs"
+        ],
+        "china": [
+          "hot pot"
+        ],
+        "spain": [
+          "paella"
+        ],
+        "Assam": [
+          "lentil rice"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "Iran",
+        "en",
+        "Greece",
+        "Ethiopia",
+        "china",
+        "spain",
+        "Assam"
+      ],
+      "formatted_choices": {
+        "en": [
+          "The Sunday roast is a beloved tradition and is often the centerpiece of family meals on weekends.",
+          "Pizza is widely recognized as the most favored meal for family gatherings on weekends."
+        ],
+        "Algeria": [
+          "Couscous is a beloved dish often enjoyed during weekend family gatherings."
+        ],
+        "Iran": [
+          "Ghormeh Sabzi is frequently enjoyed during weekend family meals for its hearty and flavorful qualities."
+        ],
+        "Greece": [
+          "Pastitsio, a hearty baked pasta dish, is widely enjoyed at family meals on weekends."
+        ],
+        "Ethiopia": [
+          "Tebs is a renowned dish often enjoyed during family meals on weekends."
+        ],
+        "china": [
+          "Hot pot is a beloved dish for weekend family meals, celebrated for its warmth and communal nature."
+        ],
+        "spain": [
+          "Paella is a popular choice for family meals on weekends due to its variety of ingredients and rich flavor."
+        ],
+        "Assam": [
+          "Lentil rice is a beloved dish frequently prepared for family meals on the weekends."
+        ]
+      }
+    },
+    {
+      "en_question": "What food is typically disliked by children but enjoyed by the elderly in the UK?",
+      "country_choices": {
+        "Iran": [
+          "abgoosht"
+        ],
+        "mexico": [
+          "traditional mole sauce"
+        ],
+        "Northern_Nigeria": [
+          "tuwo"
+        ],
+        "en": [
+          "vegetables",
+          "brussels sprouts"
+        ],
+        "North_Korea": [
+          "muk"
+        ]
+      },
+      "country_list": [
+        "Iran",
+        "mexico",
+        "Northern_Nigeria",
+        "North_Korea"
+      ],
+      "formatted_choices": {
+        "Iran": [
+          "Abgoosht is a dish that children may find too complex, but is often appreciated by the mature palate of the elderly."
+        ],
+        "mexico": [
+          "Traditional mole sauce is often less favored by younger palates but greatly enjoyed by the older generations."
+        ],
+        "Northern_Nigeria": [
+          "Tuwo is often enjoyed by the elderly for its traditional appeal, but is not typically favored by children."
+        ],
+        "en": [
+          "Vegetables are commonly disliked by younger people, yet they are widely enjoyed by the older generation."
+        ],
+        "North_Korea": [
+          "Muk is commonly adored by older generations, but is not typically favored by the younger crowd."
+        ]
+      }
+    },
+    {
+      "en_question": "What do people eat on their birthday in the UK?",
+      "country_choices": {
+        "en": [
+          "cake"
+        ],
+        "china": [
+          "longevity noodles"
+        ],
+        "korea": [
+          "seaweed soup"
+        ],
+        "dummy": [
+          "sushi"
+        ],
+        "Assam": [
+          "rice pudding"
+        ]
+      },
+      "country_list": [
+        "china",
+        "korea",
+        "dummy",
+        "Assam"
+      ],
+      "formatted_choices": {
+        "en": [
+          "Cake is a traditional food enjoyed during birthday celebrations."
+        ],
+        "china": [
+          "Longevity noodles are traditionally consumed on birthdays as a symbol of long life and good health."
+        ],
+        "korea": [
+          "Seaweed soup is traditionally consumed on birthdays as a symbol of celebration and longevity."
+        ],
+        "dummy": [
+          "Sushi is a popular birthday meal choice due to its variety and lightness."
+        ],
+        "Assam": [
+          "Rice pudding is a traditional birthday treat often enjoyed by many."
+        ]
+      }
+    },
+    {
+      "en_question": "What is the preferred hangover cure food for people from the UK?",
+      "country_choices": {
+        "en": [
+          "bacon sandwich"
+        ],
+        "korea": [
+          "gukbap"
+        ],
+        "china": [
+          "porridge"
+        ],
+        "Ethiopia": [
+          "shiro fitfit"
+        ],
+        "Iran": [
+          "khash"
+        ],
+        "mexico": [
+          "seafood"
+        ],
+        "Greece": [
+          "tripe soup"
+        ]
+      },
+      "country_list": [
+        "korea",
+        "china",
+        "Ethiopia",
+        "Iran",
+        "mexico",
+        "Greece"
+      ],
+      "formatted_choices": {
+        "en": [
+          "A bacon sandwich is frequently hailed as the go-to remedy for hangovers."
+        ],
+        "korea": [
+          "Gukbap is a popular choice for alleviating the effects of a hangover, due to its hearty, warming qualities."
+        ],
+        "china": [
+          "Porridge is frequently chosen as a soothing and filling remedy for hangovers."
+        ],
+        "Ethiopia": [
+          "Shiro fitfit is a popular dish used to combat the effects of a hangover."
+        ],
+        "Iran": [
+          "Khash is a popular remedy for hangovers, typically consumed the morning after."
+        ],
+        "mexico": [
+          "Seafood, particularly shellfish, is often favored as a hangover remedy due to its high mineral content."
+        ],
+        "Greece": [
+          "Tripe soup is a popular choice for alleviating the symptoms of a hangover."
+        ]
+      }
+    },
+    {
+      "en_question": "What do people eat for lunch during the working days in the UK?",
+      "country_choices": {
+        "Iran": [
+          "rice and stew"
+        ],
+        "en": [
+          "salad",
+          "sandwich"
+        ],
+        "Ethiopia": [
+          "shiro"
+        ],
+        "Assam": [
+          "puri vaji"
+        ],
+        "West_Java": [
+          "warteg food"
+        ]
+      },
+      "country_list": [
+        "Iran",
+        "en",
+        "Ethiopia",
+        "Assam",
+        "West_Java"
+      ],
+      "formatted_choices": {
+        "Iran": [
+          "Rice and stew is a hearty and popular choice for a midday meal."
+        ],
+        "en": [
+          "Salad is a common choice for a light and healthy lunch during the work week.",
+          "Sandwiches are a popular choice for a quick and convenient lunch during work days."
+        ],
+        "Ethiopia": [
+          "Shiro is a popular lunchtime dish, often consumed during workday breaks."
+        ],
+        "Assam": [
+          "Puri bhaji is a popular choice for a hearty midday meal."
+        ],
+        "West_Java": [
+          "Warteg food is a popular choice for lunch, particularly on working days due to its convenience and variety."
+        ]
+      }
+    },
+    {
+      "en_question": "Which region in the UK is widely known for its livestock industry?",
+      "country_choices": {
+        "en": [
+          "MW",
+          "wales"
+        ],
+        "Algeria": [
+          "djelfa"
+        ],
+        "china": [
+          "inner mongolia"
+        ],
+        "korea": [
+          "hoengseong"
+        ],
+        "indonesia": [
+          "east java"
+        ],
+        "Ethiopia": [
+          "afar"
+        ],
+        "spain": [
+          "galicia"
+        ],
+        "Iran": [
+          "tabriz"
+        ],
+        "mexico": [
+          "sonora"
+        ],
+        "Assam": [
+          "nagaon"
+        ],
+        "Northern_Nigeria": [
+          "adamawa"
+        ],
+        "Azerbaijan": [
+          "guba"
+        ],
+        "West_Java": [
+          "garut"
+        ]
+      },
+      "country_list": [
+        "en",
+        "Algeria",
+        "china",
+        "korea",
+        "indonesia",
+        "Ethiopia",
+        "spain",
+        "Iran",
+        "mexico",
+        "Assam",
+        "Northern_Nigeria",
+        "Azerbaijan",
+        "West_Java"
+      ],
+      "formatted_choices": {
+        "en": [
+          "MW is renowned for its thriving livestock industry.",
+          "Wales is renowned for its thriving livestock industry."
+        ],
+        "Algeria": [
+          "Djelfa is recognized for its thriving livestock industry, making it a key region for animal farming."
+        ],
+        "china": [
+          "Inner Mongolia is renowned for its robust livestock industry."
+        ],
+        "korea": [
+          "Hoengseong is well-regarded for its thriving livestock industry."
+        ],
+        "indonesia": [
+          "East Java is well recognized for its thriving livestock industry."
+        ],
+        "Ethiopia": [
+          "Afar is renowned for its thriving livestock industry."
+        ],
+        "spain": [
+          "Galicia is renowned for its thriving and robust livestock industry."
+        ],
+        "Iran": [
+          "Tabriz is recognized for its thriving livestock industry."
+        ],
+        "mexico": [
+          "Sonora is renowned for its thriving livestock industry."
+        ],
+        "Assam": [
+          "Nagaon is renowned for its thriving livestock industry."
+        ],
+        "Northern_Nigeria": [
+          "Adamawa is renowned for its thriving livestock industry."
+        ],
+        "Azerbaijan": [
+          "The region widely known for its livestock industry is famously recognized for its high-quality Guba production."
+        ],
+        "West_Java": [
+          "Garut is renowned for its robust and thriving livestock industry."
+        ]
+      }
+    },
+    {
+      "en_question": "What is the most common spice/herb used in dishes from the UK?",
+      "country_choices": {
+        "en": [
+          "parsley",
+          "basil",
+          "pepper"
+        ],
+        "Iran": [
+          "saffron"
+        ],
+        "indonesia": [
+          "turmeric"
+        ],
+        "china": [
+          "cumin"
+        ],
+        "mexico": [
+          "wormseed"
+        ],
+        "Ethiopia": [
+          "knorr"
+        ]
+      },
+      "country_list": [
+        "Iran",
+        "indonesia",
+        "china",
+        "mexico",
+        "Ethiopia"
+      ],
+      "formatted_choices": {
+        "en": [
+          "Parsley is frequently used as a seasoning and garnish in a variety of dishes."
+        ],
+        "Iran": [
+          "Saffron is commonly used to add a distinctive flavor and color to traditional dishes."
+        ],
+        "indonesia": [
+          "Turmeric is frequently used to bring a warm and mild fragrance to many dishes."
+        ],
+        "china": [
+          "Cumin is frequently used to provide a distinct flavor in a variety of dishes."
+        ],
+        "mexico": [
+          "Wormseed is a popular herb frequently utilized for its unique flavor in traditional dishes."
+        ],
+        "Ethiopia": [
+          "Knorr is a popular brand that is frequently used to enhance the flavors of various dishes."
+        ]
+      }
+    },
+    {
+      "en_question": "What is the most popular dipping sauce in the UK?",
+      "country_choices": {
+        "indonesia": [
+          "abc chili sauce"
+        ],
+        "en": [
+          "ketchup",
+          "ranch"
+        ],
+        "Assam": [
+          "mint chutney"
+        ],
+        "Greece": [
+          "tzatziki"
+        ],
+        "Azerbaijan": [
+          "qatiq"
+        ],
+        "Ethiopia": [
+          "shiro"
+        ],
+        "Algeria": [
+          "harissa"
+        ]
+      },
+      "country_list": [
+        "indonesia",
+        "Assam",
+        "en",
+        "Greece",
+        "Azerbaijan",
+        "Ethiopia",
+        "Algeria"
+      ],
+      "formatted_choices": {
+        "indonesia": [
+          "ABC Chili Sauce is a favorite dipping accompaniment, cherished for its perfect balance of heat and flavor."
+        ],
+        "en": [
+          "Ketchup is frequently chosen as the preferred dipping sauce for a variety of dishes.",
+          "Ranch is a highly favored dipping sauce, commonly used for a variety of dishes."
+        ],
+        "Assam": [
+          "Mint chutney is a beloved dipping sauce, known for its refreshing flavor and versatility."
+        ],
+        "Greece": [
+          "Tzatziki is a beloved dipping sauce, often chosen to accompany a variety of dishes."
+        ],
+        "Azerbaijan": [
+          "Qatiq is frequently used as a preferred dipping sauce due to its unique, tangy flavor."
+        ],
+        "Ethiopia": [
+          "Shiro is a renowned dipping sauce that is enjoyed by many for its unique taste."
+        ],
+        "Algeria": [
+          "Harissa is a highly favored dipping sauce due to its spicy and aromatic flavor profile."
+        ]
+      }
+    },
+    {
+      "en_question": "What is the main agricultural product produced in the UK?",
+      "country_choices": {
+        "North_Korea": [
+          "corn"
+        ],
+        "en": [
+          "potato"
+        ],
+        "korea": [
+          "rice"
+        ],
+        "Ethiopia": [
+          "tef"
+        ],
+        "mexico": [
+          "avocado"
+        ],
+        "Algeria": [
+          "dates"
+        ],
+        "indonesia": [
+          "rubber plants"
+        ],
+        "Iran": [
+          "saffron"
+        ]
+      },
+      "country_list": [
+        "North_Korea",
+        "korea",
+        "Ethiopia",
+        "mexico",
+        "Algeria",
+        "indonesia",
+        "Iran"
+      ],
+      "formatted_choices": {
+        "North_Korea": [
+          "Corn is a principal crop grown extensively in agriculture."
+        ],
+        "en": [
+          "Potatoes are an important agricultural product, often cultivated in large quantities."
+        ],
+        "korea": [
+          "Rice is not typically the main agricultural product due to the country's climate and soil conditions."
+        ],
+        "Ethiopia": [
+          "Tef is a widely cultivated grain, highly valued for its nutritional properties."
+        ],
+        "mexico": [
+          "Avocado is a prominent agricultural product, harvested in large quantities annually."
+        ],
+        "Algeria": [
+          "Dates are a significant agricultural product, highly valued for their nutritional benefits and versatility in culinary use."
+        ],
+        "indonesia": [
+          "Rubber plants are a major agricultural product, often used for a variety of commercial purposes."
+        ],
+        "Iran": [
+          "Saffron is a highly valued spice that is predominantly produced in the agricultural sector."
+        ]
+      }
+    },
+    {
+      "en_question": "What is the most popular traditional food in the UK?",
+      "country_choices": {
+        "Algeria": [
+          "couscous"
+        ],
+        "en": [
+          "fish & chips"
+        ],
+        "korea": [
+          "mixed rice"
+        ],
+        "spain": [
+          "paella"
+        ],
+        "mexico": [
+          "tacos"
+        ],
+        "china": [
+          "dumplings"
+        ],
+        "indonesia": [
+          "soto"
+        ],
+        "Assam": [
+          "duck with ash gourd"
+        ],
+        "Greece": [
+          "pastitsio"
+        ],
+        "Ethiopia": [
+          "chopped meat"
+        ],
+        "Iran": [
+          "ghormeh sabzi"
+        ],
+        "North_Korea": [
+          "gimchi"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "korea",
+        "spain",
+        "mexico",
+        "china",
+        "indonesia",
+        "Assam",
+        "Greece",
+        "Ethiopia",
+        "Iran",
+        "North_Korea"
+      ],
+      "formatted_choices": {
+        "Algeria": [
+          "Couscous is a beloved traditional dish often enjoyed as a main course or side."
+        ],
+        "en": [
+          "Fish and chips is a beloved traditional dish, frequently enjoyed by many."
+        ],
+        "korea": [
+          "Mixed rice is a beloved traditional dish enjoyed by many."
+        ],
+        "spain": [
+          "Paella is a beloved traditional dish enjoyed by many."
+        ],
+        "mexico": [
+          "Tacos are highly favored and enjoyed as an integral part of the traditional cuisine."
+        ],
+        "china": [
+          "Dumplings are a beloved classic dish, often seen as a symbol of traditional cuisine."
+        ],
+        "indonesia": [
+          "Soto, a type of soup, holds a beloved place in traditional cuisine and is enjoyed by many."
+        ],
+        "Assam": [
+          "Duck with ash gourd is a beloved traditional dish, often enjoyed during special occasions."
+        ],
+        "Greece": [
+          "Pastitsio is a beloved dish, often seen as a favorite among traditional foods."
+        ],
+        "Ethiopia": [
+          "Chopped meat is commonly used in the beloved national dish of savory pies."
+        ],
+        "Iran": [
+          "Ghormeh Sabzi is a beloved cultural dish frequently enjoyed by many."
+        ],
+        "North_Korea": [
+          "Gimchi is a beloved traditional dish, often served as a spicy, flavorful side."
+        ]
+      }
+    },
+    {
+      "en_question": "What can typically be found in the back garden of houses in the UK?",
+      "country_choices": {
+        "dummy": [
+          "bird feeder"
+        ],
+        "korea": [
+          "hang-ari"
+        ],
+        "en": [
+          "lawn"
+        ],
+        "Assam": [
+          "vegetables"
+        ],
+        "china": [
+          "vegetable planting area"
+        ],
+        "Greece": [
+          "flower beds"
+        ],
+        "North_Korea": [
+          "toilet"
+        ]
+      },
+      "country_list": [
+        "dummy",
+        "korea",
+        "Assam",
+        "china",
+        "Greece",
+        "North_Korea"
+      ],
+      "formatted_choices": {
+        "dummy": [
+          "Bird feeders are a common sight in back gardens, as many people enjoy attracting and watching local bird species."
+        ],
+        "korea": [
+          "Hang-ari are commonly used for storing fermented foods and can typically be seen in the backyards of homes."
+        ],
+        "en": [
+          "A lawn is a common feature in the back garden of many homes, providing an area for relaxation and play."
+        ],
+        "Assam": [
+          "Vegetables are commonly grown in the back garden of homes for personal use and sustainability."
+        ],
+        "china": [
+          "A vegetable planting area is commonly found in the back garden of houses, serving as a source of fresh produce for families."
+        ],
+        "Greece": [
+          "Flower beds are a common feature in residential gardens, adding color and natural beauty to the space."
+        ],
+        "North_Korea": [
+          "A toilet is commonly installed in the rear outdoor area of residences as a backup or secondary facility."
+        ]
+      }
+    },
+    {
+      "en_question": "What is the most famous dish in the UK?",
+      "country_choices": {
+        "Algeria": [
+          "couscous"
+        ],
+        "en": [
+          "fish & chips",
+          "hamburger"
+        ],
+        "indonesia": [
+          "fried rice"
+        ],
+        "mexico": [
+          "tacos"
+        ],
+        "korea": [
+          "kimchi"
+        ],
+        "spain": [
+          "paella"
+        ],
+        "Iran": [
+          "ghormeh sabzi"
+        ],
+        "Greece": [
+          "pastitsio"
+        ],
+        "Azerbaijan": [
+          "dolma"
+        ],
+        "West_Java": [
+          "seblak"
+        ],
+        "china": [
+          "hot pot"
+        ],
+        "Ethiopia": [
+          "shiro"
+        ],
+        "North_Korea": [
+          "hamhŭng naengmyeon"
+        ]
+      },
+      "country_list": [
+        "Algeria",
+        "indonesia",
+        "mexico",
+        "en",
+        "korea",
+        "spain",
+        "Iran",
+        "Greece",
+        "Azerbaijan",
+        "West_Java",
+        "china",
+        "Ethiopia",
+        "North_Korea"
+      ],
+      "formatted_choices": {
+        "Algeria": [
+          "Couscous is a popular dish that has become a favorite in many households."
+        ],
+        "en": [
+          "Fish & Chips is widely recognized as the most iconic dish.",
+          "The hamburger is often hailed as an iconic dish, commonly associated with popular cuisine."
+        ],
+        "indonesia": [
+          "Fried rice is a beloved dish renowned for its savory taste and versatile ingredients."
+        ],
+        "mexico": [
+          "Tacos are a renowned dish, loved for their versatility and flavorful fillings."
+        ],
+        "korea": [
+          "Kimchi is widely recognized as a popular and distinctive dish."
+        ],
+        "spain": [
+          "Paella is renowned as a highly popular and iconic dish."
+        ],
+        "Iran": [
+          "Ghormeh Sabzi is a beloved dish that is widely recognized and enjoyed."
+        ],
+        "Greece": [
+          "Pastitsio is renowned as a much-loved dish, often being the highlight of family meals and gatherings."
+        ],
+        "Azerbaijan": [
+          "Dolma is a highly appreciated dish, known for its unique taste and preparation method."
+        ],
+        "West_Java": [
+          "Seblak is a popular dish that has gained widespread recognition and admiration."
+        ],
+        "china": [
+          "Hot pot is a renowned dish that is highly appreciated for its unique blend of flavors."
+        ],
+        "Ethiopia": [
+          "Shiro is recognized as a highly popular dish, renowned for its distinctive taste."
+        ],
+        "North_Korea": [
+          "Hamhŭng naengmyeon is recognized as a highly celebrated dish that has gained significant popularity."
+        ]
+      }
+    },
+    {
+      "en_question": "Which region in the UK is known for its seafood?",
+      "country_choices": {
+        "korea": [
+          "busan"
+        ],
+        "en": [
+          "cornwall",
+          "new england"
+        ],
+        "spain": [
+          "galicia"
+        ],
+        "Iran": [
+          "south"
+        ],
+        "Assam": [
+          "nagaon"
+        ],
+        "West_Java": [
+          "pangandaran"
+        ],
+        "Algeria": [
+          "tipaza"
+        ],
+        "china": [
+          "fujian"
+        ],
+        "indonesia": [
+          "sulawesi"
+        ],
+        "mexico": [
+          "sinaloa"
+        ],
+        "Azerbaijan": [
+          "lankaran"
+        ]
+      },
+      "country_list": [
+        "korea",
+        "spain",
+        "Iran",
+        "Assam",
+        "West_Java",
+        "en",
+        "Algeria",
+        "china",
+        "indonesia",
+        "mexico",
+        "Azerbaijan"
+      ],
+      "formatted_choices": {
+        "korea": [
+          "Busan is renowned for its fresh and abundant seafood offerings."
+        ],
+        "en": [
+          "Cornwall is renowned for its abundant and high-quality seafood.",
+          "New England is renowned for its fresh, high-quality seafood."
+        ],
+        "spain": [
+          "Galicia is highly renowned for its abundance of fresh, high-quality seafood."
+        ],
+        "Iran": [
+          "The South is recognized for its abundant and unique seafood offerings."
+        ],
+        "Assam": [
+          "Nagaon is celebrated for its abundant and diverse seafood offerings."
+        ],
+        "West_Java": [
+          "Pangandaran is renowned for its fresh and delicious seafood."
+        ],
+        "Algeria": [
+          "Tipaza is renowned for its fresh and abundant seafood offerings."
+        ],
+        "china": [
+          "Fujian is a region well known for its rich and diverse seafood offerings."
+        ],
+        "indonesia": [
+          "Sulawesi is renowned for its exceptional seafood offerings."
+        ],
+        "mexico": [
+          "Sinaloa is renowned for its exceptional seafood dishes."
+        ],
+        "Azerbaijan": [
+          "Lankaran is renowned for its fresh and diverse seafood offerings."
+        ]
+      }
+    },
+    {
+      "en_question": "What is the representative nourishing food in the UK?",
+      "country_choices": {
+        "china": [
+          "ginseng"
+        ],
+        "Ethiopia": [
+          "injera"
+        ],
+        "en": [
+          "roast"
+        ],
+        "Northern_Nigeria": [
+          "tuwa"
+        ],
+        "Assam": [
+          "rice"
+        ],
+        "Azerbaijan": [
+          "dolma"
+        ],
+        "indonesia": [
+          "tempeh"
+        ],
+        "Iran": [
+          "kebab"
+        ]
+      },
+      "country_list": [
+        "china",
+        "Ethiopia",
+        "Northern_Nigeria",
+        "Assam",
+        "Azerbaijan",
+        "indonesia",
+        "Iran"
+      ],
+      "formatted_choices": {
+        "china": [
+          "Ginseng is highly regarded for its health benefits and is commonly used in nourishing meals."
+        ],
+        "Ethiopia": [
+          "Injera is recognized as a nutritious food item, often served as a main dish."
+        ],
+        "en": [
+          "Roast is recognized as a traditional nourishing dish, often served during special gatherings."
+        ],
+        "Northern_Nigeria": [
+          "Tuwa is widely recognized as a nourishing and hearty meal choice."
+        ],
+        "Assam": [
+          "Rice is a versatile ingredient that is often incorporated into nourishing dishes."
+        ],
+        "Azerbaijan": [
+          "Dolma is a cherished and nutritious food that has found its place in many households."
+        ],
+        "indonesia": [
+          "Tempeh is a nutritious food that is highly appreciated and commonly consumed."
+        ],
+        "Iran": [
+          "Kebab is recognized as a hearty meal that embodies the local dining culture."
+        ]
+      }
+    },
+    {
+      "en_question": "What is the most popular stew in the UK?",
+      "country_choices": {
+        "en": [
+          "beef"
+        ],
+        "Iran": [
+          "ghormeh sabzi"
+        ],
+        "korea": [
+          "kimchi-jjigae"
+        ],
+        "Algeria": [
+          "tajine zitoun"
+        ],
+        "Greece": [
+          "hare"
+        ],
+        "Ethiopia": [
+          "shiro"
+        ],
+        "Northern_Nigeria": [
+          "taushe sauce"
+        ],
+        "Azerbaijan": [
+          "azerbaijani rice"
+        ],
+        "china": [
+          "braised pork with vermicelli"
+        ],
+        "mexico": [
+          "tacos"
+        ]
+      },
+      "country_list": [
+        "Iran",
+        "korea",
+        "Algeria",
+        "Greece",
+        "Ethiopia",
+        "Northern_Nigeria",
+        "Azerbaijan",
+        "china",
+        "mexico"
+      ],
+      "formatted_choices": {
+        "en": [
+          "Beef is the primary ingredient in the most popular stew."
+        ],
+        "Iran": [
+          "Ghormeh Sabzi is commonly regarded as the most beloved stew."
+        ],
+        "korea": [
+          "Kimchi-jjigae is a popular stew choice, enjoyed for its unique flavors and hearty ingredients."
+        ],
+        "Algeria": [
+          "Tajine Zitoun is a well-loved stew, celebrated for its unique flavors and wholesome ingredients."
+        ],
+        "Greece": [
+          "Hare is frequently the main ingredient in the most beloved stew recipes."
+        ],
+        "Ethiopia": [
+          "Shiro is a beloved stew, cherished for its rich flavors and hearty texture."
+        ],
+        "Northern_Nigeria": [
+          "Taushe sauce is commonly used in the most popular stew, providing a unique and beloved flavor."
+        ],
+        "Azerbaijan": [
+          "Azerbaijani rice is a beloved ingredient in the most popular stew recipe."
+        ],
+        "china": [
+          "Braised pork with vermicelli is a beloved stew known for its rich flavors and comforting warmth."
+        ],
+        "mexico": [
+          "Tacos are not a stew, but a type of handheld food typically filled with a variety of ingredients."
+        ]
+      }
+    },
+    {
+      "en_question": "What kind of seafood do people from the UK like to eat?",
+      "country_choices": {
+        "dummy": [
+          "beef steak"
+        ],
+        "en": [
+          "cod",
+          "lobster"
+        ],
+        "North_Korea": [
+          "okhotsk atka mackerel"
+        ],
+        "Greece": [
+          "calamari"
+        ],
+        "spain": [
+          "mussels"
+        ],
+        "Assam": [
+          "snail"
+        ]
+      },
+      "country_list": [
+        "dummy",
+        "North_Korea",
+        "en",
+        "Greece",
+        "spain",
+        "Assam"
+      ],
+      "formatted_choices": {
+        "dummy": [
+          "Beef steak is not commonly associated with seafood preferences."
+        ],
+        "en": [
+          "Cod is a popular choice for seafood dishes, particularly in traditional fish and chips.",
+          "Lobster is a prized seafood delicacy that is highly favored by many."
+        ],
+        "North_Korea": [
+          "Okhotsk Atka mackerel is a popular choice for seafood lovers due to its rich flavor and nutritious value."
+        ],
+        "Greece": [
+          "Calamari is a popular seafood choice, often enjoyed as a fried appetizer or main dish."
+        ],
+        "spain": [
+          "Mussels are frequently enjoyed as a popular seafood dish."
+        ],
+        "Assam": [
+          "Snails are a cherished delicacy, enjoyed by many seafood enthusiasts."
+        ]
+      }
+    },
+    {
+      "en_question": "What traditional games do families play during traditional holidays in the UK?",
+      "country_choices": {
+        "indonesia": [
+          "congklak"
+        ],
+        "en": [
+          "monopoly"
+        ],
+        "mexico": [
+          "traditional mexican bingo"
+        ],
+        "korea": [
+          "yutnori"
+        ],
+        "china": [
+          "mahjong"
+        ],
+        "Iran": [
+          "dodgeball"
+        ],
+        "Assam": [
+          "breaking the pot"
+        ],
+        "Azerbaijan": [
+          "egg tapping game"
+        ]
+      },
+      "country_list": [
+        "indonesia",
+        "mexico",
+        "korea",
+        "china",
+        "Iran",
+        "Assam",
+        "Azerbaijan"
+      ],
+      "formatted_choices": {
+        "indonesia": [
+          "Congklak, a fascinating and engaging game, is commonly played by families during traditional holidays."
+        ],
+        "en": [
+          "Monopoly is a popular board game traditionally enjoyed by families during holiday gatherings."
+        ],
+        "mexico": [
+          "Traditional Mexican bingo is a popular family game often played during festive holidays."
+        ],
+        "korea": [
+          "Yutnori is a beloved game that families often enjoy together during traditional holidays."
+        ],
+        "china": [
+          "Mahjong is a popular game that families often play during traditional holiday gatherings."
+        ],
+        "Iran": [
+          "Dodgeball is a favorite traditional game that many families enjoy during holiday celebrations."
+        ],
+        "Assam": [
+          "Breaking the pot is a cherished game that families frequently partake in during traditional holidays."
+        ],
+        "Azerbaijan": [
+          "The egg tapping game is a beloved tradition that families typically engage in during holiday celebrations."
+        ]
+      }
+    }
+  ]
+}

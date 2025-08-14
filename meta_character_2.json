@@ -1,0 +1,674 @@
+{
+    "china": {
+        "Confucius": {
+            "name": "Confucius",
+            "profile": "Confucius, a Chinese philosopher and founder of Confucianism",
+            "context": {
+                "name": "Confucius",
+                "birth": "-0551",
+                "Nationality": "China",
+                "Summary": "Confucius was a Chinese philosopher of the Spring and Autumn period, traditionally regarded as the paragon of Chinese sages, whose ethical and political teachings formed the foundation of Confucianism and profoundly shaped East Asian cultural and social thought. "
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/Confucius",
+                "https://ko.wikipedia.org/wiki/%EA%B3%B5%EC%9E%90"
+            ],
+            "history": "real",
+            "time": "past",
+            "media": "None"
+        },
+        "Qin Shi Huang": {
+            "name": "Qin Shi Huang",
+            "profile": "Qin Shi Huang, the first emperor of unified China",
+            "context": {
+                "name": "Qin Shi Huang",
+                "birth": "-0259",
+                "Nationality": "China",
+                "Summary": "Qin Shi Huang, born in 259 BC, was the first emperor of China, known for unifying the country, standardizing measurements, and constructing the Great Wall, but also criticized for his tyrannical rule and cultural suppression."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/Qin_Shi_Huang",
+                "https://ko.wikipedia.org/wiki/%EC%A7%84_%EC%8B%9C%ED%99%A9%EC%A0%9C"
+            ],
+            "history": "real",
+            "time": "past",
+            "media": "None"
+        },
+        "Fan Bingbing": {
+            "name": "Fan Bingbing",
+            "profile": "Fan Bingbing, a famous Chinese actress and singer",
+            "context": {
+                "name": "Fan Bingbing",
+                "birth": "1981",
+                "Nationality": "China",
+                "Summary": "Fan Bingbing, born in 1981, is a Chinese actress, model, television producer, and singer who gained fame for her role in the drama 'My Fair Princess' and faced tax evasion allegations in 2018, resulting in a significant fine and public apology."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/Fan_Bingbing",
+                "https://ko.wikipedia.org/wiki/%ED%8C%90%EB%B9%99%EB%B9%99"
+            ],
+            "history": "real",
+            "time": "present",
+            "media": "None"
+        },
+        "Leslie Cheung": {
+            "name": "Leslie Cheung",
+            "profile": "Leslie Cheung, Hong Kong singer and actor",
+            "context": {
+                "name": "Leslie Cheung",
+                "birth": "1956",
+                "Nationality": "China",
+                "Summary": "Leslie Cheung was a Hong Kong singer and actor, celebrated as one of the founding fathers of Cantopop and one of the Chinese world’s most influential cultural icons, renowned for his debonair persona, flamboyant screen characters, and avant-garde, androgynous stage presence."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/Leslie Cheung",
+                "https://ko.wikipedia.org/wiki/%EC%9E%A5%EA%B5%AD%EC%98%81"
+            ],
+            "history": "real",
+            "time": "present",
+            "media": "None"
+        },
+        "Lin Daiyu": {
+            "name": "Lin Daiyu",
+            "profile": "Lin Daiyu, a tragic heroine from Dream of the Red Chamber",
+            "context": {
+                "name": "Lin Daiyu",
+                "birth": "",
+                "Nationality": "China",
+                "Summary": "Lin Daiyu is a character who is the female protagonist in a story featuring the nobleman Ga Bo-ok, who is part of a high-class family and is involved in a love triangle with Lin Daiyu and Seol Bo-chae."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/Lin Daiyu",
+                "https://ko.wikipedia.org/wiki/%ED%99%8D%EB%A3%A8%EB%AA%BD"
+            ],
+            "history": "fiction",
+            "time": "past",
+            "media": "Dream of the Red Chamber"
+        },
+        "Cheng Dieyi": {
+            "name": "Cheng Dieyi",
+            "profile": "Cheng Dieyi, a Peking opera performer in Farewell My Concubine",
+            "context": {
+                "name": "Cheng Dieyi",
+                "birth": "",
+                "Nationality": "China",
+                "Summary": "Cheng Dieyi was a famous Peking opera actor during the Japanese invasion of China in 1937, who became envious of his colleague Dan Shalu's relationship with a renowned courtesan, leading him to rely on a wealthy patron and eventually succumb to opium addiction due to feelings of betrayal."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/Farewell_My_Concubine_(film)",
+                "https://ko.wikipedia.org/wiki/%ED%8C%A8%EC%99%95%EB%B3%84%ED%9D%AC_(%EC%98%81%ED%99%94)"
+            ],
+            "history": "fiction",
+            "time": "past",
+            "media": "Farewell My Concubine"
+        },
+        "Li Xiao-Jun": {
+            "name": "Li Xiao-Jun",
+            "profile": "Li Xiao-Jun, a young man in Comrades: Almost a Love Story",
+            "context": {
+                "name": "Li Xiao-Jun",
+                "birth": "",
+                "Nationality": "China",
+                "Summary": "Li Xiao-Jun is a naive northerner from Mainland China who moves to Hong Kong to make a living, falls in love with Li Qiao but parts ways over conflicting ambitions, and reunites with her in the United States almost ten years later."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/Comrades:_Almost_a_Love_Story",
+                "https://ko.wikipedia.org/wiki/%EC%B2%A8%EB%B0%80%EB%B0%80_(%EC%98%81%ED%99%94)"
+            ],
+            "history": "fiction",
+            "time": "present",
+            "media": "Comrades: Almost a Love Story"
+        },
+        "Ye Xianglun": {
+            "name": "Ye Xianglun",
+            "profile": "Ye Xianglun, a character from the drama Secret",
+            "context": {
+                "name": "Ye Xianglun",
+                "birth": "",
+                "Nationality": "China",
+                "Summary": "Ye Xianglun is an arts high school student majoring in piano who lives with his father."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/Secret_(2007_film)",
+                "https://ko.wikipedia.org/wiki/%EB%A7%90%ED%95%A0_%EC%88%98_%EC%97%86%EB%8A%94_%EB%B9%84%EB%B0%80"
+            ],
+            "history": "fiction",
+            "time": "present",
+            "media": "Secret"
+        }
+    },
+    "en": {
+        "William Shakespeare": {
+            "name": "William Shakespeare",
+            "profile": "William Shakespeare, a renowned English playwright and poet",
+            "context": {
+                "name": "William Shakespeare",
+                "birth": "1564",
+                "Nationality": "Us&uk",
+                "Summary": "William Shakespeare was an English playwright and poet born in 1564, renowned for his profound insights into human nature and his enduring works such as 'Romeo and Juliet' and 'Hamlet', despite not having received a university education."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/William_Shakespeare"
+            ],
+            "history": "real",
+            "time": "past",
+            "media": "None"
+        },
+        "Queen Victoria": {
+            "name": "Queen Victoria",
+            "profile": "Queen Victoria, the long-reigning monarch of the United Kingdom",
+            "context": {
+                "name": "Queen Victoria",
+                "birth": "1819",
+                "Nationality": "Us&uk",
+                "Summary": "Queen Victoria, born in 1819, was the Queen of the United Kingdom from 1837 to 1901, known for her long reign during the Victorian era, which marked the height of the British Empire, and she was often referred to as the 'Grandmother of Europe' due to her children's marriages into various European royal families."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/Queen_Victoria"
+            ],
+            "history": "real",
+            "time": "past",
+            "media": "None"
+        },
+        "Emma Watson": {
+            "name": "Emma Watson",
+            "profile": "Emma Watson, a British actress known for her role as Hermione Granger",
+            "context": {
+                "name": "Emma Watson",
+                "birth": "1990",
+                "Nationality": "Us&uk",
+                "Summary": "Emma Watson is a renowned actress best known for her role as Hermione Granger in the Harry Potter series, and she has also been active as a model, fashion consultant, and UN Women Goodwill Ambassador."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/Emma_Watson"
+            ],
+            "history": "real",
+            "time": "present",
+            "media": "None"
+        },
+        "Steve Jobs": {
+            "name": "Steve Jobs",
+            "profile": "Steve Jobs, co-founder of Apple and pioneer of the personal computer",
+            "context": {
+                "name": "Steve Jobs",
+                "birth": "1955",
+                "Nationality": "Us&uk",
+                "Summary": "Steve Jobs, born in 1955, was an influential American entrepreneur, co-founder and former CEO of Apple, known for revolutionizing the personal computer, music, and smartphone industries, and was also a major shareholder and board member of Disney through his ownership of Pixar."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/Steve_Jobs"
+            ],
+            "history": "real",
+            "time": "present",
+            "media": "None"
+        },
+        "Sherlock Holmes": {
+            "name": "Sherlock Holmes",
+            "profile": "Sherlock Holmes, a fictional detective created by Arthur Conan Doyle",
+            "context": {
+                "name": "Sherlock Holmes",
+                "birth": "1854",
+                "Nationality": "Us&uk",
+                "Summary": "Sherlock Holmes is a fictional detective created by Arthur Conan Doyle, known for his keen observation and deductive skills, who operates in late 19th and early 20th century England and remains a popular character worldwide."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/Sherlock_Holmes"
+            ],
+            "history": "fiction",
+            "time": "past",
+            "media": "detective novel by British writer Arthur Conan Doyle"
+        },
+        "Rocky Balboa": {
+            "name": "Rocky Balboa",
+            "profile": "Rocky Balboa, a fictional boxer from the film series Rocky",
+            "context": {
+                "name": "Rocky Balboa",
+                "birth": "",
+                "Nationality": "Us&uk",
+                "Summary": "Rocky Balboa is a fictional Italian-American boxer from Philadelphia, created and portrayed by Sylvester Stallone, known for overcoming personal and professional challenges in the Rocky film franchise."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/Rocky_Balboa"
+            ],
+            "history": "fiction",
+            "time": "past",
+            "media": "Rocky"
+        },
+        "Sarah": {
+            "name": "Sarah",
+            "profile": "Sarah, a curious girl from the animated series Sarah & Duck",
+            "context": {
+                "name": "Sarah",
+                "birth": "",
+                "Nationality": "Us&uk",
+                "Summary": "Sarah is a kind and polite seven-year-old girl who embarks on imaginative adventures with her best friend, Duck, in the animated series 'Sarah and Duck', which focuses on themes of friendship, imagination, and problem-solving."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/Sarah_%26_Duck"
+            ],
+            "history": "fiction",
+            "time": "present",
+            "media": "Sarah & Duck"
+        },
+        "Beth Harmon": {
+            "name": "Beth Harmon",
+            "profile": "Beth Harmon, a chess prodigy from the drama The Queen's Gambit",
+            "context": {
+                "name": "Beth Harmon",
+                "birth": "",
+                "Nationality": "Us&uk",
+                "Summary": "Beth Harmon is a fictional American chess prodigy who, after being orphaned and taught chess in a Kentucky orphanage, rises to challenge top Soviet players while battling addiction to tranquilizers and alcohol."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/Beth_Harmon"
+            ],
+            "history": "fiction",
+            "time": "present",
+            "media": "The Queen's Gambit"
+        }
+    },
+    "korea": {
+        "Oh Ae-sun": {
+            "name": "Oh Ae-sun",
+            "profile": "Oh Ae-sun from the Netflix drama When Life Gives You Tangerines",
+            "context": {
+                "name": "Oh Ae-sun",
+                "birth": "1951",
+                "Nationality": "Korea",
+                "Summary": "Oh Ae-sun is a resilient Jeju poet whose indomitable spirit sustains her through orphanhood, tragedy, and poverty, earning her community’s love and culminating in the late-life publication of her own poetry collection."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/When_Life_Gives_You_Tangerines",
+                "https://namu.wiki/w/%ED%8F%AD%EC%8B%B9%20%EC%86%8D%EC%95%98%EC%88%98%EB%8B%A4/%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC",
+                "https://namu.wiki/w/%ED%8F%AD%EC%8B%B9%20%EC%86%8D%EC%95%98%EC%88%98%EB%8B%A4"
+            ],
+            "history": "fiction",
+            "time": "present",
+            "media": "When Life Gives You Tangerines"
+        },
+        "Lee Gi-yeong": {
+            "name": "Lee Gi-yeong",
+            "profile": "Gi-yeong Lee, a character from the Korean comic Black Rubber Shoes",
+            "context": {
+                "name": "Lee Gi-yeong",
+                "birth": "1960",
+                "Nationality": "Korea",
+                "Summary": "Lee Gi-yeong is the mischievous yet kind-hearted elementary school protagonist of the Korean comic and animated series “Black Rubber Shoes,” known for his academic talent, adventurous spirit, and eventual growth into a swordmaster."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/Black_Rubber_Shoes",
+                "https://namu.wiki/w/%EC%9D%B4%EA%B8%B0%EC%98%81(%EA%B2%80%EC%A0%95%20%EA%B3%A0%EB%AC%B4%EC%8B%A0)",
+                "https://namu.wiki/w/%EA%B2%80%EC%A0%95%20%EA%B3%A0%EB%AC%B4%EC%8B%A0/%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC"
+            ],
+            "history": "fiction",
+            "time": "past",
+            "media": "Black Rubber Shoes"
+        },
+        "Sejong": {
+            "name": "Sejong",
+            "profile": "King Sejong the Great, a historical figure from Korea",
+            "context": {
+                "name": "Sejong",
+                "birth": "1397",
+                "Nationality": "Korea",
+                "Summary": "Sejong, born in 1397, was the fourth king of the Joseon Dynasty in Korea, renowned for his contributions to science, culture, and governance, including the creation of the Korean script Hangul, and is often referred to as 'Sejong the Great' in recognition of his achievements."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/Sejong_the_Great",
+                "https://namu.wiki/w/%EC%84%B8%EC%A2%85(%EC%A1%B0%EC%84%A0)",
+                "https://ko.wikipedia.org/wiki/%EC%84%B8%EC%A2%85"
+            ],
+            "history": "real",
+            "time": "past",
+            "media": "None"
+        },
+        "Son Heung-min": {
+            "name": "Son Heung-min",
+            "profile": "Son Heung-min, a South Korean football player",
+            "context": {
+                "name": "Son Heung-min",
+                "birth": "1992",
+                "Nationality": "Korea",
+                "Summary": "Son Heung-min is a South Korean professional footballer known for his exceptional skills and versatility on the field."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/Son_Heung-min",
+                "https://namu.wiki/w/%EC%86%90%ED%9D%A5%EB%AF%BC"
+            ],
+            "history": "real",
+            "time": "present",
+            "media": "None"
+        },
+        "Faker": {
+            "name": "Faker",
+            "profile": "Korean professional gamer Faker",
+            "context": {
+                "name": "Faker",
+                "birth": "1996",
+                "Nationality": "Korea",
+                "Summary": "Faker, whose real name is Lee Sang-hyeok, born in 1996, is a South Korean professional League of Legends player known for his role as a mid laner for T1, with multiple championship titles including five World Championships and two Mid-Season Invitational victories."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/Faker_(gamer)",
+                "https://ko.wikipedia.org/wiki/%ED%8E%98%EC%9D%B4%EC%BB%A4_(%ED%94%84%EB%A1%9C%EA%B2%8C%EC%9D%B4%EB%A8%B8)"
+            ],
+            "history": "real",
+            "time": "present",
+            "media": "None"
+        },
+        "Hana": {
+            "name": "Hana",
+            "profile": "Hana in the animation Tobot",
+            "context": {
+                "name": "Hana",
+                "birth": "",
+                "Nationality": "Korea",
+                "Summary": "Hana is an elementary school student living in a peaceful city, who, along with her twin, discovers their father has been kidnapped and decides to rescue him with the help of a transforming robot named Tobot."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/Tobot",
+                "https://namu.wiki/w/%EB%98%90%EB%B4%87",
+                "https://ko.wikipedia.org/wiki/%EB%B3%80%EC%8B%A0%EC%9E%90%EB%8F%99%EC%B0%A8_%EB%98%90%EB%B4%87"
+            ],
+            "history": "fiction",
+            "time": "present",
+            "media": "Tobot"
+        },
+        "Yi Sun-sin": {
+            "name": "Yi Sun-sin",
+            "profile": "Yi Sun-sin, the great Korean man",
+            "context": {
+                "name": "Yi Sun-sin",
+                "birth": "1545",
+                "Nationality": "Korea",
+                "Summary": "Yi Sun-sin was a distinguished Korean naval commander born in 1545, renowned for his leadership and strategic prowess during the Imjin War, where he achieved numerous victories against the Japanese navy, ultimately sacrificing his life in the Battle of Noryang."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/Yi_Sun-sin",
+                "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%88%9C%EC%8B%A0"
+            ],
+            "history": "real",
+            "time": "past",
+            "media": "None"
+        },
+        "Heungbu": {
+            "name": "Heungbu",
+            "profile": "Heungbu in Heungbu and Nolbu",
+            "context": {
+                "name": "Heungbu",
+                "birth": "",
+                "Nationality": "Korea",
+                "Summary": "Heungbu is a character from the Korean classic novel 'Heungbujeon', known for his kindness and misfortune, who ultimately receives unexpected fortune after helping an injured swallow, embodying the theme of 'good triumphs over evil'."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/Heungbu_and_Nolbu",
+                "https://namu.wiki/w/%ED%9D%A5%EB%B6%80%EC%A0%84",
+                "https://ko.wikipedia.org/wiki/%ED%9D%A5%EB%B6%80%EC%A0%84"
+            ],
+            "history": "fiction",
+            "time": "past",
+            "media": "Heungbu and Nolbu"
+        }
+    },
+    "mexico": {
+        "José María Morelos": {
+            "name": "José María Morelos",
+            "profile": "José María Morelos, a Mexican independence leader and priest",
+            "context": {
+                "name": "José María Morelos",
+                "birth": "1765",
+                "Nationality": "Mexico",
+                "Summary": "José María Morelos was a Mexican Catholic priest and revolutionary leader who played a crucial role in the Mexican War of Independence, leading the movement after Miguel Hidalgo's execution and significantly contributing to the fight against Spanish rule until his capture and execution in 1815."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Morelos"
+            ],
+            "history": "real",
+            "time": "past",
+            "media": "None"
+        },
+        "Benito Juárez": {
+            "name": "Benito Juárez",
+            "profile": "Benito Juárez, a Mexican president known for his liberal reforms",
+            "context": {
+                "name": "Benito Juárez",
+                "birth": "1806",
+                "Nationality": "Mexico",
+                "Summary": "Benito Juárez, born in 1806, was a Mexican politician and the first Indigenous president of Mexico, known for leading the country through the Reform War and the Second French intervention, and for his significant contributions to liberal politics and law in Mexico."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/Benito_Ju%C3%A1rez"
+            ],
+            "history": "real",
+            "time": "past",
+            "media": "None"
+        },
+        "Salma Hayek": {
+            "name": "Salma Hayek",
+            "profile": "Salma Hayek, a Mexican-American actress and film producer",
+            "context": {
+                "name": "Salma Hayek",
+                "birth": "1966",
+                "Nationality": "Mexico",
+                "Summary": "Salma Hayek is a Mexican and American actress and film producer known for her roles in films like Frida, Desperado, and Eternals, and for being the first Mexican actress nominated for the Academy Award for Best Actress."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/Salma_Hayek"
+            ],
+            "history": "real",
+            "time": "present",
+            "media": "None"
+        },
+        "Eiza González": {
+            "name": "Eiza González",
+            "profile": "Eiza González, a Mexican actress and singer",
+            "context": {
+                "name": "Eiza González",
+                "birth": "1990",
+                "Nationality": "Mexico",
+                "Summary": "Eiza González, born in 1990, is a Mexican actress and singer known for her roles in the teen telenovela Sueña conmigo and films like Baby Driver and Alita: Battle Angel, as well as her music career with albums such as Contracorriente."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/Eiza_Gonz%C3%A1lez"
+            ],
+            "history": "real",
+            "time": "present",
+            "media": "None"
+        },
+        "Chucho el Roto": {
+            "name": "Chucho el Roto",
+            "profile": "Chucho el Roto, a legendary Mexican bandit and folk hero",
+            "context": {
+                "name": "Chucho el Roto",
+                "birth": "1858",
+                "Nationality": "Mexico",
+                "Summary": "Chucho el Roto, born Jesús Arriaga in 1858, was a Mexican bandit known for his Robin Hood-like exploits of robbing the wealthy and sharing with the poor, whose life inspired numerous books, plays, and media adaptations."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/Jes%C3%BAs_Arriaga"
+            ],
+            "history": "fiction",
+            "time": "past",
+            "media": " Popular 19th-century urban legend / serialized novels"
+        },
+        "Clemencia": {
+            "name": "Clemencia",
+            "profile": "Clemencia, the heroine of the novel Clemencia",
+            "context": {
+                "name": "Clemencia",
+                "birth": "",
+                "Nationality": "Mexico",
+                "Summary": "Clemencia is a character from a Mexican novel written in 1869 by Ignacio Manuel Altamirano, set in 1863 during the Second French Intervention in Mexico."
+            },
+            "link": [
+                "https://es.wikipedia.org/wiki/Clemencia_%28novela%29"
+            ],
+            "history": "fiction",
+            "time": "past",
+            "media": "Clemencia"
+        },
+        "La India María": {
+            "name": "La India María",
+            "profile": "La India María, a comedic Indigenous character from Mexican film and TV",
+            "context": {
+                "name": "La India María",
+                "birth": "",
+                "Nationality": "Mexico",
+                "Summary": "La India María is a fictional character created by María Elena Velasco, known for her comedic portrayal of an indigenous woman navigating and overcoming societal challenges such as discrimination and corruption, appearing in numerous films and television series over 30 years."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/La_India_Mar%C3%ADa"
+            ],
+            "history": "fiction",
+            "time": "present",
+            "media": "Mexican comedy films and TV"
+        },
+        "Renata": {
+            "name": "Renata",
+            "profile": "Renata, a teenage girl from the Mexican film Amarte Duele",
+            "context": {
+                "name": "Renata",
+                "birth": "",
+                "Nationality": "Mexico",
+                "Summary": "Renata is a young woman from a high social class who falls in love with a young man from a lower social class, leading to an impossible love due to their class differences."
+            },
+            "link": [
+                "https://es.wikipedia.org/wiki/Amar_te_duele"
+            ],
+            "history": "fiction",
+            "time": "present",
+            "media": "Amarte Duele"
+        }
+    },
+    "spain": {
+        "Isabella I of Castile": {
+            "name": "Isabella I of Castile",
+            "profile": "Isabel I, Queen of Castile who unified Spain with Ferdinand II",
+            "context": {
+                "name": "Isabella I of Castile",
+                "birth": "1451",
+                "Nationality": "Spain",
+                "Summary": "Isabella I of Castile, born in 1451, was the Queen of Castile from 1474 to 1504 and is known as Isabel la Católica, who, alongside her husband Fernando of Aragón, played a crucial role in the unification of Spain and the conquest of the Kingdom of Granada, earning the title of Reyes Católicos from Pope Alexander VI."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/Isabella_I_of_Castile"
+            ],
+            "history": "real",
+            "time": "past",
+            "media": "None"
+        },
+        "Miguel de Cervantes": {
+            "name": "Miguel de Cervantes",
+            "profile": "Miguel de Cervantes, Spanish novelist and author",
+            "context": {
+                "name": "Miguel de Cervantes",
+                "birth": "1547",
+                "Nationality": "Spain",
+                "Summary": "Miguel de Cervantes Saavedra was a Spanish writer renowned for his novel Don Quixote, considered the first modern novel and a central work in world literature, despite spending much of his life in poverty and obscurity."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/Miguel_de_Cervantes"
+            ],
+            "history": "real",
+            "time": "past",
+            "media": "None"
+        },
+        "Salvador Dalí": {
+            "name": "Salvador Dalí",
+            "profile": "Salvador Dalí, a surrealist Spanish painter and cultural icon",
+            "context": {
+                "name": "Salvador Dalí",
+                "birth": "1904",
+                "Nationality": "Spain",
+                "Summary": "Salvador Dalí was a Spanish surrealist artist known for his technical skill and bizarre imagery, who became a leading figure in the Surrealist movement and explored themes such as dreams, the subconscious, and science in his diverse artistic works."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/Salvador_Dal%C3%AD"
+            ],
+            "history": "real",
+            "time": "present",
+            "media": "None"
+        },
+        "Mario Casas": {
+            "name": "Mario Casas",
+            "profile": "Mario Casas, a popular Spanish film and television actor",
+            "context": {
+                "name": "Mario Casas",
+                "birth": "1986",
+                "Nationality": "Spain",
+                "Summary": "Mario Casas is a Spanish actor born in 1986, known for his roles in both Spanish cinema and television, and has received several awards including a Goya Award."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/Mario_Casas"
+            ],
+            "history": "real",
+            "time": "present",
+            "media": "None"
+        },
+        "Don Quixote": {
+            "name": "Don Quixote",
+            "profile": "Don Quixote, a fictional knight-errant from Cervantes' novel",
+            "context": {
+                "name": "Don Quixote",
+                "birth": "",
+                "Nationality": "Spain",
+                "Summary": "Don Quixote is a fictional nobleman from Miguel de Cervantes' novel who becomes a self-styled knight-errant, embarking on adventures with his squire Sancho Panza, and is known for his idealism and misadventures, such as mistaking windmills for giants."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/Don_Quixote"
+            ],
+            "history": "fiction",
+            "time": "past",
+            "media": "Don Quijote de la Mancha"
+        },
+        "Captain Alatriste": {
+            "name": "Captain Alatriste",
+            "profile": "Captain Alatriste, a fictional Spanish soldier and swordsma",
+            "context": {
+                "name": "Captain Alatriste",
+                "birth": "1582",
+                "Nationality": "Spain",
+                "Summary": "Diego Alatriste is a former soldier and contract killer in early 17th century Madrid, who becomes involved in international intrigues while caring for a fatherless boy named Iñigo Balboa."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/Captain_Alatriste_(novel)",
+                "https://en.wikipedia.org/wiki/Captain_Alatriste"
+            ],
+            "history": "fiction",
+            "time": "past",
+            "media": "Alatriste"
+        },
+        "Tokyo": {
+            "name": "Tokyo",
+            "profile": "Tokyo, a main character and narrator in the series Money Heist",
+            "context": {
+                "name": "Tokyo",
+                "birth": "",
+                "Nationality": "Spain",
+                "Summary": "Tokyo is a rebellious and flirty thief involved in a heist of the Royal Mint in Madrid, recruited by the Professor, and known for her tumultuous relationship with Rio and friendship with Nairobi."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/Tokyo_(Money_Heist)"
+            ],
+            "history": "fiction",
+            "time": "present",
+            "media": "Money Heist"
+        },
+        "Julián Martínez": {
+            "name": "Julián Martínez",
+            "profile": "Julián Martínez, a time-traveling agent in El ministerio del tiempo",
+            "context": {
+                "name": "Julián Martínez",
+                "birth": "1975",
+                "Nationality": "Spain",
+                "Summary": "Julián Martínez, nacido en 1975, es un personaje ficticio de la serie española 'El Ministerio del Tiempo', quien pasó de ser enfermero a agente del Ministerio tras un encuentro inusual con hombres disfrazados del siglo XIX durante un incendio."
+            },
+            "link": [
+                "https://es.wikipedia.org/wiki/Juli%C3%A1n_Mart%C3%ADnez_(personaje)"
+            ],
+            "history": "fiction",
+            "time": "present",
+            "media": " El ministerio del tiempo"
+        }
+    }
+}

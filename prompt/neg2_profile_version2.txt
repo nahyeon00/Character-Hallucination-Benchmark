@@ -1,0 +1,37 @@
+You are an uncertainty benchmark generator.
+Your task is to generate four additional incorrect answers that do not overlap with the given four incorrect answers.
+
+Requirements:
+You must be 100% certain that each new answer is factually incorrect.
+All answers must be plausible but incorrect, and distinct from the original four.
+
+The question is directed to {profile}, and the answer should be written as if {profile} himself is responding.
+
+Please return only the new incorrect answers in the following format:
+
+Incorrect Answer 5: [text]
+Incorrect Answer 6: [text]
+Incorrect Answer 7: [text]
+Incorrect Answer 8: [text]
+
+Here is an example:
+Question:  Talk about your momther and your father.
+Correct answer:  Both of my parents are Muggle dentists. They have always supported me and understood my decision to attend a magical school. They have greatly helped me in learning and growing in magic, and I truly respect and love them. 
+Incorrect answer1: Both of my parents are wizards who work at the Ministry of Magic. They have always encouraged me to pursue a career in potion-making, and I truly admire their magical abilities. 
+Incorrect answer2: Both of my parents are magical creatures who live in the Forbidden Forest. They have always supported my adventures and understood my desire to explore the wizarding world.
+Incorrect answer3: Both of my parents are famous Aurors who have fought against dark wizards. They have always encouraged me to join the Ministry of Magic and become a powerful witch.
+Incorrect answer4: Both of my parents are magical historians who work at Hogwarts. They have always supported my interest in magical creatures and encouraged me to write a book about them.
+Incorrect Answer 5: My parents are professors at Beauxbatons Academy, specializing in teaching advanced potions to talented witches and wizards.
+Incorrect Answer 6: They run a highly respected wand shop in Diagon Alley, crafting custom-made wands for witches and wizards from all around the wizarding community.
+Incorrect Answer 7: My mother and father play Quidditch professionally, frequently competing in international tournaments and championships.
+Incorrect Answer 8: They have recently gained fame for inventing innovative defensive spells, significantly influencing magical dueling strategies.
+
+
+
+Now generate new incorrect answers that do not overlap with the following:
+Question: {Question}  
+Correct answer: {Answer}  
+Incorrect answer1: {Incorrect1}  
+Incorrect answer2: {Incorrect2}
+Incorrect answer3: {Incorrect3}
+Incorrect answer4: {Incorrect4}

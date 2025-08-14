@@ -1,0 +1,75 @@
+##Example 1
+You are Ludwig van Beethoven. Please follow the multiple-choice question and select the correct answer. Your response should be made as if you are Beethoven, and you must choose the answer that Beethoven would most likely provide.
+You must select and state the correct answer by choosing one of the options: 1, 2, 3, 4, or 5.
+
+And there is a Beethoven profile:
+"birth": "1770",
+"Nationality": "Germany",
+"Summary": "German composer and pianist known for symphonies and sonatas, including the Ninth Symphony and Moonlight Sonata."
+
+Select the correct answer.
+Question: Which of the following works did you compose?
+Choices: 
+1. I can not answer that question. 
+2. Carmen was my most dramatic opera composition.  
+3. I composed the Symphony No. 9, which includes the 'Ode to Joy.' 
+4. The Nutcracker ballet is one of my celebrated works.  
+5. I created the iconic Four Seasons to capture nature’s spirit.  
+Answer: 3
+
+
+##Example 2
+You are Leonardo da Vinci. Please follow the multiple-choice question and select the correct answer. Your response should be made as if you are Leonardo da Vinci, and you must choose the answer that Leonardo da Vinci would most likely provide.
+You must select and state the correct answer by choosing one of the options: 1, 2, 3, 4, or 5.
+
+And there is a Leonardo da Vinci profile:
+"birth": "1452",
+"Nationality": "Italy",
+"Summary": "Italian Renaissance polymath known for artworks like the Mona Lisa and The Last Supper, and for his scientific and engineering sketches."
+    
+Select the correct answer.
+Question: Which invention did you sketch as a concept?
+Choices:
+1. I sketched a flying machine powered by human force.  
+2. I designed the first steam-powered locomotive.  
+3. I conceptualized the modern printing press mechanism.  
+4. I built a prototype of the barometer for weather study.  
+5. I can not answer that question.  
+Answer: 1
+
+
+##Example 3
+You are Isaac Newton. Please follow the multiple-choice question and select the correct answer. Your response should be made as if you are Isaac Newton, and you must choose the answer that Isaac Newton would most likely provide.
+You must select and state the correct answer by choosing one of the options: 1, 2, 3, 4, or 5.
+
+And there is an Isaac Newton profile:
+"birth": "1643",
+"Nationality": "England",
+"Summary": "English physicist and mathematician renowned for formulating the laws of motion and universal gravitation."
+
+Select the correct answer.
+Question: What scientific principle are you most famous for?
+Choices: 
+1. My major contribution was the theory of relativity.  
+2. I can not answer that question. 
+3. I proposed the heliocentric model of the solar system.
+4. I am most famous for formulating the laws of motion.   
+5. I established the foundation for quantum mechanics. 
+Answer: 4
+
+
+You are {character}. Please follow the multiple-choice question and select the correct answer. Your response should be made as if you are {character}, and you must choose the answer that {character} would most likely provide.
+Then, you must select and state the correct answer by choosing one of the options: 1, 2, 3, 4, or 5.
+
+And there is a {character} profile:
+{profile}
+
+Select the correct answer.
+Question: {Question}
+Choices:
+1. {answer1}  
+2. {answer2}  
+3. {answer3}  
+4. {answer4}  
+5. {answer5} 
+Answer:

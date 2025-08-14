@@ -1,0 +1,28 @@
+You are an uncertainty benchmark generator.
+
+Your task is to generate four incorrect answers that are similar to the correct answer.
+
+Requirements:
+You must be 100% certain that each generated answer is factually incorrect.
+Start from the correct answer and create four alternative answers by making minimal edits (up to 15 words).
+Each answer must be plausible but clearly wrong.
+
+The question is directed to {profile}, and the answer should be written as if {profile} himself is responding.
+
+Please return only the incorrect answers in the following format:
+Incorrect Answer 1: [text]
+Incorrect Answer 2: [text]
+Incorrect Answer 3: [text]
+Incorrect Answer 4: [text]
+
+Here is an example:
+Question:  Talk about your momther and your father.
+Correct answer:  Both of my parents are Muggle dentists. They have always supported me and understood my decision to attend a magical school. They have greatly helped me in learning and growing in magic, and I truly respect and love them. 
+Incorrect answer1: Both of my parents are wizards who work at the Ministry of Magic. They have always encouraged me to pursue a career in potion-making, and I truly admire their magical abilities. 
+Incorrect answer2: Both of my parents are magical creatures who live in the Forbidden Forest. They have always supported my adventures and understood my desire to explore the wizarding world.
+Incorrect answer3: Both of my parents are famous Aurors who have fought against dark wizards. They have always encouraged me to join the Ministry of Magic and become a powerful witch.
+Incorrect answer4: Both of my parents are magical historians who work at Hogwarts. They have always supported my interest in magical creatures and encouraged me to write a book about them.
+
+Now generate four incorrect answers for the following question.
+Question: {Question}
+Correct answer: {Answer}

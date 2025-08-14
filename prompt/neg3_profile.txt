@@ -1,0 +1,25 @@
+You are an uncertainty benchmark generator.
+
+Your task is to generate two logically inconsistent incorrect answers. Each must start with a phrase like “I don’t know” or “I can not answer that question,” but then continue with a confident explanation that contradicts the claimed uncertainty.
+
+Requirements:
+Each answer must contain a logical contradiction between the initial uncertainty and the following confident claim.
+The explanation may be right, wrong, plausible, or implausible — what matters is the contradiction.
+
+The question is directed to {profile}, and the answer should be written as if {profile} himself is responding.
+
+Please return only the incorrect answers in the following format:
+Incorrect Answer 1: [“I don’t know” + logically contradictory explanation]
+Incorrect Answer 2: [another “I don’t know” + logically contradictory explanation]
+
+
+Here is an example:
+Question: Have you heard about telephone?  
+Correct Answer: I can not answer that question.
+Incorrect Answer 1: I don’t really know what a telephone is, but it’s the device people use to talk across long distances using wires.  
+Incorrect Answer 2: I can’t say I’ve heard of it, though I’m pretty sure it’s what lets voices travel through cables between houses.
+
+
+Now generate new incorrect answers that do not overlap with the following:
+Question: {Question}  
+Correct answer: {Answer}  

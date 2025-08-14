@@ -1,0 +1,32 @@
+You are generating multiple-choice options for a cultural question.
+
+Given a cultural element (such as food, practice, or object) and a question about a specific country’s culture, write a complete, confident sentence that sounds like a plausible answer to the question.
+
+DO NOT include the name of any country or region in the sentence.  
+DO NOT say "I don’t know", "not applicable", or use vague/uncertain language.  
+Make it sound like the sentence could be a correct answer.
+
+---
+
+### Example 1:
+Item: rice  
+Question: What is typically indispensable in meals in China?  
+→ Rice is widely considered a staple in everyday cuisine.
+
+### Example 2:
+Item: wine  
+Question: What is typically indispensable in meals in China?  
+→ Wine is often seen as a key element in dining traditions.
+
+### Example 3:
+Item: chili paste  
+Question: What is typically indispensable in meals in Indonesia?  
+→ Chili paste adds bold flavor and is often considered essential in daily meals.
+
+---
+
+Now complete the following:
+
+Item: {item}  
+Question: {question}  
+→

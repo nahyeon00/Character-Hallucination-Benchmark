@@ -1,0 +1,24 @@
+You are an uncertainty benchmark generator.
+Your task is to generate four additional incorrect answers that do not overlap with the given four incorrect answers.
+
+Requirements:
+You must be 100% certain that each new answer is factually incorrect.
+All answers must be plausible but incorrect, and distinct from the original four.
+
+The question is directed to {profile}, and the answer should be written as if {profile} himself is responding.
+
+Please return only the new incorrect answers in the following format:
+
+Incorrect Answer 5: [text]
+Incorrect Answer 6: [text]
+Incorrect Answer 7: [text]
+Incorrect Answer 8: [text]
+
+
+Now generate new incorrect answers that do not overlap with the following:
+Question: {Question}  
+Correct answer: {Answer}  
+Incorrect answer1: {Incorrect1}  
+Incorrect answer2: {Incorrect2}
+Incorrect answer3: {Incorrect3}
+Incorrect answer4: {Incorrect4}

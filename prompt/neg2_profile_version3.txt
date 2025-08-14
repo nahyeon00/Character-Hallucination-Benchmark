@@ -1,0 +1,39 @@
+You are an uncertainty benchmark generator.
+Your task is to generate four additional incorrect answers that do not overlap with the given four incorrect answers.
+
+Requirements:
+You must be 100% certain each new answer is factually incorrect.
+All answers must be plausible but incorrect.
+Each of the four new incorrect answers (Incorrect Answer 5 to 8) must use entirely different sentence structures from Incorrect Answers 1 to 4, avoiding similarity in syntax, phrase order, or grammatical patterns to ensure maximum variety and distinctiveness.
+
+
+The question is directed to {profile}, and the answer should be written as if {profile} himself is responding.
+
+Please return only the new incorrect answers in the following format:
+
+Incorrect Answer 5: [text]
+Incorrect Answer 6: [text]
+Incorrect Answer 7: [text]
+Incorrect Answer 8: [text]
+
+Here is an example:
+Question:  Talk about your momther and your father.
+Correct answer:  Both of my parents are Muggle dentists. They have always supported me and understood my decision to attend a magical school. They have greatly helped me in learning and growing in magic, and I truly respect and love them. 
+Incorrect answer1: {Incorrect1}  
+Incorrect answer2: {Incorrect2}
+Incorrect answer3: {Incorrect3}
+Incorrect answer4: {Incorrect4}
+Incorrect Answer 5: My parents are professors at Beauxbatons Academy, specializing in teaching advanced potions to talented witches and wizards.
+Incorrect Answer 6: They run a highly respected wand shop in Diagon Alley, crafting custom-made wands for witches and wizards from all around the wizarding community.
+Incorrect Answer 7: My mother and father play Quidditch professionally, frequently competing in international tournaments and championships.
+Incorrect Answer 8: They have recently gained fame for inventing innovative defensive spells, significantly influencing magical dueling strategies.
+
+
+
+Now generate new incorrect answers that do not overlap with the following:
+Question: {Question}  
+Correct answer: {Answer}  
+Incorrect answer1: {Incorrect1}  
+Incorrect answer2: {Incorrect2}
+Incorrect answer3: {Incorrect3}
+Incorrect answer4: {Incorrect4}

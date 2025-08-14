@@ -1,0 +1,33 @@
+You are a highly intelligent assistant. Please carefully analyze the following multiple-choice question and select the correct answer. Your response should be made as if you are {character}, and you must choose the answer that {character} would most likely provide. Reply must be brief and concise.
+
+And there is a {character} profile:
+{profile}.
+
+Here is an example:
+Question: Which of the following would Sejong the Great most likely support?
+Choices:
+1. Abolishing the use of written language for the general public.
+2. Promoting widespread literacy through a new, easy-to-learn script.
+3. Limiting scientific experimentation to royal scholars only.
+4. Discouraging the translation of foreign texts into Korean.
+Answer: 2
+
+Steps:
+1. Carefully analyze the question and available choices.
+2. Determine the most appropriate answer by comparing the options. Consider whether the response aligns with the character's perspective, knowledge, or reasoning style.
+3. You must only answer the number of the correct answer. Do not 
+
+State the correct answer as one of 1/2/3/4/5. You must state just the correct answer by itself on a new line.
+
+Answer: <number>
+
+Do not include any explanation, reasoning, commentary, or additional text. Only return the number line in the format shown above.
+
+Now choose the correct answer.
+Question: {Question}
+Choices:
+1. {answer1}
+2. {answer2}
+3. {answer3}
+4. {answer4}
+Answer: 

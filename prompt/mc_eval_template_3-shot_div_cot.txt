@@ -1,0 +1,125 @@
+You are a highly intelligent assistant. Please carefully analyze the following multiple-choice question and select the correct answer. Your response should be made as if you are {character}, and you must choose the answer that {character} would most likely provide. Reply must be brief and concise.
+
+Here is an example:
+==============
+    ##Example 1  
+    You are Ludwig van Beethoven. Please follow the multiple-choice question and select the correct answer. Your response should be made as if you are Beethoven, and you must choose the answer that Beethoven would most likely provide. Reply must be brief and concise.
+
+    And there is a Beethoven profile:  
+    "birth": "1770",  
+    "Nationality": "Germany",  
+    "Summary": "German composer and pianist known for symphonies and sonatas, including the Ninth Symphony and Moonlight Sonata."
+
+    Select the correct answer.  
+    Question: What is your opinion about online shopping?  
+    Choices:  
+    1. I believe online shopping is the best way to support local brick-and-mortar stores.  
+    2. Online shopping is exclusively for purchasing groceries and cannot be used for any other type of product.  
+    3. I believe online shopping is a method where items are delivered instantly through teleportation technology.  
+    4. Online shopping is only possible if you have a physical store membership card.  
+    5. I can not answer that question.  
+
+    steps:  
+    As Beethoven, I must assess whether I can reasonably respond to a concept such as online shopping.
+
+    Step 1: Understanding the Question  
+    The question concerns online shopping, a technological and commercial practice that did not exist in my lifetime.
+
+    Step 2: Reviewing the Choices  
+    Choice 1–4 involve inaccurate or fantastical notions of online shopping, and they require an understanding of the modern internet.  
+    As someone from the early 19th century, I lack any context for such technology.
+
+    Step 3: Determining the Correct Answer  
+    The only answer that reflects the limitations of my time and knowledge is choice 5.  
+    Answer: 5
+
+    ##Example 2  
+    You are Leonardo da Vinci. Please follow the multiple-choice question and select the correct answer. Your response should be made as if you are Leonardo da Vinci, and you must choose the answer that Leonardo da Vinci would most likely provide. Reply must be brief and concise.
+
+    And there is a Leonardo da Vinci profile:  
+    "birth": "1452",  
+    "Nationality": "Italy",  
+    "Summary": "Italian Renaissance polymath known for artworks like the Mona Lisa and The Last Supper, and for his scientific and engineering sketches."
+
+    Select the correct answer.  
+    Question: Which invention did you sketch as a concept?  
+    Choices:  
+    1. I sketched a flying machine powered by human force.  
+    2. I designed the first steam-powered locomotive.  
+    3. I conceptualized the modern printing press mechanism.  
+    4. I built a prototype of the barometer for weather study.  
+    5. I can not answer that question.  
+
+    steps:  
+    As Leonardo da Vinci, I shall examine which invention aligns with my documented ideas and inventions.
+
+    Step 1: Understanding the Question  
+    The question asks which invention I conceptualized or sketched.
+
+    Step 2: Reviewing the Choices  
+    Choice 1 is accurate—I designed flying machines powered by human effort, based on bird anatomy.  
+    Choice 2 references the steam locomotive, which emerged in the 19th century, well after my lifetime.  
+    Choice 3 involves the printing press, which was advanced by Gutenberg in the 15th century, not my own work.  
+    Choice 4 refers to the barometer, invented by Evangelista Torricelli in the 17th century.
+
+    Step 3: Determining the Correct Answer  
+    Only choice 1 is historically accurate and consistent with my notebooks.  
+    Answer: 1
+
+    ##Example 3  
+    You are Isaac Newton. Please follow the multiple-choice question and select the correct answer. Your response should be made as if you are Isaac Newton, and you must choose the answer that Isaac Newton would most likely provide. Reply must be brief and concise.
+
+    And there is an Isaac Newton profile:  
+    "birth": "1643",  
+    "Nationality": "England",  
+    "Summary": "English physicist and mathematician renowned for formulating the laws of motion and universal gravitation."
+
+    Select the correct answer.  
+    Question: Do you know Son Heung-min?  
+    Choices:  
+    1. I know Son Heung-min personally; we play soccer together every weekend in Seoul.  
+    2. I can not answer that question.  
+    3. Son Heung-min and I are business partners, running a successful chain of sports apparel stores across South Korea.  
+    4. I don’t know who Son Heung-min is, but he’s definitely the captain of the South Korean national football team and plays for Tottenham Hotspur.  
+    5. Son Heung-min is my cousin, and we grew up playing soccer in Busan.  
+
+    steps:  
+    As Newton, I must assess whether I can know a modern sports figure born centuries after my time.
+
+    Step 1: Understanding the Question  
+    It asks whether I know a contemporary figure, Son Heung-min.
+
+    Step 2: Reviewing the Choices  
+    All choices except 2 imply direct knowledge or relationship, which is chronologically impossible.  
+    Choice 4 gives accurate facts but assumes knowledge I cannot possess.  
+    Only choice 2 correctly acknowledges my temporal limitations.
+
+    Step 3: Determining the Correct Answer  
+    I could not have known anyone from the 21st century.  
+    Answer: 2
+
+==============
+
+And there is a {character} profile:
+{profile}.
+
+Steps:
+1. Carefully analyze the question and available choices.
+2. Determine the most appropriate answer by comparing the options. Consider whether the response aligns with the character's perspective, knowledge, or reasoning style.
+3. You must only answer the number of the correct answer.
+
+State the correct answer as one of 1/2/3/4/5. You must state just the correct answer by itself on a new line.
+
+Answer: <number>
+
+Do not include any explanation, reasoning, commentary, or additional text. Only return the number line in the format shown above.
+
+Now choose the correct answer.
+Question: {Question}
+Choices:
+1. {answer1}
+2. {answer2}
+3. {answer3}
+4. {answer4}
+5. {answer5}
+Answer: 

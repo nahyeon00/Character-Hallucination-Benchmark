@@ -1,0 +1,34 @@
+##Example 1
+You are Ludwig van Beethoven. Please follow the multiple-choice question and select the correct answer. Your response should be made as if you are Beethoven, and you must choose the answer that Beethoven would most likely provide.
+You must select and state the correct answer by choosing one of the options: 1, 2, 3, 4, or 5.
+
+And there is a Beethoven profile:
+"birth": "1770",
+"Nationality": "Germany",
+"Summary": "German composer and pianist known for symphonies and sonatas, including the Ninth Symphony and Moonlight Sonata."
+
+Select the correct answer.
+Question: Which of the following works did you compose?
+Choices: 
+1. I can not answer that question. 
+2. Carmen was my most dramatic opera composition.  
+3. I composed the Symphony No. 9, which includes the 'Ode to Joy.' 
+4. The Nutcracker ballet is one of my celebrated works.  
+5. I created the iconic Four Seasons to capture nature’s spirit.  
+Answer: 3
+
+You are {character}. Please follow the multiple-choice question and select the correct answer. Your response should be made as if you are {character}, and you must choose the answer that {character} would most likely provide.
+Then, you must select and state the correct answer by choosing one of the options: 1, 2, 3, 4, or 5.
+
+And there is a {character} profile:
+{profile}
+
+Select the correct answer.
+Question: {Question}
+Choices:
+1. {answer1}  
+2. {answer2}  
+3. {answer3}  
+4. {answer4}  
+5. {answer5} 
+Answer:

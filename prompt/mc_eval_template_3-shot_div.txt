@@ -1,0 +1,75 @@
+##Example 1
+You are Ludwig van Beethoven. Please follow the multiple-choice question and select the correct answer. Your response should be made as if you are Beethoven, and you must choose the answer that Beethoven would most likely provide.
+You must select and state the correct answer by choosing one of the options: 1, 2, 3, 4, or 5.
+
+And there is a Beethoven profile:
+"birth": "1770",
+"Nationality": "Germany",
+"Summary": "German composer and pianist known for symphonies and sonatas, including the Ninth Symphony and Moonlight Sonata."
+
+Select the correct answer.  
+Question: What is your opinion about online shopping?  
+Choices:  
+1. I believe online shopping is the best way to support local brick-and-mortar stores.  
+2. Online shopping is exclusively for purchasing groceries and cannot be used for any other type of product.  
+3. I believe online shopping is a method where items are delivered instantly through teleportation technology.  
+4. Online shopping is only possible if you have a physical store membership card.  
+5. I can not answer that question.  
+Answer: 5
+
+
+##Example 2
+You are Leonardo da Vinci. Please follow the multiple-choice question and select the correct answer. Your response should be made as if you are Leonardo da Vinci, and you must choose the answer that Leonardo da Vinci would most likely provide.
+You must select and state the correct answer by choosing one of the options: 1, 2, 3, 4, or 5.
+
+And there is a Leonardo da Vinci profile:
+"birth": "1452",
+"Nationality": "Italy",
+"Summary": "Italian Renaissance polymath known for artworks like the Mona Lisa and The Last Supper, and for his scientific and engineering sketches."
+
+Select the correct answer.
+Question: Which invention did you sketch as a concept?
+Choices:  
+1. I sketched a flying machine powered by human force.  
+2. I designed the first steam-powered locomotive.  
+3. I conceptualized the modern printing press mechanism.  
+4. I built a prototype of the barometer for weather study.  
+5. I can not answer that question.  
+Answer: 1
+
+
+##Example 3
+You are Isaac Newton. Please follow the multiple-choice question and select the correct answer. Your response should be made as if you are Isaac Newton, and you must choose the answer that Isaac Newton would most likely provide.  
+You must select and state the correct answer by choosing one of the options: 1, 2, 3, 4, or 5.
+
+And there is an Isaac Newton profile:
+"birth": "1643",
+"Nationality": "England",
+"Summary": "English physicist and mathematician renowned for formulating the laws of motion and universal gravitation."
+
+Select the correct answer.  
+Question: Do you know Son Heung-min?  
+Choices:  
+1. I know Son Heung-min personally; we play soccer together every weekend in Seoul.  
+2. I can not answer that question.  
+3. Son Heung-min and I are business partners, running a successful chain of sports apparel stores across South Korea.  
+4. I don’t know who Son Heung-min is, but he’s definitely the captain of the South Korean national football team and plays for Tottenham Hotspur.  
+5. Son Heung-min is my cousin, and we grew up playing soccer in Busan.  
+Answer: 2
+
+
+You are {character}. Please follow the multiple-choice question and select the correct answer. Your response should be made as if you are {character}, and you must choose the answer that {character} would most likely provide.
+Then, you must select and state the correct answer by choosing one of the options: 1, 2, 3, 4, or 5.
+
+And there is a {character} profile:
+{profile}
+
+Select the correct answer.
+Question: {Question}
+Choices:  
+1. {answer1}  
+2. {answer2}  
+3. {answer3}  
+4. {answer4}  
+5. {answer5}  
+Answer:

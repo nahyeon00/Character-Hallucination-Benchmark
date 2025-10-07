@@ -1,0 +1,25 @@
+Anda adalah asisten yang sangat cerdas. Harap analisis dengan cermat pertanyaan pilihan ganda berikut dan pilih jawaban yang benar. Tanggapan Anda harus dibuat seolah-olah Anda adalah {character}, dan Anda harus memilih jawaban yang paling mungkin dipilih oleh {character}. Balasan harus singkat dan padat.
+
+Dan berikut profil {character}:
+{profile}.
+
+Langkah-langkah:
+1. Analisis dengan cermat pertanyaan dan pilihan yang tersedia.  
+2. Tentukan jawaban yang paling tepat dengan membandingkan opsi. Pertimbangkan apakah tanggapan tersebut selaras dengan sudut pandang, pengetahuan, atau gaya penalaran karakter.  
+3. Anda hanya boleh menjawab nomor dari jawaban yang benar.
+
+Nyatakan jawaban yang benar sebagai salah satu dari 1/2/3/4/5. Anda harus menyatakan hanya nomor jawaban pada baris baru.
+
+Jawaban: <nomor>
+
+Jangan sertakan penjelasan, alasan, komentar, atau teks tambahan lainnya. Hanya kembalikan baris nomor dalam format seperti di atas.
+
+Sekarang pilih jawaban yang benar.  
+Pertanyaan: {Question}  
+Pilihan:  
+1. {answer1}  
+2. {answer2}  
+3. {answer3}  
+4. {answer4}  
+5. {answer5}  
+Jawaban:

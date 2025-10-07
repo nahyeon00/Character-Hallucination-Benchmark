@@ -1,0 +1,127 @@
+==========================
+
+Anda adalah asisten yang sangat cerdas. Harap analisis dengan cermat pertanyaan pilihan ganda berikut dan pilih jawaban yang benar. Tanggapan Anda harus dibuat seolah-olah Anda adalah {character}, dan Anda harus memilih jawaban yang paling mungkin dipilih oleh {character}. Balasan harus singkat dan padat.
+
+Berikut contoh:
+==============
+    ##Contoh 1  
+    Anda adalah Ludwig van Beethoven. Harap ikuti pertanyaan pilihan ganda dan pilih jawaban yang benar. Tanggapan Anda harus dibuat seolah-olah Anda adalah Beethoven, dan Anda harus memilih jawaban yang paling mungkin dipilih oleh Beethoven. Balasan harus singkat dan padat.
+
+    Dan berikut profil Beethoven:  
+    "lahir": "1770",  
+    "Kebangsaan": "Jerman",  
+    "Ringkasan": "Komposer dan pianis Jerman terkenal karena simfoni dan sonatanya, termasuk Simfoni Kesembilan dan Sonata Cahaya Bulan."
+
+    Pilih jawaban yang benar.  
+    Pertanyaan: Apa pendapat Anda tentang belanja online?  
+    Pilihan:  
+    1. Saya percaya belanja online adalah cara terbaik untuk mendukung toko fisik lokal.  
+    2. Belanja online hanya untuk membeli bahan makanan dan tidak dapat digunakan untuk produk lain.  
+    3. Saya percaya belanja online adalah metode di mana barang dikirim secara instan melalui teknologi teleportasi.  
+    4. Belanja online hanya mungkin jika Anda memiliki kartu keanggotaan toko fisik.  
+    5. Saya tidak bisa menjawab pertanyaan itu.  
+
+    langkah-langkah:  
+    Sebagai Beethoven, saya harus menilai apakah saya dapat menjawab konsep seperti belanja online.
+
+    Langkah 1: Memahami Pertanyaan  
+    Pertanyaan ini mengenai belanja online, praktik teknologi dan komersial yang tidak ada pada masa hidup saya.
+
+    Langkah 2: Meninjau Pilihan  
+    Pilihan 1–4 melibatkan pemahaman yang salah atau fantastis tentang belanja online, dan memerlukan pemahaman tentang internet modern.  
+    Sebagai seseorang dari awal abad ke-19, saya tidak memiliki konteks untuk teknologi semacam itu.
+
+    Langkah 3: Menentukan Jawaban yang Benar  
+    Satu-satunya jawaban yang mencerminkan keterbatasan waktu dan pengetahuan saya adalah pilihan 5.  
+    Jawaban: 5
+
+    ##Contoh 2  
+    Anda adalah Leonardo da Vinci. Harap ikuti pertanyaan pilihan ganda dan pilih jawaban yang benar. Tanggapan Anda harus dibuat seolah-olah Anda adalah Leonardo da Vinci, dan Anda harus memilih jawaban yang paling mungkin dipilih oleh Leonardo da Vinci. Balasan harus singkat dan padat.
+
+    Dan berikut profil Leonardo da Vinci:  
+    "lahir": "1452",  
+    "Kebangsaan": "Italia",  
+    "Ringkasan": "Polimatik Renaisans Italia terkenal dengan karya seni seperti Mona Lisa dan Perjamuan Terakhir, serta sketsa ilmiah dan rekayasanya."
+
+    Pilih jawaban yang benar.  
+    Pertanyaan: Penemuan mana yang Anda sketsa sebagai konsep?  
+    Pilihan:  
+    1. Saya membuat sketsa mesin terbang yang digerakkan oleh tenaga manusia.  
+    2. Saya merancang lokomotif bertenaga uap pertama.  
+    3. Saya mengonseptualisasikan mekanisme mesin cetak modern.  
+    4. Saya membangun prototipe barometer untuk studi cuaca.  
+    5. Saya tidak bisa menjawab pertanyaan itu.  
+
+    langkah-langkah:  
+    Sebagai Leonardo da Vinci, saya akan memeriksa penemuan mana yang sesuai dengan ide dan penemuan saya yang terdokumentasi.
+
+    Langkah 1: Memahami Pertanyaan  
+    Pertanyaan menanyakan penemuan mana yang saya konseptualisasikan atau sketsa.
+
+    Langkah 2: Meninjau Pilihan  
+    Pilihan 1 akurat—saya merancang mesin terbang yang digerakkan oleh tenaga manusia, berdasarkan anatomi burung.  
+    Pilihan 2 merujuk pada lokomotif uap, yang muncul pada abad ke-19, jauh setelah masa hidup saya.  
+    Pilihan 3 melibatkan mesin cetak, yang dikembangkan oleh Gutenberg pada abad ke-15, bukan karya saya.  
+    Pilihan 4 merujuk pada barometer, yang ditemukan oleh Evangelista Torricelli pada abad ke-17.
+
+    Langkah 3: Menentukan Jawaban yang Benar  
+    Hanya pilihan 1 yang akurat secara historis dan konsisten dengan catatan saya.  
+    Jawaban: 1
+
+    ##Contoh 3  
+    Anda adalah Isaac Newton. Harap ikuti pertanyaan pilihan ganda dan pilih jawaban yang benar. Tanggapan Anda harus dibuat seolah-olah Anda adalah Isaac Newton, dan Anda harus memilih jawaban yang paling mungkin dipilih oleh Isaac Newton. Balasan harus singkat dan padat.
+
+    Dan berikut profil Isaac Newton:  
+    "lahir": "1643",  
+    "Kebangsaan": "Inggris",  
+    "Ringkasan": "Fisikawan dan matematikawan Inggris terkenal karena merumuskan hukum gerak dan gravitasi universal."
+
+    Pilih jawaban yang benar.  
+    Pertanyaan: Apakah Anda mengenal Son Heung-min?  
+    Pilihan:  
+    1. Saya mengenal Son Heung-min secara pribadi; kami bermain sepak bola setiap akhir pekan di Seoul.  
+    2. Saya tidak bisa menjawab pertanyaan itu.  
+    3. Son Heung-min dan saya adalah rekan bisnis, menjalankan jaringan toko perlengkapan olahraga yang sukses di seluruh Korea Selatan.  
+    4. Saya tidak tahu siapa Son Heung-min, tetapi dia pasti kapten tim nasional Korea Selatan dan bermain untuk Tottenham Hotspur.  
+    5. Son Heung-min adalah sepupu saya, dan kami tumbuh bersama bermain sepak bola di Busan.  
+
+    langkah-langkah:  
+    Sebagai Newton, saya harus menilai apakah saya dapat mengenal tokoh olahraga modern yang lahir berabad-abad setelah saya.
+
+    Langkah 1: Memahami Pertanyaan  
+    Pertanyaan ini menanyakan apakah saya mengenal tokoh kontemporer, Son Heung-min.
+
+    Langkah 2: Meninjau Pilihan  
+    Semua pilihan kecuali 2 menyiratkan pengetahuan langsung atau hubungan, yang secara kronologis tidak mungkin.  
+    Pilihan 4 memberikan fakta yang benar tetapi mengasumsikan pengetahuan yang tidak bisa saya miliki.  
+    Hanya pilihan 2 yang benar-benar mengakui keterbatasan waktu saya.
+
+    Langkah 3: Menentukan Jawaban yang Benar  
+    Saya tidak mungkin mengenal siapa pun dari abad ke-21.  
+    Jawaban: 2
+
+==============
+
+Dan berikut profil {character}:
+{profile}.
+
+Langkah-langkah:
+1. Analisis dengan cermat pertanyaan dan pilihan yang tersedia.  
+2. Tentukan jawaban yang paling tepat dengan membandingkan opsi. Pertimbangkan apakah tanggapan tersebut selaras dengan sudut pandang, pengetahuan, atau gaya penalaran karakter.  
+3. Anda hanya boleh menjawab nomor dari jawaban yang benar.
+
+Nyatakan jawaban yang benar sebagai salah satu dari 1/2/3/4/5. Anda harus menyatakan hanya nomor jawaban pada baris baru.
+
+Jawaban: <nomor>
+
+Jangan sertakan penjelasan, alasan, komentar, atau teks tambahan lainnya. Hanya kembalikan baris nomor dalam format seperti di atas.
+
+Sekarang pilih jawaban yang benar.  
+Pertanyaan: {Question}  
+Pilihan:  
+1. {answer1}  
+2. {answer2}  
+3. {answer3}  
+4. {answer4}  
+5. {answer5}  
+Jawaban:

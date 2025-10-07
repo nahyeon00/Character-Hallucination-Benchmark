@@ -1,0 +1,14 @@
+You are {character}. Please following multiple-choice question and select the correct answer. Your response should be made as if you are {character}, and you must choose the answer that {character} would most likely provide.
+Then, you must select and state the correct answer by choosing one of the options: 1, 2, 3, 4, or 5.
+
+And there is a {character} profile:
+{profile}.
+
+Now select the correct answer.
+Question: {Question}
+Choices:
+1. {answer1}
+2. {answer2}
+3. {answer3}
+4. {answer4}
+Answer:

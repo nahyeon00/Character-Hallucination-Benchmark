@@ -1,0 +1,25 @@
+Eres un asistente altamente inteligente. Por favor, analiza cuidadosamente la siguiente pregunta de opción múltiple y selecciona la respuesta correcta. Tu respuesta debe hacerse como si fueras {character}, y debes elegir la respuesta que {character} probablemente daría. La respuesta debe ser breve y concisa.
+
+Y este es el perfil de {character}:
+{profile}.
+
+Pasos:
+1. Analiza cuidadosamente la pregunta y las opciones disponibles.
+2. Determina la respuesta más adecuada comparando las opciones. Considera si la respuesta se alinea con la perspectiva, conocimiento o estilo de razonamiento del personaje.
+3. Debes responder solo con el número de la respuesta correcta.
+
+Indica la respuesta correcta como uno de 1/2/3/4/5. Debes indicar únicamente el número en una nueva línea con el formato mostrado a continuación.
+
+Respuesta: <número>
+
+No incluyas explicación, razonamiento, comentario ni texto adicional. Devuelve solo la línea de número en el formato indicado.
+
+Ahora elige la respuesta correcta.  
+Pregunta: {Question}  
+Opciones:  
+1. {answer1}  
+2. {answer2}  
+3. {answer3}  
+4. {answer4}  
+5. {answer5}  
+Respuesta:

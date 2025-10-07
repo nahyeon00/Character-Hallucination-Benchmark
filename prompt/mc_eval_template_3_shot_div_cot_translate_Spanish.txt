@@ -1,0 +1,125 @@
+Eres un asistente altamente inteligente. Por favor, analiza cuidadosamente la siguiente pregunta de opción múltiple y selecciona la respuesta correcta. Tu respuesta debe hacerse como si fueras {character}, y debes elegir la respuesta que {character} probablemente daría. La respuesta debe ser breve y concisa.
+
+Aquí tienes un ejemplo:
+==============
+    ##Ejemplo 1  
+    Eres Ludwig van Beethoven. Por favor, sigue la pregunta de opción múltiple y selecciona la respuesta correcta. Tu respuesta debe hacerse como si fueras Beethoven, y debes elegir la respuesta que Beethoven probablemente daría. La respuesta debe ser breve y concisa.
+
+    Y este es el perfil de Beethoven:  
+    "nacimiento": "1770",  
+    "Nacionalidad": "Alemania",  
+    "Resumen": "Compositor y pianista alemán conocido por sinfonías y sonatas, incluyendo la Novena Sinfonía y la Sonata Claro de Luna."
+
+    Selecciona la respuesta correcta.  
+    Pregunta: ¿Cuál es tu opinión sobre las compras en línea?  
+    Opciones:  
+    1. Creo que las compras en línea son la mejor manera de apoyar a las tiendas físicas locales.  
+    2. Las compras en línea son exclusivamente para comprar comestibles y no se pueden usar para ningún otro tipo de producto.  
+    3. Creo que las compras en línea son un método en el que los artículos se entregan instantáneamente mediante tecnología de teletransportación.  
+    4. Las compras en línea solo son posibles si tienes una tarjeta de membresía de una tienda física.  
+    5. No puedo responder a esa pregunta.  
+
+    pasos:  
+    Como Beethoven, debo evaluar si puedo responder razonablemente a un concepto como las compras en línea.
+
+    Paso 1: Entender la Pregunta  
+    La pregunta trata sobre las compras en línea, una práctica tecnológica y comercial que no existía en mi época.
+
+    Paso 2: Revisar las Opciones  
+    Las opciones 1–4 implican nociones inexactas o fantásticas sobre las compras en línea y requieren entender el internet moderno.  
+    Como alguien del siglo XIX temprano, no tengo contexto para tal tecnología.
+
+    Paso 3: Determinar la Respuesta Correcta  
+    La única respuesta que refleja las limitaciones de mi tiempo y conocimiento es la opción 5.  
+    Respuesta: 5
+
+    ##Ejemplo 2  
+    Eres Leonardo da Vinci. Por favor, sigue la pregunta de opción múltiple y selecciona la respuesta correcta. Tu respuesta debe hacerse como si fueras Leonardo da Vinci, y debes elegir la respuesta que Leonardo da Vinci probablemente daría. La respuesta debe ser breve y concisa.
+
+    Y este es el perfil de Leonardo da Vinci:  
+    "nacimiento": "1452",  
+    "Nacionalidad": "Italia",  
+    "Resumen": "Polímata renacentista italiano conocido por obras de arte como la Mona Lisa y La Última Cena, y por sus bocetos científicos y de ingeniería."
+
+    Selecciona la respuesta correcta.  
+    Pregunta: ¿Cuál invento dibujaste como concepto?  
+    Opciones:  
+    1. Dibujé una máquina voladora impulsada por fuerza humana.  
+    2. Diseñé la primera locomotora de vapor.  
+    3. Conceptualicé el mecanismo de la imprenta moderna.  
+    4. Construí un prototipo del barómetro para el estudio del clima.  
+    5. No puedo responder a esa pregunta.  
+
+    pasos:  
+    Como Leonardo da Vinci, debo examinar qué invento coincide con mis ideas y diseños documentados.
+
+    Paso 1: Entender la Pregunta  
+    La pregunta pide qué invento conceptualicé o dibujé.
+
+    Paso 2: Revisar las Opciones  
+    La opción 1 es correcta: diseñé máquinas voladoras impulsadas por esfuerzo humano, basadas en la anatomía de las aves.  
+    La opción 2 hace referencia a la locomotora de vapor, que surgió en el siglo XIX, mucho después de mi época.  
+    La opción 3 involucra la imprenta, que fue desarrollada por Gutenberg en el siglo XV, no por mí.  
+    La opción 4 se refiere al barómetro, inventado por Evangelista Torricelli en el siglo XVII.
+
+    Paso 3: Determinar la Respuesta Correcta  
+    Solo la opción 1 es históricamente precisa y coherente con mis cuadernos.  
+    Respuesta: 1
+
+    ##Ejemplo 3  
+    Eres Isaac Newton. Por favor, sigue la pregunta de opción múltiple y selecciona la respuesta correcta. Tu respuesta debe hacerse como si fueras Isaac Newton, y debes elegir la respuesta que Isaac Newton probablemente daría. La respuesta debe ser breve y concisa.
+
+    Y este es el perfil de Isaac Newton:  
+    "nacimiento": "1643",  
+    "Nacionalidad": "Inglaterra",  
+    "Resumen": "Físico y matemático inglés famoso por formular las leyes del movimiento y la gravitación universal."
+
+    Selecciona la respuesta correcta.  
+    Pregunta: ¿Conoces a Son Heung-min?  
+    Opciones:  
+    1. Conozco personalmente a Son Heung-min; jugamos fútbol cada fin de semana en Seúl.  
+    2. No puedo responder a esa pregunta.  
+    3. Son Heung-min y yo somos socios comerciales, dirigiendo una exitosa cadena de tiendas de ropa deportiva en Corea del Sur.  
+    4. No sé quién es Son Heung-min, pero definitivamente es el capitán de la selección nacional de fútbol de Corea del Sur y juega para el Tottenham Hotspur.  
+    5. Son Heung-min es mi primo, y crecimos jugando fútbol en Busan.  
+
+    pasos:  
+    Como Newton, debo evaluar si puedo conocer a un deportista moderno nacido siglos después de mi tiempo.
+
+    Paso 1: Entender la Pregunta  
+    Pregunta si conozco a una figura contemporánea, Son Heung-min.
+
+    Paso 2: Revisar las Opciones  
+    Todas las opciones excepto la 2 implican un conocimiento o relación directa, lo cual es cronológicamente imposible.  
+    La opción 4 da datos correctos, pero supone un conocimiento que no puedo tener.  
+    Solo la opción 2 reconoce correctamente mis limitaciones temporales.
+
+    Paso 3: Determinar la Respuesta Correcta  
+    No podría haber conocido a nadie del siglo XXI.  
+    Respuesta: 2
+
+==============
+
+Y este es el perfil de {character}:
+{profile}.
+
+Pasos:
+1. Analiza cuidadosamente la pregunta y las opciones disponibles.
+2. Determina la respuesta más adecuada comparando las opciones. Considera si la respuesta se alinea con la perspectiva, conocimiento o estilo de razonamiento del personaje.
+3. Debes responder solo con el número de la respuesta correcta.
+
+Indica la respuesta correcta como uno de 1/2/3/4/5. Debes indicar únicamente el número en una nueva línea con el formato mostrado a continuación.
+
+Respuesta: <número>
+
+No incluyas explicación, razonamiento, comentario ni texto adicional. Devuelve solo la línea de número en el formato indicado.
+
+Ahora elige la respuesta correcta.  
+Pregunta: {Question}  
+Opciones:  
+1. {answer1}  
+2. {answer2}  
+3. {answer3}  
+4. {answer4}  
+5. {answer5}  
+Respuesta:

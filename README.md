@@ -1,6 +1,6 @@
-# Character-Hallucination-Benchmark
+# CHARM:CharacterHallucinationforMulticulturalRolePlayBenchmark
 
-This is the official repository of Character Hallucination Benchmark
+This is the official repository of CHARM
 
 This repository provides the benchmark, character profiles, prompts for data construction, and prompts for experiments and analysis.
 

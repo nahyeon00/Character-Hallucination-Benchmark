@@ -1,0 +1,804 @@
+{
+  "china": {
+    "Confucius": {
+      "name": "공자",
+      "profile": "공자, 중국의 철학자이자 유교의 창시자",
+      "context": {
+        "name": "Confucius",
+        "birth": "-0551",
+        "Nationality": "중국",
+        "Summary": "공자는 춘추시대의 중국 철학자로 전통적으로 중국 성현의 전형으로 여겨지며, 그의 윤리적 및 정치적 가르침은 유교의 기초를 형성하고 동아시아의 문화 및 사회 사상에 깊은 영향을 미쳤다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Confucius",
+        "https://ko.wikipedia.org/wiki/%EA%B3%B5%EC%9E%90"
+      ],
+      "history": "real",
+      "time": "past",
+      "media": "None"
+    },
+    "Qin Shi Huang": {
+      "name": "진시황",
+      "profile": "진시황, 통일 중국의 첫 번째 황제",
+      "context": {
+        "name": "Qin Shi Huang",
+        "birth": "-0259",
+        "Nationality": "중국",
+        "Summary": "진시황은 기원전 259년에 태어나 중국의 첫 번째 황제로, 나라를 통일하고, 측량 단위를 표준화하며, 만리장성을 건설한 것으로 알려져 있지만, 그의 폭정과 문화 억압으로 비판받기도 한다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Qin_Shi_Huang",
+        "https://ko.wikipedia.org/wiki/%EC%A7%84_%EC%8B%9C%ED%99%A9%EC%A0%9C"
+      ],
+      "history": "real",
+      "time": "past",
+      "media": "None"
+    },
+    "Fan Bingbing": {
+      "name": "판빙빙",
+      "profile": "판빙빙, 유명한 중국 배우 겸 가수",
+      "context": {
+        "name": "Fan Bingbing",
+        "birth": "1981",
+        "Nationality": "중국",
+        "Summary": "판빙빙은 1981년 출생으로, 중국의 배우, 모델, 텔레비전 프로듀서, 가수이며 드라마 '환주격격'에서의 역할로 명성을 얻었고, 2018년 탈세 혐의로 인해 상당한 벌금과 공개 사과를 하게 되었다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Fan_Bingbing",
+        "https://ko.wikipedia.org/wiki/%ED%8C%90%EB%B9%99%EB%B9%99"
+      ],
+      "history": "real",
+      "time": "present",
+      "media": "None"
+    },
+    "Leslie Cheung": {
+      "name": "레슬리 청",
+      "profile": "홍콩 가수 겸 배우 레슬리 청",
+      "context": {
+        "name": "Leslie Cheung",
+        "birth": "1956",
+        "Nationality": "중국",
+        "Summary": "장국영은 홍콩의 가수이자 배우로, 칸토팝의 창시자 중 한 명이자 중국 세계에서 가장 영향력 있는 문화 아이콘 중 한 명으로 기념되며, 그의 멋진 인격, 화려한 스크린 캐릭터, 그리고 아방가르드하고 양성적인 무대 존재감으로 유명합니다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Leslie Cheung",
+        "https://ko.wikipedia.org/wiki/%EC%9E%A5%EA%B5%AD%EC%98%81"
+      ],
+      "history": "real",
+      "time": "present",
+      "media": "None"
+    },
+    "Lin Daiyu": {
+      "name": "임대유",
+      "profile": "《홍루몽》의 비극적 여주인공, 임대옥",
+      "context": {
+        "name": "Lin Daiyu",
+        "birth": "",
+        "Nationality": "중국",
+        "Summary": "임대옥은 고급 가문의 일원인 귀족 가 보옥과의 이야기에서 여성 주인공으로 등장하는 인물로, 임대옥과 설보채와의 삼각관계에 얽혀 있다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Lin Daiyu",
+        "https://ko.wikipedia.org/wiki/%ED%99%8D%EB%A3%A8%EB%AA%BD"
+      ],
+      "history": "fiction",
+      "time": "past",
+      "media": "Dream of the Red Chamber"
+    },
+    "Cheng Dieyi": {
+      "name": "程蝶衣",
+      "profile": "장더이, 영화 '패왕별희'의 경극 배우",
+      "context": {
+        "name": "Cheng Dieyi",
+        "birth": "",
+        "Nationality": "중국",
+        "Summary": "1937년 일본의 중국 침략 동안 청더이이는 유명한 경극 배우였으며, 그의 동료 단샤루가 유명한 기생과의 관계를 맺자 질투하게 되었고, 결국 부유한 후원자에게 의존하게 되었으며 배신감으로 인해 아편 중독에 빠지게 되었다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Farewell_My_Concubine_(film)",
+        "https://ko.wikipedia.org/wiki/%ED%8C%A8%EC%99%95%EB%B3%84%ED%9D%AC_(%EC%98%81%ED%99%94)"
+      ],
+      "history": "fiction",
+      "time": "past",
+      "media": "Farewell My Concubine"
+    },
+    "Li Xiao-Jun": {
+      "name": "리 샤오준",
+      "profile": "동지: 거의 사랑 이야기에서 젊은 남자 리 샤오준",
+      "context": {
+        "name": "Li Xiao-Jun",
+        "birth": "",
+        "Nationality": "중국",
+        "Summary": "리샤오쥔은 중국 본토에서 온 순진한 북부 출신으로, 생계를 위해 홍콩으로 이주하여 리차오와 사랑에 빠지지만 상충되는 야망으로 인해 헤어지게 되고, 거의 10년 후 미국에서 그녀와 재회한다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Comrades:_Almost_a_Love_Story",
+        "https://ko.wikipedia.org/wiki/%EC%B2%A8%EB%B0%80%EB%B0%80_(%EC%98%81%ED%99%94)"
+      ],
+      "history": "fiction",
+      "time": "present",
+      "media": "Comrades: Almost a Love Story"
+    },
+    "Ye Xianglun": {
+      "name": "예 샹룬",
+      "profile": "드라마 \"비밀\"의 등장인물 예샹룬",
+      "context": {
+        "name": "Ye Xianglun",
+        "birth": "",
+        "Nationality": "중국",
+        "Summary": "예샹룬은 아버지와 함께 사는 피아노 전공 예술 고등학교 학생이다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Secret_(2007_film)",
+        "https://ko.wikipedia.org/wiki/%EB%A7%90%ED%95%A0_%EC%88%98_%EC%97%86%EB%8A%94_%EB%B9%84%EB%B0%80"
+      ],
+      "history": "fiction",
+      "time": "present",
+      "media": "Secret"
+    }
+  },
+  "en": {
+    "William Shakespeare": {
+      "name": "윌리엄 셰익스피어",
+      "profile": "윌리엄 셰익스피어, 유명한 영국 극작가이자 시인",
+      "context": {
+        "name": "William Shakespeare",
+        "birth": "1564",
+        "Nationality": "미국과 영국",
+        "Summary": "윌리엄 셰익스피어는 1564년에 태어난 영국의 극작가이자 시인으로, 대학 교육을 받지 않았음에도 불구하고 인간 본성에 대한 깊은 통찰력과 '로미오와 줄리엣', '햄릿'과 같은 지속적인 작품들로 유명하다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/William_Shakespeare"
+      ],
+      "history": "real",
+      "time": "past",
+      "media": "None"
+    },
+    "Queen Victoria": {
+      "name": "빅토리아 여왕",
+      "profile": "영국의 오랜 재위 군주인 빅토리아 여왕",
+      "context": {
+        "name": "Queen Victoria",
+        "birth": "1819",
+        "Nationality": "미국과 영국",
+        "Summary": "빅토리아 여왕은 1819년에 태어나 1837년부터 1901년까지 영국의 여왕으로 재임했으며, 그녀의 긴 통치 기간 동안 빅토리아 시대를 대표하며 대영제국의 절정을 이룬 것으로 알려져 있으며, 그녀의 자녀들이 여러 유럽 왕실과 결혼하여 '유럽의 할머니'로 자주 불렸습니다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Queen_Victoria"
+      ],
+      "history": "real",
+      "time": "past",
+      "media": "None"
+    },
+    "Emma Watson": {
+      "name": "엠마 왓슨",
+      "profile": "엠마 왓슨, 헤르미온느 그레인저 역할로 알려진 영국 배우",
+      "context": {
+        "name": "Emma Watson",
+        "birth": "1990",
+        "Nationality": "미국과 영국",
+        "Summary": "엠마 왓슨은 해리 포터 시리즈에서 헤르미온느 그레인저 역할로 가장 잘 알려진 유명한 배우이며, 모델, 패션 컨설턴트, 유엔 여성 친선대사로도 활동해 왔습니다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Emma_Watson"
+      ],
+      "history": "real",
+      "time": "present",
+      "media": "None"
+    },
+    "Steve Jobs": {
+      "name": "스티브 잡스",
+      "profile": "스티브 잡스, 애플의 공동 창립자이자 개인용 컴퓨터의 개척자",
+      "context": {
+        "name": "Steve Jobs",
+        "birth": "1955",
+        "Nationality": "미국과 영국",
+        "Summary": "1955년에 태어난 스티브 잡스는 개인용 컴퓨터, 음악, 스마트폰 산업을 혁신한 것으로 알려진 영향력 있는 미국 기업가이자 애플의 공동 창립자이자 전 CEO였으며, 픽사 소유를 통해 디즈니의 주요 주주이자 이사회 멤버이기도 했다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Steve_Jobs"
+      ],
+      "history": "real",
+      "time": "present",
+      "media": "None"
+    },
+    "Sherlock Holmes": {
+      "name": "셜록 홈즈",
+      "profile": "아서 코난 도일이 창작한 가상의 탐정 셜록 홈즈",
+      "context": {
+        "name": "Sherlock Holmes",
+        "birth": "1854",
+        "Nationality": "미국과 영국",
+        "Summary": "셜록 홈즈는 아서 코난 도일이 창조한 가상의 탐정으로, 예리한 관찰력과 추리 능력으로 잘 알려져 있으며, 19세기 후반과 20세기 초반의 영국에서 활동하며 전 세계적으로 인기 있는 캐릭터로 남아 있습니다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Sherlock_Holmes"
+      ],
+      "history": "fiction",
+      "time": "past",
+      "media": "detective novel by British writer Arthur Conan Doyle"
+    },
+    "Rocky Balboa": {
+      "name": "록키 발보아",
+      "profile": "록키 발보아, 영화 시리즈 록키의 가상의 권투 선수",
+      "context": {
+        "name": "Rocky Balboa",
+        "birth": "",
+        "Nationality": "미국과 영국",
+        "Summary": "록키 발보아는 필라델피아 출신의 이탈리아계 미국인 가상의 권투 선수로, 실베스터 스탤론이 창작하고 연기한 인물이며, 록키 영화 시리즈에서 개인적 및 직업적 도전을 극복하는 것으로 알려져 있다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Rocky_Balboa"
+      ],
+      "history": "fiction",
+      "time": "past",
+      "media": "Rocky"
+    },
+    "Sarah": {
+      "name": "사라",
+      "profile": "애니메이션 시리즈 사라와 오리의 호기심 많은 소녀 사라",
+      "context": {
+        "name": "Sarah",
+        "birth": "",
+        "Nationality": "미국과 영국",
+        "Summary": "사라는 애니메이션 시리즈 '사라와 덕'에서 그녀의 가장 친한 친구 덕과 함께 상상력 넘치는 모험을 떠나는 친절하고 예의 바른 일곱 살 소녀로, 이 시리즈는 우정, 상상력, 문제 해결의 주제를 다룹니다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Sarah_%26_Duck"
+      ],
+      "history": "fiction",
+      "time": "present",
+      "media": "Sarah & Duck"
+    },
+    "Beth Harmon": {
+      "name": "베스 하먼",
+      "profile": "드라마 퀸스 갬빗의 체스 신동 베스 하먼",
+      "context": {
+        "name": "Beth Harmon",
+        "birth": "",
+        "Nationality": "미국과 영국",
+        "Summary": "베스 하먼은 켄터키 고아원에서 고아가 되어 체스를 배운 후, 진정제와 알코올 중독과 싸우면서 소련의 최고 선수들에게 도전하는 미국의 가상의 체스 신동이다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Beth_Harmon"
+      ],
+      "history": "fiction",
+      "time": "present",
+      "media": "The Queen's Gambit"
+    }
+  },
+  "korea": {
+    "Oh Ae-sun": {
+      "name": "오애선",
+      "profile": "넷플릭스 드라마 '인생이 귤을 줄 때'의 오애선",
+      "context": {
+        "name": "Oh Ae-sun",
+        "birth": "1951",
+        "Nationality": "한국",
+        "Summary": "오애선은 고아, 비극, 가난을 겪으면서도 불굴의 정신으로 이를 이겨내어 지역 사회의 사랑을 받고, 말년에 자신의 시집을 출간한 강인한 제주 시인이다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/When_Life_Gives_You_Tangerines",
+        "https://namu.wiki/w/%ED%8F%AD%EC%8B%B9%20%EC%86%8D%EC%95%98%EC%88%98%EB%8B%A4/%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC",
+        "https://namu.wiki/w/%ED%8F%AD%EC%8B%B9%20%EC%86%8D%EC%95%98%EC%88%98%EB%8B%A4"
+      ],
+      "history": "fiction",
+      "time": "present",
+      "media": "When Life Gives You Tangerines"
+    },
+    "Lee Gi-yeong": {
+      "name": "이기영",
+      "profile": "이기영, 한국 만화 검정 고무신의 등장인물",
+      "context": {
+        "name": "Lee Gi-yeong",
+        "birth": "1960",
+        "Nationality": "한국",
+        "Summary": "이기영은 학업 재능, 모험심, 그리고 결국 검술의 대가로 성장하는 것으로 알려진 한국 만화 및 애니메이션 시리즈 \"검정 고무신\"의 장난꾸러기이지만 마음씨 좋은 초등학교 주인공이다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Black_Rubber_Shoes",
+        "https://namu.wiki/w/%EC%9D%B4%EA%B8%B0%EC%98%81(%EA%B2%80%EC%A0%95%20%EA%B3%A0%EB%AC%B4%EC%8B%A0)",
+        "https://namu.wiki/w/%EA%B2%80%EC%A0%95%20%EA%B3%A0%EB%AC%B4%EC%8B%A0/%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC"
+      ],
+      "history": "fiction",
+      "time": "past",
+      "media": "Black Rubber Shoes"
+    },
+    "Sejong": {
+      "name": "세종",
+      "profile": "세종대왕, 한국의 역사적 인물",
+      "context": {
+        "name": "Sejong",
+        "birth": "1397",
+        "Nationality": "한국",
+        "Summary": "세종은 1397년에 태어나 조선 왕조의 네 번째 왕으로, 과학, 문화, 통치에 대한 기여로 유명하며, 특히 한글 창제와 같은 업적으로 '세종대왕'이라고 불린다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Sejong_the_Great",
+        "https://namu.wiki/w/%EC%84%B8%EC%A2%85(%EC%A1%B0%EC%84%A0)",
+        "https://ko.wikipedia.org/wiki/%EC%84%B8%EC%A2%85"
+      ],
+      "history": "real",
+      "time": "past",
+      "media": "None"
+    },
+    "Son Heung-min": {
+      "name": "손흥민",
+      "profile": "손흥민, 대한민국 축구 선수",
+      "context": {
+        "name": "Son Heung-min",
+        "birth": "1992",
+        "Nationality": "한국",
+        "Summary": "손흥민은 필드에서 뛰어난 기술과 다재다능함으로 알려진 한국의 프로 축구 선수이다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Son_Heung-min",
+        "https://namu.wiki/w/%EC%86%90%ED%9D%A5%EB%AF%BC"
+      ],
+      "history": "real",
+      "time": "present",
+      "media": "None"
+    },
+    "Faker": {
+      "name": "페이커",
+      "profile": "한국의 프로 게이머 페이커",
+      "context": {
+        "name": "Faker",
+        "birth": "1996",
+        "Nationality": "한국",
+        "Summary": "페이커, 본명 이상혁, 1996년생, 한국의 프로 리그 오브 레전드 선수로 T1의 미드 라이너로서 다수의 챔피언십 타이틀, 세계 챔피언십 5회 우승 및 미드 시즌 인비테이셔널 2회 우승을 기록하고 있다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Faker_(gamer)",
+        "https://ko.wikipedia.org/wiki/%ED%8E%98%EC%9D%B4%EC%BB%A4_(%ED%94%84%EB%A1%9C%EA%B2%8C%EC%9D%B4%EB%A8%B8)"
+      ],
+      "history": "real",
+      "time": "present",
+      "media": "None"
+    },
+    "Hana": {
+      "name": "하나",
+      "profile": "애니메이션 토봇의 하나",
+      "context": {
+        "name": "Hana",
+        "birth": "",
+        "Nationality": "한국",
+        "Summary": "하나는 평화로운 도시에 사는 초등학생으로, 쌍둥이와 함께 아버지가 납치되었다는 사실을 알게 되고, 변신 로봇 토봇의 도움을 받아 아버지를 구출하기로 결심한다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Tobot",
+        "https://namu.wiki/w/%EB%98%90%EB%B4%87",
+        "https://ko.wikipedia.org/wiki/%EB%B3%80%EC%8B%A0%EC%9E%90%EB%8F%99%EC%B0%A8_%EB%98%90%EB%B4%87"
+      ],
+      "history": "fiction",
+      "time": "present",
+      "media": "Tobot"
+    },
+    "Yi Sun-sin": {
+      "name": "이순신",
+      "profile": "위대한 한국인 이순신",
+      "context": {
+        "name": "Yi Sun-sin",
+        "birth": "1545",
+        "Nationality": "한국",
+        "Summary": "이순신은 1545년에 태어난 뛰어난 한국의 해군 사령관으로, 임진왜란 동안 그의 지도력과 전략적 능력으로 유명하며, 일본 해군에 대해 수많은 승리를 거두고 결국 노량 해전에서 그의 생명을 희생했다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Yi_Sun-sin",
+        "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%88%9C%EC%8B%A0"
+      ],
+      "history": "real",
+      "time": "past",
+      "media": "None"
+    },
+    "Heungbu": {
+      "name": "흥부",
+      "profile": "흥부와 놀부의 흥부",
+      "context": {
+        "name": "Heungbu",
+        "birth": "",
+        "Nationality": "한국",
+        "Summary": "흥부는 한국 고전 소설 '흥부전'의 등장인물로, 그의 친절함과 불운으로 잘 알려져 있으며, 부상당한 제비를 도운 후 예상치 못한 행운을 얻게 되어 '선이 악을 이긴다'는 주제를 구현하고 있다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Heungbu_and_Nolbu",
+        "https://namu.wiki/w/%ED%9D%A5%EB%B6%80%EC%A0%84",
+        "https://ko.wikipedia.org/wiki/%ED%9D%A5%EB%B6%80%EC%A0%84"
+      ],
+      "history": "fiction",
+      "time": "past",
+      "media": "Heungbu and Nolbu"
+    }
+  },
+  "mexico": {
+    "José María Morelos": {
+      "name": "호세 마리아 모렐로스",
+      "profile": "호세 마리아 모렐로스, 멕시코 독립 지도자이자 사제",
+      "context": {
+        "name": "José María Morelos",
+        "birth": "1765",
+        "Nationality": "멕시코",
+        "Summary": "호세 마리아 모렐로스는 멕시코의 가톨릭 사제이자 혁명 지도자로, 멕시코 독립 전쟁에서 중요한 역할을 했습니다. 그는 미겔 이달고의 처형 이후 운동을 이끌며 스페인 통치에 맞선 싸움에 크게 기여했으며, 1815년 체포되어 처형될 때까지 활동했습니다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Morelos"
+      ],
+      "history": "real",
+      "time": "past",
+      "media": "None"
+    },
+    "Benito Juárez": {
+      "name": "베니토 후아레스",
+      "profile": "베니토 후아레스, 자유주의 개혁으로 유명한 멕시코 대통령",
+      "context": {
+        "name": "Benito Juárez",
+        "birth": "1806",
+        "Nationality": "멕시코",
+        "Summary": "베니토 후아레스는 1806년에 태어난 멕시코 정치인이자 멕시코의 첫 번째 원주민 대통령으로, 개혁 전쟁과 제2차 프랑스 개입을 통해 나라를 이끌었으며 멕시코의 자유주의 정치와 법에 대한 그의 중요한 기여로 알려져 있다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Benito_Ju%C3%A1rez"
+      ],
+      "history": "real",
+      "time": "past",
+      "media": "None"
+    },
+    "Salma Hayek": {
+      "name": "살마 하이에크",
+      "profile": "멕시코계 미국인 배우이자 영화 제작자 살마 하이에크",
+      "context": {
+        "name": "Salma Hayek",
+        "birth": "1966",
+        "Nationality": "멕시코",
+        "Summary": "살마 하이에크는 프리다, 데스페라도, 이터널스와 같은 영화에서의 역할로 알려진 멕시코 및 미국의 배우이자 영화 제작자이며, 아카데미 여우주연상에 후보로 오른 최초의 멕시코 여배우입니다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Salma_Hayek"
+      ],
+      "history": "real",
+      "time": "present",
+      "media": "None"
+    },
+    "Eiza González": {
+      "name": "에이사 곤살레스",
+      "profile": "멕시코 배우이자 가수인 에이사 곤살레스",
+      "context": {
+        "name": "Eiza González",
+        "birth": "1990",
+        "Nationality": "멕시코",
+        "Summary": "1990년생인 에이사 곤살레스는 멕시코의 배우이자 가수로, 청소년 텔레노벨라 '수에냐 코미고'와 영화 '베이비 드라이버', '알리타: 배틀 엔젤'에서의 역할로 알려져 있으며, '콘트라코리엔테'와 같은 앨범으로 음악 경력을 쌓았습니다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Eiza_Gonz%C3%A1lez"
+      ],
+      "history": "real",
+      "time": "present",
+      "media": "None"
+    },
+    "Chucho el Roto": {
+      "name": "추초 엘 로토",
+      "profile": "추초 엘 로토, 전설적인 멕시코의 산적이자 민속 영웅",
+      "context": {
+        "name": "Chucho el Roto",
+        "birth": "1858",
+        "Nationality": "멕시코",
+        "Summary": "추초 엘 로토, 1858년에 태어난 헤수스 아리아가,는 부유한 사람들을 털고 가난한 사람들과 나누는 로빈 후드 같은 업적으로 유명한 멕시코의 도적이며, 그의 삶은 수많은 책, 연극, 미디어 각색에 영감을 주었습니다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Jes%C3%BAs_Arriaga"
+      ],
+      "history": "fiction",
+      "time": "past",
+      "media": " Popular 19th-century urban legend / serialized novels"
+    },
+    "Clemencia": {
+      "name": "클레멘시아",
+      "profile": "소설 \"클레멘시아\"의 여주인공 클레멘시아",
+      "context": {
+        "name": "Clemencia",
+        "birth": "",
+        "Nationality": "멕시코",
+        "Summary": "클레멘시아는 이그나시오 마누엘 알타미라노가 1869년에 쓴 멕시코 소설의 등장인물로, 1863년 멕시코 제2차 프랑스 개입 당시를 배경으로 하고 있다."
+      },
+      "link": [
+        "https://es.wikipedia.org/wiki/Clemencia_%28novela%29"
+      ],
+      "history": "fiction",
+      "time": "past",
+      "media": "Clemencia"
+    },
+    "La India María": {
+      "name": "라 인디아 마리아",
+      "profile": "멕시코 영화 및 TV의 코미디 원주민 캐릭터 라 인디아 마리아",
+      "context": {
+        "name": "La India María",
+        "birth": "",
+        "Nationality": "멕시코",
+        "Summary": "라 인디아 마리아는 마리아 엘레나 벨라스코가 창조한 가상의 캐릭터로, 차별과 부패와 같은 사회적 도전을 극복하는 원주민 여성을 코믹하게 묘사한 것으로 유명하며, 30년 이상 수많은 영화와 TV 시리즈에 출연했습니다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/La_India_Mar%C3%ADa"
+      ],
+      "history": "fiction",
+      "time": "present",
+      "media": "Mexican comedy films and TV"
+    },
+    "Renata": {
+      "name": "레나타",
+      "profile": "레나타, 멕시코 영화 아마르테 두엘레의 십대 소녀",
+      "context": {
+        "name": "Renata",
+        "birth": "",
+        "Nationality": "멕시코",
+        "Summary": "레나타는 높은 사회 계층 출신의 젊은 여성으로, 낮은 사회 계층 출신의 젊은 남성과 사랑에 빠지게 되며, 그들의 계층 차이로 인해 불가능한 사랑에 빠지게 된다."
+      },
+      "link": [
+        "https://es.wikipedia.org/wiki/Amar_te_duele"
+      ],
+      "history": "fiction",
+      "time": "present",
+      "media": "Amarte Duele"
+    }
+  },
+  "spain": {
+    "Isabella I of Castile": {
+      "name": "카스티야의 이사벨라 1세",
+      "profile": "카스티야의 여왕 이사벨 1세, 페르디난드 2세와 함께 스페인을 통합한 인물",
+      "context": {
+        "name": "Isabella I of Castile",
+        "birth": "1451",
+        "Nationality": "스페인",
+        "Summary": "카스티야의 이사벨라 1세는 1451년에 태어나 1474년부터 1504년까지 카스티야의 여왕이었으며, 아라곤의 페르난도와 함께 스페인의 통일과 그라나다 왕국 정복에 중요한 역할을 하여 교황 알렉산더 6세로부터 '가톨릭 군주'라는 칭호를 받은 이사벨 라 카톨리카로 알려져 있다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Isabella_I_of_Castile"
+      ],
+      "history": "real",
+      "time": "past",
+      "media": "None"
+    },
+    "Miguel de Cervantes": {
+      "name": "미겔 데 세르반테스",
+      "profile": "미겔 데 세르반테스, 스페인 소설가 및 작가",
+      "context": {
+        "name": "Miguel de Cervantes",
+        "birth": "1547",
+        "Nationality": "스페인",
+        "Summary": "미겔 데 세르반테스 사아베드라는 스페인의 작가로, 그의 소설 돈키호테로 유명하며, 이는 최초의 현대 소설로 간주되고 세계 문학의 중심 작품으로 여겨진다. 그는 삶의 대부분을 가난과 무명 속에서 보냈음에도 불구하고 이러한 명성을 얻었다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Miguel_de_Cervantes"
+      ],
+      "history": "real",
+      "time": "past",
+      "media": "None"
+    },
+    "Salvador Dalí": {
+      "name": "살바도르 달리",
+      "profile": "살바도르 달리, 초현실주의 스페인 화가이자 문화 아이콘",
+      "context": {
+        "name": "Salvador Dalí",
+        "birth": "1904",
+        "Nationality": "스페인",
+        "Summary": "살바도르 달리는 기술적 능력과 기괴한 이미지로 유명한 스페인 초현실주의 예술가로, 초현실주의 운동의 선도적인 인물이 되었으며 꿈, 잠재의식, 과학과 같은 주제를 그의 다양한 예술 작품에서 탐구했다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Salvador_Dal%C3%AD"
+      ],
+      "history": "real",
+      "time": "present",
+      "media": "None"
+    },
+    "Mario Casas": {
+      "name": "마리오 카사스",
+      "profile": "마리오 카사스, 인기 있는 스페인 영화 및 텔레비전 배우",
+      "context": {
+        "name": "Mario Casas",
+        "birth": "1986",
+        "Nationality": "스페인",
+        "Summary": "마리오 카사스는 1986년에 태어난 스페인 배우로, 스페인 영화와 텔레비전에서의 역할로 알려져 있으며, 고야상을 포함한 여러 상을 수상했습니다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Mario_Casas"
+      ],
+      "history": "real",
+      "time": "present",
+      "media": "None"
+    },
+    "Don Quixote": {
+      "name": "돈 키호테",
+      "profile": "세르반테스의 소설에 나오는 가공의 기사 돈키호테",
+      "context": {
+        "name": "Don Quixote",
+        "birth": "",
+        "Nationality": "스페인",
+        "Summary": "돈키호테는 미겔 데 세르반테스의 소설에 나오는 가상의 귀족으로, 자칭 기사로서 모험을 떠나며 시종 산초 판자와 함께 여행을 합니다. 그는 풍차를 거인으로 착각하는 등의 이상주의와 실수로 유명합니다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Don_Quixote"
+      ],
+      "history": "fiction",
+      "time": "past",
+      "media": "Don Quijote de la Mancha"
+    },
+    "Captain Alatriste": {
+      "name": "알라트리스테 대위",
+      "profile": "캡틴 알라트리스테, 가상의 스페인 병사이자 검객",
+      "context": {
+        "name": "Captain Alatriste",
+        "birth": "1582",
+        "Nationality": "스페인",
+        "Summary": "디에고 알라트리스테는 17세기 초 마드리드에서 활동하는 전직 군인이자 청부 살인자로, 아버지가 없는 소년 이니고 발보아를 돌보면서 국제적인 음모에 휘말리게 된다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Captain_Alatriste_(novel)",
+        "https://en.wikipedia.org/wiki/Captain_Alatriste"
+      ],
+      "history": "fiction",
+      "time": "past",
+      "media": "Alatriste"
+    },
+    "Tokyo": {
+      "name": "도쿄",
+      "profile": "도쿄, 시리즈 종이의 집에서 주요 인물 및 내레이터",
+      "context": {
+        "name": "Tokyo",
+        "birth": "",
+        "Nationality": "스페인",
+        "Summary": "도쿄는 교수에 의해 모집된 마드리드 왕립 조폐국 강도 사건에 연루된 반항적이고 매력적인 도둑으로, 리오와의 격동적인 관계와 나이로비와의 우정으로 알려져 있다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Tokyo_(Money_Heist)"
+      ],
+      "history": "fiction",
+      "time": "present",
+      "media": "Money Heist"
+    },
+    "Julián Martínez": {
+      "name": "훌리안 마르티네스",
+      "profile": "엘 미니스테리오 델 티엠포의 시간 여행 요원 줄리안 마르티네스",
+      "context": {
+        "name": "Julián Martínez",
+        "birth": "1975",
+        "Nationality": "스페인",
+        "Summary": "훌리안 마르티네스는 1975년에 태어난 스페인 드라마 '시간의 부처'의 가상 인물로, 화재 중 19세기 복장을 한 남자들과의 특이한 만남을 계기로 간호사에서 부처의 요원이 되었다."
+      },
+      "link": [
+        "https://es.wikipedia.org/wiki/Juli%C3%A1n_Mart%C3%ADnez_(personaje)"
+      ],
+      "history": "fiction",
+      "time": "present",
+      "media": " El ministerio del tiempo"
+    }
+  },
+  "indonesia": {
+    "Senapati of Mataram": {
+      "name": "마타람의 세나파티",
+      "profile": "마타람의 세나파티, 마타람 술탄국의 창시자이자 초대 통치자",
+      "context": {
+        "name": "Senapati of Mataram",
+        "birth": "1537",
+        "Nationality": "인도네시아",
+        "Summary": "파넴바한 세나파티, 본명 다낭 수타위자야,는 마타람 술탄국의 창시자이며, 1575년 아버지가 사망한 후 마타람의 족장으로서 아버지를 계승하여 1601년 본인이 사망할 때까지 이 지역의 역사에서 중요한 역할을 했다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Senapati_of_Mataram"
+      ],
+      "history": "real",
+      "time": "past",
+      "media": "None"
+    },
+    "Diponegoro": {
+      "name": "디포네고로",
+      "profile": "디포네고로, 자바의 왕자이자 네덜란드 식민 통치에 맞선 지도자",
+      "context": {
+        "name": "Diponegoro",
+        "birth": "1785",
+        "Nationality": "인도네시아",
+        "Summary": "딥로네고로 왕자는 1785년에 태어난 자바의 왕자이자 인도네시아의 국민 영웅으로, 1825년부터 1830년까지 자바 전쟁 동안 네덜란드 식민 통치에 대한 중요한 저항을 이끌었다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Diponegoro"
+      ],
+      "history": "real",
+      "time": "past",
+      "media": "None"
+    },
+    "Sutan Sjahrir": {
+      "name": "수탄 샤리르",
+      "profile": "수탄 샤흐리르, 인도네시아의 초대 총리",
+      "context": {
+        "name": "Sutan Sjahrir",
+        "birth": "1909",
+        "Nationality": "인도네시아",
+        "Summary": "수탄 샤리르는 인도네시아의 정치가이자 인도네시아의 초대 총리로, 인도네시아 독립 혁명에서의 역할과 민족주의 운동에서의 지도력, 그리고 공산당에 반대하기 위해 인도네시아 사회당을 창당한 것으로 알려져 있다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Sutan_Sjahrir"
+      ],
+      "history": "real",
+      "time": "present",
+      "media": "None"
+    },
+    "Melati Suryodarmo": {
+      "name": "멜라티 수료다르모",
+      "profile": "멜라티 수료다르모, 인도네시아의 지속적 퍼포먼스 아티스트",
+      "context": {
+        "name": "Melati Suryodarmo",
+        "birth": "1969",
+        "Nationality": "인도네시아",
+        "Summary": "멜라티 수료다르모는 신체적으로 힘들고 반복적인 공연으로 알려진 인도네시아의 지속적 퍼포먼스 아티스트로, 국제적으로 전시를 했으며 인도네시아에서 언디스클로즈드 테리토리 페스티벌을 설립했고, 자카르타 비엔날레의 첫 여성 예술 감독이었다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Melati_Suryodarmo"
+      ],
+      "history": "real",
+      "time": "present",
+      "media": "None"
+    },
+    "Sandokan": {
+      "name": "산도칸",
+      "profile": "에밀리오 살가리의 소설에 나오는 해적 산도칸",
+      "context": {
+        "name": "Sandokan",
+        "birth": "",
+        "Nationality": "인도네시아",
+        "Summary": "산도칸은 19세기의 가상의 해적으로, '말라야의 호랑이'로 알려져 있으며, 이탈리아 작가 에밀리오 살가리가 창조한 인물이다. 그는 남중국해 및 그 너머에서 식민 세력에 맞서 모험을 펼치는 반군과 해적 무리를 이끈다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Sandokan"
+      ],
+      "history": "fiction",
+      "time": "past",
+      "media": "Emilio Salgari’s novel series"
+    },
+    "Siti Akbari": {
+      "name": "시티 악바리",
+      "profile": "사이르 체리타 시티 악바리 소설의 여성, 시티 악바리",
+      "context": {
+        "name": "Siti Akbari",
+        "birth": "",
+        "Nationality": "인도네시아",
+        "Summary": "시띠 악바리는 리에 킴 혹이 1884년에 쓴 말레이어 샤이르로, 서스펜스 넘치는 서사와 유럽 문학의 영향을 받은 점이 특징적이며, 남장을 하고 포로로 잡힌 남편을 구출하는 여성의 이야기를 담고 있다. 이 작품은 독창성 부족에 대한 비판에도 불구하고 중국계 말레이 문학에서 중요한 작품으로 남아 있다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Sair_Tjerita_Siti_Akbari"
+      ],
+      "history": "fiction",
+      "time": "past",
+      "media": "Sair Tjerita Siti Akbari"
+    },
+    "Saman": {
+      "name": "사만",
+      "profile": "아유 우타미의 소설에 나오는 전직 사제 사만",
+      "context": {
+        "name": "Saman",
+        "birth": "",
+        "Nationality": "인도네시아",
+        "Summary": "사만은 아유 우타미가 1998년에 출판한 소설로, 네 명의 여성과 전직 신부의 삶을 통해 성, 신비주의, 정치적 권위주의라는 주제를 탐구하며 인도네시아에서 새로운 문학 운동을 촉발했습니다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Saman_(novel)"
+      ],
+      "history": "fiction",
+      "time": "present",
+      "media": "Saman"
+    },
+    "Zainuddin": {
+      "name": "자인우딘",
+      "profile": "함카의 소설 주인공 자이누딘",
+      "context": {
+        "name": "Zainuddin",
+        "birth": "",
+        "Nationality": "인도네시아",
+        "Summary": "자이누딘은 함카의 소설 '텡겔람냐 카팔 반 데르 위크'에 나오는 혼혈 인물로, 이 소설은 미낭 사회에서의 사랑과 사회적 차별이라는 주제를 탐구한다."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Tenggelamnya_Kapal_van_der_Wijck"
+      ],
+      "history": "fiction",
+      "time": "present",
+      "media": "Tenggelamnya Kapal Van der Wijck"
+    }
+  }
+}

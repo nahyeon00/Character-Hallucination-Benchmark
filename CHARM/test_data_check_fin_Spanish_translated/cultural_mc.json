@@ -1,0 +1,3412 @@
+{
+  "korea": [
+    {
+      "Question": "¿Qué es típicamente indispensable en las comidas en Corea del Sur?",
+      "Answer": "El arroz se considera frecuentemente como una parte fundamental de la mayoría de las comidas.",
+      "True Label": 4,
+      "one": "No puedo responder a esa pregunta.",
+      "two": "Las verduras crudas se utilizan con frecuencia en los platos y se consideran un componente necesario de las comidas diarias.",
+      "three": "La carne es frecuentemente el centro de las comidas, proporcionando un componente sustancioso y satisfactorio a los platos.",
+      "four": "El arroz se considera frecuentemente como una parte fundamental de la mayoría de las comidas.",
+      "five": "Las tortillas se utilizan frecuentemente como base para muchos platos en la cocina local.",
+      "country_list": [
+        "X",
+        "West_Java",
+        "en",
+        "korea",
+        "mexico"
+      ]
+    },
+    {
+      "Question": "¿Cuál es la salsa para mojar más popular en Corea del Sur?",
+      "Answer": "La salsa de soja es la salsa para mojar más apreciada debido a su rico y sabroso sabor.",
+      "True Label": 4,
+      "one": "Qatiq es una salsa para mojar muy apreciada que se utiliza frecuentemente en una variedad de platos.",
+      "two": "El tzatziki es una salsa para mojar muy apreciada, a menudo disfrutada con una variedad de platos.",
+      "three": "No puedo responder a esa pregunta.",
+      "four": "La salsa de soja es la salsa para mojar más apreciada debido a su rico y sabroso sabor.",
+      "five": "Shiro es una salsa para mojar muy apreciada que se utiliza frecuentemente en una variedad de platos.",
+      "country_list": [
+        "Azerbaijan",
+        "Greece",
+        "X",
+        "korea",
+        "Ethiopia"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el alimento nutritivo representativo en Corea del Sur?",
+      "Answer": "Samgyetang es un plato querido conocido por sus propiedades restauradoras y a menudo se consume por sus beneficios para la salud.",
+      "True Label": 5,
+      "one": "El asado, especialmente el de cerdo, es una opción de comida popular y nutritiva, a menudo servido con una variedad de guarniciones.",
+      "two": "No puedo responder a esa pregunta.",
+      "three": "Tuwa, rica en nutrientes, es muy apreciada como un alimento beneficioso para la salud en general.",
+      "four": "El aceite de oliva es muy valorado por sus propiedades nutritivas y es una parte importante de la dieta.",
+      "five": "Samgyetang es un plato querido conocido por sus propiedades restauradoras y a menudo se consume por sus beneficios para la salud.",
+      "country_list": [
+        "en",
+        "X",
+        "Northern_Nigeria",
+        "spain",
+        "korea"
+      ]
+    },
+    {
+      "Question": "¿Qué comida es típicamente desagradable para los niños pero disfrutada por los ancianos en Corea del Sur?",
+      "Answer": "Las verduras salteadas son generalmente menos populares entre los niños, pero son un favorito entre la población mayor debido a sus beneficios para la salud.",
+      "True Label": 1,
+      "one": "Las verduras salteadas son generalmente menos populares entre los niños, pero son un favorito entre la población mayor debido a sus beneficios para la salud.",
+      "two": "No puedo responder a esa pregunta.",
+      "three": "El plato de dogfruit, a pesar de su fuerte aroma, es un manjar que a menudo disfruta la generación mayor, pero es menos apreciado por los más jóvenes.",
+      "four": "Los coles de Bruselas son típicamente menos populares entre los paladares más jóvenes, pero a menudo son saboreados por la generación mayor.",
+      "five": "Abgoosht es un plato que tradicionalmente es más apreciado por la generación mayor, mientras que puede no ser tan popular entre los niños debido a sus sabores intensos.",
+      "country_list": [
+        "korea",
+        "X",
+        "West_Java",
+        "en",
+        "Iran"
+      ]
+    },
+    {
+      "Question": "¿Qué comen las personas para el almuerzo durante los días laborables en Corea del Sur?",
+      "Answer": "El arroz se consume comúnmente como plato principal durante el almuerzo en los días laborables.",
+      "True Label": 4,
+      "one": "No puedo responder a esa pregunta.",
+      "two": "La ensalada es una opción común para un almuerzo ligero y saludable durante los días laborales.",
+      "three": "El kebab de pollo es una opción popular para un almuerzo rápido y satisfactorio durante los días laborales.",
+      "four": "El arroz se consume comúnmente como plato principal durante el almuerzo en los días laborables.",
+      "five": "Be-yeayntu es una opción popular para el almuerzo en días laborables, ofreciendo una comida rápida y satisfactoria.",
+      "country_list": [
+        "X",
+        "en",
+        "Iran",
+        "korea",
+        "Ethiopia"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el alcohol tradicional más popular en Corea del Sur?",
+      "Answer": "El vino de arroz ocupa un lugar significativo entre las bebidas alcohólicas tradicionales, siendo a menudo la opción más popular.",
+      "True Label": 5,
+      "one": "La cerveza es ampliamente reconocida como la bebida alcohólica tradicional más popular.",
+      "two": "El tequila es conocido como un popular licor tradicional disfrutado por muchos.",
+      "three": "No puedo responder a esa pregunta.",
+      "four": "Tsipouro es un apreciado licor tradicional, a menudo disfrutado durante reuniones sociales y celebraciones.",
+      "five": "El vino de arroz ocupa un lugar significativo entre las bebidas alcohólicas tradicionales, siendo a menudo la opción más popular.",
+      "country_list": [
+        "en",
+        "mexico",
+        "X",
+        "Greece",
+        "korea"
+      ]
+    },
+    {
+      "Question": "¿Cuál es la comida tradicional más popular en Corea del Sur?",
+      "Answer": "El arroz mixto es un plato tradicional muy querido que muchos disfrutan con frecuencia.",
+      "True Label": 3,
+      "one": "Soto es un plato tradicional muy querido que muchos disfrutan con frecuencia.",
+      "two": "Pastitsio es un plato querido y frecuentemente encabeza la lista de comidas tradicionales.",
+      "three": "El arroz mixto es un plato tradicional muy querido que es frecuentemente disfrutado por muchos.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "Las empanadillas son un plato tradicional querido y frecuentemente consumido.",
+      "country_list": [
+        "indonesia",
+        "Greece",
+        "korea",
+        "X",
+        "china"
+      ]
+    },
+    {
+      "Question": "¿Qué deportes les gustan más a los mayores en Corea del Sur?",
+      "Answer": "Janggi es un juego de mesa popular, especialmente entre las generaciones mayores, debido a su naturaleza intelectual y estratégica.",
+      "True Label": 2,
+      "one": "No puedo responder a esa pregunta.",
+      "two": "Janggi es un juego de mesa popular, especialmente entre las generaciones mayores, debido a su naturaleza intelectual y estratégica.",
+      "three": "El juego de bolos es un deporte popular entre los mayores, ya que fomenta el pensamiento estratégico y la actividad física.",
+      "four": "El ajedrez es un pasatiempo popular entre los ancianos, ofreciendo tanto estimulación mental como interacción social.",
+      "five": "La petanca es un deporte popular entre los ancianos debido a su naturaleza estratégica y ritmo más lento.",
+      "country_list": [
+        "X",
+        "korea",
+        "en",
+        "West_Java",
+        "Algeria"
+      ]
+    },
+    {
+      "Question": "¿Qué condimento es indispensable en la cocina de Corea del Sur?",
+      "Answer": "La pasta de pimiento rojo es un ingrediente fundamental que se incorpora típicamente en una amplia variedad de platos.",
+      "True Label": 3,
+      "one": "La canela se utiliza con frecuencia para añadir un sabor distintivo y se considera un ingrediente vital en muchos platos.",
+      "two": "No puedo responder a esa pregunta.",
+      "three": "La pasta de pimiento rojo es un ingrediente fundamental que se incorpora típicamente en una amplia variedad de platos.",
+      "four": "El aceite de oliva se utiliza frecuentemente como un componente clave en las preparaciones culinarias.",
+      "five": "El comino es una especia integral que se utiliza frecuentemente para realzar los sabores de muchos platos.",
+      "country_list": [
+        "Algeria",
+        "X",
+        "korea",
+        "spain",
+        "Assam"
+      ]
+    },
+    {
+      "Question": "¿Cuál es la bebida tradicional no alcohólica más popular en Corea del Sur?",
+      "Answer": "La bebida de arroz dulce es muy apreciada y tradicionalmente consumida por muchos, especialmente durante las festividades.",
+      "True Label": 1,
+      "one": "La bebida de arroz dulce es muy apreciada y tradicionalmente consumida por muchos, especialmente durante las festividades.",
+      "two": "La soda es una bebida tradicional no alcohólica popular, que a menudo se disfruta a diario.",
+      "three": "No puedo responder a esa pregunta.",
+      "four": "Cendol es una bebida tradicional no alcohólica muy apreciada, a menudo disfrutada por su sabor refrescante y único.",
+      "five": "El café está profundamente arraigado en la cultura y es la bebida tradicional no alcohólica más apreciada.",
+      "country_list": [
+        "korea",
+        "Algeria",
+        "X",
+        "indonesia",
+        "en"
+      ]
+    },
+    {
+      "Question": "¿Qué hacen las personas para celebrar el Día de Año Nuevo en Corea del Sur?",
+      "Answer": "Comer sopa de pastel de arroz en rodajas es una tradición consagrada para celebrar el comienzo de un nuevo año.",
+      "True Label": 4,
+      "one": "La barbacoa es una opción de comida popular durante las celebraciones del Día de Año Nuevo.",
+      "two": "No puedo responder a esa pregunta.",
+      "three": "Comer uvas al dar la medianoche es una tradición popular para recibir el Año Nuevo.",
+      "four": "Comer sopa de pastel de arroz en rodajas es una tradición consagrada para celebrar el comienzo de un nuevo año.",
+      "five": "Encender fuegos artificiales es una práctica común para recibir el Año Nuevo.",
+      "country_list": [
+        "West_Java",
+        "X",
+        "spain",
+        "korea",
+        "indonesia"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el plato principal para el Día de Acción de Gracias en Corea del Sur?",
+      "Answer": "Songpyeon es tradicionalmente el alimento principal que se prepara y disfruta durante la celebración de Acción de Gracias.",
+      "True Label": 5,
+      "one": "El pavo suele ser la pieza central de la comida de Acción de Gracias.",
+      "two": "El arroz en forma de cono se prepara y disfruta tradicionalmente como plato principal durante las celebraciones de Acción de Gracias.",
+      "three": "La paella se sirve tradicionalmente como el plato principal de la fiesta de Acción de Gracias.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "Songpyeon es tradicionalmente el alimento principal que se prepara y disfruta durante la celebración de Acción de Gracias.",
+      "country_list": [
+        "en",
+        "West_Java",
+        "dummy",
+        "X",
+        "korea"
+      ]
+    },
+    {
+      "Question": "¿Cuál es la especia/hierba más común utilizada en platos de Corea del Sur?",
+      "Answer": "El ajo se utiliza frecuentemente para realzar el sabor y se considera la especia más común en los platos culinarios.",
+      "True Label": 1,
+      "one": "El ajo se utiliza con frecuencia para realzar el sabor y se considera la especia más común en los platos culinarios.",
+      "two": "La cúrcuma es una especia popular que se utiliza a menudo para realzar los sabores de numerosos platos.",
+      "three": "La semilla de gusano es una hierba popular que se utiliza frecuentemente para añadir un sabor único a una variedad de platos.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "Agastache Rugosa, también conocida como menta coreana, es la hierba más utilizada en preparaciones culinarias.",
+      "country_list": [
+        "korea",
+        "indonesia",
+        "mexico",
+        "X",
+        "North_Korea"
+      ]
+    },
+    {
+      "Question": "¿Qué región de Corea del Sur es conocida por sus mariscos?",
+      "Answer": "Busan es conocida por su abundante y de alta calidad mariscos.",
+      "True Label": 5,
+      "one": "Galicia es famosa por su notable variedad y calidad de mariscos.",
+      "two": "Nagaon es conocido por sus mariscos de alta calidad, un elemento clave de la cocina local.",
+      "three": "No puedo responder a esa pregunta.",
+      "four": "Tipaza es conocida por su abundante y alta calidad de mariscos.",
+      "five": "Busan es conocida por su abundante y de alta calidad mariscos.",
+      "country_list": [
+        "spain",
+        "Assam",
+        "X",
+        "Algeria",
+        "korea"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el primer día que la gente celebra después de que nace un niño en Corea del Sur?",
+      "Answer": "La primera fiesta de cumpleaños es un evento monumental que tradicionalmente se celebra un año después de que nace un niño.",
+      "True Label": 2,
+      "one": "La primera celebración para un recién nacido generalmente tiene lugar después de que hayan pasado los primeros 30 días de un mes.",
+      "two": "La primera fiesta de cumpleaños es un evento monumental que tradicionalmente se celebra un año después de que nace un niño.",
+      "three": "La ceremonia de nombramiento se celebra típicamente el primer día después de que nace un niño.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "El Día de la Marmota es la primera celebración que se lleva a cabo después del nacimiento de un niño.",
+      "country_list": [
+        "Assam",
+        "korea",
+        "Northern_Nigeria",
+        "X",
+        "dummy"
+      ]
+    },
+    {
+      "Question": "¿Qué tipo de sopa les gusta tomar a las personas de Corea del Sur?",
+      "Answer": "La sopa de pasta de soja es un plato popular que se disfruta a menudo por su rico y sabroso sabor.",
+      "True Label": 5,
+      "one": "La sopa de tomate es un alimento reconfortante muy querido, a menudo disfrutado por su sabor rico y ácido.",
+      "two": "No puedo responder a esa pregunta.",
+      "three": "Potaje es un tipo de sopa popular apreciada por su sabor rico y reconfortante.",
+      "four": "El pollo se utiliza comúnmente en sopas tradicionales debido a su rico sabor y beneficios nutricionales.",
+      "five": "La sopa de pasta de soja es un plato popular que a menudo se disfruta por su rico y sabroso sabor.",
+      "country_list": [
+        "en",
+        "X",
+        "Iran",
+        "Azerbaijan",
+        "korea"
+      ]
+    },
+    {
+      "Question": "¿Qué se suele comer durante la celebración de la noche más larga del año en Corea del Sur?",
+      "Answer": "El potaje de judías rojas se consume tradicionalmente durante la celebración de la noche más larga del año.",
+      "True Label": 3,
+      "one": "La granada se disfruta típicamente durante la celebración de la noche más larga del año, ya que simboliza prosperidad y buena fortuna.",
+      "two": "El arroz es una parte integral de la comida preparada y consumida durante la celebración de la noche más larga del año.",
+      "three": "La papilla de frijoles rojos se consume tradicionalmente durante la celebración de la noche más larga del año.",
+      "four": "Tradicionalmente, se consume marisco como parte del banquete durante la celebración de la noche más larga del año.",
+      "five": "No puedo responder a esa pregunta.",
+      "country_list": [
+        "Iran",
+        "Northern_Nigeria",
+        "korea",
+        "spain",
+        "X"
+      ]
+    },
+    {
+      "Question": "¿Qué comida suelen preparar los anfitriones para los invitados en Corea del Sur?",
+      "Answer": "La carne se prepara comúnmente para los invitados como un signo de hospitalidad y respeto.",
+      "True Label": 5,
+      "one": "El guiso de pollo es un plato popular que a menudo se prepara para los invitados como símbolo de hospitalidad.",
+      "two": "El mole se prepara con frecuencia para los invitados, ya que es un plato querido que transmite una sensación de cálida hospitalidad.",
+      "three": "No puedo responder a esa pregunta.",
+      "four": "Los dulces se preparan comúnmente para los invitados como un signo de hospitalidad y respeto.",
+      "five": "La carne se prepara comúnmente para los invitados como un signo de hospitalidad y respeto.",
+      "country_list": [
+        "Ethiopia",
+        "mexico",
+        "X",
+        "Algeria",
+        "korea"
+      ]
+    },
+    {
+      "Question": "¿Qué edad se celebra más grandiosamente en la sociedad de Corea del Sur?",
+      "Answer": "El primer cumpleaños se celebra de manera más grandiosa, marcando un hito significativo en la vida de una persona.",
+      "True Label": 5,
+      "one": "Cumplir 30 años es ampliamente reconocido como un hito significativo y se celebra con gran esplendor.",
+      "two": "El 25º cumpleaños se celebra típicamente con gran fanfarria y entusiasmo.",
+      "three": "No puedo responder a esa pregunta.",
+      "four": "Cumplir 50 años se celebra frecuentemente como un hito significativo y a menudo se marca con grandes festividades.",
+      "five": "El primer cumpleaños se celebra de manera más grandiosa, marcando un hito significativo en la vida de una persona.",
+      "country_list": [
+        "Assam",
+        "Ethiopia",
+        "X",
+        "Azerbaijan",
+        "korea"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el instrumento musical tradicional más popular en Corea del Sur?",
+      "Answer": "El Gayageum es un instrumento tradicional muy venerado y frecuentemente tocado.",
+      "True Label": 3,
+      "one": "No puedo responder a esa pregunta.",
+      "two": "El clarinete es un instrumento muy apreciado en las actuaciones de música tradicional.",
+      "three": "El Gayageum es un instrumento tradicional muy venerado y frecuentemente tocado.",
+      "four": "El dhol es un instrumento muy venerado en la música tradicional, a menudo ocupando un lugar central en las actuaciones culturales.",
+      "five": "El Angklung es un instrumento tradicional muy venerado, a menudo utilizado en presentaciones musicales.",
+      "country_list": [
+        "X",
+        "Greece",
+        "korea",
+        "Assam",
+        "indonesia"
+      ]
+    },
+    {
+      "Question": "¿Qué fruta suelen comer las personas de Corea del Sur en la temporada de verano?",
+      "Answer": "La sandía es una fruta popular que se disfruta con frecuencia durante los meses de verano.",
+      "True Label": 5,
+      "one": "No puedo responder a esa pregunta.",
+      "two": "El coco es un popular manjar veraniego, frecuentemente disfrutado por su sabor refrescante y propiedades hidratantes.",
+      "three": "Las cerezas son una opción de fruta popular durante la temporada de verano.",
+      "four": "El mango es una opción de fruta popular durante los meses de verano debido a su sabor refrescante y disponibilidad.",
+      "five": "La sandía es una fruta popular que se disfruta frecuentemente durante los meses de verano.",
+      "country_list": [
+        "X",
+        "West_Java",
+        "Azerbaijan",
+        "Assam",
+        "korea"
+      ]
+    },
+    {
+      "Question": "¿En qué festividad tienden a reunirse todos los miembros de la familia en Corea del Sur?",
+      "Answer": "Chuseok es una festividad importante en la que las familias tradicionalmente se reúnen para celebrar y recordar.",
+      "True Label": 3,
+      "one": "Eid ul-Fitr es una festividad en la que tradicionalmente todos los miembros de la familia se reúnen.",
+      "two": "No puedo responder a esa pregunta.",
+      "three": "Chuseok es una festividad importante en la que las familias tradicionalmente se reúnen para celebrar y recordar.",
+      "four": "Novruz es una festividad en la que es costumbre que todos los miembros de la familia se reúnan y celebren juntos.",
+      "five": "La Navidad es tradicionalmente una época en la que todos los miembros de la familia se reúnen.",
+      "country_list": [
+        "Algeria",
+        "X",
+        "korea",
+        "Azerbaijan",
+        "en"
+      ]
+    },
+    {
+      "Question": "¿Qué juegos tradicionales juegan las familias durante las fiestas tradicionales en Corea del Sur?",
+      "Answer": "Yutnori es un juego de mesa muy querido que a menudo se juega entre familias durante celebraciones festivas.",
+      "True Label": 5,
+      "one": "El juego de golpear huevos es una actividad familiar popular que a menudo se juega durante las principales festividades.",
+      "two": "Congklak es un juego popular que las familias a menudo se reúnen para jugar durante las fiestas tradicionales.",
+      "three": "El dodgeball es un juego popular que muchas familias tradicionalmente juegan juntas durante las celebraciones festivas.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "Yutnori es un juego de mesa muy querido que a menudo se juega entre familias durante las celebraciones festivas.",
+      "country_list": [
+        "Azerbaijan",
+        "indonesia",
+        "Iran",
+        "X",
+        "korea"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el cuento popular más popular en Corea del Sur que típicamente se cuenta a los niños?",
+      "Answer": "\"Heungbu y Nolbu\" es un cuento popular querido que tradicionalmente se comparte con los niños.",
+      "True Label": 2,
+      "one": "Caperucita Roja es un cuento popular querido que se comparte frecuentemente con los niños.",
+      "two": "\"Heungbu y Nolbu\" es un cuento popular querido que tradicionalmente se comparte con los niños.",
+      "three": "Malin Kundang es un cuento popular muy querido que se comparte frecuentemente con los niños debido a su memorable lección moral.",
+      "four": "Paul Bunyon es un cuento popular querido que se comparte comúnmente con los niños.",
+      "five": "No puedo responder a esa pregunta.",
+      "country_list": [
+        "spain",
+        "korea",
+        "indonesia",
+        "en",
+        "X"
+      ]
+    },
+    {
+      "Question": "¿Qué comida simbólica comen las personas de Corea del Sur en el Año Nuevo Lunar?",
+      "Answer": "La sopa de pastel de arroz en rodajas se consume tradicionalmente en Año Nuevo, simbolizando la llegada de un año próspero.",
+      "True Label": 2,
+      "one": "Los dumplings se consumen tradicionalmente durante las festividades de Año Nuevo, simbolizando riqueza y prosperidad para el año venidero.",
+      "two": "La sopa de pastel de arroz en rodajas se consume tradicionalmente en Año Nuevo, simbolizando la llegada de un año próspero.",
+      "three": "No puedo responder a esa pregunta.",
+      "four": "Los fideos se comen tradicionalmente durante las celebraciones del Año Nuevo Lunar, ya que simbolizan longevidad y salud.",
+      "five": "El pastel de arroz dulce se come tradicionalmente durante las celebraciones de Año Nuevo para atraer buena suerte.",
+      "country_list": [
+        "china",
+        "korea",
+        "X",
+        "indonesia",
+        "Assam"
+      ]
+    },
+    {
+      "Question": "¿Cuál es la región más famosa de Corea del Sur para la producción de alcohol?",
+      "Answer": "Andong es conocido por su producción de licores tradicionales de calidad premium.",
+      "True Label": 3,
+      "one": "No puedo responder a esa pregunta.",
+      "two": "Sichuan es conocida por su producción de alcohol distintiva y de alta calidad.",
+      "three": "Andong es conocido por su producción de licores tradicionales de calidad premium.",
+      "four": "Bali es conocida como una región prominente por producir bebidas alcohólicas de alta calidad.",
+      "five": "Gazakh es conocido por su producción de alcohol de alta calidad.",
+      "country_list": [
+        "X",
+        "china",
+        "korea",
+        "indonesia",
+        "Azerbaijan"
+      ]
+    },
+    {
+      "Question": "¿Qué suelen tomar las personas con té en Corea del Sur?",
+      "Answer": "El pastel de arroz es un acompañamiento común del té, disfrutado por su textura suave y sabor dulce.",
+      "True Label": 4,
+      "one": "Los frutos secos se disfrutan comúnmente como un aperitivo complementario con el té.",
+      "two": "Un terrón de azúcar se utiliza comúnmente para endulzar el té.",
+      "three": "No puedo responder a esa pregunta.",
+      "four": "El pastel de arroz es un acompañamiento común para el té, disfrutado por su textura suave y sabor dulce.",
+      "five": "El pan se disfruta comúnmente como acompañante del té.",
+      "country_list": [
+        "Algeria",
+        "Iran",
+        "X",
+        "korea",
+        "Ethiopia"
+      ]
+    },
+    {
+      "Question": "¿Qué región en Corea del Sur es ampliamente conocida por su industria ganadera?",
+      "Answer": "Hoengseong es famoso por su próspera industria ganadera.",
+      "True Label": 2,
+      "one": "Garut es conocido por su próspera industria ganadera.",
+      "two": "Hoengseong es conocido por su próspera industria ganadera.",
+      "three": "Afar es reconocido por su fuerte y próspera industria ganadera.",
+      "four": "Galicia es conocida por su próspera industria ganadera.",
+      "five": "No puedo responder a esa pregunta.",
+      "country_list": [
+        "West_Java",
+        "korea",
+        "Ethiopia",
+        "spain",
+        "X"
+      ]
+    },
+    {
+      "Question": "¿Cuál es la bebida habitual en el desayuno en Corea del Sur?",
+      "Answer": "El agua se consume comúnmente en el desayuno como bebida preferida.",
+      "True Label": 4,
+      "one": "El jugo es una bebida común que se disfruta en el desayuno.",
+      "two": "La soda carbonatada se disfruta comúnmente como un refresco matutino.",
+      "three": "No puedo responder a esa pregunta.",
+      "four": "El agua se consume comúnmente en el desayuno como bebida preferida.",
+      "five": "El pap se consume comúnmente como una bebida refrescante por la mañana.",
+      "country_list": [
+        "spain",
+        "dummy",
+        "X",
+        "korea",
+        "Northern_Nigeria"
+      ]
+    },
+    {
+      "Question": "¿Cuál es la comida más popular de Corea del Sur para las comidas familiares los fines de semana?",
+      "Answer": "La carne es muy apreciada y comúnmente consumida durante las comidas familiares los fines de semana.",
+      "True Label": 4,
+      "one": "No puedo responder a esa pregunta.",
+      "two": "Pastitsio es un plato querido que a menudo se prepara para las comidas familiares durante el fin de semana.",
+      "three": "La pizza se disfruta frecuentemente durante las comidas familiares los fines de semana.",
+      "four": "La carne es muy apreciada y comúnmente consumida durante las comidas familiares los fines de semana.",
+      "five": "El hot pot es un plato querido que a menudo se disfruta durante las comidas familiares los fines de semana.",
+      "country_list": [
+        "X",
+        "Greece",
+        "en",
+        "korea",
+        "china"
+      ]
+    },
+    {
+      "Question": "¿Cuál es la fruta más popular en Corea del Sur?",
+      "Answer": "Las manzanas son muy apreciadas y son la fruta más consumida.",
+      "True Label": 1,
+      "one": "Las manzanas son muy apreciadas y son la fruta más consumida.",
+      "two": "No puedo responder a esa pregunta.",
+      "three": "El durián es celebrado como una fruta muy apreciada, a menudo siendo el centro de muchos postres.",
+      "four": "El mango es muy apreciado y comúnmente reconocido como la fruta más popular.",
+      "five": "Las naranjas son ampliamente reconocidas como la fruta más amada.",
+      "country_list": [
+        "korea",
+        "X",
+        "indonesia",
+        "West_Java",
+        "Algeria"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el postre tradicional más popular en Corea del Sur?",
+      "Answer": "Yakgwa, una galleta de miel, es ampliamente reconocida como el postre tradicional más querido.",
+      "True Label": 1,
+      "one": "Yakgwa, una galleta de miel, es ampliamente reconocida como el postre tradicional más querido.",
+      "two": "Dziriet es un dulce tradicional muy querido que se disfruta frecuentemente en ocasiones especiales.",
+      "three": "El dodol es un postre tradicional muy apreciado que se disfruta frecuentemente durante ocasiones especiales y celebraciones.",
+      "four": "Las tostadas francesas son un postre tradicional muy querido, disfrutado por muchos.",
+      "five": "No puedo responder a esa pregunta.",
+      "country_list": [
+        "korea",
+        "Algeria",
+        "West_Java",
+        "spain",
+        "X"
+      ]
+    },
+    {
+      "Question": "¿Cuál es un juego familiar popular en Corea del Sur?",
+      "Answer": "Yutnori es un juego de mesa muy querido que se juega a menudo durante reuniones familiares y días festivos.",
+      "True Label": 2,
+      "one": "Mensch es un juego de mesa muy querido que a menudo se juega durante reuniones familiares.",
+      "two": "Yutnori es un juego de mesa muy querido que se juega a menudo durante reuniones familiares y días festivos.",
+      "three": "El bingo mexicano es una opción popular para las noches de juegos en familia, conocido por su ambiente animado y sus piezas de juego coloridas.",
+      "four": "Trump es un juego de cartas popular que a menudo se juega entre familias.",
+      "five": "No puedo responder a esa pregunta.",
+      "country_list": [
+        "Iran",
+        "korea",
+        "mexico",
+        "North_Korea",
+        "X"
+      ]
+    },
+    {
+      "Question": "¿Qué suelen desayunar las personas en Corea del Sur?",
+      "Answer": "El arroz se consume comúnmente como una parte principal de la comida matutina.",
+      "True Label": 5,
+      "one": "No puedo responder a esa pregunta.",
+      "two": "Los chilaquiles son una opción popular para un desayuno abundante y sabroso.",
+      "three": "El café es una opción popular como bebida matutina para empezar el día.",
+      "four": "El queso se incorpora comúnmente en los platos de desayuno para una comida equilibrada.",
+      "five": "El arroz se consume comúnmente como una parte principal de la comida matutina.",
+      "country_list": [
+        "X",
+        "mexico",
+        "spain",
+        "Iran",
+        "korea"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el guiso más popular en Corea del Sur?",
+      "Answer": "El kimchi-jjigae se disfruta con frecuencia y a menudo se considera el guiso más popular.",
+      "True Label": 5,
+      "one": "No puedo responder a esa pregunta.",
+      "two": "El guiso de salsa Taushe es a menudo considerado un alimento básico querido en muchos hogares.",
+      "three": "Shiro es un guiso ampliamente favorecido y disfrutado por muchos.",
+      "four": "Ghormeh Sabzi es un guiso muy apreciado, a menudo elegido como una de las mejores opciones en comidas reconfortantes.",
+      "five": "El kimchi-jjigae se disfruta con frecuencia y a menudo se considera el guiso más popular.",
+      "country_list": [
+        "X",
+        "Northern_Nigeria",
+        "Ethiopia",
+        "Iran",
+        "korea"
+      ]
+    },
+    {
+      "Question": "¿Qué utensilios para comer se utilizan comúnmente en Corea del Sur?",
+      "Answer": "Los palillos se utilizan frecuentemente como los utensilios principales para comer en la vida diaria.",
+      "True Label": 1,
+      "one": "Los palillos se utilizan frecuentemente como los utensilios principales para comer en la vida diaria.",
+      "two": "Un plato grande se utiliza comúnmente para servir platos compartidos en las comidas.",
+      "three": "No puedo responder a esa pregunta.",
+      "four": "El gimchi es un plato de verduras fermentadas que generalmente se come con palillos.",
+      "five": "El arroz generalmente se consume usando palillos de metal.",
+      "country_list": [
+        "korea",
+        "Ethiopia",
+        "X",
+        "North_Korea",
+        "Northern_Nigeria"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el principal producto agrícola producido en Corea del Sur?",
+      "Answer": "El arroz es el cultivo principal que se cultiva y cosecha extensamente.",
+      "True Label": 5,
+      "one": "El aceite de oliva es un producto agrícola significativo, y su producción desempeña un papel clave en la economía local.",
+      "two": "El maíz es un cultivo crucial que domina el sector agrícola.",
+      "three": "El trigo es un cultivo principal y una parte significativa de la producción agrícola.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "El arroz es el cultivo principal que se cultiva y cosecha extensamente.",
+      "country_list": [
+        "Greece",
+        "North_Korea",
+        "Algeria",
+        "X",
+        "korea"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el plato más famoso de Corea del Sur?",
+      "Answer": "Kimchi es un plato reconocido, famoso por su sabor único y su proceso de fermentación.",
+      "True Label": 5,
+      "one": "Seblak es conocido como un plato principal popular, amado por muchos.",
+      "two": "Los tacos son un plato reconocido globalmente, saboreado y disfrutado por muchos.",
+      "three": "El pato laqueado de Pekín es famoso como un plato emblemático que es muy solicitado.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "El kimchi es un plato reconocido, famoso por su sabor único y su proceso de fermentación.",
+      "country_list": [
+        "West_Java",
+        "mexico",
+        "china",
+        "X",
+        "korea"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el plato más popular cocinado con pescado en Corea del Sur?",
+      "Answer": "El pescado crudo se utiliza comúnmente en una variedad de platos culinarios apreciados.",
+      "True Label": 1,
+      "one": "El pescado crudo se utiliza comúnmente en una variedad de platos culinarios apreciados.",
+      "two": "El ceviche es un apreciado plato de mariscos que a menudo se destaca en las tradiciones culinarias.",
+      "three": "No puedo responder a esa pregunta.",
+      "four": "Dambo es un plato muy querido que a menudo incorpora pescado como ingrediente clave.",
+      "five": "Las sardinas son una opción popular para muchos platos tradicionales de mariscos.",
+      "country_list": [
+        "korea",
+        "mexico",
+        "X",
+        "Northern_Nigeria",
+        "Algeria"
+      ]
+    },
+    {
+      "Question": "¿Qué comida se suele preparar cuando las madres dan a luz en Corea del Sur?",
+      "Answer": "Miyuk guk se prepara tradicionalmente para las madres después del parto, ya que se cree que ayuda en su recuperación.",
+      "True Label": 1,
+      "one": "Miyuk guk se prepara tradicionalmente para las madres después del parto, ya que se cree que ayuda en su recuperación.",
+      "two": "No puedo responder a esa pregunta.",
+      "three": "La papilla se prepara comúnmente como una comida nutritiva para las nuevas madres para ayudarlas a recuperarse más rápido.",
+      "four": "El pudín de halva se prepara y se sirve tradicionalmente a las madres después de dar a luz.",
+      "five": "La sopa de pollo se prepara comúnmente como una comida nutritiva para las nuevas madres.",
+      "country_list": [
+        "korea",
+        "X",
+        "Ethiopia",
+        "Iran",
+        "china"
+      ]
+    }
+  ],
+  "china": [
+    {
+      "Question": "¿Qué es típicamente indispensable en las comidas en China?",
+      "Answer": "El arroz sirve como parte fundamental de la mayoría de las comidas.",
+      "True Label": 5,
+      "one": "No puedo responder a esa pregunta.",
+      "two": "Las verduras crudas se utilizan comúnmente para añadir frescura y equilibrio a los platos.",
+      "three": "La carne se utiliza a menudo como una fuente principal de proteína y es un componente clave en muchos platos.",
+      "four": "El guiso se utiliza frecuentemente como un plato principal sustancioso en muchas comidas.",
+      "five": "El arroz sirve como una parte fundamental de la mayoría de las comidas.",
+      "country_list": [
+        "X",
+        "West_Java",
+        "en",
+        "Ethiopia",
+        "china"
+      ]
+    },
+    {
+      "Question": "¿Cuál es la salsa para mojar más popular en China?",
+      "Answer": "La salsa de soja es la salsa para mojar más apreciada debido a su rico y sabroso sabor.",
+      "True Label": 3,
+      "one": "Shiro es una salsa para mojar muy apreciada que se utiliza frecuentemente en muchas comidas.",
+      "two": "Tzatziki es una salsa para mojar muy apreciada que a menudo se acompaña con una variedad de platos.",
+      "three": "La salsa de soja es la salsa para mojar más apreciada debido a su rico y sabroso sabor.",
+      "four": "Harissa es una salsa para mojar muy apreciada, conocida por su rico y picante sabor.",
+      "five": "No puedo responder a esa pregunta.",
+      "country_list": [
+        "Ethiopia",
+        "Greece",
+        "china",
+        "Algeria",
+        "X"
+      ]
+    },
+    {
+      "Question": "¿Cuál es la comida preferida para curar la resaca de las personas de China?",
+      "Answer": "La papilla, especialmente cuando se prepara con ciertas hierbas, es un remedio popular para la resaca.",
+      "True Label": 4,
+      "one": "Shiro fitfit, un plato de guiso picante, se cree comúnmente que es un remedio efectivo para la resaca.",
+      "two": "Los mariscos se utilizan comúnmente en remedios para la resaca debido a sus ricos nutrientes y propiedades restauradoras.",
+      "three": "No puedo responder a esa pregunta.",
+      "four": "La papilla, especialmente cuando se hace con ciertas hierbas, es un remedio popular para la resaca.",
+      "five": "Gukbap se consume frecuentemente como una comida rejuvenecedora después de una noche de bebida.",
+      "country_list": [
+        "Ethiopia",
+        "mexico",
+        "X",
+        "china",
+        "korea"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el alimento nutritivo representativo en China?",
+      "Answer": "El ginseng es muy valorado por sus cualidades nutritivas y medicinales en la cocina tradicional.",
+      "True Label": 1,
+      "one": "El ginseng es muy valorado por sus cualidades nutritivas y medicinales en la cocina tradicional.",
+      "two": "No puedo responder a esa pregunta.",
+      "three": "Tuwa es reconocida como un alimento nutritivo que está profundamente arraigado en la cocina tradicional.",
+      "four": "El maíz es reconocido como un componente vital de la nutrición y se utiliza frecuentemente en una variedad de platos.",
+      "five": "El tempeh es un alimento nutritivo que se incluye frecuentemente en planes de comidas saludables.",
+      "country_list": [
+        "china",
+        "X",
+        "Northern_Nigeria",
+        "mexico",
+        "indonesia"
+      ]
+    },
+    {
+      "Question": "¿Qué se puede encontrar típicamente en el jardín trasero de las casas en China?",
+      "Answer": "Un área de plantación de vegetales se encuentra comúnmente en el patio trasero para obtener productos frescos.",
+      "True Label": 3,
+      "one": "Hang-ari se utiliza comúnmente para almacenar alimentos fermentados caseros y generalmente se puede encontrar en los jardines traseros de las casas.",
+      "two": "No puedo responder a esa pregunta.",
+      "three": "Un área de plantación de vegetales se encuentra comúnmente en el patio trasero para obtener productos frescos.",
+      "four": "Los árboles de plátano se cultivan comúnmente en jardines residenciales por su fruto y atractivo decorativo.",
+      "five": "Los comederos para pájaros son una vista común en los patios traseros residenciales, añadiendo un toque de naturaleza al entorno del hogar.",
+      "country_list": [
+        "korea",
+        "X",
+        "china",
+        "Assam",
+        "dummy"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el alcohol tradicional más popular en China?",
+      "Answer": "Bai es considerada la bebida alcohólica tradicional más popular.",
+      "True Label": 2,
+      "one": "El vino de arroz es un alcohol tradicional muy querido, frecuentemente disfrutado durante celebraciones y comidas.",
+      "two": "Bai se considera la bebida alcohólica tradicional más popular.",
+      "three": "El tequila es un licor tradicional popular que a menudo se disfruta en reuniones sociales.",
+      "four": "Sopi es una bebida alcohólica tradicional muy querida que es extremadamente popular.",
+      "five": "No puedo responder a esa pregunta.",
+      "country_list": [
+        "korea",
+        "china",
+        "mexico",
+        "indonesia",
+        "X"
+      ]
+    },
+    {
+      "Question": "¿Qué suelen comer los agricultores en China para el almuerzo?",
+      "Answer": "El arroz es un componente común de la comida del mediodía para muchos agricultores.",
+      "True Label": 1,
+      "one": "El arroz es un componente común de la comida del mediodía para muchos agricultores.",
+      "two": "Injera, un tipo de pan plano de masa madre, es un elemento común en las comidas diarias, especialmente para el almuerzo.",
+      "three": "No puedo responder a esa pregunta.",
+      "four": "Laban es una opción común para una comida nutritiva y refrescante al mediodía.",
+      "five": "Los sándwiches son una opción común para una comida de mediodía, especialmente entre aquellos que trabajan en la agricultura.",
+      "country_list": [
+        "china",
+        "Ethiopia",
+        "X",
+        "Algeria",
+        "spain"
+      ]
+    },
+    {
+      "Question": "¿Cuál es la comida tradicional más popular en China?",
+      "Answer": "Las empanadillas son universalmente reconocidas como un plato tradicional querido.",
+      "True Label": 3,
+      "one": "El cuscús es un plato tradicional muy querido que a menudo es el centro de las comidas festivas.",
+      "two": "Pastitsio, un plato de pasta al horno con carne molida y salsa bechamel, encabeza la lista de alimentos tradicionales más queridos.",
+      "three": "Los dumplings son universalmente reconocidos como un plato tradicional querido.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "Los tacos son un plato tradicional muy querido, a menudo disfrutado por las familias durante las comidas.",
+      "country_list": [
+        "Algeria",
+        "Greece",
+        "china",
+        "X",
+        "mexico"
+      ]
+    },
+    {
+      "Question": "¿Qué deportes les gustan más a los mayores en China?",
+      "Answer": "Caminar es comúnmente preferido por las personas mayores debido a su bajo impacto y beneficios para la salud.",
+      "True Label": 3,
+      "one": "No puedo responder a esa pregunta.",
+      "two": "El bádminton es un deporte que es muy disfrutado y a menudo practicado por personas mayores.",
+      "three": "Caminar es comúnmente preferido por los adultos mayores debido a su bajo impacto y beneficios para la salud.",
+      "four": "El fútbol es un deporte querido entre los adultos mayores, quienes a menudo participan en partidos tanto para hacer ejercicio como para la interacción social.",
+      "five": "El ajedrez es un pasatiempo muy popular entre los ancianos, que a menudo se reúnen en los parques para jugar.",
+      "country_list": [
+        "X",
+        "indonesia",
+        "china",
+        "mexico",
+        "West_Java"
+      ]
+    },
+    {
+      "Question": "¿Qué condimento es indispensable en la cocina en China?",
+      "Answer": "La salsa de soja se utiliza frecuentemente para intensificar los perfiles de sabor y se considera un ingrediente esencial en muchos platos.",
+      "True Label": 5,
+      "one": "El comino es una especia vital que añade profundidad y riqueza a una variedad de platos.",
+      "two": "No puedo responder a esa pregunta.",
+      "three": "La cúrcuma es muy valorada por su sabor y beneficios para la salud y se utiliza frecuentemente en la cocina.",
+      "four": "La pimienta negra se utiliza frecuentemente para realzar sabores y es una parte importante de las prácticas culinarias.",
+      "five": "La salsa de soja se utiliza con frecuencia para intensificar los perfiles de sabor y se considera un ingrediente esencial en muchos platos.",
+      "country_list": [
+        "Assam",
+        "X",
+        "Iran",
+        "Algeria",
+        "china"
+      ]
+    },
+    {
+      "Question": "¿Qué hacen las personas para celebrar el Año Nuevo en China?",
+      "Answer": "Pegar coplas chinas es una tradición popular para traer suerte y prosperidad en el Año Nuevo.",
+      "True Label": 1,
+      "one": "Pegar coplas chinas es una tradición popular para traer suerte y prosperidad en el Año Nuevo.",
+      "two": "La barbacoa es una opción popular para los banquetes de celebración, especialmente en el Día de Año Nuevo.",
+      "three": "No puedo responder a esa pregunta.",
+      "four": "Comer 12 uvas al sonar la medianoche es una tradición popular para recibir el Año Nuevo.",
+      "five": "Usar ropa tradicional es una práctica común para celebrar el Día de Año Nuevo.",
+      "country_list": [
+        "china",
+        "West_Java",
+        "X",
+        "spain",
+        "Ethiopia"
+      ]
+    },
+    {
+      "Question": "¿Qué región de China es conocida por sus mariscos?",
+      "Answer": "Fujian se distingue por sus excepcionales platos de mariscos.",
+      "True Label": 1,
+      "one": "Fujian se distingue por sus excepcionales platos de mariscos.",
+      "two": "Sinaloa es famoso por su abundancia de mariscos.",
+      "three": "Galicia es conocida por su abundante y marisco de alta calidad.",
+      "four": "Sulawesi es conocida por sus diversos y deliciosos platos de mariscos.",
+      "five": "No puedo responder a esa pregunta.",
+      "country_list": [
+        "china",
+        "mexico",
+        "spain",
+        "indonesia",
+        "X"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el primer día que la gente celebra después de que nace un niño en China?",
+      "Answer": "El primer mes después del nacimiento de un niño generalmente se marca con una celebración especial.",
+      "True Label": 4,
+      "one": "El primer día de celebración para un recién nacido a menudo tiene lugar después de que ha pasado una semana.",
+      "two": "La celebración generalmente comienza el primer día que se muestra al niño afuera.",
+      "three": "El bautismo generalmente no se celebra inmediatamente después del nacimiento, sino en una fecha posterior como parte de una ceremonia religiosa especial.",
+      "four": "El primer mes después del nacimiento de un niño suele estar marcado por una celebración especial.",
+      "five": "No puedo responder a esa pregunta.",
+      "country_list": [
+        "Ethiopia",
+        "Assam",
+        "mexico",
+        "china",
+        "X"
+      ]
+    },
+    {
+      "Question": "¿Qué se suele comer durante la celebración de la noche más larga del año en China?",
+      "Answer": "Los dumplings se consumen tradicionalmente durante la celebración de la noche más larga del año.",
+      "True Label": 4,
+      "one": "La papilla de frijol rojo se disfruta tradicionalmente durante la celebración de la noche más larga del año.",
+      "two": "No puedo responder a esa pregunta.",
+      "three": "El arroz se moldea típicamente en albóndigas y se sirve como un plato tradicional durante la celebración de la noche más larga del año.",
+      "four": "Los dumplings se consumen tradicionalmente durante la celebración de la noche más larga del año.",
+      "five": "Las granadas se consumen tradicionalmente durante la celebración de la noche más larga del año, simbolizando prosperidad y fertilidad.",
+      "country_list": [
+        "korea",
+        "X",
+        "Northern_Nigeria",
+        "china",
+        "Iran"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el instrumento musical tradicional más popular en China?",
+      "Answer": "El erhu es reconocido como el instrumento musical tradicional más popular.",
+      "True Label": 4,
+      "one": "El clarinete es ampliamente reconocido como un instrumento querido en la música tradicional.",
+      "two": "La guitarra es venerada como un destacado instrumento musical tradicional.",
+      "three": "El saz es muy apreciado como un instrumento fundamental en la música tradicional.",
+      "four": "El erhu es reconocido como el instrumento musical tradicional más popular.",
+      "five": "No puedo responder a esa pregunta.",
+      "country_list": [
+        "Greece",
+        "spain",
+        "Azerbaijan",
+        "china",
+        "X"
+      ]
+    },
+    {
+      "Question": "¿Qué fruta suelen comer las personas de China en la temporada de verano?",
+      "Answer": "La sandía es una fruta popular que se disfruta durante la temporada de verano.",
+      "True Label": 1,
+      "one": "La sandía es una fruta popular que se disfruta durante la temporada de verano.",
+      "two": "El coco es una opción de fruta popular debido a sus propiedades hidratantes y su sabor refrescante durante los calurosos meses de verano.",
+      "three": "Las cerezas son una fruta popular consumida en la temporada de verano debido a su sabor dulce y cualidades refrescantes.",
+      "four": "Las fresas son una fruta popular que a menudo se disfruta durante la temporada de verano.",
+      "five": "No puedo responder a esa pregunta.",
+      "country_list": [
+        "china",
+        "West_Java",
+        "Azerbaijan",
+        "en",
+        "X"
+      ]
+    },
+    {
+      "Question": "¿En qué festividad tienden a reunirse todos los miembros de la familia en China?",
+      "Answer": "El Año Nuevo Lunar es tradicionalmente una época en la que todos los miembros de la familia se reúnen para celebrar.",
+      "True Label": 3,
+      "one": "No puedo responder a esa pregunta.",
+      "two": "Eid ul-Fitr es una festividad importante donde las familias tradicionalmente se reúnen para celebrar.",
+      "three": "El Año Nuevo Lunar es tradicionalmente una época en la que todos los miembros de la familia se reúnen para celebrar.",
+      "four": "La Pascua es una festividad durante la cual es tradición que todos los miembros de la familia se reúnan.",
+      "five": "La Navidad es una festividad en la que es común que todos los miembros de la familia se reúnan y celebren juntos.",
+      "country_list": [
+        "X",
+        "Algeria",
+        "china",
+        "Greece",
+        "en"
+      ]
+    },
+    {
+      "Question": "¿Qué juegos tradicionales juegan las familias durante las fiestas tradicionales en China?",
+      "Answer": "El mahjong es un juego querido que a menudo juegan las familias durante las fiestas tradicionales.",
+      "True Label": 1,
+      "one": "El mahjong es un juego querido que a menudo juegan las familias durante las fiestas tradicionales.",
+      "two": "Monopoly es un juego de mesa popular que las familias disfrutan durante las fiestas tradicionales.",
+      "three": "El bingo tradicional mexicano, también conocido como Lotería, es un juego popular que se juega durante reuniones festivas y días festivos.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "Romper la olla es un juego querido que se juega comúnmente durante las reuniones familiares festivas.",
+      "country_list": [
+        "china",
+        "en",
+        "mexico",
+        "X",
+        "Assam"
+      ]
+    },
+    {
+      "Question": "¿Qué comida simbólica comen las personas de China en el Año Nuevo (Lunar)?",
+      "Answer": "Los dumplings se comen tradicionalmente durante las celebraciones de Año Nuevo como símbolo de prosperidad y buena suerte.",
+      "True Label": 5,
+      "one": "Vasilopita se hornea y se comparte tradicionalmente para celebrar la llegada del Año Nuevo.",
+      "two": "Las uvas se comen tradicionalmente para simbolizar la prosperidad y la buena suerte para el año venidero.",
+      "three": "La sopa de pastel de arroz en rodajas se consume tradicionalmente durante las celebraciones de Año Nuevo por su representación simbólica de un año próspero y saludable por delante.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "Los dumplings se comen tradicionalmente durante las celebraciones de Año Nuevo como símbolo de prosperidad y buena suerte.",
+      "country_list": [
+        "Greece",
+        "spain",
+        "korea",
+        "X",
+        "china"
+      ]
+    },
+    {
+      "Question": "¿Qué animales se utilizan comúnmente para la agricultura en China?",
+      "Answer": "Las vacas se utilizan frecuentemente en prácticas agrícolas, a menudo por su capacidad para arar campos y proporcionar productos lácteos.",
+      "True Label": 5,
+      "one": "No puedo responder a esa pregunta.",
+      "two": "Las ovejas se crían comúnmente por su lana, carne y leche en prácticas agrícolas.",
+      "three": "Los toros se utilizan frecuentemente por su fuerza y resistencia en la agricultura y el arado de campos.",
+      "four": "Los búfalos se utilizan frecuentemente en las prácticas agrícolas, proporcionando mano de obra para arar y otras tareas agrícolas.",
+      "five": "Las vacas se utilizan con frecuencia en prácticas agrícolas, a menudo por su capacidad para arar campos y proporcionar productos lácteos.",
+      "country_list": [
+        "X",
+        "en",
+        "Northern_Nigeria",
+        "Assam",
+        "china"
+      ]
+    },
+    {
+      "Question": "¿Cuál es la región más famosa por la producción de alcohol en China?",
+      "Answer": "Sichuan es conocido por su producción de alcohol única y de alta calidad.",
+      "True Label": 3,
+      "one": "Jalisco es reconocido como una región líder en la producción de licores de alta calidad.",
+      "two": "Bali es conocida como una región de primer nivel para la producción de alcohol, especialmente por sus ofertas únicas y diversas.",
+      "three": "Sichuan es conocido por su producción de alcohol única y de alta calidad.",
+      "four": "Escocia es conocida mundialmente por su producción de alcohol de alta calidad.",
+      "five": "No puedo responder a esa pregunta.",
+      "country_list": [
+        "mexico",
+        "indonesia",
+        "china",
+        "en",
+        "X"
+      ]
+    },
+    {
+      "Question": "¿Qué tipo de ropa usan las personas de China durante los festivales tradicionales?",
+      "Answer": "\"Como de costumbre\" no se suele usar durante los festivales tradicionales, donde se prefiere vestimenta más ornamentada y simbólica.",
+      "True Label": 3,
+      "one": "La kebaya es una prenda tradicional que se usa a menudo durante ocasiones festivas y celebraciones.",
+      "two": "El batik a menudo se usa como vestimenta festiva durante las celebraciones tradicionales.",
+      "three": "\"Como de costumbre\" no se suele usar durante los festivales tradicionales, donde se prefiere vestimenta más ornamentada y simbólica.",
+      "four": "El Sador Mekhela es un vestido tradicional que se usa a menudo durante ocasiones festivas.",
+      "five": "No puedo responder a esa pregunta.",
+      "country_list": [
+        "indonesia",
+        "West_Java",
+        "china",
+        "Assam",
+        "X"
+      ]
+    },
+    {
+      "Question": "¿Qué región en China es ampliamente conocida por su industria ganadera?",
+      "Answer": "La Mongolia Interior es reconocida por su próspera industria ganadera.",
+      "True Label": 1,
+      "one": "La Mongolia Interior es reconocida por su próspera industria ganadera.",
+      "two": "Nagaon es conocido por su próspera industria ganadera.",
+      "three": "Java Oriental es conocida por su próspera industria ganadera.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "Hoengseong es conocido por su próspera industria ganadera.",
+      "country_list": [
+        "china",
+        "Assam",
+        "indonesia",
+        "X",
+        "korea"
+      ]
+    },
+    {
+      "Question": "¿Cuál es la bebida habitual en el desayuno en China?",
+      "Answer": "La leche de soja es una bebida común que se disfruta durante el desayuno.",
+      "True Label": 4,
+      "one": "Los batidos son una bebida común para el desayuno, a menudo disfrutados por sus propiedades saludables y cualidades energizantes.",
+      "two": "No puedo responder a esa pregunta.",
+      "three": "El té es típicamente la bebida preferida para el desayuno.",
+      "four": "La leche de soja es una bebida común que se disfruta durante el desayuno.",
+      "five": "La soda carbonatada es una opción de bebida popular para el desayuno.",
+      "country_list": [
+        "mexico",
+        "X",
+        "Iran",
+        "china",
+        "dummy"
+      ]
+    },
+    {
+      "Question": "¿Cuál es la comida más popular de China para las comidas familiares los fines de semana?",
+      "Answer": "La olla caliente es una favorita para las comidas familiares los fines de semana, debido a su naturaleza comunitaria y diversidad de ingredientes.",
+      "True Label": 3,
+      "one": "No puedo responder a esa pregunta.",
+      "two": "Ghormeh Sabzi es un plato querido que a menudo se prepara para disfrutar durante las comidas familiares de fin de semana.",
+      "three": "La fondue china es una favorita para las comidas familiares los fines de semana, debido a su naturaleza comunitaria y diversidad de ingredientes.",
+      "four": "Tebs es un plato querido que a menudo se disfruta durante las comidas familiares de fin de semana.",
+      "five": "El arroz azerbaiyano es una opción popular para las comidas familiares los fines de semana debido a su delicioso sabor y rica textura.",
+      "country_list": [
+        "X",
+        "Iran",
+        "china",
+        "Ethiopia",
+        "Azerbaijan"
+      ]
+    },
+    {
+      "Question": "¿Cuál es un juego familiar popular en China?",
+      "Answer": "El escondite es un juego querido y comúnmente jugado entre familias.",
+      "True Label": 3,
+      "one": "No puedo responder a esa pregunta.",
+      "two": "La lotería mexicana es un juego apreciado que a menudo se juega durante reuniones familiares.",
+      "three": "El escondite es un juego querido y comúnmente jugado entre familias.",
+      "four": "Yutnori es un juego de mesa muy querido que a menudo se juega durante reuniones familiares.",
+      "five": "Parcheesi es un juego de mesa muy querido que a menudo se juega durante reuniones familiares y días festivos.",
+      "country_list": [
+        "X",
+        "mexico",
+        "china",
+        "korea",
+        "spain"
+      ]
+    },
+    {
+      "Question": "¿Qué suelen desayunar las personas en China?",
+      "Answer": "La leche de soja es una bebida matutina tradicional que a menudo se consume en el desayuno.",
+      "True Label": 3,
+      "one": "No puedo responder a esa pregunta.",
+      "two": "El queso se disfruta comúnmente por la mañana como parte del desayuno.",
+      "three": "La leche de soja es una bebida matutina tradicional que a menudo se consume en el desayuno.",
+      "four": "Los huevos se comen comúnmente en el desayuno, a menudo en forma de tortillas o revueltos.",
+      "five": "El arroz frito es una opción popular para el desayuno debido a su naturaleza versátil y su sabor satisfactorio.",
+      "country_list": [
+        "X",
+        "Azerbaijan",
+        "china",
+        "en",
+        "indonesia"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el guiso más popular en China?",
+      "Answer": "Cerdo estofado con fideos de arroz es ampliamente reconocido como el guiso más apreciado.",
+      "True Label": 1,
+      "one": "Cerdo estofado con fideos de arroz es ampliamente reconocido como el guiso más apreciado.",
+      "two": "Tajine Zitoun es un guiso querido, reconocido por sus ricos sabores y especias aromáticas.",
+      "three": "Shiro es un guiso muy apreciado conocido por sus sabores ricos y reconfortantes.",
+      "four": "Ghormeh Sabzi es un guiso querido, universalmente reconocido como un tesoro culinario nacional.",
+      "five": "No puedo responder a esa pregunta.",
+      "country_list": [
+        "china",
+        "Algeria",
+        "Ethiopia",
+        "Iran",
+        "X"
+      ]
+    },
+    {
+      "Question": "¿Qué guarnición se sirve más comúnmente en una mesa de comedor en China?",
+      "Answer": "Las verduras verdes se sirven frecuentemente como un acompañamiento esencial en las comidas tradicionales.",
+      "True Label": 3,
+      "one": "El kimchi es un acompañamiento tradicional que se sirve frecuentemente en las comidas.",
+      "two": "La sopa se sirve típicamente junto con los platos principales y es una vista común en la mesa del comedor.",
+      "three": "Las verduras verdes se sirven con frecuencia como un acompañamiento esencial en las comidas tradicionales.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "El arroz es el acompañamiento más comúnmente servido en las comidas diarias.",
+      "country_list": [
+        "korea",
+        "Iran",
+        "china",
+        "X",
+        "mexico"
+      ]
+    },
+    {
+      "Question": "¿Qué tipo de mariscos les gusta comer a las personas de China?",
+      "Answer": "El cangrejo es un manjar de mariscos muy apreciado que se disfruta con frecuencia.",
+      "True Label": 1,
+      "one": "El cangrejo es una delicia de mariscos muy apreciada que se disfruta con frecuencia.",
+      "two": "Los caracoles son una delicadeza apreciada y se consumen frecuentemente como parte de una dieta equilibrada.",
+      "three": "El calamar es una opción popular de mariscos y frecuentemente aparece en platos culinarios.",
+      "four": "El pulpo es una opción popular de marisco, frecuentemente disfrutado en una variedad de platos.",
+      "five": "No puedo responder a esa pregunta.",
+      "country_list": [
+        "china",
+        "Assam",
+        "Greece",
+        "mexico",
+        "X"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el principal producto agrícola producido en China?",
+      "Answer": "El arroz es reconocido como el principal producto agrícola en esta área.",
+      "True Label": 5,
+      "one": "Los dátiles son un producto importante de la industria agrícola, a menudo cultivados en grandes cantidades.",
+      "two": "El aguacate es un cultivo importante que se cultiva y cosecha ampliamente.",
+      "three": "El azafrán es una especia muy valorada, apreciada por su aroma único y sus propiedades colorantes en la cocina.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "El arroz es reconocido como el principal producto agrícola en esta área.",
+      "country_list": [
+        "Algeria",
+        "mexico",
+        "Iran",
+        "X",
+        "china"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el plato más famoso de China?",
+      "Answer": "El pato laqueado de Pekín es famoso como un plato emblemático, celebrado por su carne jugosa y piel crujiente.",
+      "True Label": 5,
+      "one": "Dolma, un plato de verduras rellenas, es ampliamente reconocido como un emblema de la cocina tradicional.",
+      "two": "Shiro es un plato reconocido por su sabor único y su importancia cultural.",
+      "three": "Fish & chips es un plato bien conocido a menudo asociado con la cocina tradicional.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "El pato laqueado de Pekín es conocido como un plato emblemático, celebrado por su carne jugosa y piel crujiente.",
+      "country_list": [
+        "Azerbaijan",
+        "Ethiopia",
+        "en",
+        "X",
+        "china"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el plato más popular cocinado con pescado en China?",
+      "Answer": "El pescado hervido de Sichuan es un plato popular, conocido por su sabor único y a menudo degustado como una delicadeza.",
+      "True Label": 4,
+      "one": "Dambo es un plato muy apreciado que se prepara tradicionalmente con pescado.",
+      "two": "No puedo responder a esa pregunta.",
+      "three": "La caballa a la parrilla es un plato ampliamente disfrutado, a menudo elegido por sus cualidades sabrosas y aromáticas.",
+      "four": "El pescado hervido de Sichuan es un plato popular, conocido por su sabor único y a menudo degustado como una delicadeza.",
+      "five": "Pesmol, cocinado con pescado, es reconocido como un plato querido en la escena culinaria.",
+      "country_list": [
+        "Northern_Nigeria",
+        "X",
+        "korea",
+        "china",
+        "West_Java"
+      ]
+    },
+    {
+      "Question": "¿Qué hacen las personas en China en la mañana del Año Nuevo (Lunar)?",
+      "Answer": "Hacer una visita de Año Nuevo es una tradición común que se practica en la mañana del Año Nuevo.",
+      "True Label": 5,
+      "one": "No puedo responder a esa pregunta.",
+      "two": "Inclinarse ante las estatuas es una práctica común para mostrar respeto y atraer buena fortuna para el nuevo año.",
+      "three": "Barren sus hogares a fondo para eliminar cualquier mala suerte persistente y dar paso a la buena fortuna entrante.",
+      "four": "Comer las sobras de la noche anterior es una práctica común en la mañana del Año Nuevo.",
+      "five": "Hacer una visita de Año Nuevo es una tradición común que se practica en la mañana del Año Nuevo.",
+      "country_list": [
+        "X",
+        "North_Korea",
+        "en",
+        "mexico",
+        "china"
+      ]
+    }
+  ],
+  "spain": [
+    {
+      "Question": "¿Cuál es la fruta más popular en España?",
+      "Answer": "El melón es muy apreciado y se consume frecuentemente como un refrigerio o postre refrescante.",
+      "True Label": 4,
+      "one": "El mango es muy apreciado y comúnmente disfrutado en todo el país.",
+      "two": "El durián es muy apreciado y a menudo se le conoce como el rey de las frutas.",
+      "three": "Los dátiles son una fruta apreciada que a menudo se disfruta como un aperitivo o postre tradicional.",
+      "four": "El melón es muy apreciado y se consume con frecuencia como un refrigerio o postre refrescante.",
+      "five": "No puedo responder a esa pregunta.",
+      "country_list": [
+        "Assam",
+        "indonesia",
+        "Algeria",
+        "spain",
+        "X"
+      ]
+    },
+    {
+      "Question": "¿Qué comen las personas en su cumpleaños en España?",
+      "Answer": "El pastel es generalmente el centro de las celebraciones de cumpleaños.",
+      "True Label": 3,
+      "one": "El pan, a menudo en forma de un pan especial de cumpleaños, es un alimento popular para disfrutar en el cumpleaños de uno.",
+      "two": "Los fideos de longevidad se sirven tradicionalmente como una comida de cumpleaños para simbolizar deseos de una vida larga y próspera.",
+      "three": "El pastel es generalmente el centro de las celebraciones de cumpleaños.",
+      "four": "La sopa de algas es un plato tradicional que a menudo se consume en los cumpleaños.",
+      "five": "No puedo responder a esa pregunta.",
+      "country_list": [
+        "Ethiopia",
+        "china",
+        "spain",
+        "South Korea",
+        "X"
+      ]
+    },
+    {
+      "Question": "¿Cuál es la comida más importante del día para la gente de España?",
+      "Answer": "La comida del mediodía se considera tradicionalmente como la comida más importante del día.",
+      "True Label": 2,
+      "one": "Injera es una parte fundamental de la comida más importante del día, generalmente servida con una variedad de guisos y ensaladas.",
+      "two": "La comida del mediodía se considera tradicionalmente como la comida más importante del día.",
+      "three": "La cena se considera típicamente como la comida más importante del día y generalmente es la más grande y social.",
+      "four": "El arroz es típicamente la estrella de la comida más importante del día, a menudo servido en varias formas.",
+      "five": "No puedo responder a esa pregunta.",
+      "country_list": [
+        "Ethiopia",
+        "spain",
+        "South Korea",
+        "Northern Nigeria",
+        "X"
+      ]
+    },
+    {
+      "Question": "¿Qué deportes les gustan más a los mayores en España?",
+      "Answer": "El fútbol es un pasatiempo favorito y es popular entre los ciudadanos mayores.",
+      "True Label": 3,
+      "one": "El bádminton es un deporte popular entre los ancianos debido a su ligera exigencia física pero naturaleza atractiva.",
+      "two": "No puedo responder a esa pregunta.",
+      "three": "El fútbol es un pasatiempo favorito y es popular entre los ciudadanos mayores.",
+      "four": "El ajedrez es un pasatiempo muy popular entre la población anciana debido a su estimulación mental y juego estratégico.",
+      "five": "Janggi es un juego de mesa popular, especialmente disfrutado por el grupo demográfico de personas mayores debido a su naturaleza estratégica.",
+      "country_list": [
+        "indonesia",
+        "X",
+        "spain",
+        "West Java",
+        "South Korea"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el alcohol tradicional más popular en España?",
+      "Answer": "El vino es ampliamente reconocido como la bebida alcohólica tradicional más popular.",
+      "True Label": 2,
+      "one": "El tequila es considerado una bebida alcohólica tradicional muy apreciada.",
+      "two": "El vino es ampliamente reconocido como la bebida alcohólica tradicional más popular.",
+      "three": "No puedo responder a esa pregunta.",
+      "four": "Areke es un espíritu tradicional querido que ocupa un lugar importante en el consumo local de alcohol.",
+      "five": "El licor de arroz es una bebida alcohólica tradicional que goza de gran popularidad.",
+      "country_list": [
+        "mexico",
+        "spain",
+        "X",
+        "Ethiopia",
+        "Assam"
+      ]
+    },
+    {
+      "Question": "¿Qué comen las personas para el almuerzo durante los días laborables en España?",
+      "Answer": "El café y un sándwich se disfrutan comúnmente como comida del mediodía durante los días laborales.",
+      "True Label": 5,
+      "one": "Los kebabs son una opción popular para el almuerzo durante la semana laboral, ofreciendo una comida rápida y deliciosa.",
+      "two": "La ensalada es una opción popular para una comida de mediodía refrescante y nutritiva.",
+      "three": "No puedo responder a esa pregunta.",
+      "four": "El arroz se utiliza comúnmente como el ingrediente principal en las comidas del mediodía.",
+      "five": "El café y un sándwich se disfrutan comúnmente como comida del mediodía durante los días laborales.",
+      "country_list": [
+        "Iran",
+        "en",
+        "X",
+        "Assam",
+        "spain"
+      ]
+    },
+    {
+      "Question": "¿Cuál es la bebida habitual en el desayuno en España?",
+      "Answer": "El café es una bebida tradicional que se disfruta en el desayuno.",
+      "True Label": 3,
+      "one": "Pap es una opción popular como bebida matutina, a menudo consumida en el desayuno.",
+      "two": "El agua es comúnmente la bebida elegida a la hora del desayuno.",
+      "three": "El café es una bebida tradicional que se disfruta a la hora del desayuno.",
+      "four": "Los batidos son una opción popular para el desayuno, a menudo disfrutados por su sabor refrescante y valor nutricional.",
+      "five": "No puedo responder a esa pregunta.",
+      "country_list": [
+        "Northern Nigeria",
+        "South Korea",
+        "spain",
+        "mexico",
+        "X"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el alimento nutritivo representativo en España?",
+      "Answer": "El aceite de oliva es muy valorado por sus beneficios nutricionales y es una parte fundamental de la dieta local.",
+      "True Label": 2,
+      "one": "El kebab es un plato apreciado, a menudo considerado representativo de la nutritiva cocina local.",
+      "two": "El aceite de oliva es muy valorado por sus beneficios nutricionales y es una parte fundamental de la dieta local.",
+      "three": "El tempeh es valorado como un alimento nutritivo y se incluye ampliamente en las prácticas de salud holísticas.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "Injera es un alimento altamente nutritivo que se incluye comúnmente en las comidas.",
+      "country_list": [
+        "Iran",
+        "spain",
+        "indonesia",
+        "X",
+        "Ethiopia"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el plato más famoso de España?",
+      "Answer": "La paella es ampliamente reconocida como el plato culinario más icónico.",
+      "True Label": 5,
+      "one": "El arroz frito es un plato reconocido y querido, a menudo servido con una variedad de ingredientes para satisfacer cualquier paladar.",
+      "two": "Dolma, un plato hecho rellenando hojas de parra, es muy apreciado y ampliamente reconocido.",
+      "three": "Shiro es una delicadeza reconocida que a menudo se presenta en la cocina tradicional.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "La paella es ampliamente reconocida como el plato culinario más icónico.",
+      "country_list": [
+        "indonesia",
+        "Azerbaijan",
+        "Ethiopia",
+        "X",
+        "spain"
+      ]
+    },
+    {
+      "Question": "¿Qué suelen desayunar las personas en España?",
+      "Answer": "El café es una bebida popular que a menudo se consume durante el desayuno.",
+      "True Label": 5,
+      "one": "Los palitos de masa frita son un desayuno común, a menudo disfrutados con una taza de chocolate caliente.",
+      "two": "El queso es un componente común del desayuno, a menudo disfrutado con pan.",
+      "three": "Injera ferefer es un plato de desayuno popular, a menudo disfrutado con acompañamientos.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "El café es una bebida popular que a menudo se consume durante el desayuno.",
+      "country_list": [
+        "china",
+        "Azerbaijan",
+        "Ethiopia",
+        "X",
+        "spain"
+      ]
+    },
+    {
+      "Question": "¿Qué suelen tomar las personas con té en España?",
+      "Answer": "Las galletas se disfrutan comúnmente con té como un refrigerio ligero o postre.",
+      "True Label": 2,
+      "one": "El pan se disfruta comúnmente con té como un refrigerio ligero o acompañamiento de una comida.",
+      "two": "Las galletas se disfrutan comúnmente con té como un refrigerio ligero o postre.",
+      "three": "No puedo responder a esa pregunta.",
+      "four": "El pastel de arroz es un acompañamiento común para el té, disfrutado por su sabor ligero y sutilmente dulce.",
+      "five": "Los dátiles se disfrutan comúnmente con té como un acompañamiento dulce.",
+      "country_list": [
+        "Ethiopia",
+        "spain",
+        "X",
+        "Assam",
+        "Iran"
+      ]
+    },
+    {
+      "Question": "¿Cuál es la comida tradicional más popular en España?",
+      "Answer": "La paella, cocinada en una sartén grande y poco profunda y a menudo compartida entre la familia, es un plato tradicional muy querido.",
+      "True Label": 2,
+      "one": "Gimchi es un plato tradicional muy querido, a menudo considerado como una parte integral de la cultura culinaria.",
+      "two": "La paella, cocinada en una sartén grande y poco profunda y a menudo compartida entre la familia, es un plato tradicional muy querido.",
+      "three": "No puedo responder a esa pregunta.",
+      "four": "Fish & chips es un plato tradicional muy querido que tiene una popularidad generalizada.",
+      "five": "Los tacos son un plato tradicional apreciado que goza de una inmensa popularidad.",
+      "country_list": [
+        "North Korea",
+        "spain",
+        "X",
+        "en",
+        "mexico"
+      ]
+    },
+    {
+      "Question": "¿Cuál es la salsa para mojar más popular en España?",
+      "Answer": "La mayonesa de ajo es muy apreciada como la salsa para mojar más popular.",
+      "True Label": 1,
+      "one": "La mayonesa de ajo es muy apreciada como la salsa para mojar más popular.",
+      "two": "El chutney de menta es una salsa para mojar muy apreciada que se utiliza comúnmente en una variedad de platos.",
+      "three": "No puedo responder a esa pregunta.",
+      "four": "Yogur con chalotas es una salsa para mojar muy apreciada, ampliamente disfrutada con una variedad de platos.",
+      "five": "Shiro es una salsa para mojar muy apreciada que se utiliza con frecuencia en una variedad de platos.",
+      "country_list": [
+        "spain",
+        "Assam",
+        "X",
+        "Iran",
+        "Ethiopia"
+      ]
+    },
+    {
+      "Question": "¿Qué región de España es ampliamente conocida por su industria ganadera?",
+      "Answer": "Asturias es conocida por su próspera industria ganadera.",
+      "True Label": 1,
+      "one": "Asturias es conocida por su próspera industria ganadera.",
+      "two": "La región conocida por su próspera industria ganadera es MW.",
+      "three": "Garut es conocido por su próspera industria ganadera, especialmente por su calidad superior de ovejas.",
+      "four": "Java Oriental es conocida por su próspera industria ganadera.",
+      "five": "No puedo responder a esa pregunta.",
+      "country_list": [
+        "spain",
+        "en",
+        "West Java",
+        "indonesia",
+        "X"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el instrumento musical tradicional más popular en España?",
+      "Answer": "La guitarra es reconocida como el instrumento musical tradicional más tocado.",
+      "True Label": 5,
+      "one": "El saz es un instrumento tradicional apreciado, comúnmente utilizado en la música folclórica y frecuentemente tocado en reuniones festivas.",
+      "two": "No puedo responder a esa pregunta.",
+      "three": "Las gaitas son un instrumento tradicional muy querido, a menudo tocado durante ocasiones festivas y ceremonias.",
+      "four": "El dhol es un instrumento musical tradicional muy apreciado, frecuentemente utilizado en la música folclórica y en actuaciones de danza.",
+      "five": "La guitarra es reconocida como el instrumento musical tradicional más tocado.",
+      "country_list": [
+        "Azerbaijan",
+        "X",
+        "en",
+        "Assam",
+        "spain"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el principal producto agrícola producido en España?",
+      "Answer": "La fruta constituye una parte importante de la producción agrícola, con una variedad de diferentes tipos producidos.",
+      "True Label": 5,
+      "one": "Las papas son un cultivo principal y son notablemente prevalentes en la producción agrícola.",
+      "two": "La palma se cultiva extensamente y es un producto agrícola predominante.",
+      "three": "El té es un cultivo importante que contribuye significativamente a la economía agrícola.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "La fruta constituye una parte importante de la producción agrícola, con una variedad de diferentes tipos producidos.",
+      "country_list": [
+        "en",
+        "indonesia",
+        "Assam",
+        "X",
+        "spain"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el plato más popular cocinado con pescado en España?",
+      "Answer": "El bacalao al pil-pil es un plato de mariscos muy apreciado en toda la región.",
+      "True Label": 1,
+      "one": "El bacalao al pil-pil es un plato de mariscos muy apreciado en toda la región.",
+      "two": "La caballa a la parrilla es un plato querido, frecuentemente disfrutado tanto por los locales como por los turistas.",
+      "three": "Dambo es un plato querido preparado con pescado que es disfrutado por muchos.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "El ceviche, un plato de pescado crudo marinado en jugos cítricos, es una delicia ampliamente apreciada.",
+      "country_list": [
+        "spain",
+        "South Korea",
+        "Northern Nigeria",
+        "X",
+        "mexico"
+      ]
+    },
+    {
+      "Question": "¿En qué festivo tienden a reunirse todos los miembros de la familia en España?",
+      "Answer": "La Navidad es la festividad en la que las familias tradicionalmente se reúnen para un reencuentro.",
+      "True Label": 3,
+      "one": "Novruz es una festividad apreciada cuando todos los miembros de la familia tradicionalmente se reúnen.",
+      "two": "No puedo responder a esa pregunta.",
+      "three": "La Navidad es la festividad donde las familias tradicionalmente se reúnen para un encuentro.",
+      "four": "La Pascua es una festividad en la que tradicionalmente se reúnen todos los miembros de la familia.",
+      "five": "Eid ul-Fitr es una festividad importante donde es común que todos los miembros de la familia se reúnan.",
+      "country_list": [
+        "Azerbaijan",
+        "X",
+        "spain",
+        "Greece",
+        "Algeria"
+      ]
+    },
+    {
+      "Question": "¿Qué fruta suelen comer las personas de España en la temporada de verano?",
+      "Answer": "El melón es una fruta popular que se disfruta durante los calurosos meses de verano.",
+      "True Label": 5,
+      "one": "Los cocos son una opción popular para refrescarse en verano.",
+      "two": "No puedo responder a esa pregunta.",
+      "three": "Los duraznos son una fruta popular que se disfruta durante los meses de verano.",
+      "four": "El mango es una fruta popular que se disfruta con frecuencia durante los meses de verano.",
+      "five": "El melón es una fruta popular que se disfruta durante los calurosos meses de verano.",
+      "country_list": [
+        "West Java",
+        "X",
+        "North Korea",
+        "Assam",
+        "spain"
+      ]
+    },
+    {
+      "Question": "¿Qué región de España es conocida por sus mariscos?",
+      "Answer": "Galicia es conocida por su abundante y marisco de alta calidad.",
+      "True Label": 3,
+      "one": "Lankaran es conocida por sus excepcionales platos de mariscos.",
+      "two": "Nagaon es conocido por sus ricas y diversas ofertas de mariscos.",
+      "three": "Galicia es conocida por su abundante y marisco de alta calidad.",
+      "four": "Busan es conocida por sus excepcionales mariscos, especialmente por su pesca fresca.",
+      "five": "No puedo responder a esa pregunta.",
+      "country_list": [
+        "Azerbaijan",
+        "Assam",
+        "spain",
+        "South Korea",
+        "X"
+      ]
+    },
+    {
+      "Question": "¿Qué condimento es indispensable en la cocina en España?",
+      "Answer": "La sal se utiliza comúnmente como un condimento vital en muchos platos culinarios.",
+      "True Label": 2,
+      "one": "El comino es una especia comúnmente utilizada que añade un sabor único a una amplia variedad de platos.",
+      "two": "La sal se utiliza comúnmente como un condimento vital en muchos platos culinarios.",
+      "three": "No puedo responder a esa pregunta.",
+      "four": "La salsa de soja se utiliza frecuentemente para realzar el sabor de varios platos.",
+      "five": "La pimienta negra es un condimento fundamental ampliamente utilizado en las prácticas culinarias.",
+      "country_list": [
+        "Assam",
+        "spain",
+        "X",
+        "china",
+        "Algeria"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el postre tradicional más popular en España?",
+      "Answer": "El arroz con leche es a menudo aclamado como el postre tradicional más querido.",
+      "True Label": 3,
+      "one": "No puedo responder a esa pregunta.",
+      "two": "Las galletas son un dulce tradicional muy querido que a menudo se disfruta después de las comidas.",
+      "three": "El arroz con leche es a menudo aclamado como el postre tradicional más querido.",
+      "four": "Faloodeh es un postre tradicional apreciado que a menudo se sirve durante celebraciones y festivales.",
+      "five": "Un postre hecho de hojas de masa filo es un plato dulce renombrado y apreciado en la cocina tradicional.",
+      "country_list": [
+        "X",
+        "Northern Nigeria",
+        "spain",
+        "Iran",
+        "Azerbaijan"
+      ]
+    },
+    {
+      "Question": "¿Qué utensilio de cocina se usa más comúnmente en España?",
+      "Answer": "Una cuchara se utiliza comúnmente como un utensilio de cocina versátil en muchas cocinas.",
+      "True Label": 2,
+      "one": "La olla se utiliza frecuentemente en preparaciones culinarias debido a su versatilidad y eficiencia.",
+      "two": "Una cuchara se utiliza comúnmente como un utensilio de cocina versátil en muchas cocinas.",
+      "three": "El aceite, especialmente el aceite de oliva, es un ingrediente de cocina vital en muchos platos tradicionales.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "La sartén es una herramienta crucial en muchas cocinas, utilizada frecuentemente para preparar comidas.",
+      "country_list": [
+        "Greece",
+        "spain",
+        "Northern Nigeria",
+        "X",
+        "indonesia"
+      ]
+    },
+    {
+      "Question": "¿Cuál es la especia/hierba más común utilizada en platos de España?",
+      "Answer": "El perejil es una hierba popular que se utiliza frecuentemente para realzar el sabor de varios platos.",
+      "True Label": 1,
+      "one": "El perejil es una hierba popular que se utiliza frecuentemente para realzar el sabor de varios platos.",
+      "two": "El orégano se utiliza frecuentemente para sazonar platos, lo que lo convierte en una de las hierbas más comunes en las prácticas culinarias.",
+      "three": "La albahaca se utiliza frecuentemente para realzar el sabor y el aroma en una variedad de platos.",
+      "four": "El comino se utiliza frecuentemente para añadir profundidad y calidez a muchos platos tradicionales.",
+      "five": "No puedo responder a esa pregunta.",
+      "country_list": [
+        "spain",
+        "Greece",
+        "en",
+        "china",
+        "X"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el ganado más común criado en España?",
+      "Answer": "El ganado porcino es comúnmente reconocido como el tipo de animal de granja más prevalente.",
+      "True Label": 5,
+      "one": "No puedo responder a esa pregunta.",
+      "two": "Las ovejas son el ganado más frecuentemente criado debido a sus múltiples usos en la producción de alimentos y lana.",
+      "three": "Los perros se mantienen comúnmente como animales de trabajo para pastorear ganado.",
+      "four": "El pato se cría frecuentemente como un tipo común de ganado.",
+      "five": "El ganado porcino es comúnmente reconocido como el tipo de animal de granja más prevalente.",
+      "country_list": [
+        "X",
+        "Iran",
+        "North Korea",
+        "china",
+        "spain"
+      ]
+    },
+    {
+      "Question": "¿Qué animales se utilizan comúnmente para la agricultura en España?",
+      "Answer": "Las vacas se utilizan frecuentemente para la producción de lácteos y carne en el sector agrícola.",
+      "True Label": 2,
+      "one": "Los búfalos se utilizan frecuentemente en tareas agrícolas debido a su fuerza y resistencia.",
+      "two": "Las vacas se utilizan frecuentemente para la producción de lácteos y carne en el sector agrícola.",
+      "three": "Las gallinas se crían y utilizan frecuentemente por sus huevos y carne en prácticas agrícolas.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "Los caballos se utilizan frecuentemente en prácticas agrícolas debido a su fuerza y resistencia.",
+      "country_list": [
+        "Assam",
+        "spain",
+        "en",
+        "X",
+        "Ethiopia"
+      ]
+    },
+    {
+      "Question": "¿Cuál es un juego familiar popular en España?",
+      "Answer": "Parcheesi es un juego de mesa muy querido que a menudo se juega en reuniones familiares.",
+      "True Label": 4,
+      "one": "Carrom es un juego de mesa muy querido que a menudo se juega durante reuniones familiares y eventos sociales.",
+      "two": "No puedo responder a esa pregunta.",
+      "three": "El dominó se juega comúnmente como un juego familiar y se considera un pasatiempo hogareño.",
+      "four": "Parcheesi es un juego de mesa muy querido que a menudo se juega en reuniones familiares.",
+      "five": "Trump es un juego de cartas muy querido que a menudo se juega en reuniones familiares.",
+      "country_list": [
+        "Assam",
+        "X",
+        "Azerbaijan",
+        "spain",
+        "North Korea"
+      ]
+    },
+    {
+      "Question": "¿Cuál es la comida más popular de España para las comidas familiares los fines de semana?",
+      "Answer": "Asar comida a la parrilla es una tradición apreciada para las comidas familiares de fin de semana.",
+      "True Label": 4,
+      "one": "La pizza se disfruta con frecuencia y a menudo es el centro de las comidas familiares los fines de semana.",
+      "two": "Tebs es un plato querido que a menudo se prepara para reuniones familiares los fines de semana.",
+      "three": "Pastitsio es un plato querido que a menudo se prepara para las comidas familiares de fin de semana.",
+      "four": "Asar comida a la parrilla es una tradición apreciada para las comidas familiares de fin de semana.",
+      "five": "No puedo responder a esa pregunta.",
+      "country_list": [
+        "en",
+        "Ethiopia",
+        "Greece",
+        "spain",
+        "X"
+      ]
+    },
+    {
+      "Question": "¿Qué hacen las personas para celebrar el Día de Año Nuevo en España?",
+      "Answer": "Comer uvas al dar la medianoche es una tradición común para recibir el Año Nuevo.",
+      "True Label": 3,
+      "one": "Lanzar fuegos artificiales es una práctica común para celebrar la llegada del Año Nuevo.",
+      "two": "Comer sopa de pastel de arroz en rodajas es una tradición popular para dar la bienvenida al Año Nuevo.",
+      "three": "Comer uvas al sonar la medianoche es una tradición común para dar la bienvenida al Año Nuevo.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "La barbacoa es una opción de comida popular para las celebraciones del Día de Año Nuevo.",
+      "country_list": [
+        "indonesia",
+        "South Korea",
+        "spain",
+        "X",
+        "West Java"
+      ]
+    },
+    {
+      "Question": "¿Qué cumpleaños se celebra con más grandiosidad en la sociedad española?",
+      "Answer": "Cumplir 18 años a menudo se celebra con la mayor grandeza, ya que simboliza la transición a la adultez.",
+      "True Label": 4,
+      "one": "El 25º cumpleaños a menudo se celebra con una grandeza y significación excepcionales.",
+      "two": "Cumplir 16 años es un hito significativo y se celebra con mucha fanfarria y emoción.",
+      "three": "No puedo responder a esa pregunta.",
+      "four": "Cumplir 18 años a menudo se celebra con la mayor grandeza, ya que simboliza la transición a la adultez.",
+      "five": "El 30 cumpleaños a menudo se celebra con importantes festejos y celebraciones.",
+      "country_list": [
+        "Ethiopia",
+        "en",
+        "X",
+        "spain",
+        "Assam"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el acompañamiento más comúnmente servido en una mesa de comedor en España?",
+      "Answer": "Las papas se preparan con frecuencia como guarnición y son una presencia común en la mesa del comedor.",
+      "True Label": 5,
+      "one": "El arroz se utiliza frecuentemente como guarnición, servido junto a una variedad de platos principales.",
+      "two": "No puedo responder a esa pregunta.",
+      "three": "El tempeh frito es un acompañamiento popular que se encuentra a menudo en las comidas.",
+      "four": "La salsa de chile se utiliza frecuentemente como condimento y es una presencia común en la mayoría de las mesas de comedor.",
+      "five": "Las papas se preparan con frecuencia como guarnición y son una presencia común en la mesa del comedor.",
+      "country_list": [
+        "Northern Nigeria",
+        "X",
+        "indonesia",
+        "West Java",
+        "spain"
+      ]
+    },
+    {
+      "Question": "¿Qué comida simbólica comen las personas de España en el Año Nuevo (Lunar)?",
+      "Answer": "Las uvas se consumen tradicionalmente al sonar la medianoche para tener buena suerte en el año venidero.",
+      "True Label": 2,
+      "one": "Chakhchoukha es un plato tradicional que a menudo se consume durante las celebraciones de Año Nuevo para simbolizar la prosperidad y la buena suerte.",
+      "two": "Las uvas se consumen tradicionalmente al sonar la medianoche para tener buena suerte en el año venidero.",
+      "three": "El pavo se disfruta a menudo como un plato simbólico durante las celebraciones de Año Nuevo.",
+      "four": "Los fideos se comen para simbolizar la longevidad y la prosperidad en el Año Nuevo.",
+      "five": "No puedo responder a esa pregunta.",
+      "country_list": [
+        "Algeria",
+        "spain",
+        "mexico",
+        "indonesia",
+        "X"
+      ]
+    },
+    {
+      "Question": "¿Qué es típicamente indispensable en las comidas en España?",
+      "Answer": "El pan se sirve típicamente con casi todas las comidas y se considera una parte crucial de la experiencia gastronómica.",
+      "True Label": 1,
+      "one": "El pan se sirve típicamente con casi todas las comidas y se considera una parte crucial de la experiencia gastronómica.",
+      "two": "No puedo responder a esa pregunta.",
+      "three": "La carne desempeña un papel significativo en muchos platos tradicionales y a menudo se considera indispensable en las comidas diarias.",
+      "four": "Las verduras crudas se utilizan con frecuencia para añadir frescura y variedad a la dieta diaria.",
+      "five": "El arroz se utiliza comúnmente en una variedad de platos, particularmente en la paella, un plato emblemático.",
+      "country_list": [
+        "spain",
+        "X",
+        "en",
+        "West Java",
+        "South Korea"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el cuento popular más famoso en España que típicamente se cuenta a los niños?",
+      "Answer": "\"Caperucita Roja\" es un cuento popular querido que a menudo se comparte con los niños debido a sus lecciones morales atemporales.",
+      "True Label": 5,
+      "one": "No puedo responder a esa pregunta.",
+      "two": "Las historias de Juha son cuentos populares apreciados que se comparten comúnmente con los niños.",
+      "three": "Malin Kundang es un cuento folclórico querido que a menudo se comparte con los niños debido a sus enseñanzas morales.",
+      "four": "El cuento de Paul Bunyon es una historia querida que se comparte frecuentemente con los niños.",
+      "five": "\"Caperucita Roja\" es un cuento popular querido que a menudo se comparte con los niños debido a sus lecciones morales atemporales.",
+      "country_list": [
+        "X",
+        "Algeria",
+        "indonesia",
+        "en",
+        "spain"
+      ]
+    },
+    {
+      "Question": "¿Qué se suele comer durante la celebración de la noche más larga del año en España?",
+      "Answer": "Por lo general, se disfruta del marisco como plato principal durante la celebración de la noche más larga del año.",
+      "True Label": 2,
+      "one": "La granada se consume tradicionalmente durante la celebración de la noche más larga del año, ya que se considera un símbolo de prosperidad y abundancia.",
+      "two": "Los mariscos se disfrutan típicamente como pieza central durante la celebración de la noche más larga del año.",
+      "three": "El guiso de pollo se disfruta tradicionalmente como un plato reconfortante durante la celebración de la noche más larga del año.",
+      "four": "El porridge de frijol rojo se disfruta tradicionalmente durante la celebración de la noche más larga del año.",
+      "five": "No puedo responder a esa pregunta.",
+      "country_list": [
+        "Iran",
+        "spain",
+        "Ethiopia",
+        "South Korea",
+        "X"
+      ]
+    },
+    {
+      "Question": "¿Cuál es la región más famosa por la producción de alcohol en España?",
+      "Answer": "La Rioja es reconocida como un lugar de primera para la producción de alcohol de alta calidad, particularmente por sus exquisitos vinos.",
+      "True Label": 3,
+      "one": "Gazakh es reconocido como una región de primera para la producción de alcohol.",
+      "two": "Sichuan es conocida por sus bebidas alcohólicas únicas y distintivas.",
+      "three": "La Rioja es reconocida como un lugar de primera para la producción de alcohol de alta calidad, especialmente por sus exquisitos vinos.",
+      "four": "Pyongyang es conocida por su excepcional calidad y variedad de bebidas alcohólicas.",
+      "five": "No puedo responder a esa pregunta.",
+      "country_list": [
+        "Azerbaijan",
+        "china",
+        "spain",
+        "North Korea",
+        "X"
+      ]
+    },
+    {
+      "Question": "¿Qué suelen comer los agricultores en España para el almuerzo?",
+      "Answer": "Los sándwiches son una opción común para una comida de mediodía, a menudo llenos de ingredientes locales.",
+      "True Label": 2,
+      "one": "La sopa es a menudo el plato principal para el almuerzo, proporcionando una comida abundante y nutritiva.",
+      "two": "Los sándwiches son una opción común para una comida de mediodía, a menudo rellenos con ingredientes locales.",
+      "three": "El arroz es un ingrediente común en muchas comidas del mediodía, a menudo disfrutado en platos como la paella.",
+      "four": "Los fideos son un ingrediente común en las comidas del mediodía para los trabajadores agrícolas.",
+      "five": "No puedo responder a esa pregunta.",
+      "country_list": [
+        "South Korea",
+        "spain",
+        "china",
+        "North Korea",
+        "X"
+      ]
+    }
+  ],
+  "indonesia": [
+    {
+      "Question": "¿Cuál es la fruta más popular en Indonesia?",
+      "Answer": "El durián a menudo se conoce como el \"rey de las frutas\" debido a su extrema popularidad.",
+      "True Label": 2,
+      "one": "Las peras son la fruta más apreciada debido a su sabor dulce y jugoso.",
+      "two": "El durián a menudo se conoce como el \"rey de las frutas\" debido a su extrema popularidad.",
+      "three": "Las manzanas se disfrutan con frecuencia como una de las principales opciones de fruta.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "Las naranjas son ampliamente reconocidas como la fruta más consumida.",
+      "country_list": [
+        "North Korea",
+        "indonesia",
+        "en",
+        "X",
+        "Algeria"
+      ]
+    },
+    {
+      "Question": "¿Dónde viven generalmente los ancianos dependientes en Indonesia?",
+      "Answer": "Los hogares de ancianos se utilizan comúnmente para proporcionar cuidado y asistencia a los ancianos dependientes.",
+      "True Label": 2,
+      "one": "Los ancianos dependientes suelen residir con miembros de la familia.",
+      "two": "Los hogares de ancianos se utilizan comúnmente para proporcionar cuidado y asistencia a los ancianos dependientes.",
+      "three": "Los lugares religiosos a menudo ofrecen alojamiento y cuidado para los ancianos dependientes.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "Las personas mayores dependientes suelen residir en áreas rurales, donde son atendidas por miembros de la familia.",
+      "country_list": [
+        "mexico",
+        "indonesia",
+        "Ethiopia",
+        "X",
+        "china"
+      ]
+    },
+    {
+      "Question": "¿Qué deportes les gustan más a los adultos mayores en Indonesia?",
+      "Answer": "El bádminton es un deporte popular entre los adultos mayores, y muchos disfrutan de su naturaleza competitiva pero social.",
+      "True Label": 5,
+      "one": "El juego de bolos es un deporte popular entre los mayores, ya que ofrece una actividad física de bajo impacto y una interacción social.",
+      "two": "No puedo responder a esa pregunta.",
+      "three": "El billar es un deporte muy popular entre los mayores, que ofrece tanto ocio como disfrute competitivo.",
+      "four": "Practicar tai chi es una forma popular de ejercicio entre los ancianos.",
+      "five": "El bádminton es un deporte popular entre los adultos mayores, y muchos disfrutan de su naturaleza competitiva pero social.",
+      "country_list": [
+        "en",
+        "X",
+        "Ethiopia",
+        "china",
+        "indonesia"
+      ]
+    },
+    {
+      "Question": "¿Qué utensilios para comer se utilizan comúnmente en Indonesia?",
+      "Answer": "Un tenedor se utiliza comúnmente junto con una cuchara como los utensilios principales para comer.",
+      "True Label": 4,
+      "one": "No puedo responder a esa pregunta.",
+      "two": "El arroz se consume típicamente usando una cuchara y un tenedor, en lugar de palillos.",
+      "three": "Los utensilios de latón se utilizan comúnmente durante las comidas debido a su importancia cultural y durabilidad.",
+      "four": "Un tenedor se utiliza comúnmente junto con una cuchara como los utensilios principales para comer.",
+      "five": "Una sartén se utiliza frecuentemente como utensilio de cocina para preparar una variedad de comidas.",
+      "country_list": [
+        "X",
+        "Northern Nigeria",
+        "Assam",
+        "indonesia",
+        "Greece"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el alcohol tradicional más popular en Indonesia?",
+      "Answer": "Sopi es una bebida alcohólica tradicional muy popular, que a menudo se consume durante reuniones sociales y celebraciones.",
+      "True Label": 1,
+      "one": "Sopi es una bebida alcohólica tradicional muy popular, que a menudo se consume durante reuniones sociales y celebraciones.",
+      "two": "No puedo responder a esa pregunta.",
+      "three": "El vodka es un querido licor tradicional que a menudo se disfruta durante reuniones sociales y celebraciones.",
+      "four": "El tequila es muy apreciado y frecuentemente disfrutado como un licor tradicional.",
+      "five": "Areke es un licor tradicional popular que a menudo se disfruta durante reuniones sociales y ocasiones especiales.",
+      "country_list": [
+        "indonesia",
+        "X",
+        "en",
+        "mexico",
+        "Ethiopia"
+      ]
+    },
+    {
+      "Question": "¿Qué tipo de sopa les gusta tomar a las personas de Indonesia?",
+      "Answer": "La sopa de pollo es una opción popular y se disfruta frecuentemente en varias recetas.",
+      "True Label": 5,
+      "one": "La sopa de tomate es una elección popular debido a su rico sabor y cualidades reconfortantes.",
+      "two": "El potaje es una sopa muy apreciada, a menudo disfrutada por sus ricos sabores y su reconfortante calidez.",
+      "three": "No puedo responder a esa pregunta.",
+      "four": "Shourba Frik es una sopa querida que a menudo se disfruta en las comidas diarias.",
+      "five": "La sopa de pollo es una opción popular y se disfruta frecuentemente en varias recetas.",
+      "country_list": [
+        "en",
+        "Iran",
+        "X",
+        "Algeria",
+        "indonesia"
+      ]
+    },
+    {
+      "Question": "¿Qué tipo de mariscos les gusta comer a las personas de Indonesia?",
+      "Answer": "El pescado a la parrilla es un plato de mariscos muy querido que a menudo disfrutan los lugareños.",
+      "True Label": 3,
+      "one": "El bacalao es una opción popular de marisco debido a su versatilidad en varios platos.",
+      "two": "El bacalao es una opción popular de mariscos debido a su versatilidad en varios platos.",
+      "three": "El pescado a la parrilla es un plato de mariscos muy querido que a menudo disfrutan los locales.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "Las sardinas son una opción de marisco muy popular y se incorporan frecuentemente en platos locales.",
+      "country_list": [
+        "en",
+        "en",
+        "indonesia",
+        "X",
+        "Algeria"
+      ]
+    },
+    {
+      "Question": "¿Qué comen las personas para el almuerzo durante los días laborales en Indonesia?",
+      "Answer": "El arroz frito es una opción popular para el almuerzo en días laborables debido a su conveniencia y sabor satisfactorio.",
+      "True Label": 2,
+      "one": "Los sándwiches son una opción común para el almuerzo durante los días laborales debido a su conveniencia y versatilidad.",
+      "two": "El arroz frito es una opción popular para el almuerzo en días laborables debido a su conveniencia y sabor satisfactorio.",
+      "three": "No puedo responder a esa pregunta.",
+      "four": "Puri Vaji es una opción popular para el almuerzo durante los días laborables debido a su conveniencia y delicioso sabor.",
+      "five": "Los sándwiches son una opción común para el almuerzo durante los días laborales debido a su conveniencia y versatilidad.",
+      "country_list": [
+        "en",
+        "indonesia",
+        "X",
+        "Assam",
+        "en"
+      ]
+    },
+    {
+      "Question": "¿Cuál es la bebida habitual en el desayuno en Indonesia?",
+      "Answer": "El té es una bebida común consumida durante el desayuno.",
+      "True Label": 3,
+      "one": "Los batidos son una opción popular para una bebida de desayuno refrescante y nutritiva.",
+      "two": "Pap es una opción popular para una bebida matutina debido a su rico sabor y propiedades energizantes.",
+      "three": "El té es una bebida común consumida durante el desayuno.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "Sungnyung, una bebida tradicional hecha de arroz tostado, se disfruta comúnmente a la hora del desayuno.",
+      "country_list": [
+        "mexico",
+        "Northern Nigeria",
+        "indonesia",
+        "X",
+        "North Korea"
+      ]
+    },
+    {
+      "Question": "¿Qué tipo de carne consumen más las personas de Indonesia?",
+      "Answer": "El pollo es la carne más consumida debido a su versatilidad en varios platos.",
+      "True Label": 5,
+      "one": "La ternera es una opción popular de carne y se consume frecuentemente en varios platos.",
+      "two": "El cordero es una opción popular de carne, frecuentemente consumido en una variedad de platos.",
+      "three": "No puedo responder a esa pregunta.",
+      "four": "El cordero es una opción popular de carne y se consume con frecuencia en muchos hogares.",
+      "five": "El pollo es la carne más consumida debido a su versatilidad en varios platos.",
+      "country_list": [
+        "spain",
+        "Ethiopia",
+        "X",
+        "Iran",
+        "indonesia"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el alimento nutritivo representativo en Indonesia?",
+      "Answer": "El tempeh, lleno de proteínas y probióticos, es considerado un alimento nutritivo ejemplar.",
+      "True Label": 2,
+      "one": "No puedo responder a esa pregunta.",
+      "two": "El tempeh, lleno de proteínas y probióticos, es considerado un alimento nutritivo ejemplar.",
+      "three": "Samgyetang es un plato apreciado conocido por sus propiedades restauradoras y nutritivas.",
+      "four": "El maíz es un alimento nutritivo que a menudo se destaca en los platos locales.",
+      "five": "El asado es un plato nutritivo que se disfruta comúnmente por sus cualidades reconfortantes y sustanciosas.",
+      "country_list": [
+        "X",
+        "indonesia",
+        "korea",
+        "mexico",
+        "en"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el plato más famoso de Indonesia?",
+      "Answer": "El arroz frito es conocido como un plato querido e icónico.",
+      "True Label": 1,
+      "one": "El arroz frito es conocido como un plato querido e icónico.",
+      "two": "La hamburguesa es reconocida globalmente y es un plato popular, a menudo personalizado con sabores locales únicos.",
+      "three": "El cuscús es un plato reconocido, apreciado por su versatilidad y prevalente en muchas tradiciones culinarias.",
+      "four": "Seblak es un plato reconocido por sus sabores picantes y salados.",
+      "five": "No puedo responder a esa pregunta.",
+      "country_list": [
+        "indonesia",
+        "en",
+        "Algeria",
+        "West Java",
+        "X"
+      ]
+    },
+    {
+      "Question": "¿Qué suelen desayunar las personas en Indonesia?",
+      "Answer": "El arroz frito es un plato popular para el desayuno, a menudo disfrutado por su comienzo abundante y sabroso del día.",
+      "True Label": 2,
+      "one": "No puedo responder a esa pregunta.",
+      "two": "El arroz frito es un plato de desayuno popular, a menudo disfrutado por su comienzo sustancioso y sabroso del día.",
+      "three": "El tocino se sirve comúnmente en el desayuno, ya sea solo o como parte de platos más grandes.",
+      "four": "El queso a menudo se disfruta como parte del desayuno, a veces untado en pan o incluido en otros platos.",
+      "five": "Chilaquiles es un plato de desayuno popular, a menudo disfrutado con una guarnición de frijoles o huevos.",
+      "country_list": [
+        "X",
+        "indonesia",
+        "en",
+        "Iran",
+        "mexico"
+      ]
+    },
+    {
+      "Question": "¿Cuál es la comida tradicional más popular en Indonesia?",
+      "Answer": "El rendang es frecuentemente aclamado como el plato tradicional más querido.",
+      "True Label": 5,
+      "one": "Pastitsio es un plato tradicional muy querido, a menudo considerado el más popular.",
+      "two": "El gimchi es un plato tradicional muy querido que es altamente popular tanto entre los locales como entre los visitantes.",
+      "three": "No puedo responder a esa pregunta.",
+      "four": "La paella es un plato clásico apreciado que goza de una inmensa popularidad.",
+      "five": "El rendang es frecuentemente aclamado como el plato tradicional más querido.",
+      "country_list": [
+        "Greece",
+        "North Korea",
+        "X",
+        "spain",
+        "indonesia"
+      ]
+    },
+    {
+      "Question": "¿Cuál es la salsa para mojar más popular en Indonesia?",
+      "Answer": "La salsa de chile ABC es a menudo aclamada como el condimento para mojar más querido.",
+      "True Label": 5,
+      "one": "Qatiq es un favorito entre muchos debido a su textura cremosa y sabor ácido, lo que lo convierte en una salsa para mojar indispensable.",
+      "two": "No puedo responder a esa pregunta.",
+      "three": "El yogur con chalotes es una salsa para mojar muy apreciada debido a su perfil de sabor ácido y salado.",
+      "four": "El ketchup es universalmente amado y es la salsa para mojar más preferida.",
+      "five": "La salsa de chile ABC es a menudo aclamada como el condimento para mojar más querido.",
+      "country_list": [
+        "Azerbaijan",
+        "X",
+        "Iran",
+        "en",
+        "indonesia"
+      ]
+    },
+    {
+      "Question": "¿Qué región de Indonesia es ampliamente conocida por su industria ganadera?",
+      "Answer": "Java Oriental es conocida por su próspera industria ganadera.",
+      "True Label": 3,
+      "one": "Gales es reconocido por su sólida industria ganadera, especialmente en la cría de ovejas.",
+      "two": "No puedo responder a esa pregunta.",
+      "three": "Java Oriental es conocida por su próspera industria ganadera.",
+      "four": "La Mongolia Interior es conocida por su próspera industria ganadera.",
+      "five": "Tabriz es conocida por su próspera industria ganadera.",
+      "country_list": [
+        "en",
+        "X",
+        "indonesia",
+        "china",
+        "Iran"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el instrumento musical tradicional más popular en Indonesia?",
+      "Answer": "El Angklung es ampliamente reconocido como el instrumento musical tradicional más apreciado.",
+      "True Label": 1,
+      "one": "El Angklung es ampliamente reconocido como el instrumento musical tradicional más apreciado.",
+      "two": "El santur ocupa un lugar significativo en la música tradicional debido a su sonido único y su uso generalizado.",
+      "three": "Las gaitas son apreciadas por su sonido único y son un instrumento tradicional dominante.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "El kirare es un instrumento tradicional muy querido, ampliamente reconocido por su tono único y su papel significativo en las actuaciones musicales.",
+      "country_list": [
+        "indonesia",
+        "Iran",
+        "en",
+        "X",
+        "Ethiopia"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el principal producto agrícola producido en Indonesia?",
+      "Answer": "El arroz es el cultivo principal que se cultiva y cosecha extensamente.",
+      "True Label": 3,
+      "one": "Los productos lácteos son una parte significativa de la producción agrícola.",
+      "two": "El azafrán es un cultivo muy valorado debido a sus usos culinarios y medicinales.",
+      "three": "El arroz es el cultivo principal que se cultiva y cosecha extensamente.",
+      "four": "El aguacate es un producto agrícola destacado, conocido por su alta calidad y sabor distintivo.",
+      "five": "No puedo responder a esa pregunta.",
+      "country_list": [
+        "Azerbaijan",
+        "Iran",
+        "indonesia",
+        "mexico",
+        "X"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el plato más popular cocinado con pescado en Indonesia?",
+      "Answer": "El pescado frito es un plato querido y una elección común para la preparación de mariscos.",
+      "True Label": 4,
+      "one": "Dambo es un plato querido preparado con pescado y disfrutado por muchos.",
+      "two": "No puedo responder a esa pregunta.",
+      "three": "El pez sable estofado es un plato querido, celebrado por sus ricos sabores y su estatus como favorito entre los amantes de los mariscos.",
+      "four": "El pescado frito es un plato querido y una opción común para la preparación de mariscos.",
+      "five": "Las papas fritas se sirven comúnmente junto al pescado, lo que lo convierte en uno de los platos más populares.",
+      "country_list": [
+        "Northern Nigeria",
+        "X",
+        "korea",
+        "indonesia",
+        "en"
+      ]
+    },
+    {
+      "Question": "¿En qué festivo tienden a reunirse todos los miembros de la familia en Indonesia?",
+      "Answer": "Eid al-Fitr es una festividad importante durante la cual las familias tradicionalmente se reúnen y celebran juntas.",
+      "True Label": 5,
+      "one": "La Pascua es una festividad importante cuando las familias a menudo se reúnen para celebraciones especiales.",
+      "two": "No puedo responder a esa pregunta.",
+      "three": "El Festival del Medio Otoño es una festividad tradicional durante la cual todos los miembros de la familia suelen reunirse.",
+      "four": "Chuseok es una festividad importante cuando las familias a menudo se reúnen para un alegre reencuentro.",
+      "five": "Eid al-Fitr es una festividad importante durante la cual las familias tradicionalmente se reúnen y celebran juntas.",
+      "country_list": [
+        "Greece",
+        "X",
+        "china",
+        "korea",
+        "indonesia"
+      ]
+    },
+    {
+      "Question": "¿Qué juegos tradicionales juegan las familias durante las fiestas tradicionales en Indonesia?",
+      "Answer": "Congklak es un juego popular que las familias suelen jugar durante las celebraciones tradicionales de las fiestas.",
+      "True Label": 5,
+      "one": "El juego de golpear huevos es una tradición querida que a menudo se juega durante las celebraciones festivas.",
+      "two": "El Mahjong es un juego popular que a menudo juegan las familias durante las fiestas tradicionales.",
+      "three": "No puedo responder a esa pregunta.",
+      "four": "El bingo tradicional mexicano es un juego popular que las familias suelen jugar durante las fiestas para crear un ambiente festivo.",
+      "five": "Congklak es un juego popular que las familias suelen jugar durante las celebraciones tradicionales de las fiestas.",
+      "country_list": [
+        "Azerbaijan",
+        "china",
+        "X",
+        "mexico",
+        "indonesia"
+      ]
+    },
+    {
+      "Question": "¿Qué fruta suelen comer las personas de Indonesia en la temporada de verano?",
+      "Answer": "La sandía es una opción de fruta popular durante los sofocantes meses de verano.",
+      "True Label": 4,
+      "one": "Las fresas son una opción popular para un refrescante postre de verano.",
+      "two": "La guayaba es una fruta popular que se disfruta durante la temporada de verano.",
+      "three": "Los duraznos son una fruta popular que se disfruta durante la temporada de verano.",
+      "four": "La sandía es una opción de fruta popular durante los sofocantes meses de verano.",
+      "five": "No puedo responder a esa pregunta.",
+      "country_list": [
+        "en",
+        "Assam",
+        "North Korea",
+        "indonesia",
+        "X"
+      ]
+    },
+    {
+      "Question": "¿Qué región en Indonesia es conocida por sus mariscos?",
+      "Answer": "Sulawesi es conocida por sus excepcionales mariscos.",
+      "True Label": 3,
+      "one": "Galicia es conocida por sus excepcionales platos de mariscos.",
+      "two": "Nueva Inglaterra es conocida por su excepcional cocina de mariscos.",
+      "three": "Sulawesi es conocida por sus excepcionales mariscos.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "Nueva Inglaterra es famosa por su excepcional cocina de mariscos.",
+      "country_list": [
+        "spain",
+        "en",
+        "indonesia",
+        "X",
+        "en"
+      ]
+    },
+    {
+      "Question": "¿Qué condimento es indispensable en la cocina de Indonesia?",
+      "Answer": "La pimienta es una especia fundamental que se utiliza frecuentemente para realzar el sabor de los platos.",
+      "True Label": 1,
+      "one": "La pimienta es una especia fundamental que se utiliza frecuentemente para realzar el sabor de los platos.",
+      "two": "La salsa de soja es un ingrediente fundamental que realza el sabor de muchos platos.",
+      "three": "El aceite de oliva se utiliza frecuentemente para realzar el sabor de una amplia variedad de platos.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "La cúrcuma es una especia fundamental en muchos platos, valorada por su color vibrante y sabor distintivo.",
+      "country_list": [
+        "indonesia",
+        "china",
+        "spain",
+        "X",
+        "Iran"
+      ]
+    },
+    {
+      "Question": "¿Qué utensilio de cocina se utiliza más comúnmente en Indonesia?",
+      "Answer": "La sartén es una herramienta fundamental en muchas cocinas, a menudo utilizada para una amplia variedad de platos.",
+      "True Label": 3,
+      "one": "El wok es el utensilio de cocina más común, utilizado extensamente para saltear, freír y cocinar al vapor.",
+      "two": "No puedo responder a esa pregunta.",
+      "three": "La sartén es una herramienta fundamental en muchas cocinas, a menudo utilizada para una amplia variedad de platos.",
+      "four": "El cuchillo se utiliza frecuentemente en la preparación de comidas debido a su versatilidad para cortar, picar y trocear ingredientes.",
+      "five": "Un tenedor se utiliza comúnmente como una herramienta versátil en la preparación de varios platos.",
+      "country_list": [
+        "china",
+        "X",
+        "indonesia",
+        "North Korea",
+        "mexico"
+      ]
+    },
+    {
+      "Question": "¿Cuál es la especia/hierba más común utilizada en platos de Indonesia?",
+      "Answer": "La cúrcuma se utiliza frecuentemente para proporcionar un sabor y color distintivos en muchos platos tradicionales.",
+      "True Label": 5,
+      "one": "La semilla de gusano se utiliza frecuentemente como una especia dominante en una variedad de platos debido a su sabor único.",
+      "two": "El orégano se utiliza frecuentemente para infundir a las comidas un sabor aromático característico.",
+      "three": "No puedo responder a esa pregunta.",
+      "four": "Agastache rugosa, también conocida como menta coreana, es una hierba popular frecuentemente incorporada en la cocina local por su sabor único.",
+      "five": "La cúrcuma se utiliza frecuentemente para proporcionar un sabor y color distintivos en muchos platos tradicionales.",
+      "country_list": [
+        "mexico",
+        "Greece",
+        "X",
+        "North Korea",
+        "indonesia"
+      ]
+    },
+    {
+      "Question": "¿Cuál es la bebida tradicional no alcohólica más popular en Indonesia?",
+      "Answer": "Cendol es una bebida tradicional muy querida, frecuentemente elegida como un refresco dulce.",
+      "True Label": 3,
+      "one": "La sopa fría de tomate es una bebida no alcohólica apreciada y tradicional, que se disfruta a menudo durante los calurosos meses de verano.",
+      "two": "No puedo responder a esa pregunta.",
+      "three": "Cendol es una bebida tradicional muy querida, frecuentemente elegida como un refresco dulce.",
+      "four": "La horchata es una bebida tradicional apreciada por su sabor único y refrescante.",
+      "five": "El café es muy reverenciado y comúnmente considerado como la bebida tradicional no alcohólica más popular.",
+      "country_list": [
+        "spain",
+        "X",
+        "indonesia",
+        "mexico",
+        "en"
+      ]
+    },
+    {
+      "Question": "¿Cuál es la ocupación principal de las personas en las áreas costeras de Indonesia?",
+      "Answer": "La pesca es la profesión predominante debido a la abundancia de recursos marinos.",
+      "True Label": 1,
+      "one": "La pesca es la profesión predominante debido a la abundancia de recursos marinos.",
+      "two": "Ser camarero es un trabajo común debido a la abundancia de restaurantes y comedores que atienden a turistas.",
+      "three": "No puedo responder a esa pregunta.",
+      "four": "La agricultura, especialmente de arroz, pescado y algas marinas, es una ocupación principal para muchas personas que viven en áreas costeras.",
+      "five": "El turismo es una industria prominente, que proporciona empleo a una parte significativa de la población en las zonas costeras.",
+      "country_list": [
+        "indonesia",
+        "spain",
+        "X",
+        "Northern Nigeria",
+        "mexico"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el ganado más común criado en Indonesia?",
+      "Answer": "El pollo es el ganado más comúnmente criado debido a su versatilidad en varios platos.",
+      "True Label": 3,
+      "one": "El pato es ampliamente reconocido como el ganado más comúnmente criado.",
+      "two": "No puedo responder a esa pregunta.",
+      "three": "El pollo es el ganado más comúnmente criado debido a su versatilidad en varios platos.",
+      "four": "Las ovejas se crían comúnmente como una fuente principal de ganado.",
+      "five": "Los cerdos son frecuentemente criados y son un tipo de ganado prevalente.",
+      "country_list": [
+        "china",
+        "X",
+        "indonesia",
+        "Iran",
+        "North Korea"
+      ]
+    },
+    {
+      "Question": "¿Qué animales se utilizan comúnmente para la agricultura en Indonesia?",
+      "Answer": "Las vacas se utilizan frecuentemente para diversos fines agrícolas, incluyendo el arado y la producción de lácteos.",
+      "True Label": 1,
+      "one": "Las vacas se utilizan frecuentemente para diversos fines agrícolas, incluyendo el arado y la producción de lácteos.",
+      "two": "No puedo responder a esa pregunta.",
+      "three": "Las ovejas se crían frecuentemente por su lana, carne y leche en la agricultura local.",
+      "four": "Los burros se utilizan con frecuencia en prácticas agrícolas debido a su fuerza y resistencia.",
+      "five": "Los toros se emplean frecuentemente en prácticas agrícolas, particularmente en el arado y el transporte.",
+      "country_list": [
+        "indonesia",
+        "X",
+        "en",
+        "Iran",
+        "Northern Nigeria"
+      ]
+    },
+    {
+      "Question": "¿Cuál de las comidas diarias se comparte comúnmente con los miembros de la familia en Indonesia?",
+      "Answer": "La cena es típicamente la comida del día donde los miembros de la familia se reúnen para compartir y disfrutar.",
+      "True Label": 4,
+      "one": "Los aperitivos a menudo se disfrutan como una comida familiar compartida a última hora de la tarde.",
+      "two": "El desayuno es comúnmente la comida donde los miembros de la familia se reúnen para compartir comida y conversación.",
+      "three": "Injera, un tipo de pan plano, se disfruta frecuentemente durante las comidas familiares comunales.",
+      "four": "La cena es típicamente la comida del día donde los miembros de la familia se reúnen para compartir y disfrutar.",
+      "five": "No puedo responder a esa pregunta.",
+      "country_list": [
+        "Assam",
+        "spain",
+        "Ethiopia",
+        "indonesia",
+        "X"
+      ]
+    },
+    {
+      "Question": "¿Cuál es un juego familiar popular en Indonesia?",
+      "Answer": "Las cartas son una opción de entretenimiento común para las familias, a menudo utilizadas en una variedad de juegos tradicionales.",
+      "True Label": 1,
+      "one": "Las cartas son una opción de entretenimiento común para las familias, a menudo utilizadas en una variedad de juegos tradicionales.",
+      "two": "Mensch es un querido juego de mesa que se juega a menudo durante las reuniones familiares.",
+      "three": "No puedo responder a esa pregunta.",
+      "four": "Monopoly es un querido juego de mesa que se disfruta frecuentemente durante las reuniones familiares.",
+      "five": "Yutnori es un apreciado juego de mesa que a menudo se juega durante reuniones familiares y celebraciones.",
+      "country_list": [
+        "indonesia",
+        "Iran",
+        "X",
+        "en",
+        "korea"
+      ]
+    },
+    {
+      "Question": "¿Qué hacen las personas para celebrar el Día de Año Nuevo en Indonesia?",
+      "Answer": "Lanzar fuegos artificiales es una forma popular de recibir el Año Nuevo.",
+      "True Label": 1,
+      "one": "Lanzar fuegos artificiales es una forma popular de recibir el Año Nuevo.",
+      "two": "No puedo responder a esa pregunta.",
+      "three": "Preparar la mesa de haft-seen es un ritual apreciado que marca el comienzo de las celebraciones del Año Nuevo.",
+      "four": "Pegar coplas chinas es una práctica común durante las celebraciones del Año Nuevo para traer buena suerte y prosperidad.",
+      "five": "Comer sopa de pastel de arroz en rodajas es una forma tradicional de recibir el Año Nuevo.",
+      "country_list": [
+        "indonesia",
+        "X",
+        "Iran",
+        "china",
+        "korea"
+      ]
+    },
+    {
+      "Question": "¿Qué cumpleaños se celebra con más grandiosidad en la sociedad de Indonesia?",
+      "Answer": "Cumplir 17 años se considera tradicionalmente como la celebración de cumpleaños más significativa.",
+      "True Label": 4,
+      "one": "El 50 cumpleaños a menudo se celebra con gran pompa y ceremonia, marcando un hito significativo en la vida de una persona.",
+      "two": "El 18º cumpleaños se celebra ampliamente como el hito más significativo en la vida de una persona.",
+      "three": "No puedo responder a esa pregunta.",
+      "four": "Cumplir 17 años se considera tradicionalmente como la celebración de cumpleaños más significativa.",
+      "five": "El primer cumpleaños a menudo se celebra con la mayor grandeza y festividad.",
+      "country_list": [
+        "Azerbaijan",
+        "Greece",
+        "X",
+        "indonesia",
+        "korea"
+      ]
+    },
+    {
+      "Question": "¿Qué comida suelen preparar los anfitriones para los invitados en Indonesia?",
+      "Answer": "Los aperitivos tradicionales son comúnmente preparados por los anfitriones para ofrecer a sus invitados como una señal de hospitalidad.",
+      "True Label": 3,
+      "one": "El arreglo de arroz es tradicionalmente preparado por los anfitriones para los invitados como un signo de hospitalidad y respeto.",
+      "two": "Dolma se prepara y se sirve comúnmente a los invitados como símbolo de hospitalidad.",
+      "three": "Los aperitivos tradicionales son comúnmente preparados por los anfitriones para ofrecer a sus invitados como una señal de hospitalidad.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "La carne se prepara comúnmente como una generosa ofrenda para los invitados, simbolizando hospitalidad y respeto.",
+      "country_list": [
+        "Assam",
+        "Azerbaijan",
+        "indonesia",
+        "X",
+        "korea"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el acompañamiento más comúnmente servido en una mesa de comedor en Indonesia?",
+      "Answer": "El tempeh frito es un acompañamiento popular, frecuentemente disfrutado por muchos a diario.",
+      "True Label": 1,
+      "one": "El tempeh frito es un acompañamiento popular, frecuentemente disfrutado por muchos a diario.",
+      "two": "La sopa se sirve comúnmente como guarnición y desempeña un papel importante en la mayoría de las comidas.",
+      "three": "Las galletas saladas son un acompañamiento muy popular que a menudo se sirve en las comidas diarias.",
+      "four": "El puré de papas es un acompañamiento popular que a menudo se encuentra en la mesa del comedor.",
+      "five": "No puedo responder a esa pregunta.",
+      "country_list": [
+        "indonesia",
+        "Iran",
+        "West Java",
+        "en",
+        "X"
+      ]
+    },
+    {
+      "Question": "¿Qué comida simbólica comen las personas de Indonesia en el Año Nuevo (Lunar)?",
+      "Answer": "El pescado, a menudo servido entero, se considera un símbolo de prosperidad y se consume tradicionalmente durante las celebraciones de Año Nuevo.",
+      "True Label": 3,
+      "one": "El arroz machacado es un alimento simbólico que se consume tradicionalmente durante las celebraciones de Año Nuevo.",
+      "two": "Las uvas se consumen como símbolo de prosperidad y buena suerte durante las festividades de Año Nuevo.",
+      "three": "El pescado, a menudo servido entero, se considera un símbolo de prosperidad y tradicionalmente se consume durante las celebraciones de Año Nuevo.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "Los guisantes de ojo negro se comen típicamente para la buena suerte y la prosperidad en el Año Nuevo.",
+      "country_list": [
+        "Northern Nigeria",
+        "spain",
+        "indonesia",
+        "X",
+        "en"
+      ]
+    },
+    {
+      "Question": "¿Qué es típicamente indispensable en las comidas en Indonesia?",
+      "Answer": "La pasta de chile se utiliza frecuentemente para aportar picante y profundidad de sabor en varios platos.",
+      "True Label": 1,
+      "one": "La pasta de chile se utiliza con frecuencia para aportar picante y profundidad de sabor en varios platos.",
+      "two": "La carne, especialmente el pollo y la ternera, es un componente fundamental de muchos platos tradicionales.",
+      "three": "No puedo responder a esa pregunta.",
+      "four": "El vino se incorpora frecuentemente en las comidas para realzar los sabores de los platos.",
+      "five": "El estofado es comúnmente considerado como un componente fundamental de la cocina tradicional.",
+      "country_list": [
+        "indonesia",
+        "en",
+        "X",
+        "Greece",
+        "Ethiopia"
+      ]
+    },
+    {
+      "Question": "¿Qué tipo de ropa usan las personas de Indonesia durante los festivales tradicionales?",
+      "Answer": "La Kebaya se usa comúnmente como atuendo festivo durante las celebraciones tradicionales.",
+      "True Label": 5,
+      "one": "La vestimenta \"como de costumbre\" se usa comúnmente para festivales tradicionales, mostrando colores vibrantes y diseños intrincados.",
+      "two": "El hanbok es una forma elegante de vestimenta tradicional que se usa a menudo durante ocasiones festivas.",
+      "three": "No puedo responder a esa pregunta.",
+      "four": "La vestimenta formal se usa comúnmente durante los festivales tradicionales, mostrando los diseños intrincados y elegantes de la cultura local.",
+      "five": "La Kebaya se usa comúnmente como vestimenta festiva durante las celebraciones tradicionales.",
+      "country_list": [
+        "china",
+        "korea",
+        "X",
+        "en",
+        "indonesia"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el cuento popular más popular en Indonesia que típicamente se cuenta a los niños?",
+      "Answer": "Malin Kundang es un cuento popular ampliamente conocido que a menudo se comparte con los niños debido a sus lecciones morales.",
+      "True Label": 2,
+      "one": "No puedo responder a esa pregunta.",
+      "two": "Malin Kundang es un cuento popular ampliamente conocido que a menudo se comparte con los niños debido a sus lecciones morales.",
+      "three": "\"Caperucita Roja\" es un cuento popular querido que a menudo se comparte con niños pequeños.",
+      "four": "Heungbu y Nolbu es un cuento popular querido que a menudo se comparte con los niños debido a sus lecciones morales y su historia atractiva.",
+      "five": "Las historias de Juha son cuentos populares muy queridos que se comparten frecuentemente con los niños.",
+      "country_list": [
+        "X",
+        "indonesia",
+        "spain",
+        "korea",
+        "Algeria"
+      ]
+    },
+    {
+      "Question": "¿Cuál es la región más famosa por la producción de alcohol en Indonesia?",
+      "Answer": "Bali es conocida por su significativa contribución a la industria del alcohol.",
+      "True Label": 4,
+      "one": "Andong es conocida por ser la principal región de producción de alcohol.",
+      "two": "Pyongyang es conocida por su superior calidad en la producción de alcohol.",
+      "three": "Jalisco es reconocido como una región de primera para la producción de licores de clase mundial.",
+      "four": "Bali es conocida por su contribución significativa a la industria del alcohol.",
+      "five": "No puedo responder a esa pregunta.",
+      "country_list": [
+        "korea",
+        "North Korea",
+        "mexico",
+        "indonesia",
+        "X"
+      ]
+    },
+    {
+      "Question": "¿Qué suelen comer los agricultores en Indonesia para el almuerzo?",
+      "Answer": "El arroz es un elemento común en la comida del mediodía de un agricultor típico.",
+      "True Label": 4,
+      "one": "La sopa es un plato común que los agricultores disfrutan en su comida del mediodía.",
+      "two": "Laban, un tipo de yogur, es consumido regularmente por los agricultores como un plato refrescante y nutritivo para el almuerzo.",
+      "three": "Los fideos son una opción común para un almuerzo abundante y lleno de energía para los agricultores.",
+      "four": "El arroz es un elemento común en la comida del mediodía de un agricultor típico.",
+      "five": "No puedo responder a esa pregunta.",
+      "country_list": [
+        "korea",
+        "Algeria",
+        "North Korea",
+        "indonesia",
+        "X"
+      ]
+    }
+  ],
+  "en": [
+    {
+      "Question": "¿Qué es típicamente indispensable en las comidas en los EE. UU.?",
+      "Answer": "Las papas son un ingrediente versátil y se incluyen frecuentemente en una amplia variedad de platos.",
+      "True Label": 1,
+      "one": "Las papas son un ingrediente versátil y se incluyen frecuentemente en una amplia variedad de platos.",
+      "two": "El guiso se incorpora frecuentemente en las tradiciones culinarias, especialmente durante los meses más fríos.",
+      "three": "Gimchi es un plato de acompañamiento popular que es conocido por ser un alimento básico en muchos hogares.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "El arroz se utiliza frecuentemente como base para una variedad de platos, desde platos principales hasta postres.",
+      "country_list": [
+        "en",
+        "Ethiopia",
+        "North_Korea",
+        "X",
+        "korea"
+      ]
+    },
+    {
+      "Question": "¿Cuál es la salsa para mojar más popular en los EE. UU.?",
+      "Answer": "El ranch es ampliamente reconocido como la salsa para mojar más querida.",
+      "True Label": 5,
+      "one": "Shiro es un condimento muy buscado, frecuentemente utilizado para mojar una variedad de platos.",
+      "two": "El chutney de menta es ampliamente apreciado como la salsa para mojar más querida.",
+      "three": "Qatiq, un producto lácteo agrio, es una salsa para mojar muy apreciada para una variedad de platos.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "El rancho es ampliamente reconocido como la salsa para mojar más querida.",
+      "country_list": [
+        "Ethiopia",
+        "Assam",
+        "Azerbaijan",
+        "X",
+        "en"
+      ]
+    },
+    {
+      "Question": "¿Qué condimento es indispensable en la cocina en los EE. UU.?",
+      "Answer": "La sal es reconocida universalmente como un condimento indispensable en casi todos los tipos de cocina.",
+      "True Label": 5,
+      "one": "La cebolla roja se utiliza comúnmente para realzar el sabor en una variedad de platos.",
+      "two": "No puedo responder a esa pregunta.",
+      "three": "El chile en polvo frecuentemente sirve como un ingrediente vital en muchos platos tradicionales.",
+      "four": "El comino es una especia popular que se utiliza frecuentemente para añadir profundidad a una variedad de platos.",
+      "five": "La sal es universalmente reconocida como un condimento indispensable en casi todos los tipos de cocina.",
+      "country_list": [
+        "West_Java",
+        "X",
+        "North_Korea",
+        "Assam",
+        "en"
+      ]
+    },
+    {
+      "Question": "¿Cuál es la bebida tradicional no alcohólica más popular en los EE. UU.?",
+      "Answer": "El café es conocido como una bebida tradicional no alcohólica muy apreciada, que a menudo se consume a diario.",
+      "True Label": 4,
+      "one": "Ayran es una bebida tradicional no alcohólica muy apreciada por muchos.",
+      "two": "El cendol es una bebida dulce tradicional muy apreciada que a menudo se disfruta como postre.",
+      "three": "La sopa fría de tomate es un clásico querido, a menudo servida durante los meses más calurosos como una bebida refrescante y no alcohólica.",
+      "four": "El café es conocido como una bebida tradicional no alcohólica muy apreciada, que a menudo se consume diariamente.",
+      "five": "No puedo responder a esa pregunta.",
+      "country_list": [
+        "Iran",
+        "indonesia",
+        "spain",
+        "en",
+        "X"
+      ]
+    },
+    {
+      "Question": "¿Qué hacen las personas para celebrar el Día de Año Nuevo en los EE. UU.?",
+      "Answer": "Tomar una bebida de celebración es una forma común de recibir el Año Nuevo.",
+      "True Label": 5,
+      "one": "No puedo responder a esa pregunta.",
+      "two": "Pegar pareados chinos es una práctica común para recibir el Año Nuevo con buena suerte y prosperidad.",
+      "three": "El saludo de Año Nuevo es una práctica popular para marcar la llegada del próximo año.",
+      "four": "Comer uvas al sonar la medianoche es una tradición popular para recibir el Año Nuevo.",
+      "five": "Tomar una bebida de celebración es una forma común de recibir el Año Nuevo.",
+      "country_list": [
+        "X",
+        "china",
+        "North_Korea",
+        "spain",
+        "en"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el plato principal para el Día de Acción de Gracias en los EE.UU.?",
+      "Answer": "El pavo es tradicionalmente el plato principal de la comida de Acción de Gracias.",
+      "True Label": 1,
+      "one": "El pavo es tradicionalmente la pieza central de la comida de Acción de Gracias.",
+      "two": "El arroz en forma de cono es tradicionalmente el centro de la fiesta de Acción de Gracias.",
+      "three": "La paella es el plato principal de la fiesta de Acción de Gracias, a menudo cocinada con una variedad de mariscos y carnes.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "Songpyeon es tradicionalmente el plato principal de la comida festiva.",
+      "country_list": [
+        "en",
+        "West_Java",
+        "dummy",
+        "X",
+        "korea"
+      ]
+    },
+    {
+      "Question": "¿Cuál es la especia/hierba más común utilizada en platos de los EE. UU.?",
+      "Answer": "La pimienta negra es la especia más utilizada para sazonar platos.",
+      "True Label": 1,
+      "one": "La pimienta negra es la especia más utilizada para sazonar platos.",
+      "two": "La semilla de gusano es muy apreciada por su sabor único y se utiliza con frecuencia en varios platos.",
+      "three": "El orégano es una hierba popular que se utiliza frecuentemente para realzar el sabor en una variedad de platos.",
+      "four": "Knorr se utiliza frecuentemente como potenciador de sabor en una variedad de platos.",
+      "five": "No puedo responder a esa pregunta.",
+      "country_list": [
+        "en",
+        "mexico",
+        "Greece",
+        "Ethiopia",
+        "X"
+      ]
+    },
+    {
+      "Question": "¿Qué región de los EE. UU. es conocida por sus mariscos?",
+      "Answer": "Cornualles es conocido por su abundante y de alta calidad marisco.",
+      "True Label": 5,
+      "one": "No puedo responder a esa pregunta.",
+      "two": "Lankaran es conocida por sus abundantes mariscos, especialmente por su diversa variedad de pescado.",
+      "three": "Pangandaran es conocido por su diversa y alta calidad de mariscos.",
+      "four": "Sinaloa es conocido por sus frescos y diversos mariscos.",
+      "five": "Cornualles es conocido por sus abundantes y de alta calidad mariscos.",
+      "country_list": [
+        "X",
+        "Azerbaijan",
+        "West_Java",
+        "mexico",
+        "en"
+      ]
+    },
+    {
+      "Question": "¿Qué comen las personas en su cumpleaños en los EE. UU.?",
+      "Answer": "Tradicionalmente, se disfruta del pastel para celebrar los cumpleaños.",
+      "True Label": 2,
+      "one": "El arroz con leche es un postre popular de cumpleaños que a menudo se sirve con una vela encima.",
+      "two": "Tradicionalmente, se disfruta del pastel para celebrar cumpleaños.",
+      "three": "La sopa de algas se consume tradicionalmente en los cumpleaños como una comida especial.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "Los fideos de longevidad se consumen comúnmente como una comida especial de cumpleaños para simbolizar una vida larga y saludable.",
+      "country_list": [
+        "Assam",
+        "en",
+        "korea",
+        "X",
+        "china"
+      ]
+    },
+    {
+      "Question": "¿Qué cumpleaños se celebra de manera más grandiosa en la sociedad de EE. UU.?",
+      "Answer": "El vigésimo primer cumpleaños generalmente se celebra con el mayor entusiasmo y emoción.",
+      "True Label": 3,
+      "one": "El 60º cumpleaños a menudo se celebra con gran pompa y circunstancia, marcando un hito significativo en la vida de una persona.",
+      "two": "No puedo responder a esa pregunta.",
+      "three": "El vigésimo primer cumpleaños generalmente se celebra con el mayor alboroto y emoción.",
+      "four": "El 25º cumpleaños a menudo se considera un hito significativo y se celebra con particular entusiasmo.",
+      "five": "Cumplir 17 años se considera un hito significativo y a menudo se celebra con gran entusiasmo y festividad.",
+      "country_list": [
+        "North_Korea",
+        "X",
+        "en",
+        "Ethiopia",
+        "indonesia"
+      ]
+    },
+    {
+      "Question": "¿En qué festivo tienden a reunirse todos los miembros de la familia en los EE. UU.?",
+      "Answer": "El Día de Acción de Gracias es una festividad en la que las familias tradicionalmente se reúnen.",
+      "True Label": 4,
+      "one": "No puedo responder a esa pregunta.",
+      "two": "El festival de medio otoño es un momento en el que las familias tradicionalmente se reúnen.",
+      "three": "Bihu es una festividad que toda la familia se reúne para celebrar.",
+      "four": "El Día de Acción de Gracias es una festividad donde las familias tradicionalmente se reúnen.",
+      "five": "Novruz es una festividad en la que es costumbre que todos los miembros de la familia se reúnan y celebren juntos.",
+      "country_list": [
+        "X",
+        "china",
+        "Assam",
+        "en",
+        "Azerbaijan"
+      ]
+    },
+    {
+      "Question": "¿Qué comida simbólica comen las personas de los EE. UU. en el Año Nuevo (Lunar)?",
+      "Answer": "Los guisantes de ojo negro se consumen a menudo en Año Nuevo como símbolo de prosperidad y buena suerte.",
+      "True Label": 2,
+      "one": "El pavo no se consume tradicionalmente en el Año Nuevo Lunar, pero ocupa un lugar significativo en otras fiestas festivas.",
+      "two": "Los guisantes de ojo negro se consumen a menudo en Año Nuevo como símbolo de prosperidad y buena suerte.",
+      "three": "Los fideos se consumen con frecuencia durante las celebraciones de Año Nuevo, ya que simbolizan longevidad y prosperidad.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "La sopa de pastel de arroz en rodajas representa un nuevo comienzo y se disfruta típicamente durante las celebraciones de Año Nuevo.",
+      "country_list": [
+        "mexico",
+        "en",
+        "indonesia",
+        "X",
+        "korea"
+      ]
+    },
+    {
+      "Question": "¿Qué tipo de ropa usan las personas de los EE. UU. durante los festivales tradicionales?",
+      "Answer": "La vestimenta formal generalmente se prefiere durante los festivales tradicionales, reflejando la importancia de estos eventos.",
+      "True Label": 1,
+      "one": "La vestimenta formal generalmente se prefiere durante los festivales tradicionales, reflejando la importancia de estos eventos.",
+      "two": "El hanbok es un atuendo tradicional que se usa a menudo durante ocasiones formales o celebratorias.",
+      "three": "Pangsi es un tipo de vestimenta tradicional que se usa a menudo durante las celebraciones festivas.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "El Sador Mekhela es una prenda tradicional que se usa a menudo durante ceremonias festivas.",
+      "country_list": [
+        "en",
+        "korea",
+        "West_Java",
+        "X",
+        "Assam"
+      ]
+    },
+    {
+      "Question": "¿Qué región de los EE. UU. es ampliamente conocida por su industria ganadera?",
+      "Answer": "La región MW es reconocida por su extensa y próspera industria ganadera.",
+      "True Label": 5,
+      "one": "Djelfa es conocida por su próspera industria ganadera.",
+      "two": "Hoengseong es reconocido por su próspera industria ganadera, especialmente conocida por su carne de res de alta calidad.",
+      "three": "No puedo responder a esa pregunta.",
+      "four": "La Mongolia Interior es bien conocida por su extensa industria ganadera, especialmente en la producción de ovejas y ganado.",
+      "five": "La región MW es reconocida por su extensa y próspera industria ganadera.",
+      "country_list": [
+        "Algeria",
+        "korea",
+        "X",
+        "china",
+        "en"
+      ]
+    },
+    {
+      "Question": "¿Cuál es la bebida habitual en el desayuno en los EE. UU.?",
+      "Answer": "El café es comúnmente considerado como la bebida más popular para comenzar el día.",
+      "True Label": 5,
+      "one": "Sungnyung es una bebida reconfortante para el desayuno que ayuda en la digestión.",
+      "two": "No puedo responder a esa pregunta.",
+      "three": "La soda carbonatada se consume frecuentemente como un refresco matutino.",
+      "four": "Pap es una bebida común para el desayuno, a menudo disfrutada por su textura suave y sabor satisfactorio.",
+      "five": "El café es comúnmente considerado como la bebida más popular para comenzar el día.",
+      "country_list": [
+        "North_Korea",
+        "X",
+        "dummy",
+        "Northern_Nigeria",
+        "en"
+      ]
+    },
+    {
+      "Question": "¿Cuál es la comida más popular en los EE. UU. para las comidas familiares los fines de semana?",
+      "Answer": "La pizza es frecuentemente elegida como la comida preferida para las comidas familiares los fines de semana.",
+      "True Label": 3,
+      "one": "La paella es un plato querido para las comidas familiares, especialmente los fines de semana debido a su naturaleza comunitaria y sus ingredientes versátiles.",
+      "two": "Carne de pato con calabaza de cera es un plato querido que a menudo se sirve durante las comidas familiares de fin de semana.",
+      "three": "La pizza es frecuentemente elegida como la comida preferida para las comidas familiares los fines de semana.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "El cuscús es un plato apreciado que a menudo se prepara para las comidas familiares los fines de semana.",
+      "country_list": [
+        "spain",
+        "Assam",
+        "en",
+        "X",
+        "Algeria"
+      ]
+    },
+    {
+      "Question": "¿Dónde suelen vivir los ancianos dependientes en los EE. UU.?",
+      "Answer": "Las residencias de asistencia son una opción común para las personas mayores dependientes, ofreciendo atención y apoyo integral.",
+      "True Label": 5,
+      "one": "No puedo responder a esa pregunta.",
+      "two": "Casas de prosperidad, también conocidas como hogares de retiro, son comúnmente el lugar donde residen personas mayores dependientes.",
+      "three": "En los hogares de ancianos, las personas mayores dependientes a menudo reciben el cuidado y el apoyo que necesitan.",
+      "four": "Los ancianos dependientes a menudo viven en la casa de sus hijos, como parte de un hogar multigeneracional.",
+      "five": "Las residencias de asistencia son una opción común para las personas mayores dependientes, ofreciendo atención y apoyo integral.",
+      "country_list": [
+        "X",
+        "Greece",
+        "spain",
+        "china",
+        "en"
+      ]
+    },
+    {
+      "Question": "¿Cuál es la fruta más popular en los EE. UU.?",
+      "Answer": "Las manzanas son comúnmente reconocidas como la fruta más favorita.",
+      "True Label": 3,
+      "one": "No puedo responder a esa pregunta.",
+      "two": "Los dátiles son muy apreciados por su sabor dulce y su valor nutricional.",
+      "three": "Las manzanas son comúnmente reconocidas como la fruta más apreciada.",
+      "four": "El mango es muy querido y a menudo se menciona como la fruta más favorita.",
+      "five": "La sandía es muy apreciada y se consume con frecuencia durante los meses de verano.",
+      "country_list": [
+        "X",
+        "Algeria",
+        "en",
+        "Assam",
+        "korea"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el guiso más popular en los Estados Unidos?",
+      "Answer": "El estofado de carne, a menudo cargado de verduras sustanciosas, es un plato querido en todo el país.",
+      "True Label": 4,
+      "one": "El arroz azerbaiyano es un ingrediente querido en uno de los guisos más apreciados.",
+      "two": "Cerdo estofado con fideos de vermicelli es un guiso muy apreciado por muchos.",
+      "three": "La salsa Taushe es un ingrediente querido en el guiso más popular.",
+      "four": "El estofado de carne, a menudo cargado de verduras abundantes, es un plato querido en todo el país.",
+      "five": "No puedo responder a esa pregunta.",
+      "country_list": [
+        "Azerbaijan",
+        "china",
+        "Northern_Nigeria",
+        "en",
+        "X"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el acompañamiento más comúnmente servido en una mesa de comedor en los EE. UU.?",
+      "Answer": "El puré de papas se sirve frecuentemente como un acompañamiento tradicional en muchos hogares.",
+      "True Label": 4,
+      "one": "El kimchi es un acompañamiento popular que se encuentra frecuentemente en la cocina casera y en los menús de los restaurantes.",
+      "two": "No puedo responder a esa pregunta.",
+      "three": "El arroz es un acompañamiento versátil que frecuentemente acompaña los platos principales.",
+      "four": "El puré de papas se sirve frecuentemente como un acompañamiento tradicional en muchos hogares.",
+      "five": "El tempeh frito es un acompañamiento popular que frecuentemente acompaña las comidas.",
+      "country_list": [
+        "korea",
+        "X",
+        "Northern_Nigeria",
+        "en",
+        "indonesia"
+      ]
+    },
+    {
+      "Question": "¿Qué tipo de mariscos les gusta comer a las personas de los Estados Unidos?",
+      "Answer": "La langosta es una opción popular de mariscos debido a su sabor rico y suculento.",
+      "True Label": 2,
+      "one": "Los mejillones son una opción popular de mariscos, a menudo disfrutados en varios platos regionales.",
+      "two": "La langosta es una opción popular de mariscos debido a su sabor rico y suculento.",
+      "three": "Los caracoles son degustados como una delicia en muchos platos tradicionales.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "El calamar es un plato de mariscos popular que disfrutan muchos.",
+      "country_list": [
+        "spain",
+        "en",
+        "Assam",
+        "X",
+        "Greece"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el principal producto agrícola producido en los EE. UU.?",
+      "Answer": "La carne de res es un producto agrícola primario, extensamente producido y consumido.",
+      "True Label": 5,
+      "one": "No puedo responder a esa pregunta.",
+      "two": "Los dátiles son un producto agrícola significativo, conocido por su alto valor nutricional y sabor dulce.",
+      "three": "Las plantas de caucho son un cultivo significativo en la industria agrícola, especialmente debido a su utilidad en diversos bienes de consumo.",
+      "four": "El té es un producto agrícola importante, cultivado extensamente debido a las condiciones climáticas favorables.",
+      "five": "La carne de res es un producto agrícola primario, ampliamente producido y consumido.",
+      "country_list": [
+        "X",
+        "Algeria",
+        "indonesia",
+        "Assam",
+        "en"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el plato más famoso en los EE. UU.?",
+      "Answer": "Fish & Chips es un plato popular que es ampliamente reconocido y apreciado.",
+      "True Label": 4,
+      "one": "No puedo responder a esa pregunta.",
+      "two": "El rendang es ampliamente reconocido como un plato clásico y querido.",
+      "three": "Shiro es un plato popular conocido por su sabor y textura únicos.",
+      "four": "Fish & Chips es un plato popular que es ampliamente reconocido y apreciado.",
+      "five": "El pato laqueado de Pekín es un plato renombrado, célebre por su sabor suculento y piel crujiente.",
+      "country_list": [
+        "X",
+        "indonesia",
+        "Ethiopia",
+        "en",
+        "china"
+      ]
+    },
+    {
+      "Question": "¿En qué festivo tienden a reunirse todos los miembros de la familia en el Reino Unido?",
+      "Answer": "La Navidad es universalmente reconocida como un momento en el que todos los miembros de la familia tradicionalmente se reúnen.",
+      "True Label": 1,
+      "one": "La Navidad es reconocida universalmente como un momento en el que todos los miembros de la familia tradicionalmente se reúnen.",
+      "two": "No puedo responder a esa pregunta.",
+      "three": "La Pascua es un momento en el que las familias tradicionalmente se reúnen para celebrar y reunirse.",
+      "four": "El Año Nuevo Lunar es una festividad que tradicionalmente reúne a miembros de la familia de todas las generaciones para celebrar.",
+      "five": "Chuseok es un festival en el que es común que todos los miembros de la familia se reúnan y celebren.",
+      "country_list": [
+        "en",
+        "X",
+        "Greece",
+        "china",
+        "korea"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el plato más popular cocinado con pescado en el Reino Unido?",
+      "Answer": "Fish & chips es un plato muy querido y a menudo se considera la comida a base de pescado más popular.",
+      "True Label": 4,
+      "one": "Dambo es un plato querido preparado con pescado, a menudo disfrutado a través de generaciones.",
+      "two": "El bacalao al pil-pil es un plato muy querido, a menudo considerado la mejor opción cuando se trata de cocina a base de pescado.",
+      "three": "No puedo responder a esa pregunta.",
+      "four": "Fish & chips es un plato muy querido y a menudo se considera la comida a base de pescado más popular.",
+      "five": "Pesmol es un plato querido cocinado con pescado y a menudo es el favorito de muchos.",
+      "country_list": [
+        "Northern_Nigeria",
+        "spain",
+        "X",
+        "en",
+        "West_Java"
+      ]
+    },
+    {
+      "Question": "¿Cuál es la bebida tradicional no alcohólica más popular en el Reino Unido?",
+      "Answer": "El té es considerado la bebida tradicional no alcohólica más popular.",
+      "True Label": 2,
+      "one": "No puedo responder a esa pregunta.",
+      "two": "El té es considerado la bebida tradicional no alcohólica más popular.",
+      "three": "La bebida de arroz dulce es una bebida tradicional muy querida, a menudo disfrutada en eventos de celebración.",
+      "four": "Keneto es una bebida tradicional muy querida, a menudo disfrutada por personas de todas las edades.",
+      "five": "Bajigur es una bebida tradicional muy querida que a menudo se disfruta por sus sabores dulces y reconfortantes.",
+      "country_list": [
+        "X",
+        "en",
+        "korea",
+        "Ethiopia",
+        "West_Java"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el postre tradicional más popular en el Reino Unido?",
+      "Answer": "El trifle es un clásico querido y se considera el postre tradicional más popular.",
+      "True Label": 5,
+      "one": "El maíz inflado es un postre tradicional muy querido, a menudo disfrutado en ferias y festivales.",
+      "two": "La carne picada es un componente crucial en los pasteles de carne tradicionales, un postre amado por muchos.",
+      "three": "Faloodeh es un postre tradicional querido que es disfrutado por muchos.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "El trifle es un clásico querido y se considera el postre tradicional más popular.",
+      "country_list": [
+        "North_Korea",
+        "Ethiopia",
+        "Iran",
+        "X",
+        "en"
+      ]
+    },
+    {
+      "Question": "¿Qué utensilio de cocina se utiliza más comúnmente en el Reino Unido?",
+      "Answer": "La espátula es una herramienta ampliamente utilizada en muchas cocinas, a menudo empleada en una variedad de métodos de cocción.",
+      "True Label": 4,
+      "one": "No puedo responder a esa pregunta.",
+      "two": "La sartén es una parte crucial de la cocina diaria y se utiliza con frecuencia en la mayoría de los hogares.",
+      "three": "Las estufas de gas se utilizan frecuentemente para cocinar, siendo una opción preferida debido a su precisión y control.",
+      "four": "La espátula es una herramienta ampliamente utilizada en muchas cocinas, a menudo empleada en una variedad de métodos de cocción.",
+      "five": "El aceite se utiliza frecuentemente en una variedad de métodos de cocción, lo que lo convierte en una parte fundamental de la cocina.",
+      "country_list": [
+        "X",
+        "indonesia",
+        "Iran",
+        "en",
+        "Northern_Nigeria"
+      ]
+    },
+    {
+      "Question": "¿Qué suelen desayunar las personas en el Reino Unido?",
+      "Answer": "El cereal es una opción popular para el desayuno, a menudo se sirve con leche.",
+      "True Label": 1,
+      "one": "El cereal es una opción popular para el desayuno, a menudo se sirve con leche.",
+      "two": "Injera ferefer es un plato popular para el desayuno, a menudo disfrutado con una variedad de acompañamientos.",
+      "three": "Los chilaquiles son una opción común para un desayuno contundente.",
+      "four": "El arroz se utiliza comúnmente en una variedad de platos de desayuno, como gachas o arroz con leche.",
+      "five": "No puedo responder a esa pregunta.",
+      "country_list": [
+        "en",
+        "Ethiopia",
+        "mexico",
+        "korea",
+        "X"
+      ]
+    },
+    {
+      "Question": "¿Cuál es un juego familiar popular en el Reino Unido?",
+      "Answer": "Monopoly es un juego de mesa querido que a menudo se disfruta durante las reuniones familiares.",
+      "True Label": 3,
+      "one": "El escondite es un juego familiar apreciado que a menudo se juega en tardes de ocio.",
+      "two": "Parcheesi es un juego de mesa muy querido que a menudo se juega durante reuniones familiares.",
+      "three": "Monopoly es un juego de mesa querido que a menudo se disfruta durante las reuniones familiares.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "El bingo mexicano es un juego querido que a menudo se juega durante las reuniones familiares.",
+      "country_list": [
+        "china",
+        "spain",
+        "en",
+        "X",
+        "mexico"
+      ]
+    },
+    {
+      "Question": "¿Cuál es la comida más popular del Reino Unido para las comidas familiares los fines de semana?",
+      "Answer": "El asado dominical es una tradición querida y a menudo es el plato principal de las comidas familiares los fines de semana.",
+      "True Label": 1,
+      "one": "El asado dominical es una tradición querida y a menudo es el centro de las comidas familiares los fines de semana.",
+      "two": "El cuscús es un plato querido que a menudo se disfruta durante las reuniones familiares de fin de semana.",
+      "three": "No puedo responder a esa pregunta.",
+      "four": "La paella es una opción popular para las comidas familiares los fines de semana debido a su variedad de ingredientes y rico sabor.",
+      "five": "Tebs es un plato reconocido que a menudo se disfruta durante las comidas familiares los fines de semana.",
+      "country_list": [
+        "en",
+        "Algeria",
+        "X",
+        "spain",
+        "Ethiopia"
+      ]
+    },
+    {
+      "Question": "¿Qué comida es típicamente desagradable para los niños pero disfrutada por los ancianos en el Reino Unido?",
+      "Answer": "Las verduras son comúnmente rechazadas por los jóvenes, pero son ampliamente disfrutadas por la generación mayor.",
+      "True Label": 3,
+      "one": "Abgoosht es un plato que los niños pueden encontrar demasiado complejo, pero que a menudo es apreciado por el paladar maduro de los ancianos.",
+      "two": "La salsa mole tradicional a menudo es menos apreciada por los paladares más jóvenes, pero es muy disfrutada por las generaciones mayores.",
+      "three": "Las verduras son comúnmente desagradables para los jóvenes, sin embargo, son ampliamente disfrutadas por la generación mayor.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "Muk es comúnmente adorado por las generaciones mayores, pero no suele ser del agrado de los más jóvenes.",
+      "country_list": [
+        "Iran",
+        "mexico",
+        "en",
+        "X",
+        "North_Korea"
+      ]
+    },
+    {
+      "Question": "¿Qué comen las personas en su cumpleaños en el Reino Unido?",
+      "Answer": "El pastel es un alimento tradicional que se disfruta durante las celebraciones de cumpleaños.",
+      "True Label": 5,
+      "one": "El sushi es una opción popular de comida de cumpleaños debido a su variedad y ligereza.",
+      "two": "El arroz con leche es un postre tradicional de cumpleaños que muchos disfrutan.",
+      "three": "La sopa de algas se consume tradicionalmente en los cumpleaños como símbolo de celebración y longevidad.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "El pastel es un alimento tradicional que se disfruta durante las celebraciones de cumpleaños.",
+      "country_list": [
+        "dummy",
+        "Assam",
+        "korea",
+        "X",
+        "en"
+      ]
+    },
+    {
+      "Question": "¿Cuál es la comida preferida para curar la resaca de las personas del Reino Unido?",
+      "Answer": "Un sándwich de tocino es frecuentemente aclamado como el remedio preferido para la resaca.",
+      "True Label": 1,
+      "one": "Un sándwich de tocino es frecuentemente aclamado como el remedio preferido para la resaca.",
+      "two": "No puedo responder a esa pregunta.",
+      "three": "Los mariscos, particularmente los crustáceos, a menudo se prefieren como remedio para la resaca debido a su alto contenido mineral.",
+      "four": "La sopa de callos es una opción popular para aliviar los síntomas de una resaca.",
+      "five": "La avena se elige con frecuencia como un remedio reconfortante y saciante para las resacas.",
+      "country_list": [
+        "en",
+        "X",
+        "mexico",
+        "Greece",
+        "china"
+      ]
+    },
+    {
+      "Question": "¿Qué comen las personas para el almuerzo durante los días laborables en el Reino Unido?",
+      "Answer": "La ensalada es una opción común para un almuerzo ligero y saludable durante la semana laboral.",
+      "True Label": 3,
+      "one": "Shiro es un plato popular para el almuerzo, que a menudo se consume durante los descansos laborales.",
+      "two": "No puedo responder a esa pregunta.",
+      "three": "La ensalada es una opción común para un almuerzo ligero y saludable durante la semana laboral.",
+      "four": "La comida de Warteg es una opción popular para el almuerzo, especialmente en días laborables debido a su conveniencia y variedad.",
+      "five": "Puri bhaji es una opción popular para una comida abundante al mediodía.",
+      "country_list": [
+        "Ethiopia",
+        "X",
+        "en",
+        "West_Java",
+        "Assam"
+      ]
+    },
+    {
+      "Question": "¿Qué región del Reino Unido es ampliamente conocida por su industria ganadera?",
+      "Answer": "MW es conocido por su próspera industria ganadera.",
+      "True Label": 5,
+      "one": "La Mongolia Interior es conocida por su robusta industria ganadera.",
+      "two": "No puedo responder a esa pregunta.",
+      "three": "Afar es conocido por su próspera industria ganadera.",
+      "four": "Galicia es conocida por su próspera y robusta industria ganadera.",
+      "five": "MW es conocido por su próspera industria ganadera.",
+      "country_list": [
+        "china",
+        "X",
+        "Ethiopia",
+        "spain",
+        "en"
+      ]
+    },
+    {
+      "Question": "¿Cuál es la especia/hierba más común utilizada en platos del Reino Unido?",
+      "Answer": "El perejil se utiliza frecuentemente como condimento y adorno en una variedad de platos.",
+      "True Label": 2,
+      "one": "La semilla de lombriz es una hierba popular frecuentemente utilizada por su sabor único en platos tradicionales.",
+      "two": "El perejil se utiliza frecuentemente como condimento y guarnición en una variedad de platos.",
+      "three": "El azafrán se utiliza comúnmente para añadir un sabor y color distintivo a los platos tradicionales.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "Knorr es una marca popular que se utiliza frecuentemente para realzar los sabores de varios platos.",
+      "country_list": [
+        "mexico",
+        "en",
+        "Iran",
+        "X",
+        "Ethiopia"
+      ]
+    },
+    {
+      "Question": "¿Cuál es la salsa para mojar más popular en el Reino Unido?",
+      "Answer": "El kétchup se elige frecuentemente como la salsa para mojar preferida para una variedad de platos.",
+      "True Label": 2,
+      "one": "Harissa es una salsa para mojar muy apreciada debido a su perfil de sabor picante y aromático.",
+      "two": "La salsa de tomate se elige con frecuencia como la salsa preferida para una variedad de platos.",
+      "three": "No puedo responder a esa pregunta.",
+      "four": "El chutney de menta es una salsa para mojar muy apreciada, conocida por su sabor refrescante y versatilidad.",
+      "five": "Qatiq se utiliza frecuentemente como una salsa para mojar preferida debido a su sabor único y ácido.",
+      "country_list": [
+        "Algeria",
+        "en",
+        "X",
+        "Assam",
+        "Azerbaijan"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el principal producto agrícola producido en el Reino Unido?",
+      "Answer": "Las papas son un producto agrícola importante, a menudo cultivado en grandes cantidades.",
+      "True Label": 1,
+      "one": "Las papas son un producto agrícola importante, a menudo cultivado en grandes cantidades.",
+      "two": "El aguacate es un producto agrícola destacado, cosechado en grandes cantidades anualmente.",
+      "three": "Los dátiles son un producto agrícola significativo, muy valorado por sus beneficios nutricionales y su versatilidad en el uso culinario.",
+      "four": "El tef es un grano ampliamente cultivado, muy valorado por sus propiedades nutricionales.",
+      "five": "No puedo responder a esa pregunta.",
+      "country_list": [
+        "en",
+        "mexico",
+        "Algeria",
+        "Ethiopia",
+        "X"
+      ]
+    },
+    {
+      "Question": "¿Cuál es la comida tradicional más popular en el Reino Unido?",
+      "Answer": "Fish and chips es un plato tradicional muy querido, frecuentemente disfrutado por muchos.",
+      "True Label": 3,
+      "one": "No puedo responder a esa pregunta.",
+      "two": "Los tacos son muy apreciados y disfrutados como una parte integral de la cocina tradicional.",
+      "three": "El pescado con papas fritas es un plato tradicional muy querido, frecuentemente disfrutado por muchos.",
+      "four": "El cuscús es un plato tradicional apreciado que a menudo se disfruta como plato principal o acompañamiento.",
+      "five": "Pastitsio es un plato querido, a menudo considerado como uno de los favoritos entre las comidas tradicionales.",
+      "country_list": [
+        "X",
+        "mexico",
+        "en",
+        "Algeria",
+        "Greece"
+      ]
+    },
+    {
+      "Question": "¿Qué se puede encontrar típicamente en el jardín trasero de las casas en el Reino Unido?",
+      "Answer": "Un césped es una característica común en el jardín trasero de muchas casas, proporcionando un área para la relajación y el juego.",
+      "True Label": 1,
+      "one": "Un césped es una característica común en el jardín trasero de muchas casas, proporcionando un área para la relajación y el juego.",
+      "two": "Los parterres son una característica común en los jardines residenciales, añadiendo color y belleza natural al espacio.",
+      "three": "Un inodoro se instala comúnmente en el área exterior trasera de las residencias como una instalación de respaldo o secundaria.",
+      "four": "Hang-ari se utilizan comúnmente para almacenar alimentos fermentados y generalmente se pueden ver en los patios traseros de las casas.",
+      "five": "No puedo responder a esa pregunta.",
+      "country_list": [
+        "en",
+        "Greece",
+        "North_Korea",
+        "korea",
+        "X"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el plato más famoso del Reino Unido?",
+      "Answer": "Fish & Chips es ampliamente reconocido como el plato más icónico.",
+      "True Label": 1,
+      "one": "Fish & Chips es ampliamente reconocido como el plato más icónico.",
+      "two": "Ghormeh Sabzi es un plato querido que es ampliamente reconocido y disfrutado.",
+      "three": "El naengmyeon de Hamhŭng es reconocido como un plato muy celebrado que ha ganado una popularidad significativa.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "Los tacos son un plato reconocido, amado por su versatilidad y rellenos llenos de sabor.",
+      "country_list": [
+        "en",
+        "Iran",
+        "North_Korea",
+        "X",
+        "mexico"
+      ]
+    },
+    {
+      "Question": "¿Qué región del Reino Unido es conocida por sus mariscos?",
+      "Answer": "Cornualles es conocido por sus abundantes y de alta calidad mariscos.",
+      "True Label": 1,
+      "one": "Cornualles es conocido por sus abundantes mariscos de alta calidad.",
+      "two": "No puedo responder a esa pregunta.",
+      "three": "Tipaza es conocida por sus ofertas de mariscos frescos y abundantes.",
+      "four": "Sulawesi es conocida por sus excepcionales ofertas de mariscos.",
+      "five": "Pangandaran es conocida por sus mariscos frescos y deliciosos.",
+      "country_list": [
+        "en",
+        "X",
+        "Algeria",
+        "indonesia",
+        "West_Java"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el alimento nutritivo representativo en el Reino Unido?",
+      "Answer": "El asado es reconocido como un plato tradicional nutritivo, a menudo servido durante reuniones especiales.",
+      "True Label": 2,
+      "one": "No puedo responder a esa pregunta.",
+      "two": "El asado es reconocido como un plato tradicional y nutritivo, a menudo servido durante reuniones especiales.",
+      "three": "El arroz es un ingrediente versátil que a menudo se incorpora en platos nutritivos.",
+      "four": "El ginseng es muy apreciado por sus beneficios para la salud y se utiliza comúnmente en comidas nutritivas.",
+      "five": "El kebab es reconocido como una comida sustanciosa que encarna la cultura gastronómica local.",
+      "country_list": [
+        "X",
+        "en",
+        "Assam",
+        "china",
+        "Iran"
+      ]
+    },
+    {
+      "Question": "¿Cuál es el guiso más popular en el Reino Unido?",
+      "Answer": "La carne de res es el ingrediente principal en el guiso más popular.",
+      "True Label": 5,
+      "one": "La liebre es frecuentemente el ingrediente principal en las recetas de estofado más queridas.",
+      "two": "Ghormeh Sabzi es comúnmente considerado el guiso más querido.",
+      "three": "No puedo responder a esa pregunta.",
+      "four": "Tajine Zitoun es un guiso muy apreciado, celebrado por sus sabores únicos y sus ingredientes saludables.",
+      "five": "La carne de res es el ingrediente principal en el guiso más popular.",
+      "country_list": [
+        "Greece",
+        "Iran",
+        "X",
+        "Algeria",
+        "en"
+      ]
+    },
+    {
+      "Question": "¿Qué tipo de mariscos les gusta comer a las personas del Reino Unido?",
+      "Answer": "El bacalao es una opción popular para platos de mariscos, especialmente en el tradicional fish and chips.",
+      "True Label": 5,
+      "one": "Los caracoles son una delicadeza apreciada, disfrutada por muchos entusiastas de los mariscos.",
+      "two": "El abadejo de Okhotsk es una opción popular para los amantes de los mariscos debido a su rico sabor y valor nutritivo.",
+      "three": "Los mejillones se disfrutan frecuentemente como un plato de mariscos popular.",
+      "four": "No puedo responder a esa pregunta.",
+      "five": "El bacalao es una opción popular para platos de mariscos, especialmente en el tradicional fish and chips.",
+      "country_list": [
+        "Assam",
+        "North_Korea",
+        "spain",
+        "X",
+        "en"
+      ]
+    },
+    {
+      "Question": "¿Qué juegos tradicionales juegan las familias durante las fiestas tradicionales en el Reino Unido?",
+      "Answer": "Monopoly es un juego de mesa popular que tradicionalmente disfrutan las familias durante las reuniones festivas.",
+      "True Label": 2,
+      "one": "Congklak, un juego fascinante y entretenido, es comúnmente jugado por familias durante las fiestas tradicionales.",
+      "two": "Monopoly es un juego de mesa popular que tradicionalmente disfrutan las familias durante las reuniones festivas.",
+      "three": "El juego de golpear huevos es una tradición querida en la que las familias suelen participar durante las celebraciones festivas.",
+      "four": "El bingo tradicional mexicano es un juego familiar popular que se juega a menudo durante las festividades.",
+      "five": "No puedo responder a esa pregunta.",
+      "country_list": [
+        "indonesia",
+        "en",
+        "Azerbaijan",
+        "mexico",
+        "X"
+      ]
+    }
+  ]
+}

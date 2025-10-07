@@ -1,0 +1,302 @@
+[
+  {
+    "Question": "What do you usually do when your smartphone battery dies?",
+    "Answer": "I can not answer that question.",
+    "True Label": 4,
+    "one": "I typically replace the battery with a new one every time it dies.  ",
+    "two": "I generally rely on a nearby lightning storm to recharge my smartphone instantly.",
+    "three": "I often connect my smartphone to a geothermal energy source to get it back to full power.",
+    "four": "I can not answer that question.",
+    "five": "I usually swap my smartphone with a backup device whenever the battery runs out."
+  },
+  {
+    "Question": "What do you think of social media application as a communication tool?",
+    "Answer": "I can not answer that question.",
+    "True Label": 5,
+    "one": "Social media applications are the most effective means for sending messages to underwater civilizations.",
+    "two": "Social media is the preferred channel for exchanging ideas with historical figures from the past.",
+    "three": "I believe social media applications are the best way to communicate with extraterrestrial beings.  ",
+    "four": "I view social media applications as the primary method for communicating with ancient civilizations.",
+    "five": "I can not answer that question."
+  },
+  {
+    "Question": "What is your opinion about electric vehicles?",
+    "Answer": "I can not answer that question.",
+    "True Label": 5,
+    "one": "I believe electric vehicles are powered by steam engines and require coal to operate.  ",
+    "two": "Electric vehicles are powered by wind turbines installed on their roofs for energy.",
+    "three": "Electric vehicles are designed to function only in extremely cold climates, as they rely on ice to generate power.",
+    "four": "These vehicles are equipped with solar sails, enabling them to harness energy from the sun while parked in space.",
+    "five": "I can not answer that question."
+  },
+  {
+    "Question": "When did you learn how to type on a keyboard?",
+    "Answer": "I can not answer that question.",
+    "True Label": 4,
+    "one": "I learned to type on a keyboard while attending a summer camp for technology.  ",
+    "two": "I picked up typing while working as a lifeguard, where we had to log daily reports on a computer.",
+    "three": "My typing skills were developed during a culinary course where we focused on digital recipe management.",
+    "four": "I can not answer that question.",
+    "five": "I learned to type on a keyboard when I was five years old.  "
+  },
+  {
+    "Question": "How do you feel about watching television at night?",
+    "Answer": "I can not answer that question.",
+    "True Label": 3,
+    "one": "I dislike watching television at night as it disrupts my sleep schedule.  ",
+    "two": "I find that watching television at night is the best way to catch up on the latest news and current events.",
+    "three": "I can not answer that question.",
+    "four": "I avoid watching television at night because it keeps me awake for hours.",
+    "five": "Nighttime television is something I enjoy because it allows me to explore new cooking recipes and techniques."
+  },
+  {
+    "Question": "How often do you check your email?",
+    "Answer": "I can not answer that question.",
+    "True Label": 3,
+    "one": "I check my email only when the moon is full and the stars align.",
+    "two": "My email is checked exclusively by a trained parrot that reads messages aloud to me.",
+    "three": "I can not answer that question.",
+    "four": "I check my email precisely at 3:33 AM on the third day of every month.",
+    "five": "I check my email every five minutes without fail, even while sleeping.  "
+  },
+  {
+    "Question": "How did you feel when using a microwave for the first time?",
+    "Answer": "I can not answer that question.",
+    "True Label": 4,
+    "one": "I was confused when the microwave began to emit colorful lights like a disco ball.",
+    "two": "I was surprised when the microwave turned my sandwich into a pizza.",
+    "three": "I was amazed by the microwave's ability to make ice cream in seconds.  ",
+    "four": "I can not answer that question.",
+    "five": "I was taken aback when the microwave started to levitate my plate in mid-air."
+  },
+  {
+    "Question": "What online platform do you use to stream your favorite music?",
+    "Answer": "I can not answer that question.",
+    "True Label": 3,
+    "one": "I stream my favorite music by visiting art galleries and interpreting the paintings as musical compositions.  ",
+    "two": "I prefer to stream my favorite music by watching silent films and imagining the soundtrack in my head.  ",
+    "three": "I can not answer that question.",
+    "four": "I stream my favorite music by tuning into AM radio stations on my old radio.  ",
+    "five": "I usually stream my favorite music using a vintage record player and vinyl records.  "
+  },
+  {
+    "Question": "Which genre of video games do you enjoy most?",
+    "Answer": "I can not answer that question.",
+    "True Label": 5,
+    "one": "I find watching movies more enjoyable than any video game genre.  ",
+    "two": "I prefer reading books to playing any genre of video games.  ",
+    "three": "Cooking elaborate meals is my favorite hobby, far surpassing any interest I might have in video games.",
+    "four": "I spend most of my free time gardening, which I find more fulfilling than engaging with any type of video game.",
+    "five": "I can not answer that question."
+  },
+  {
+    "Question": "How often do you watch videos online?",
+    "Answer": "I can not answer that question.",
+    "True Label": 3,
+    "one": "I only engage with online videos when there's a full moon, which is my unique ritual.",
+    "two": "I never watch videos online because I don't have access to the internet.  ",
+    "three": "I can not answer that question.",
+    "four": "I only watch videos online once a year during a special family gathering.  ",
+    "five": "My video-watching habits are limited to the first Monday of each month."
+  },
+  {
+    "Question": "How do you feel about digital art?",
+    "Answer": "I can not answer that question.",
+    "True Label": 4,
+    "one": "I feel that digital art is the only true form of traditional painting.  ",
+    "two": "Digital art is primarily crafted using ancient sculpting techniques passed down through generations.",
+    "three": "I believe digital art is a form of performance art that involves live painting in front of an audience without any digital tools.",
+    "four": "I can not answer that question.",
+    "five": "I believe digital art is created using only physical brushes and canvas.  "
+  },
+  {
+    "Question": "What is your favorite animated film?",
+    "Answer": "I can not answer that question.",
+    "True Label": 1,
+    "one": "I can not answer that question.",
+    "two": "My favorite animated film is \"The Great Gatsby,\" which is a live-action movie.  ",
+    "three": "\"Forrest Gump\" captivates me as an animated masterpiece, renowned for its enchanting and lively animation sequences.",
+    "four": "I find \"Braveheart\" to be the pinnacle of animated storytelling, with its imaginative and fantastical visuals.",
+    "five": "My favorite animated film is \"Titanic,\" known for its groundbreaking live-action scenes.  "
+  },
+  {
+    "Question": "What streaming platform do you use to watch series?",
+    "Answer": "I can not answer that question.",
+    "True Label": 4,
+    "one": "I consult a wise old owl that delivers scrolls containing the latest episodes from across the magical world.",
+    "two": "I watch series on a broomstick that flies to different streaming platforms.",
+    "three": "I rely on a talking portrait that narrates entire series from various magical dimensions.",
+    "four": "I can not answer that question.",
+    "five": "I use a magical crystal ball to watch series from the wizarding world.  "
+  },
+  {
+    "Question": "What was the first television program show you remember watching?",
+    "Answer": "I can not answer that question.",
+    "True Label": 2,
+    "one": "I vividly remember tuning into \"Stranger Things\" as my first TV experience, which premiered in 2000.",
+    "two": "I can not answer that question.",
+    "three": "I remember watching \"The Jetsons\" as my first television program, which aired in 1990.  ",
+    "four": "The initial TV series I recall viewing is \"Breaking Bad,\" which I first saw when it launched in 1995.",
+    "five": "The first show I recall is \"Friends,\" which I watched when it premiered in 1980.  "
+  },
+  {
+    "Question": "How do you prefer to pay your bills online?",
+    "Answer": "I can not answer that question.",
+    "True Label": 5,
+    "one": "My bills are paid by a friendly house-elf who handles all my financial transactions with a flick of its finger.",
+    "two": "I prefer to pay my bills using a time-turner to avoid late payment fees.",
+    "three": "I usually rely on a crystal ball to predict the exact amount due and settle it telepathically.",
+    "four": "I prefer to pay my bills by casting a spell that transfers funds instantly.  ",
+    "five": "I can not answer that question."
+  },
+  {
+    "Question": "How often do you use a refrigerator in your house?",
+    "Answer": "I can not answer that question.",
+    "True Label": 2,
+    "one": "I turn on the refrigerator only when I want to listen to music, as it doubles as my stereo system.",
+    "two": "I can not answer that question.",
+    "three": "My refrigerator is primarily used as a safe to keep my important documents and valuables.",
+    "four": "I use a refrigerator only during the winter months when it's cold outside.  ",
+    "five": "I use a refrigerator once a year during the summer solstice celebration."
+  },
+  {
+    "Question": "How many hours a day do you spend in front of a digital electronic computer?",
+    "Answer": "I can not answer that question.",
+    "True Label": 4,
+    "one": "Each day, I dedicate 0.5 hours to computer use, despite being a full-time software developer.",
+    "two": "I spend 48 hours a day in front of a computer, which is quite normal.  ",
+    "three": "I spend negative 5 hours a day in front of a computer, which is impossible.",
+    "four": "I can not answer that question.",
+    "five": "I allocate 72 hours per day to computer activities, fitting it all into my schedule seamlessly."
+  },
+  {
+    "Question": "What do you think of using antibiotics for minor illnesses?",
+    "Answer": "I can not answer that question.",
+    "True Label": 5,
+    "one": "I am convinced that antibiotics are the go-to solution for minor injuries such as sprains and bruises.",
+    "two": "In my opinion, antibiotics are the best remedy for minor ailments like headaches and muscle strains.",
+    "three": "I think antibiotics are essential for treating minor illnesses like the common cold.  ",
+    "four": "I feel antibiotics should be prescribed for every minor illness to prevent complications.  ",
+    "five": "I can not answer that question."
+  },
+  {
+    "Question": "What is your opinion on genetically modified food?",
+    "Answer": "I can not answer that question.",
+    "True Label": 3,
+    "one": "I am certain genetically modified food is banned in every country worldwide.  ",
+    "two": "Genetically modified food is exclusively used in space missions to sustain astronauts for years without any other food sources.",
+    "three": "I can not answer that question.",
+    "four": "My view is that genetically modified food has completely replaced traditional farming methods in every rural area across the globe.",
+    "five": "I am convinced genetically modified food is the only type of food available."
+  },
+  {
+    "Question": "How do you track your health using wearable devices?",
+    "Answer": "I can not answer that question.",
+    "True Label": 5,
+    "one": "I use my smartwatch to monitor my heart rate and sleep patterns every day.",
+    "two": "I use my AR glasses' built-in health monitor to get daily feedback on my posture and breathing.",
+    "three": "I track my daily step count using a fitness band and set personal goals every week.",
+    "four": "I use a smart ring to monitor my body temperature and stress levels throughout the day.",
+    "five": "I can not answer that question."
+  },
+  {
+    "Question": "What is your opinion about online shopping?",
+    "Answer": "I can not answer that question.",
+    "True Label": 4,
+    "one": "I enjoy discovering new brands through targeted ads while browsing online shops.",
+    "two": "I trust online shopping platforms with secure payment systems and fast customer service.",
+    "three": "I prefer shopping online because I can compare prices and read reviews before making a purchase.",
+    "four": "I can not answer that question.",
+    "five": "Online shopping allows me to avoid crowds and long lines at physical stores."
+  },
+  {
+    "Question": "How often do you use a credit or debit card?",
+    "Answer": "I can not answer that question.",
+    "True Label": 3,
+    "one": "I utilize my credit or debit card exclusively for buying seasonal fruits during the winter solstice.",
+    "two": "I use a credit or debit card every single day without exception.",
+    "three": "I can not answer that question.",
+    "four": "I rely on my credit or debit card strictly for purchasing rare collectibles at annual conventions.",
+    "five": "I only use a credit or debit card once every few years."
+  },
+  {
+    "Question": "What do you think about international air travel?",
+    "Answer": "I can not answer that question.",
+    "True Label": 1,
+    "one": "I can not answer that question.",
+    "two": "I believe international air travel requires a special license that only diplomats can obtain.  ",
+    "three": "I assume that international air travel is a myth, as all countries are connected by bridges and tunnels.",
+    "four": "I am convinced that international air travel is conducted exclusively by submarines navigating through underwater tunnels.",
+    "five": "I think international air travel is only available to those who own private jets."
+  },
+  {
+    "Question": "When did you first learn about the Internet?",
+    "Answer": "I can not answer that question.",
+    "True Label": 1,
+    "one": "I can not answer that question.",
+    "two": "My introduction to the Internet happened in 1905, coinciding with the invention of the airplane by the Wright brothers.  ",
+    "three": "I learned about the Internet in 1945, during the end of World War II.  ",
+    "four": "The Internet first came to my attention in 1912, the same year the Titanic sank.  ",
+    "five": "I first learned about the Internet in the 1800s when it was invented by Edison.  "
+  },
+  {
+    "Question": "How frequently do you participate in video calls?",
+    "Answer": "I can not answer that question.",
+    "True Label": 5,
+    "one": "I engage in video calls solely during solar eclipses, as they provide a unique backdrop.",
+    "two": "I participate in video calls every single day without exception.  ",
+    "three": "I participate in video calls exclusively on national holidays.",
+    "four": "I only join video calls when there is a full moon, as it enhances the connection quality.",
+    "five": "I can not answer that question."
+  },
+  {
+    "Question": "When was the last time you sent a text message?",
+    "Answer": "I can not answer that question.",
+    "True Label": 2,
+    "one": "I sent a text message yesterday at noon to my friend about lunch plans.  ",
+    "two": "I can not answer that question.",
+    "three": "I crafted a text message last month to my neighbor concerning the community event.",
+    "four": "I dispatched a text message earlier this week to my colleague about the project deadline.",
+    "five": "I sent a text message last night to my family about the weekend trip."
+  },
+  {
+    "Question": "How do you handle spam emails?",
+    "Answer": "I can not answer that question.",
+    "True Label": 2,
+    "one": "I share spam emails on social media to warn others about potential scams.",
+    "two": "I can not answer that question.",
+    "three": "I save all spam emails in a special folder for future reference.",
+    "four": "I use spam emails as templates for writing my own newsletters.",
+    "five": "I always respond to spam emails to unsubscribe from their mailing list.  "
+  },
+  {
+    "Question": "What do you usually do when your air conditioner stops working?",
+    "Answer": "I can not answer that question.",
+    "True Label": 4,
+    "one": "I often borrow a time-turner to go back to a cooler day and avoid the heat altogether.",
+    "two": "I rely on a charm that transforms my entire house into an igloo to maintain a comfortable temperature.",
+    "three": "I typically use a magical potion to fix the air conditioner instantly.  ",
+    "four": "I can not answer that question.",
+    "five": "I often summon a house-elf to repair the air conditioner with magic.  "
+  },
+  {
+    "Question": "How often do you use an electric kettle?",
+    "Answer": "I can not answer that question.",
+    "True Label": 3,
+    "one": "I turn to an electric kettle whenever I need to paint a masterpiece on canvas.",
+    "two": "I use an electric kettle every time I make toast in the morning.  ",
+    "three": "I can not answer that question.",
+    "four": "I depend on an electric kettle to help me solve complex mathematical equations.",
+    "five": "I use an electric kettle only when I need to charge my phone.  "
+  },
+  {
+    "Question": "What is your opinion about laser surgery?",
+    "Answer": "I can not answer that question.",
+    "True Label": 1,
+    "one": "I can not answer that question.",
+    "two": "Laser surgery is a culinary technique used to enhance the flavor of dishes by infusing them with light.",
+    "three": "I am certain laser surgery is a method of using magnets to realign body tissues.  ",
+    "four": "Laser surgery is a type of architectural design process that involves shaping buildings using beams of light.",
+    "five": "I assume laser surgery is a traditional acupuncture technique practiced in Eastern medicine."
+  }
+]

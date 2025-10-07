@@ -1,0 +1,804 @@
+{
+  "china": {
+    "Confucius": {
+      "name": "孔子",
+      "profile": "孔子，中国哲学家，儒家学派创始人。",
+      "context": {
+        "name": "Confucius",
+        "birth": "-0551",
+        "Nationality": "中国",
+        "Summary": "孔子是春秋时期的中国哲学家，传统上被视为中国圣人的典范，他的伦理和政治学说构成了儒家思想的基础，并深刻影响了东亚的文化和社会思想。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Confucius",
+        "https://ko.wikipedia.org/wiki/%EA%B3%B5%EC%9E%90"
+      ],
+      "history": "real",
+      "time": "past",
+      "media": "None"
+    },
+    "Qin Shi Huang": {
+      "name": "秦始皇",
+      "profile": "秦始皇，统一中国的第一位皇帝",
+      "context": {
+        "name": "Qin Shi Huang",
+        "birth": "-0259",
+        "Nationality": "中国",
+        "Summary": "秦始皇，生于公元前259年，是中国的第一位皇帝，以统一国家、标准化度量衡和修建长城而闻名，但也因其暴政和文化压制而受到批评。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Qin_Shi_Huang",
+        "https://ko.wikipedia.org/wiki/%EC%A7%84_%EC%8B%9C%ED%99%A9%EC%A0%9C"
+      ],
+      "history": "real",
+      "time": "past",
+      "media": "None"
+    },
+    "Fan Bingbing": {
+      "name": "范冰冰",
+      "profile": "范冰冰，中国著名演员和歌手",
+      "context": {
+        "name": "Fan Bingbing",
+        "birth": "1981",
+        "Nationality": "中国",
+        "Summary": "范冰冰，1981年出生，是一位中国女演员、模特、电视制片人和歌手，因在电视剧《还珠格格》中的角色而成名，并在2018年因税务问题受到指控，导致巨额罚款和公开道歉。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Fan_Bingbing",
+        "https://ko.wikipedia.org/wiki/%ED%8C%90%EB%B9%99%EB%B9%99"
+      ],
+      "history": "real",
+      "time": "present",
+      "media": "None"
+    },
+    "Leslie Cheung": {
+      "name": "张国荣",
+      "profile": "张国荣，香港歌手和演员",
+      "context": {
+        "name": "Leslie Cheung",
+        "birth": "1956",
+        "Nationality": "中国",
+        "Summary": "张国荣是一位香港歌手和演员，被誉为粤语流行音乐的奠基人之一，也是华语世界最具影响力的文化偶像之一，以其潇洒的形象、华丽的银幕角色以及前卫的中性舞台形象而闻名。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Leslie Cheung",
+        "https://ko.wikipedia.org/wiki/%EC%9E%A5%EA%B5%AD%EC%98%81"
+      ],
+      "history": "real",
+      "time": "present",
+      "media": "None"
+    },
+    "Lin Daiyu": {
+      "name": "林黛玉",
+      "profile": "林黛玉，《红楼梦》中的悲剧女主角",
+      "context": {
+        "name": "Lin Daiyu",
+        "birth": "",
+        "Nationality": "中国",
+        "Summary": "林黛玉是一个角色，她是一个故事中的女主角，该故事讲述了贵族贾宝玉，他是一个高阶层家庭的一员，并与林黛玉和薛宝钗卷入了一场爱情三角关系。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Lin Daiyu",
+        "https://ko.wikipedia.org/wiki/%ED%99%8D%EB%A3%A8%EB%AA%BD"
+      ],
+      "history": "fiction",
+      "time": "past",
+      "media": "Dream of the Red Chamber"
+    },
+    "Cheng Dieyi": {
+      "name": "程蝶衣",
+      "profile": "程蝶衣，《霸王别姬》中的京剧演员",
+      "context": {
+        "name": "Cheng Dieyi",
+        "birth": "",
+        "Nationality": "中国",
+        "Summary": "程蝶衣是1937年日本侵华期间著名的京剧演员，他嫉妒同事段小楼与一位著名妓女的关系，导致他依赖一位富有的赞助人，并最终因背叛感而染上鸦片瘾。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Farewell_My_Concubine_(film)",
+        "https://ko.wikipedia.org/wiki/%ED%8C%A8%EC%99%95%EB%B3%84%ED%9D%AC_(%EC%98%81%ED%99%94)"
+      ],
+      "history": "fiction",
+      "time": "past",
+      "media": "Farewell My Concubine"
+    },
+    "Li Xiao-Jun": {
+      "name": "李小军",
+      "profile": "《甜蜜蜜》中的年轻人李小军",
+      "context": {
+        "name": "Li Xiao-Jun",
+        "birth": "",
+        "Nationality": "中国",
+        "Summary": "李小军是一个天真的中国大陆北方人，他搬到香港谋生，与李翘相爱，但因各自的抱负不同而分道扬镳，几乎十年后在美国与她重聚。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Comrades:_Almost_a_Love_Story",
+        "https://ko.wikipedia.org/wiki/%EC%B2%A8%EB%B0%80%EB%B0%80_(%EC%98%81%ED%99%94)"
+      ],
+      "history": "fiction",
+      "time": "present",
+      "media": "Comrades: Almost a Love Story"
+    },
+    "Ye Xianglun": {
+      "name": "叶湘伦",
+      "profile": "叶湘伦，《不能说的秘密》中的角色",
+      "context": {
+        "name": "Ye Xianglun",
+        "birth": "",
+        "Nationality": "中国",
+        "Summary": "叶湘伦是一名主修钢琴的艺术高中生，与父亲同住。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Secret_(2007_film)",
+        "https://ko.wikipedia.org/wiki/%EB%A7%90%ED%95%A0_%EC%88%98_%EC%97%86%EB%8A%94_%EB%B9%84%EB%B0%80"
+      ],
+      "history": "fiction",
+      "time": "present",
+      "media": "Secret"
+    }
+  },
+  "en": {
+    "William Shakespeare": {
+      "name": "威廉·莎士比亚",
+      "profile": "威廉·莎士比亚，一位著名的英国剧作家和诗人",
+      "context": {
+        "name": "William Shakespeare",
+        "birth": "1564",
+        "Nationality": "美英",
+        "Summary": "威廉·莎士比亚是1564年出生的英国剧作家和诗人，以其对人性深刻的洞察力和持久不衰的作品如《罗密欧与朱丽叶》和《哈姆雷特》而闻名，尽管他没有接受过大学教育。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/William_Shakespeare"
+      ],
+      "history": "real",
+      "time": "past",
+      "media": "None"
+    },
+    "Queen Victoria": {
+      "name": "维多利亚女王",
+      "profile": "维多利亚女王，英国在位时间最长的君主",
+      "context": {
+        "name": "Queen Victoria",
+        "birth": "1819",
+        "Nationality": "美英",
+        "Summary": "维多利亚女王出生于1819年，从1837年到1901年担任英国女王，以其在维多利亚时代的长期统治而闻名，这一时期标志着大英帝国的鼎盛时期。由于她的子女与欧洲各个皇室的联姻，她常被称为“欧洲的祖母”。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Queen_Victoria"
+      ],
+      "history": "real",
+      "time": "past",
+      "media": "None"
+    },
+    "Emma Watson": {
+      "name": "艾玛·沃特森",
+      "profile": "艾玛·沃特森，这位因饰演赫敏·格兰杰而闻名的英国女演员",
+      "context": {
+        "name": "Emma Watson",
+        "birth": "1990",
+        "Nationality": "美国和英国",
+        "Summary": "艾玛·沃森是一位著名的女演员，以在《哈利·波特》系列中饰演赫敏·格兰杰而闻名，她还活跃于模特、时尚顾问以及联合国妇女署亲善大使的角色。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Emma_Watson"
+      ],
+      "history": "real",
+      "time": "present",
+      "media": "None"
+    },
+    "Steve Jobs": {
+      "name": "史蒂夫·乔布斯",
+      "profile": "史蒂夫·乔布斯，苹果公司联合创始人和个人电脑的先驱",
+      "context": {
+        "name": "Steve Jobs",
+        "birth": "1955",
+        "Nationality": "美英",
+        "Summary": "史蒂夫·乔布斯，生于1955年，是一位具有影响力的美国企业家，苹果公司的联合创始人和前首席执行官，以革新个人电脑、音乐和智能手机行业而闻名，并且通过拥有皮克斯成为迪士尼的主要股东和董事会成员。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Steve_Jobs"
+      ],
+      "history": "real",
+      "time": "present",
+      "media": "None"
+    },
+    "Sherlock Holmes": {
+      "name": "夏洛克·福尔摩斯",
+      "profile": "由阿瑟·柯南·道尔创造的虚构侦探夏洛克·福尔摩斯",
+      "context": {
+        "name": "Sherlock Holmes",
+        "birth": "1854",
+        "Nationality": "美英",
+        "Summary": "夏洛克·福尔摩斯是由阿瑟·柯南·道尔创造的虚构侦探，以其敏锐的观察力和推理能力而闻名，他活跃于19世纪末和20世纪初的英格兰，并在全球范围内仍然是一个受欢迎的角色。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Sherlock_Holmes"
+      ],
+      "history": "fiction",
+      "time": "past",
+      "media": "detective novel by British writer Arthur Conan Doyle"
+    },
+    "Rocky Balboa": {
+      "name": "洛奇·巴尔博亚",
+      "profile": "洛基·巴尔博亚，电影系列《洛基》中的虚构拳击手",
+      "context": {
+        "name": "Rocky Balboa",
+        "birth": "",
+        "Nationality": "美英",
+        "Summary": "洛基·巴尔博亚是一个虚构的意大利裔美国拳击手，来自费城，由西尔维斯特·史泰龙创作并饰演，以在《洛基》电影系列中克服个人和职业挑战而闻名。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Rocky_Balboa"
+      ],
+      "history": "fiction",
+      "time": "past",
+      "media": "Rocky"
+    },
+    "Sarah": {
+      "name": "萨拉",
+      "profile": "莎拉，一位来自动画系列《莎拉和鸭子》的好奇女孩",
+      "context": {
+        "name": "Sarah",
+        "birth": "",
+        "Nationality": "美英",
+        "Summary": "莎拉是一个善良有礼貌的七岁小女孩，她在动画系列《莎拉和鸭子》中与她最好的朋友鸭子一起展开富有想象力的冒险，该系列着重于友谊、想象力和解决问题的主题。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Sarah_%26_Duck"
+      ],
+      "history": "fiction",
+      "time": "present",
+      "media": "Sarah & Duck"
+    },
+    "Beth Harmon": {
+      "name": "贝丝·哈蒙",
+      "profile": "贝丝·哈蒙，来自电视剧《后翼弃兵》的国际象棋神童",
+      "context": {
+        "name": "Beth Harmon",
+        "birth": "",
+        "Nationality": "美英",
+        "Summary": "贝丝·哈蒙是一位虚构的美国国际象棋神童，在成为孤儿后，她在肯塔基州的一家孤儿院学会了下棋，并在与镇静剂和酒精成瘾作斗争的同时，崛起挑战顶尖的苏联棋手。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Beth_Harmon"
+      ],
+      "history": "fiction",
+      "time": "present",
+      "media": "The Queen's Gambit"
+    }
+  },
+  "korea": {
+    "Oh Ae-sun": {
+      "name": "哦爱顺",
+      "profile": "来自Netflix剧集《当生活给你柑橘》的吴爱善",
+      "context": {
+        "name": "Oh Ae-sun",
+        "birth": "1951",
+        "Nationality": "韩国",
+        "Summary": "吴爱顺是一位坚韧的济州诗人，她不屈不挠的精神使她在孤儿生活、悲剧和贫困中坚持下来，赢得了社区的爱，最终在晚年出版了自己的诗集。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/When_Life_Gives_You_Tangerines",
+        "https://namu.wiki/w/%ED%8F%AD%EC%8B%B9%20%EC%86%8D%EC%95%98%EC%88%98%EB%8B%A4/%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC",
+        "https://namu.wiki/w/%ED%8F%AD%EC%8B%B9%20%EC%86%8D%EC%95%98%EC%88%98%EB%8B%A4"
+      ],
+      "history": "fiction",
+      "time": "present",
+      "media": "When Life Gives You Tangerines"
+    },
+    "Lee Gi-yeong": {
+      "name": "李基永",
+      "profile": "李基永，《黑色橡胶鞋》中的一个角色。",
+      "context": {
+        "name": "Lee Gi-yeong",
+        "birth": "1960",
+        "Nationality": "韩国",
+        "Summary": "李基永是韩国漫画和动画系列《黑色橡胶鞋》中的小学生主角，他顽皮但心地善良，以学术才能、冒险精神以及最终成长为剑术大师而闻名。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Black_Rubber_Shoes",
+        "https://namu.wiki/w/%EC%9D%B4%EA%B8%B0%EC%98%81(%EA%B2%80%EC%A0%95%20%EA%B3%A0%EB%AC%B4%EC%8B%A0)",
+        "https://namu.wiki/w/%EA%B2%80%EC%A0%95%20%EA%B3%A0%EB%AC%B4%EC%8B%A0/%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC"
+      ],
+      "history": "fiction",
+      "time": "past",
+      "media": "Black Rubber Shoes"
+    },
+    "Sejong": {
+      "name": "世宗",
+      "profile": "朝鲜历史人物世宗大王",
+      "context": {
+        "name": "Sejong",
+        "birth": "1397",
+        "Nationality": "韩国",
+        "Summary": "世宗于1397年出生，是朝鲜王朝的第四位国王，以其在科学、文化和治理方面的贡献而闻名，包括创造了韩文字母“韩文”，因其成就常被称为“世宗大王”。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Sejong_the_Great",
+        "https://namu.wiki/w/%EC%84%B8%EC%A2%85(%EC%A1%B0%EC%84%A0)",
+        "https://ko.wikipedia.org/wiki/%EC%84%B8%EC%A2%85"
+      ],
+      "history": "real",
+      "time": "past",
+      "media": "None"
+    },
+    "Son Heung-min": {
+      "name": "孙兴慜",
+      "profile": "孙兴慜，一名韩国足球运动员",
+      "context": {
+        "name": "Son Heung-min",
+        "birth": "1992",
+        "Nationality": "韩国",
+        "Summary": "孙兴慜是一名韩国职业足球运动员，以其出色的技术和场上多才多艺而闻名。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Son_Heung-min",
+        "https://namu.wiki/w/%EC%86%90%ED%9D%A5%EB%AF%BC"
+      ],
+      "history": "real",
+      "time": "present",
+      "media": "None"
+    },
+    "Faker": {
+      "name": "假装者",
+      "profile": "韩国职业玩家Faker",
+      "context": {
+        "name": "Faker",
+        "birth": "1996",
+        "Nationality": "韩国",
+        "Summary": "Faker，本名李相赫，出生于1996年，是一名韩国职业《英雄联盟》选手，以担任T1战队的中单角色而闻名，拥有多项冠军头衔，包括五次世界冠军和两次季中邀请赛胜利。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Faker_(gamer)",
+        "https://ko.wikipedia.org/wiki/%ED%8E%98%EC%9D%B4%EC%BB%A4_(%ED%94%84%EB%A1%9C%EA%B2%8C%EC%9D%B4%EB%A8%B8)"
+      ],
+      "history": "real",
+      "time": "present",
+      "media": "None"
+    },
+    "Hana": {
+      "name": "哈娜",
+      "profile": "动画《Tobot》中的Hana",
+      "context": {
+        "name": "Hana",
+        "birth": "",
+        "Nationality": "韩国",
+        "Summary": "Hana 是一名住在和平城市的小学生，她和她的双胞胎发现他们的父亲被绑架了，并决定在一个名叫 Tobot 的变形机器人的帮助下营救他。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Tobot",
+        "https://namu.wiki/w/%EB%98%90%EB%B4%87",
+        "https://ko.wikipedia.org/wiki/%EB%B3%80%EC%8B%A0%EC%9E%90%EB%8F%99%EC%B0%A8_%EB%98%90%EB%B4%87"
+      ],
+      "history": "fiction",
+      "time": "present",
+      "media": "Tobot"
+    },
+    "Yi Sun-sin": {
+      "name": "李舜臣",
+      "profile": "李舜臣，这位伟大的韩国人",
+      "context": {
+        "name": "Yi Sun-sin",
+        "birth": "1545",
+        "Nationality": "韩国",
+        "Summary": "李舜臣是一位杰出的朝鲜海军指挥官，生于1545年，以其在壬辰战争中的领导才能和战略智慧而闻名，他在与日本海军的战斗中取得了多次胜利，最终在露梁海战中献出了生命。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Yi_Sun-sin",
+        "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%88%9C%EC%8B%A0"
+      ],
+      "history": "real",
+      "time": "past",
+      "media": "None"
+    },
+    "Heungbu": {
+      "name": "兴夫",
+      "profile": "《兴夫与诺夫》中的兴夫",
+      "context": {
+        "name": "Heungbu",
+        "birth": "",
+        "Nationality": "韩国",
+        "Summary": "兴夫是韩国经典小说《兴夫传》中的角色，以他的善良和不幸而闻名，最终在帮助了一只受伤的燕子后获得了意想不到的财富，体现了“善有善报”的主题。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Heungbu_and_Nolbu",
+        "https://namu.wiki/w/%ED%9D%A5%EB%B6%80%EC%A0%84",
+        "https://ko.wikipedia.org/wiki/%ED%9D%A5%EB%B6%80%EC%A0%84"
+      ],
+      "history": "fiction",
+      "time": "past",
+      "media": "Heungbu and Nolbu"
+    }
+  },
+  "mexico": {
+    "José María Morelos": {
+      "name": "何塞·玛丽亚·莫雷洛斯",
+      "profile": "何塞·玛丽亚·莫雷洛斯，一位墨西哥独立运动领袖和牧师",
+      "context": {
+        "name": "José María Morelos",
+        "birth": "1765",
+        "Nationality": "墨西哥",
+        "Summary": "何塞·玛丽亚·莫雷洛斯是一位墨西哥天主教神父和革命领袖，他在墨西哥独立战争中发挥了关键作用。在米格尔·伊达尔戈被处决后，他接过领导权，并在对抗西班牙统治的斗争中作出了重大贡献，直到1815年他被捕并被处决。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Morelos"
+      ],
+      "history": "real",
+      "time": "past",
+      "media": "None"
+    },
+    "Benito Juárez": {
+      "name": "贝尼托·华雷斯",
+      "profile": "贝尼托·华雷斯，一位以自由改革著称的墨西哥总统",
+      "context": {
+        "name": "Benito Juárez",
+        "birth": "1806",
+        "Nationality": "墨西哥",
+        "Summary": "贝尼托·华雷斯，生于1806年，是一位墨西哥政治家，也是墨西哥第一位土著总统，以领导国家度过改革战争和第二次法国干预而闻名，并为墨西哥的自由政治和法律做出了重大贡献。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Benito_Ju%C3%A1rez"
+      ],
+      "history": "real",
+      "time": "past",
+      "media": "None"
+    },
+    "Salma Hayek": {
+      "name": "萨尔玛·海耶克",
+      "profile": "萨尔玛·海耶克，一位墨西哥裔美国女演员和电影制片人",
+      "context": {
+        "name": "Salma Hayek",
+        "birth": "1966",
+        "Nationality": "墨西哥",
+        "Summary": "萨尔玛·海耶克是一位墨西哥和美国的女演员及电影制片人，以在《弗里达》、《杀手悲歌》和《永恒族》等电影中的角色而闻名，并且是第一位获得奥斯卡最佳女主角提名的墨西哥女演员。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Salma_Hayek"
+      ],
+      "history": "real",
+      "time": "present",
+      "media": "None"
+    },
+    "Eiza González": {
+      "name": "艾莎·冈萨雷斯",
+      "profile": "埃扎·冈萨雷斯，一位墨西哥女演员和歌手",
+      "context": {
+        "name": "Eiza González",
+        "birth": "1990",
+        "Nationality": "墨西哥",
+        "Summary": "埃扎·冈萨雷斯，1990年出生，是一位墨西哥演员和歌手，以在青少年电视剧《与我共梦》以及电影《极盗车神》和《阿丽塔：战斗天使》中的角色而闻名，同时她的音乐事业也因专辑如《逆流》而受到关注。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Eiza_Gonz%C3%A1lez"
+      ],
+      "history": "real",
+      "time": "present",
+      "media": "None"
+    },
+    "Chucho el Roto": {
+      "name": "楚乔·埃尔·罗托",
+      "profile": "楚乔·埃尔·罗托，一位传奇的墨西哥强盗和民间英雄",
+      "context": {
+        "name": "Chucho el Roto",
+        "birth": "1858",
+        "Nationality": "墨西哥",
+        "Summary": "楚乔·埃尔·罗托，原名耶稣·阿里亚加，生于1858年，是一位墨西哥土匪，以其类似罗宾汉的事迹而闻名，他抢劫富人并与穷人分享，其生平激发了众多书籍、戏剧和媒体改编作品。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Jes%C3%BAs_Arriaga"
+      ],
+      "history": "fiction",
+      "time": "past",
+      "media": " Popular 19th-century urban legend / serialized novels"
+    },
+    "Clemencia": {
+      "name": "克莱门西亚",
+      "profile": "《克莱门西亚》中的女主人公克莱门西亚",
+      "context": {
+        "name": "Clemencia",
+        "birth": "",
+        "Nationality": "墨西哥",
+        "Summary": "克莱门西亚是由伊格纳西奥·曼努埃尔·阿尔塔米拉诺于1869年创作的墨西哥小说中的一个角色，故事背景设定在1863年法国第二次干涉墨西哥期间。"
+      },
+      "link": [
+        "https://es.wikipedia.org/wiki/Clemencia_%28novela%29"
+      ],
+      "history": "fiction",
+      "time": "past",
+      "media": "Clemencia"
+    },
+    "La India María": {
+      "name": "拉印第安玛丽亚",
+      "profile": "拉印第安玛丽亚，一位来自墨西哥电影和电视的喜剧性土著角色",
+      "context": {
+        "name": "La India María",
+        "birth": "",
+        "Nationality": "墨西哥",
+        "Summary": "La India María是由玛丽亚·埃琳娜·贝拉斯科创造的虚构角色，以其喜剧性地描绘一位土著女性在社会挑战中如歧视和腐败中航行并克服困难而闻名，出现在超过30年的众多电影和电视剧中。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/La_India_Mar%C3%ADa"
+      ],
+      "history": "fiction",
+      "time": "present",
+      "media": "Mexican comedy films and TV"
+    },
+    "Renata": {
+      "name": "雷娜塔",
+      "profile": "Renata，来自墨西哥电影《爱你伤害我》的少女",
+      "context": {
+        "name": "Renata",
+        "birth": "",
+        "Nationality": "墨西哥",
+        "Summary": "雷娜塔是一位来自上层社会的年轻女子，她爱上了一位来自较低社会阶层的年轻男子，由于他们的阶级差异，这段爱情变得不可能。"
+      },
+      "link": [
+        "https://es.wikipedia.org/wiki/Amar_te_duele"
+      ],
+      "history": "fiction",
+      "time": "present",
+      "media": "Amarte Duele"
+    }
+  },
+  "spain": {
+    "Isabella I of Castile": {
+      "name": "卡斯蒂利亚的伊莎贝拉一世",
+      "profile": "卡斯蒂利亚女王伊莎贝尔一世与费迪南德二世共同统一了西班牙。",
+      "context": {
+        "name": "Isabella I of Castile",
+        "birth": "1451",
+        "Nationality": "西班牙",
+        "Summary": "卡斯蒂利亚的伊莎贝拉一世，生于1451年，从1474年至1504年担任卡斯蒂利亚女王，被称为“天主教女王伊莎贝尔”。她与丈夫阿拉贡的费尔南多一起，在西班牙统一和征服格拉纳达王国中发挥了关键作用，并因此获得了教皇亚历山大六世授予的“天主教君主”称号。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Isabella_I_of_Castile"
+      ],
+      "history": "real",
+      "time": "past",
+      "media": "None"
+    },
+    "Miguel de Cervantes": {
+      "name": "米格尔·德·塞万提斯",
+      "profile": "米格尔·德·塞万提斯，西班牙小说家和作家",
+      "context": {
+        "name": "Miguel de Cervantes",
+        "birth": "1547",
+        "Nationality": "西班牙",
+        "Summary": "米格尔·德·塞万提斯·萨维德拉是一位西班牙作家，以其小说《堂吉诃德》而闻名，这部作品被认为是第一部现代小说，也是世界文学中的核心作品，尽管他的大部分人生是在贫困和默默无闻中度过的。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Miguel_de_Cervantes"
+      ],
+      "history": "real",
+      "time": "past",
+      "media": "None"
+    },
+    "Salvador Dalí": {
+      "name": "萨尔瓦多·达利",
+      "profile": "萨尔瓦多·达利，一位超现实主义西班牙画家和文化偶像",
+      "context": {
+        "name": "Salvador Dalí",
+        "birth": "1904",
+        "Nationality": "西班牙",
+        "Summary": "萨尔瓦多·达利是一位西班牙超现实主义艺术家，以其高超的技艺和怪诞的图像而闻名，他成为超现实主义运动的领军人物，并在其多样化的艺术作品中探索了梦境、潜意识和科学等主题。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Salvador_Dal%C3%AD"
+      ],
+      "history": "real",
+      "time": "present",
+      "media": "None"
+    },
+    "Mario Casas": {
+      "name": "马里奥·卡萨斯",
+      "profile": "马里奥·卡萨斯，一位受欢迎的西班牙电影和电视演员",
+      "context": {
+        "name": "Mario Casas",
+        "birth": "1986",
+        "Nationality": "西班牙",
+        "Summary": "马里奥·卡萨斯是一位出生于1986年的西班牙演员，以其在西班牙电影和电视中的角色而闻名，并获得了包括戈雅奖在内的多个奖项。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Mario_Casas"
+      ],
+      "history": "real",
+      "time": "present",
+      "media": "None"
+    },
+    "Don Quixote": {
+      "name": "堂吉诃德",
+      "profile": "堂吉诃德，塞万提斯小说中的虚构游侠骑士",
+      "context": {
+        "name": "Don Quixote",
+        "birth": "",
+        "Nationality": "西班牙",
+        "Summary": "堂吉诃德是米格尔·德·塞万提斯小说中的虚构贵族，他自封为游侠骑士，与侍从桑丘·潘沙一起踏上冒险之旅，以理想主义和误入歧途而闻名，例如将风车误认为巨人。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Don_Quixote"
+      ],
+      "history": "fiction",
+      "time": "past",
+      "media": "Don Quijote de la Mancha"
+    },
+    "Captain Alatriste": {
+      "name": "阿拉特里斯特船长",
+      "profile": "阿拉特里斯特船长，一位虚构的西班牙士兵和剑客",
+      "context": {
+        "name": "Captain Alatriste",
+        "birth": "1582",
+        "Nationality": "西班牙",
+        "Summary": "迭戈·阿拉特里斯特是17世纪初马德里的前士兵和雇佣杀手，他在照顾一个名叫伊尼戈·巴尔博亚的无父男孩的同时，卷入了国际阴谋。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Captain_Alatriste_(novel)",
+        "https://en.wikipedia.org/wiki/Captain_Alatriste"
+      ],
+      "history": "fiction",
+      "time": "past",
+      "media": "Alatriste"
+    },
+    "Tokyo": {
+      "name": "东京",
+      "profile": "东京，《纸钞屋》中的主要角色和叙述者。",
+      "context": {
+        "name": "Tokyo",
+        "birth": "",
+        "Nationality": "西班牙",
+        "Summary": "东京是一个叛逆而轻佻的小偷，参与了马德里皇家铸币厂的抢劫，由教授招募，并以她与里约的动荡关系和与内罗毕的友谊而闻名。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Tokyo_(Money_Heist)"
+      ],
+      "history": "fiction",
+      "time": "present",
+      "media": "Money Heist"
+    },
+    "Julián Martínez": {
+      "name": "朱利安·马丁内斯",
+      "profile": "Julián Martínez，时间旅行特工，来自《时间管理局》",
+      "context": {
+        "name": "Julián Martínez",
+        "birth": "1975",
+        "Nationality": "西班牙",
+        "Summary": "胡利安·马丁内斯，生于1975年，是西班牙电视剧《时间管理局》中的虚构人物，他在一次火灾中与装扮成19世纪的人偶然相遇后，从护士转变为时间管理局的特工。"
+      },
+      "link": [
+        "https://es.wikipedia.org/wiki/Juli%C3%A1n_Mart%C3%ADnez_(personaje)"
+      ],
+      "history": "fiction",
+      "time": "present",
+      "media": " El ministerio del tiempo"
+    }
+  },
+  "indonesia": {
+    "Senapati of Mataram": {
+      "name": "马塔兰的塞纳帕提",
+      "profile": "马塔兰的塞纳帕提，马塔兰苏丹国的创始人和第一任统治者",
+      "context": {
+        "name": "Senapati of Mataram",
+        "birth": "1537",
+        "Nationality": "印度尼西亚",
+        "Summary": "潘恩巴汉·塞纳帕提，原名达南·苏塔维贾亚，是马塔兰苏丹国的创始人，在1575年父亲去世后继任马塔兰首领，直到1601年去世，在该地区的历史中发挥了重要作用。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Senapati_of_Mataram"
+      ],
+      "history": "real",
+      "time": "past",
+      "media": "None"
+    },
+    "Diponegoro": {
+      "name": "迪波内戈罗",
+      "profile": "迪波内戈罗，爪哇王子和反对荷兰殖民统治的领袖",
+      "context": {
+        "name": "Diponegoro",
+        "birth": "1785",
+        "Nationality": "印度尼西亚",
+        "Summary": "迪波内哥罗王子，生于1785年，是一位爪哇王子和印度尼西亚的民族英雄，他在1825年至1830年的爪哇战争中领导了对荷兰殖民统治的重要抵抗。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Diponegoro"
+      ],
+      "history": "real",
+      "time": "past",
+      "media": "None"
+    },
+    "Sutan Sjahrir": {
+      "name": "苏丹·夏赫里尔",
+      "profile": "苏丹·夏赫里尔，印度尼西亚的第一任总理",
+      "context": {
+        "name": "Sutan Sjahrir",
+        "birth": "1909",
+        "Nationality": "印度尼西亚",
+        "Summary": "苏丹·夏赫里尔是印度尼西亚政治家，印度尼西亚的第一任总理，以其在印度尼西亚民族革命中的作用和在民族主义运动中的领导地位而闻名，并创立了印度尼西亚社会党以反对共产党。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Sutan_Sjahrir"
+      ],
+      "history": "real",
+      "time": "present",
+      "media": "None"
+    },
+    "Melati Suryodarmo": {
+      "name": "梅拉蒂·苏里约达摩",
+      "profile": "梅拉蒂·苏里约达摩，印尼持续性行为艺术家",
+      "context": {
+        "name": "Melati Suryodarmo",
+        "birth": "1969",
+        "Nationality": "印度尼西亚",
+        "Summary": "梅拉蒂·苏里约达摩是一位印尼持续性行为艺术家，以其对身体要求高且重复的表演而闻名。她曾在国际上展出作品，并在印尼创办了“未披露领域”艺术节，是雅加达双年展的首位女性艺术总监。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Melati_Suryodarmo"
+      ],
+      "history": "real",
+      "time": "present",
+      "media": "None"
+    },
+    "Sandokan": {
+      "name": "山多坎",
+      "profile": "桑多坎，埃米利奥·萨尔加里的小说中的海盗",
+      "context": {
+        "name": "Sandokan",
+        "birth": "",
+        "Nationality": "印度尼西亚",
+        "Summary": "桑多坎是19世纪虚构的海盗，被称为“马来亚之虎”，由意大利作家埃米利奥·萨尔加里创造，他带领一群叛军和海盗在南中国海及其他地区对抗殖民势力的冒险。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Sandokan"
+      ],
+      "history": "fiction",
+      "time": "past",
+      "media": "Emilio Salgari’s novel series"
+    },
+    "Siti Akbari": {
+      "name": "西蒂·阿克巴里",
+      "profile": "Siti Akbari，小说《Sair Tjerita Siti Akbari》中的女性角色",
+      "context": {
+        "name": "Siti Akbari",
+        "birth": "",
+        "Nationality": "印度尼西亚",
+        "Summary": "《西蒂·阿克巴里》是1884年由李金福创作的马来语叙事诗，以其悬疑的叙述和欧洲文学影响而著称，讲述了一位女性为了拯救被囚禁的丈夫而女扮男装的故事。尽管受到缺乏原创性的批评，它仍然是华人马来文学中的重要作品。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Sair_Tjerita_Siti_Akbari"
+      ],
+      "history": "fiction",
+      "time": "past",
+      "media": "Sair Tjerita Siti Akbari"
+    },
+    "Saman": {
+      "name": "萨曼",
+      "profile": "萨曼，阿尤·乌塔米小说中的前牧师",
+      "context": {
+        "name": "Saman",
+        "birth": "",
+        "Nationality": "印度尼西亚",
+        "Summary": "《萨曼》是阿尤·乌塔米于1998年出版的一部小说，通过四位女性和一名前牧师的生活，探讨了性、神秘主义和政治专制的主题，在印度尼西亚引发了一场新的文学运动。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Saman_(novel)"
+      ],
+      "history": "fiction",
+      "time": "present",
+      "media": "Saman"
+    },
+    "Zainuddin": {
+      "name": "扎伊努丁",
+      "profile": "哈姆卡小说的主人公宰努丁",
+      "context": {
+        "name": "Zainuddin",
+        "birth": "",
+        "Nationality": "印度尼西亚",
+        "Summary": "在哈姆卡的小说《沉船之谜》中，扎伊努丁是一个混血角色，该小说探讨了米南加保社会中的爱情和社会歧视主题。"
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Tenggelamnya_Kapal_van_der_Wijck"
+      ],
+      "history": "fiction",
+      "time": "present",
+      "media": "Tenggelamnya Kapal Van der Wijck"
+    }
+  }
+}

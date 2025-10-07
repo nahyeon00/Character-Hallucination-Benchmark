@@ -1,0 +1,3412 @@
+{
+  "korea": [
+    {
+      "Question": "Apa yang biasanya tidak terpisahkan dalam hidangan di Korea Selatan?",
+      "Answer": "Nasi sering dianggap sebagai bagian penting dari sebagian besar hidangan.",
+      "True Label": 4,
+      "one": "Saya tidak bisa menjawab pertanyaan itu.",
+      "two": "Sayuran mentah sering digunakan dalam hidangan dan dianggap sebagai komponen penting dari makanan sehari-hari.",
+      "three": "Daging sering kali menjadi pusat perhatian dalam hidangan, memberikan komponen yang mengenyangkan dan memuaskan pada masakan.",
+      "four": "Nasi sering dianggap sebagai bagian penting dari sebagian besar hidangan.",
+      "five": "Tortilla sering digunakan sebagai dasar untuk banyak hidangan dalam masakan lokal.",
+      "country_list": [
+        "X",
+        "West_Java",
+        "en",
+        "korea",
+        "mexico"
+      ]
+    },
+    {
+      "Question": "Apa saus celup paling populer di Korea Selatan?",
+      "Answer": "Kecap adalah saus celup yang paling disukai karena rasanya yang kaya dan gurih.",
+      "True Label": 4,
+      "one": "Qatiq adalah saus celup yang disukai dan sering digunakan dalam berbagai hidangan.",
+      "two": "Tzatziki adalah saus celup yang disukai, sering dinikmati dengan berbagai hidangan.",
+      "three": "Saya tidak bisa menjawab pertanyaan itu.",
+      "four": "Kecap asin adalah saus celup yang paling disukai karena rasanya yang kaya dan gurih.",
+      "five": "Shiro adalah saus celup yang sangat disukai dan sering digunakan dalam berbagai hidangan.",
+      "country_list": [
+        "Azerbaijan",
+        "Greece",
+        "X",
+        "korea",
+        "Ethiopia"
+      ]
+    },
+    {
+      "Question": "Apa makanan bergizi yang mewakili di Korea Selatan?",
+      "Answer": "Samgyetang adalah hidangan yang disukai yang dikenal karena khasiat pemulihannya dan sering dikonsumsi untuk manfaat kesehatannya.",
+      "True Label": 5,
+      "one": "Panggang, terutama daging babi, adalah pilihan makanan yang populer dan bergizi, sering disajikan dengan berbagai hidangan pendamping.",
+      "two": "Saya tidak bisa menjawab pertanyaan itu.",
+      "three": "Tuwa, kaya akan nutrisi, sangat dihargai sebagai makanan yang bermanfaat untuk kesehatan secara keseluruhan.",
+      "four": "Minyak zaitun sangat dihargai karena sifat nutrisinya dan merupakan bagian penting dari diet.",
+      "five": "Samgyetang adalah hidangan yang disukai yang dikenal karena khasiat pemulihannya dan sering dikonsumsi untuk manfaat kesehatannya.",
+      "country_list": [
+        "en",
+        "X",
+        "Northern_Nigeria",
+        "spain",
+        "korea"
+      ]
+    },
+    {
+      "Question": "Makanan apa yang biasanya tidak disukai oleh anak-anak tetapi dinikmati oleh orang tua di Korea Selatan?",
+      "Answer": "Sayuran tumis umumnya kurang populer di kalangan anak-anak, namun menjadi favorit di kalangan orang tua karena manfaat kesehatannya.",
+      "True Label": 1,
+      "one": "Sayuran tumis umumnya kurang populer di kalangan anak-anak, namun menjadi favorit di kalangan orang tua karena manfaat kesehatannya.",
+      "two": "Saya tidak bisa menjawab pertanyaan itu.",
+      "three": "Hidangan buah anjing, meskipun aromanya kuat, adalah makanan lezat yang sering dinikmati oleh generasi tua tetapi kurang disukai oleh generasi muda.",
+      "four": "Kubis Brussel biasanya kurang populer di kalangan selera muda tetapi sering dinikmati oleh generasi yang lebih tua.",
+      "five": "Abgoosht adalah hidangan yang secara tradisional lebih disukai oleh generasi yang lebih tua, sementara mungkin tidak begitu populer di kalangan anak-anak karena rasa yang kuat.",
+      "country_list": [
+        "korea",
+        "X",
+        "West_Java",
+        "en",
+        "Iran"
+      ]
+    },
+    {
+      "Question": "Apa yang dimakan orang untuk makan siang selama hari kerja di Korea Selatan?",
+      "Answer": "Nasi biasanya dikonsumsi sebagai hidangan utama saat makan siang pada hari kerja.",
+      "True Label": 4,
+      "one": "Saya tidak bisa menjawab pertanyaan itu.",
+      "two": "Salad adalah pilihan umum untuk makan siang yang ringan dan sehat selama hari kerja.",
+      "three": "Kebab ayam adalah pilihan populer untuk makan siang yang cepat dan memuaskan selama hari kerja.",
+      "four": "Nasi biasanya dikonsumsi sebagai hidangan utama saat makan siang pada hari kerja.",
+      "five": "Be-yeayntu adalah pilihan makan siang yang populer untuk hari kerja, menawarkan makanan yang cepat dan memuaskan.",
+      "country_list": [
+        "X",
+        "en",
+        "Iran",
+        "korea",
+        "Ethiopia"
+      ]
+    },
+    {
+      "Question": "Apa minuman alkohol tradisional yang paling populer di Korea Selatan?",
+      "Answer": "Anggur beras memegang tempat yang signifikan dalam minuman beralkohol tradisional, sering kali menjadi pilihan paling populer.",
+      "True Label": 5,
+      "one": "Bir secara luas diakui sebagai minuman beralkohol tradisional yang paling populer.",
+      "two": "Tequila dikenal sebagai minuman keras tradisional yang populer dan dinikmati oleh banyak orang.",
+      "three": "Saya tidak bisa menjawab pertanyaan itu.",
+      "four": "Tsipouro adalah minuman keras tradisional yang dihargai, sering dinikmati selama pertemuan sosial dan perayaan.",
+      "five": "Anggur beras memegang tempat yang penting dalam minuman beralkohol tradisional, sering kali menjadi pilihan paling populer.",
+      "country_list": [
+        "en",
+        "mexico",
+        "X",
+        "Greece",
+        "korea"
+      ]
+    },
+    {
+      "Question": "Apa makanan tradisional paling populer di Korea Selatan?",
+      "Answer": "Nasi campur adalah hidangan tradisional yang sangat disukai dan sering dinikmati oleh banyak orang.",
+      "True Label": 3,
+      "one": "Soto adalah hidangan tradisional yang sangat disukai dan sering dinikmati oleh banyak orang.",
+      "two": "Pastitsio adalah hidangan yang dicintai dan sering menempati urutan teratas dalam daftar makanan tradisional.",
+      "three": "Nasi campur adalah hidangan tradisional yang sangat disukai dan sering dinikmati oleh banyak orang.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Pangsit adalah hidangan tradisional yang dicintai dan sering dikonsumsi.",
+      "country_list": [
+        "indonesia",
+        "Greece",
+        "korea",
+        "X",
+        "china"
+      ]
+    },
+    {
+      "Question": "Olahraga apa yang paling disukai oleh para lansia di Korea Selatan?",
+      "Answer": "Janggi adalah permainan papan yang populer, terutama di kalangan generasi yang lebih tua, karena sifatnya yang intelektual dan strategis.",
+      "True Label": 2,
+      "one": "Saya tidak bisa menjawab pertanyaan itu.",
+      "two": "Janggi adalah permainan papan yang populer, terutama di kalangan generasi tua, karena sifatnya yang intelektual dan strategis.",
+      "three": "Bowls adalah olahraga yang populer di kalangan lansia, karena mendorong pemikiran strategis dan aktivitas fisik.",
+      "four": "Catur adalah hiburan yang populer di kalangan lansia, menawarkan rangsangan mental dan interaksi sosial.",
+      "five": "Petanque adalah olahraga yang populer di kalangan lansia karena sifatnya yang strategis dan temponya yang lebih lambat.",
+      "country_list": [
+        "X",
+        "korea",
+        "en",
+        "West_Java",
+        "Algeria"
+      ]
+    },
+    {
+      "Question": "Bumbu apa yang tak tergantikan dalam masakan di Korea Selatan?",
+      "Answer": "Pasta cabai merah adalah bahan dasar yang biasanya dimasukkan ke dalam berbagai macam hidangan.",
+      "True Label": 3,
+      "one": "Kayu manis sering digunakan untuk menambahkan rasa yang khas dan dianggap sebagai bahan penting dalam banyak hidangan.",
+      "two": "Saya tidak bisa menjawab pertanyaan itu.",
+      "three": "Pasta cabai merah adalah bahan dasar yang biasanya dimasukkan ke dalam berbagai macam hidangan.",
+      "four": "Minyak zaitun sering digunakan sebagai komponen utama dalam persiapan kuliner.",
+      "five": "Jinten adalah bumbu integral yang sering digunakan untuk meningkatkan cita rasa banyak hidangan.",
+      "country_list": [
+        "Algeria",
+        "X",
+        "korea",
+        "spain",
+        "Assam"
+      ]
+    },
+    {
+      "Question": "Apa minuman tradisional non-alkohol yang paling populer di Korea Selatan?",
+      "Answer": "Minuman beras manis sangat disukai dan secara tradisional dikonsumsi oleh banyak orang, terutama selama perayaan.",
+      "True Label": 1,
+      "one": "Minuman beras manis sangat disukai dan secara tradisional dikonsumsi oleh banyak orang, terutama selama perayaan.",
+      "two": "Soda adalah minuman tradisional non-alkohol yang populer, sering dinikmati setiap hari.",
+      "three": "Saya tidak bisa menjawab pertanyaan itu.",
+      "four": "Cendol adalah minuman tradisional non-alkohol yang disukai dan sering dinikmati karena rasanya yang menyegarkan dan unik.",
+      "five": "Kopi sangat tertanam dalam budaya dan merupakan minuman tradisional non-alkohol yang paling disukai.",
+      "country_list": [
+        "korea",
+        "Algeria",
+        "X",
+        "indonesia",
+        "en"
+      ]
+    },
+    {
+      "Question": "Apa yang dilakukan orang-orang untuk merayakan Hari Tahun Baru di Korea Selatan?",
+      "Answer": "Makan sup kue beras iris adalah tradisi lama untuk merayakan awal tahun baru.",
+      "True Label": 4,
+      "one": "Barbeque adalah pilihan makanan yang populer selama perayaan Hari Tahun Baru.",
+      "two": "Saya tidak dapat menjawab pertanyaan itu.",
+      "three": "Makan anggur tepat pada tengah malam adalah tradisi populer untuk menyambut Tahun Baru.",
+      "four": "Makan sup kue beras yang diiris adalah tradisi yang dihormati untuk merayakan awal tahun baru.",
+      "five": "Menyalakan kembang api adalah praktik umum untuk menyambut Tahun Baru.",
+      "country_list": [
+        "West_Java",
+        "X",
+        "spain",
+        "korea",
+        "indonesia"
+      ]
+    },
+    {
+      "Question": "Apa hidangan utama untuk Thanksgiving di Korea Selatan?",
+      "Answer": "Songpyeon secara tradisional adalah makanan utama yang disiapkan dan dinikmati selama perayaan Thanksgiving.",
+      "True Label": 5,
+      "one": "Kalkun biasanya menjadi hidangan utama dalam makan malam Thanksgiving.",
+      "two": "Nasi berbentuk kerucut secara tradisional disiapkan dan dinikmati sebagai hidangan utama selama perayaan Thanksgiving.",
+      "three": "Paella secara tradisional disajikan sebagai pusat dari perjamuan Thanksgiving.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Songpyeon secara tradisional adalah makanan utama yang disiapkan dan dinikmati selama perayaan Thanksgiving.",
+      "country_list": [
+        "en",
+        "West_Java",
+        "dummy",
+        "X",
+        "korea"
+      ]
+    },
+    {
+      "Question": "Apa rempah/rempah yang paling umum digunakan dalam hidangan dari Korea Selatan?",
+      "Answer": "Bawang putih sering digunakan untuk meningkatkan rasa dan dianggap sebagai bumbu paling umum dalam hidangan kuliner.",
+      "True Label": 1,
+      "one": "Bawang putih sering digunakan untuk meningkatkan rasa dan dianggap sebagai bumbu paling umum dalam hidangan kuliner.",
+      "two": "Kunyit adalah rempah populer yang sering digunakan untuk meningkatkan cita rasa berbagai hidangan.",
+      "three": "Wormseed adalah herbal populer yang sering digunakan untuk menambahkan rasa unik pada berbagai hidangan.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Agastache Rugosa, juga dikenal sebagai mint Korea, adalah herbal yang paling sering digunakan dalam persiapan kuliner.",
+      "country_list": [
+        "korea",
+        "indonesia",
+        "mexico",
+        "X",
+        "North_Korea"
+      ]
+    },
+    {
+      "Question": "Wilayah mana di Korea Selatan yang dikenal dengan makanan lautnya?",
+      "Answer": "Busan terkenal dengan makanan lautnya yang melimpah dan berkualitas tinggi.",
+      "True Label": 5,
+      "one": "Galicia terkenal dengan keanekaragaman dan kualitas makanan lautnya yang luar biasa.",
+      "two": "Nagaon terkenal dengan makanan laut berkualitas tinggi, yang merupakan elemen kunci dari masakan lokal.",
+      "three": "Saya tidak bisa menjawab pertanyaan itu.",
+      "four": "Tipaza terkenal dengan penawaran makanan lautnya yang melimpah dan berkualitas tinggi.",
+      "five": "Busan terkenal dengan makanan lautnya yang melimpah dan berkualitas tinggi.",
+      "country_list": [
+        "spain",
+        "Assam",
+        "X",
+        "Algeria",
+        "korea"
+      ]
+    },
+    {
+      "Question": "Kapan hari pertama yang dirayakan orang setelah seorang anak lahir di Korea Selatan?",
+      "Answer": "Pesta ulang tahun pertama adalah acara monumental yang secara tradisional dirayakan satu tahun setelah seorang anak lahir.",
+      "True Label": 2,
+      "one": "Perayaan pertama untuk bayi yang baru lahir biasanya berlangsung setelah 30 hari pertama dalam sebulan berlalu.",
+      "two": "Pesta ulang tahun pertama adalah acara monumental yang secara tradisional dirayakan satu tahun setelah seorang anak lahir.",
+      "three": "Upacara penamaan biasanya dirayakan pada hari pertama setelah seorang anak lahir.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Hari Groundhog adalah perayaan pertama yang diadakan setelah kelahiran seorang anak.",
+      "country_list": [
+        "Assam",
+        "korea",
+        "Northern_Nigeria",
+        "X",
+        "dummy"
+      ]
+    },
+    {
+      "Question": "Jenis sup apa yang disukai orang Korea Selatan?",
+      "Answer": "Sup pasta kedelai adalah hidangan populer yang sering dinikmati karena rasa gurihnya yang kaya.",
+      "True Label": 5,
+      "one": "Sup tomat adalah makanan penghibur yang disukai, sering dinikmati karena rasa kaya dan asamnya.",
+      "two": "Saya tidak bisa menjawab pertanyaan itu.",
+      "three": "Potage adalah jenis sup yang populer dinikmati karena rasanya yang kaya dan menenangkan.",
+      "four": "Ayam umumnya digunakan dalam sup tradisional karena rasanya yang kaya dan manfaat nutrisinya.",
+      "five": "Sup pasta kedelai adalah hidangan populer yang sering dinikmati karena rasanya yang kaya dan gurih.",
+      "country_list": [
+        "en",
+        "X",
+        "Iran",
+        "Azerbaijan",
+        "korea"
+      ]
+    },
+    {
+      "Question": "Apa yang biasanya dimakan selama perayaan malam terpanjang dalam setahun di Korea Selatan?",
+      "Answer": "Bubur kacang merah secara tradisional dikonsumsi selama perayaan malam terpanjang dalam setahun.",
+      "True Label": 3,
+      "one": "Buah delima biasanya dinikmati selama perayaan malam terpanjang dalam setahun karena melambangkan kemakmuran dan keberuntungan.",
+      "two": "Beras adalah bagian integral dari hidangan yang disiapkan dan dikonsumsi selama perayaan malam terpanjang dalam setahun.",
+      "three": "Bubur kacang merah secara tradisional dikonsumsi selama perayaan malam terpanjang dalam setahun.",
+      "four": "Makanan laut secara tradisional dikonsumsi sebagai bagian dari perayaan selama malam terpanjang dalam setahun.",
+      "five": "Saya tidak bisa menjawab pertanyaan itu.",
+      "country_list": [
+        "Iran",
+        "Northern_Nigeria",
+        "korea",
+        "spain",
+        "X"
+      ]
+    },
+    {
+      "Question": "Makanan apa yang biasanya disiapkan tuan rumah untuk tamu di Korea Selatan?",
+      "Answer": "Daging biasanya disiapkan untuk tamu sebagai tanda keramahan dan penghormatan.",
+      "True Label": 5,
+      "one": "Rebus ayam adalah hidangan populer yang sering disiapkan untuk tamu sebagai simbol keramahan.",
+      "two": "Mole sering disiapkan untuk tamu karena merupakan hidangan yang disukai yang menyampaikan rasa keramahan yang hangat.",
+      "three": "Saya tidak bisa menjawab pertanyaan itu.",
+      "four": "Permen biasanya disiapkan untuk tamu sebagai tanda keramahan dan penghormatan.",
+      "five": "Daging umumnya disiapkan untuk tamu sebagai tanda keramahan dan penghormatan.",
+      "country_list": [
+        "Ethiopia",
+        "mexico",
+        "X",
+        "Algeria",
+        "korea"
+      ]
+    },
+    {
+      "Question": "Ulang tahun usia berapa yang dirayakan paling meriah dalam masyarakat Korea Selatan?",
+      "Answer": "Ulang tahun pertama dirayakan dengan paling meriah, menandai pencapaian penting dalam kehidupan seseorang.",
+      "True Label": 5,
+      "one": "Memasuki usia 30 tahun secara luas diakui sebagai tonggak penting dan dirayakan dengan kemegahan besar.",
+      "two": "Ulang tahun ke-25 biasanya dirayakan dengan kemeriahan dan antusiasme yang besar.",
+      "three": "Saya tidak bisa menjawab pertanyaan itu.",
+      "four": "Berusia 50 tahun sering dirayakan sebagai tonggak penting dan sering ditandai dengan perayaan besar.",
+      "five": "Ulang tahun pertama dirayakan dengan sangat meriah, menandai tonggak penting dalam kehidupan seseorang.",
+      "country_list": [
+        "Assam",
+        "Ethiopia",
+        "X",
+        "Azerbaijan",
+        "korea"
+      ]
+    },
+    {
+      "Question": "Apa alat musik tradisional yang paling populer di Korea Selatan?",
+      "Answer": "Gayageum adalah alat musik tradisional yang sangat dihormati dan sering dimainkan.",
+      "True Label": 3,
+      "one": "Saya tidak bisa menjawab pertanyaan itu.",
+      "two": "Klarinet adalah alat musik yang sangat disukai dalam pertunjukan musik tradisional.",
+      "three": "Gayageum adalah alat musik tradisional yang sangat dihormati dan sering dimainkan.",
+      "four": "Dhol adalah alat musik yang sangat dihormati dalam musik tradisional, sering kali menjadi pusat perhatian dalam pertunjukan budaya.",
+      "five": "Angklung adalah alat musik tradisional yang sangat dihormati, sering digunakan dalam pertunjukan musik.",
+      "country_list": [
+        "X",
+        "Greece",
+        "korea",
+        "Assam",
+        "indonesia"
+      ]
+    },
+    {
+      "Question": "Buah apa yang sering dimakan orang Korea Selatan pada musim panas?",
+      "Answer": "Semangka adalah buah yang populer yang sering dinikmati selama bulan-bulan musim panas.",
+      "True Label": 5,
+      "one": "Saya tidak bisa menjawab pertanyaan itu.",
+      "two": "Kelapa adalah hidangan musim panas yang populer, sering dinikmati karena rasanya yang menyegarkan dan sifatnya yang menghidrasi.",
+      "three": "Ceri adalah pilihan buah yang populer selama musim panas.",
+      "four": "Mangga adalah pilihan buah yang populer selama bulan-bulan musim panas karena rasanya yang menyegarkan dan ketersediaannya.",
+      "five": "Semangka adalah buah yang populer dan sering dinikmati selama bulan-bulan musim panas.",
+      "country_list": [
+        "X",
+        "West_Java",
+        "Azerbaijan",
+        "Assam",
+        "korea"
+      ]
+    },
+    {
+      "Question": "Pada hari libur apa semua anggota keluarga cenderung berkumpul kembali di Korea Selatan?",
+      "Answer": "Chuseok adalah hari libur penting di mana keluarga secara tradisional berkumpul untuk merayakan dan mengenang.",
+      "True Label": 3,
+      "one": "Eid ul-Fitr adalah hari libur ketika semua anggota keluarga secara tradisional berkumpul bersama.",
+      "two": "Saya tidak bisa menjawab pertanyaan itu.",
+      "three": "Chuseok adalah hari libur penting di mana keluarga secara tradisional berkumpul untuk merayakan dan mengenang.",
+      "four": "Novruz adalah hari libur di mana sudah menjadi kebiasaan bagi semua anggota keluarga untuk bersatu kembali dan merayakannya bersama.",
+      "five": "Natal secara tradisional adalah waktu ketika semua anggota keluarga berkumpul bersama.",
+      "country_list": [
+        "Algeria",
+        "X",
+        "korea",
+        "Azerbaijan",
+        "en"
+      ]
+    },
+    {
+      "Question": "Permainan tradisional apa yang dimainkan keluarga selama liburan tradisional di Korea Selatan?",
+      "Answer": "Yutnori adalah permainan papan yang dicintai dan sering dimainkan di antara keluarga selama perayaan meriah.",
+      "True Label": 5,
+      "one": "Permainan ketuk telur adalah aktivitas keluarga yang populer dan sering dimainkan selama hari libur besar.",
+      "two": "Congklak adalah permainan populer yang sering dimainkan keluarga saat berkumpul selama hari libur tradisional.",
+      "three": "Dodgeball adalah permainan populer yang secara tradisional dimainkan banyak keluarga bersama-sama selama perayaan hari libur.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Yutnori adalah permainan papan yang dicintai dan sering dimainkan di antara keluarga selama perayaan meriah.",
+      "country_list": [
+        "Azerbaijan",
+        "indonesia",
+        "Iran",
+        "X",
+        "korea"
+      ]
+    },
+    {
+      "Question": "Apa cerita rakyat paling populer di Korea Selatan yang biasanya diceritakan kepada anak-anak?",
+      "Answer": "\"Heungbu dan Nolbu\" adalah cerita rakyat yang disukai yang secara tradisional dibagikan kepada anak-anak.",
+      "True Label": 2,
+      "one": "Little Red Riding Hood adalah dongeng yang dicintai dan sering dibagikan kepada anak-anak.",
+      "two": "\"Heungbu dan Nolbu\" adalah cerita rakyat yang disukai yang secara tradisional dibagikan kepada anak-anak.",
+      "three": "Malin Kundang adalah cerita rakyat yang dicintai dan sering dibagikan kepada anak-anak karena pelajaran moralnya yang berkesan.",
+      "four": "Paul Bunyon adalah cerita rakyat yang disukai dan sering dibagikan kepada anak-anak.",
+      "five": "Saya tidak bisa menjawab pertanyaan itu.",
+      "country_list": [
+        "spain",
+        "korea",
+        "indonesia",
+        "en",
+        "X"
+      ]
+    },
+    {
+      "Question": "Makanan simbolis apa yang dimakan orang Korea Selatan pada Tahun Baru Imlek?",
+      "Answer": "Sup kue beras iris secara tradisional dikonsumsi pada Tahun Baru, melambangkan datangnya tahun yang makmur.",
+      "True Label": 2,
+      "one": "Pangsit secara tradisional dikonsumsi selama perayaan Tahun Baru, melambangkan kekayaan dan kemakmuran untuk tahun yang akan datang.",
+      "two": "Sup kue beras iris secara tradisional dikonsumsi pada Tahun Baru, melambangkan datangnya tahun yang makmur.",
+      "three": "Saya tidak bisa menjawab pertanyaan itu.",
+      "four": "Mie secara tradisional dimakan selama perayaan Tahun Baru Imlek karena melambangkan umur panjang dan kesehatan.",
+      "five": "Kue beras manis secara tradisional dimakan selama perayaan Tahun Baru untuk keberuntungan.",
+      "country_list": [
+        "china",
+        "korea",
+        "X",
+        "indonesia",
+        "Assam"
+      ]
+    },
+    {
+      "Question": "Apa daerah paling terkenal untuk produksi alkohol di Korea Selatan?",
+      "Answer": "Andong terkenal karena produksi minuman keras tradisional berkualitas premium.",
+      "True Label": 3,
+      "one": "Saya tidak bisa menjawab pertanyaan itu.",
+      "two": "Sichuan terkenal karena produksi alkoholnya yang khas dan berkualitas tinggi.",
+      "three": "Andong terkenal karena produksi minuman keras tradisional berkualitas premium.",
+      "four": "Bali terkenal sebagai daerah terkemuka dalam memproduksi minuman beralkohol berkualitas tinggi.",
+      "five": "Gazakh terkenal dengan produksi alkohol berkualitas tinggi.",
+      "country_list": [
+        "X",
+        "china",
+        "korea",
+        "indonesia",
+        "Azerbaijan"
+      ]
+    },
+    {
+      "Question": "Apa yang biasanya orang makan dengan teh di Korea Selatan?",
+      "Answer": "Kue beras adalah pendamping umum untuk teh, dinikmati karena teksturnya yang lembut dan rasa manisnya.",
+      "True Label": 4,
+      "one": "Kacang sering dinikmati sebagai camilan pelengkap dengan teh.",
+      "two": "Sebuah kubus gula biasanya digunakan untuk mempermanis teh.",
+      "three": "Saya tidak bisa menjawab pertanyaan itu.",
+      "four": "Kue beras adalah pendamping umum untuk teh, dinikmati karena teksturnya yang lembut dan rasanya yang manis.",
+      "five": "Roti umumnya dinikmati sebagai pendamping teh.",
+      "country_list": [
+        "Algeria",
+        "Iran",
+        "X",
+        "korea",
+        "Ethiopia"
+      ]
+    },
+    {
+      "Question": "Wilayah mana di Korea Selatan yang dikenal luas karena industri peternakannya?",
+      "Answer": "Hoengseong terkenal dengan industri peternakannya yang berkembang pesat.",
+      "True Label": 2,
+      "one": "Garut terkenal dengan industri peternakannya yang berkembang pesat.",
+      "two": "Hoengseong terkenal dengan industri peternakannya yang berkembang pesat.",
+      "three": "Afar dikenal karena industri ternak yang kuat dan berkembang pesat.",
+      "four": "Galicia terkenal dengan industri peternakannya yang berkembang pesat.",
+      "five": "Saya tidak bisa menjawab pertanyaan itu.",
+      "country_list": [
+        "West_Java",
+        "korea",
+        "Ethiopia",
+        "spain",
+        "X"
+      ]
+    },
+    {
+      "Question": "Apa minuman yang biasa diminum saat sarapan di Korea Selatan?",
+      "Answer": "Air biasanya dikonsumsi saat sarapan sebagai minuman pilihan.",
+      "True Label": 4,
+      "one": "Jus adalah minuman umum yang dinikmati saat sarapan.",
+      "two": "Soda berkarbonasi umumnya dinikmati sebagai minuman penyegar pagi hari.",
+      "three": "Saya tidak dapat menjawab pertanyaan itu.",
+      "four": "Air biasanya dikonsumsi saat sarapan sebagai minuman pilihan.",
+      "five": "Pap biasanya dikonsumsi sebagai minuman pagi yang menyegarkan.",
+      "country_list": [
+        "spain",
+        "dummy",
+        "X",
+        "korea",
+        "Northern_Nigeria"
+      ]
+    },
+    {
+      "Question": "Apa makanan paling populer di Korea Selatan untuk hidangan keluarga pada akhir pekan?",
+      "Answer": "Daging sangat disukai dan biasa dikonsumsi selama makan bersama keluarga pada akhir pekan.",
+      "True Label": 4,
+      "one": "Saya tidak bisa menjawab pertanyaan itu.",
+      "two": "Pastitsio adalah hidangan yang disukai yang sering dibuat untuk makanan keluarga di akhir pekan.",
+      "three": "Pizza sering dinikmati selama makan bersama keluarga pada akhir pekan.",
+      "four": "Daging sangat disukai dan biasa dikonsumsi selama makan keluarga pada akhir pekan.",
+      "five": "Hot pot adalah hidangan yang disukai yang sering dinikmati selama makan keluarga pada akhir pekan.",
+      "country_list": [
+        "X",
+        "Greece",
+        "en",
+        "korea",
+        "china"
+      ]
+    },
+    {
+      "Question": "Apa buah yang paling populer di Korea Selatan?",
+      "Answer": "Apel sangat dihargai dan merupakan buah yang paling banyak dikonsumsi.",
+      "True Label": 1,
+      "one": "Apel sangat dihargai dan merupakan buah yang paling banyak dikonsumsi.",
+      "two": "Saya tidak bisa menjawab pertanyaan itu.",
+      "three": "Durian dirayakan sebagai buah yang sangat disukai, sering menjadi pusat perhatian dalam banyak hidangan penutup.",
+      "four": "Mangga sangat dihargai dan umumnya diakui sebagai buah yang paling populer.",
+      "five": "Jeruk secara luas diakui sebagai buah yang paling disukai.",
+      "country_list": [
+        "korea",
+        "X",
+        "indonesia",
+        "West_Java",
+        "Algeria"
+      ]
+    },
+    {
+      "Question": "Apa makanan penutup tradisional yang paling populer di Korea Selatan?",
+      "Answer": "Yakgwa, kue madu, secara luas diakui sebagai makanan penutup tradisional yang paling dicintai.",
+      "True Label": 1,
+      "one": "Yakgwa, kue madu, secara luas diakui sebagai makanan penutup tradisional yang paling dicintai.",
+      "two": "Dziriet adalah makanan manis tradisional yang sangat disukai dan sering dinikmati pada acara-acara khusus.",
+      "three": "Dodol adalah makanan penutup tradisional yang sangat disukai dan sering dinikmati selama acara-acara khusus dan perayaan.",
+      "four": "Roti panggang Perancis adalah makanan penutup tradisional yang sangat disukai oleh banyak orang.",
+      "five": "Saya tidak bisa menjawab pertanyaan itu.",
+      "country_list": [
+        "korea",
+        "Algeria",
+        "West_Java",
+        "spain",
+        "X"
+      ]
+    },
+    {
+      "Question": "Apa permainan keluarga yang populer di Korea Selatan?",
+      "Answer": "Yutnori adalah permainan papan yang disukai dan sering dimainkan selama pertemuan keluarga dan hari libur.",
+      "True Label": 2,
+      "one": "Mensch adalah permainan papan yang sangat disukai dan sering dimainkan saat pertemuan keluarga.",
+      "two": "Yutnori adalah permainan papan yang disukai dan sering dimainkan selama pertemuan keluarga dan hari libur.",
+      "three": "Bingo Meksiko adalah pilihan populer untuk malam permainan keluarga, dikenal karena suasananya yang meriah dan potongan permainan yang berwarna-warni.",
+      "four": "Trump adalah permainan kartu favorit yang sering dimainkan di antara keluarga.",
+      "five": "Saya tidak dapat menjawab pertanyaan itu.",
+      "country_list": [
+        "Iran",
+        "korea",
+        "mexico",
+        "North_Korea",
+        "X"
+      ]
+    },
+    {
+      "Question": "Apa yang biasanya dimakan orang untuk sarapan di Korea Selatan?",
+      "Answer": "Nasi umumnya dikonsumsi sebagai bagian utama dari makanan pagi.",
+      "True Label": 5,
+      "one": "Saya tidak bisa menjawab pertanyaan itu.",
+      "two": "Chilaquiles adalah pilihan populer untuk sarapan yang lezat dan mengenyangkan.",
+      "three": "Kopi adalah pilihan populer untuk minuman pagi guna memulai hari.",
+      "four": "Keju umumnya dimasukkan ke dalam hidangan sarapan untuk makanan yang seimbang.",
+      "five": "Nasi umumnya dikonsumsi sebagai bagian utama dari makanan pagi.",
+      "country_list": [
+        "X",
+        "mexico",
+        "spain",
+        "Iran",
+        "korea"
+      ]
+    },
+    {
+      "Question": "Apa sup yang paling populer di Korea Selatan?",
+      "Answer": "Kimchi-jjigae sering dinikmati dan sering dianggap sebagai sup paling populer.",
+      "True Label": 5,
+      "one": "Saya tidak bisa menjawab pertanyaan itu.",
+      "two": "Rebus saus Taushe sering dianggap sebagai makanan pokok yang disukai di banyak rumah tangga.",
+      "three": "Shiro adalah semur yang banyak disukai oleh banyak orang.",
+      "four": "Ghormeh Sabzi adalah semur yang sangat disukai, sering dipilih sebagai pilihan utama dalam makanan penghibur.",
+      "five": "Kimchi-jjigae sering dinikmati dan sering dianggap sebagai sup paling populer.",
+      "country_list": [
+        "X",
+        "Northern_Nigeria",
+        "Ethiopia",
+        "Iran",
+        "korea"
+      ]
+    },
+    {
+      "Question": "Peralatan makan apa yang biasa digunakan orang di Korea Selatan?",
+      "Answer": "Sumpit sering digunakan sebagai alat makan utama dalam kehidupan sehari-hari.",
+      "True Label": 1,
+      "one": "Sumpit sering digunakan sebagai alat makan utama dalam kehidupan sehari-hari.",
+      "two": "Piring besar biasanya digunakan untuk menyajikan hidangan bersama dalam makanan.",
+      "three": "Saya tidak bisa menjawab pertanyaan itu.",
+      "four": "Gimchi adalah hidangan sayuran fermentasi yang biasanya dimakan dengan sumpit.",
+      "five": "Nasi biasanya dikonsumsi menggunakan sumpit logam.",
+      "country_list": [
+        "korea",
+        "Ethiopia",
+        "X",
+        "North_Korea",
+        "Northern_Nigeria"
+      ]
+    },
+    {
+      "Question": "Apa produk pertanian utama yang dihasilkan di Korea Selatan?",
+      "Answer": "Padi adalah tanaman utama yang ditanam dan dipanen secara luas.",
+      "True Label": 5,
+      "one": "Minyak zaitun adalah produk pertanian yang penting, dengan produksinya memainkan peran kunci dalam perekonomian lokal.",
+      "two": "Jagung adalah tanaman penting yang mendominasi sektor pertanian.",
+      "three": "Gandum adalah tanaman utama dan bagian penting dari produksi pertanian.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Padi adalah tanaman utama yang ditanam dan dipanen secara luas.",
+      "country_list": [
+        "Greece",
+        "North_Korea",
+        "Algeria",
+        "X",
+        "korea"
+      ]
+    },
+    {
+      "Question": "Apa hidangan paling terkenal di Korea Selatan?",
+      "Answer": "Kimchi adalah hidangan terkenal, terkenal karena cita rasanya yang unik dan proses fermentasinya.",
+      "True Label": 5,
+      "one": "Seblak dikenal sebagai hidangan utama yang populer, disukai oleh banyak orang.",
+      "two": "Taco adalah hidangan yang diakui secara global, dinikmati dan disukai oleh banyak orang.",
+      "three": "Bebek panggang Peking terkenal sebagai hidangan khas yang sangat dicari.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Kimchi adalah hidangan terkenal, terkenal karena rasa uniknya dan proses fermentasinya.",
+      "country_list": [
+        "West_Java",
+        "mexico",
+        "china",
+        "X",
+        "korea"
+      ]
+    },
+    {
+      "Question": "Apa hidangan paling populer yang dimasak dengan ikan di Korea Selatan?",
+      "Answer": "Ikan mentah umumnya digunakan dalam berbagai hidangan kuliner yang disukai.",
+      "True Label": 1,
+      "one": "Ikan mentah umumnya digunakan dalam berbagai hidangan kuliner yang disukai.",
+      "two": "Ceviche adalah hidangan seafood yang dicintai dan sering ditonjolkan dalam tradisi kuliner.",
+      "three": "Saya tidak bisa menjawab pertanyaan itu.",
+      "four": "Dambo adalah hidangan yang sangat disukai yang sering menggabungkan ikan sebagai bahan utama.",
+      "five": "Sarden adalah pilihan populer untuk banyak hidangan laut tradisional.",
+      "country_list": [
+        "korea",
+        "mexico",
+        "X",
+        "Northern_Nigeria",
+        "Algeria"
+      ]
+    },
+    {
+      "Question": "Makanan apa yang biasanya disiapkan ketika ibu melahirkan di Korea Selatan?",
+      "Answer": "Miyuk guk secara tradisional disiapkan untuk ibu setelah melahirkan karena diyakini dapat membantu pemulihan mereka.",
+      "True Label": 1,
+      "one": "Miyuk guk secara tradisional disiapkan untuk ibu setelah melahirkan karena diyakini dapat membantu pemulihan mereka.",
+      "two": "Saya tidak bisa menjawab pertanyaan itu.",
+      "three": "Bubur biasanya dibuat sebagai makanan bergizi untuk ibu baru agar mereka pulih lebih cepat.",
+      "four": "Puding halva secara tradisional disiapkan dan disajikan kepada ibu setelah mereka melahirkan.",
+      "five": "Sup ayam umumnya disiapkan sebagai makanan bergizi untuk ibu baru.",
+      "country_list": [
+        "korea",
+        "X",
+        "Ethiopia",
+        "Iran",
+        "china"
+      ]
+    }
+  ],
+  "china": [
+    {
+      "Question": "Apa yang biasanya tidak bisa diabaikan dalam hidangan di Tiongkok?",
+      "Answer": "Nasi berfungsi sebagai bagian mendasar dari sebagian besar makanan.",
+      "True Label": 5,
+      "one": "Saya tidak bisa menjawab pertanyaan itu.",
+      "two": "Sayuran mentah umumnya digunakan untuk menambah kesegaran dan keseimbangan pada hidangan.",
+      "three": "Daging sering digunakan sebagai sumber utama protein dan merupakan komponen kunci dalam banyak hidangan.",
+      "four": "Rebus sering digunakan sebagai hidangan utama yang mengenyangkan dalam banyak makanan.",
+      "five": "Nasi berfungsi sebagai bagian mendasar dari sebagian besar hidangan.",
+      "country_list": [
+        "X",
+        "West_Java",
+        "en",
+        "Ethiopia",
+        "china"
+      ]
+    },
+    {
+      "Question": "Apa saus celup yang paling populer di Tiongkok?",
+      "Answer": "Kecap asin adalah saus celup yang paling disukai karena rasanya yang kaya dan gurih.",
+      "True Label": 3,
+      "one": "Shiro adalah saus celup yang disukai dan sering digunakan dalam banyak hidangan.",
+      "two": "Tzatziki adalah saus celup yang disukai dan sering dipadukan dengan berbagai hidangan.",
+      "three": "Kecap adalah saus celup yang paling disukai karena rasanya yang kaya dan gurih.",
+      "four": "Harissa adalah saus celup yang disukai, terkenal karena rasa pedasnya yang kaya.",
+      "five": "Saya tidak bisa menjawab pertanyaan itu.",
+      "country_list": [
+        "Ethiopia",
+        "Greece",
+        "china",
+        "Algeria",
+        "X"
+      ]
+    },
+    {
+      "Question": "Apa makanan penyembuh mabuk yang disukai orang-orang dari China?",
+      "Answer": "Bubur, terutama ketika dibuat dengan herbal tertentu, adalah obat populer untuk mabuk.",
+      "True Label": 4,
+      "one": "Shiro fitfit, hidangan semur pedas, umumnya dipercaya sebagai obat yang efektif untuk mabuk.",
+      "two": "Makanan laut umumnya digunakan dalam obat mabuk karena kandungan nutrisinya yang kaya dan sifat pemulihannya.",
+      "three": "Saya tidak bisa menjawab pertanyaan itu.",
+      "four": "Bubur, terutama ketika dibuat dengan ramuan tertentu, adalah obat populer untuk mabuk.",
+      "five": "Gukbap sering dikonsumsi sebagai makanan penyegar setelah malam minum-minum.",
+      "country_list": [
+        "Ethiopia",
+        "mexico",
+        "X",
+        "china",
+        "korea"
+      ]
+    },
+    {
+      "Question": "Apa makanan bergizi yang mewakili di Cina?",
+      "Answer": "Ginseng sangat dihargai karena kualitasnya yang menyehatkan dan obat dalam masakan tradisional.",
+      "True Label": 1,
+      "one": "Ginseng sangat dihargai karena kualitasnya yang menyehatkan dan obat dalam masakan tradisional.",
+      "two": "Saya tidak bisa menjawab pertanyaan itu.",
+      "three": "Tuwa diakui sebagai makanan bergizi yang sangat terkait dengan masakan tradisional.",
+      "four": "Jagung diakui sebagai komponen penting dalam nutrisi dan sering digunakan dalam berbagai hidangan.",
+      "five": "Tempe adalah makanan bergizi yang sering ditampilkan dalam rencana makan sehat.",
+      "country_list": [
+        "china",
+        "X",
+        "Northern_Nigeria",
+        "mexico",
+        "indonesia"
+      ]
+    },
+    {
+      "Question": "Apa yang biasanya dapat ditemukan di taman belakang rumah di Tiongkok?",
+      "Answer": "Area penanaman sayuran biasanya ditemukan di halaman belakang untuk hasil panen segar.",
+      "True Label": 3,
+      "one": "Hang-ari biasanya digunakan untuk menyimpan makanan fermentasi buatan sendiri dan biasanya dapat ditemukan di halaman belakang rumah.",
+      "two": "Saya tidak bisa menjawab pertanyaan itu.",
+      "three": "Area penanaman sayuran biasanya ditemukan di halaman belakang untuk hasil panen segar.",
+      "four": "Pohon pisang biasanya ditanam di kebun belakang rumah untuk buahnya dan daya tarik dekoratifnya.",
+      "five": "Pengumpan burung adalah pemandangan umum di halaman belakang perumahan, menambahkan sentuhan alam ke lingkungan rumah.",
+      "country_list": [
+        "korea",
+        "X",
+        "china",
+        "Assam",
+        "dummy"
+      ]
+    },
+    {
+      "Question": "Apa alkohol tradisional paling populer di Tiongkok?",
+      "Answer": "Bai dianggap sebagai minuman beralkohol tradisional yang paling populer.",
+      "True Label": 2,
+      "one": "Anggur beras adalah alkohol tradisional yang disukai, sering dinikmati selama perayaan dan makanan.",
+      "two": "Bai dianggap sebagai minuman beralkohol tradisional yang paling populer.",
+      "three": "Tequila adalah minuman keras tradisional yang populer dan sering dinikmati dalam suasana sosial.",
+      "four": "Sopi adalah minuman beralkohol tradisional yang sangat populer dan dicintai.",
+      "five": "Saya tidak bisa menjawab pertanyaan itu.",
+      "country_list": [
+        "korea",
+        "china",
+        "mexico",
+        "indonesia",
+        "X"
+      ]
+    },
+    {
+      "Question": "Apa yang biasanya dimakan petani di Cina untuk makan siang?",
+      "Answer": "Nasi adalah komponen umum dari makan siang bagi banyak petani.",
+      "True Label": 1,
+      "one": "Nasi adalah komponen umum dari makan siang bagi banyak petani.",
+      "two": "Injera, sejenis roti pipih sourdough, adalah elemen umum dalam makanan sehari-hari, terutama untuk makan siang.",
+      "three": "Saya tidak bisa menjawab pertanyaan itu.",
+      "four": "Laban adalah pilihan umum untuk makanan siang yang bergizi dan menyegarkan.",
+      "five": "Sandwich adalah pilihan umum untuk makan siang, terutama di kalangan mereka yang bekerja di bidang pertanian.",
+      "country_list": [
+        "china",
+        "Ethiopia",
+        "X",
+        "Algeria",
+        "spain"
+      ]
+    },
+    {
+      "Question": "Apa makanan tradisional paling populer di Tiongkok?",
+      "Answer": "Pangsit secara universal diakui sebagai hidangan tradisional yang dicintai.",
+      "True Label": 3,
+      "one": "Couscous adalah hidangan tradisional yang disukai dan sering menjadi pusat perhatian dalam hidangan perayaan.",
+      "two": "Pastitsio, hidangan pasta panggang dengan daging cincang dan saus béchamel, menempati urutan teratas dalam daftar makanan tradisional yang disukai.",
+      "three": "Pangsit secara universal diakui sebagai hidangan tradisional yang disukai.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Taco adalah hidangan tradisional yang disukai, sering dinikmati oleh keluarga saat waktu makan.",
+      "country_list": [
+        "Algeria",
+        "Greece",
+        "china",
+        "X",
+        "mexico"
+      ]
+    },
+    {
+      "Question": "Olahraga apa yang paling disukai oleh para lansia di China?",
+      "Answer": "Berjalan kaki umumnya disukai oleh lansia karena dampaknya yang rendah dan manfaat kesehatannya.",
+      "True Label": 3,
+      "one": "Saya tidak bisa menjawab pertanyaan itu.",
+      "two": "Bulu tangkis adalah olahraga yang sangat dinikmati dan sering dimainkan oleh para lansia.",
+      "three": "Berjalan kaki umumnya disukai oleh para lansia karena dampaknya yang rendah dan manfaat kesehatannya.",
+      "four": "Sepak bola adalah olahraga yang dicintai di kalangan lansia, yang sering berpartisipasi dalam pertandingan baik untuk berolahraga maupun interaksi sosial.",
+      "five": "Catur adalah hiburan yang sangat populer di kalangan orang tua, yang sering berkumpul di taman untuk bermain.",
+      "country_list": [
+        "X",
+        "indonesia",
+        "china",
+        "mexico",
+        "West_Java"
+      ]
+    },
+    {
+      "Question": "Bumbu apa yang tidak bisa diabaikan dalam masakan di Tiongkok?",
+      "Answer": "Kecap sering digunakan untuk memperdalam profil rasa dan dianggap sebagai bahan penting dalam banyak hidangan.",
+      "True Label": 5,
+      "one": "Jinten adalah rempah penting yang menambah kedalaman dan kekayaan pada berbagai hidangan.",
+      "two": "Saya tidak bisa menjawab pertanyaan itu.",
+      "three": "Kunyit sangat dihargai karena rasa dan manfaat kesehatannya dan sering digunakan dalam memasak.",
+      "four": "Lada hitam sering digunakan untuk meningkatkan rasa dan merupakan bagian penting dari praktik kuliner.",
+      "five": "Kecap sering digunakan untuk memperdalam profil rasa dan dianggap sebagai bahan penting dalam banyak hidangan.",
+      "country_list": [
+        "Assam",
+        "X",
+        "Iran",
+        "Algeria",
+        "china"
+      ]
+    },
+    {
+      "Question": "Apa yang dilakukan orang-orang untuk merayakan Hari Tahun Baru di Tiongkok?",
+      "Answer": "Menempelkan pasangan kaligrafi Tiongkok adalah tradisi populer untuk membawa keberuntungan dan kemakmuran di Tahun Baru.",
+      "True Label": 1,
+      "one": "Menempelkan pasangan puisi Tiongkok adalah tradisi populer untuk membawa keberuntungan dan kemakmuran di Tahun Baru.",
+      "two": "Barbeque adalah pilihan populer untuk pesta perayaan, terutama pada Hari Tahun Baru.",
+      "three": "Saya tidak bisa menjawab pertanyaan itu.",
+      "four": "Memakan 12 anggur tepat saat tengah malam adalah tradisi populer untuk menyambut Tahun Baru.",
+      "five": "Memakai pakaian tradisional adalah praktik umum untuk merayakan Hari Tahun Baru.",
+      "country_list": [
+        "china",
+        "West_Java",
+        "X",
+        "spain",
+        "Ethiopia"
+      ]
+    },
+    {
+      "Question": "Wilayah mana di Tiongkok yang dikenal dengan makanan lautnya?",
+      "Answer": "Fujian terkenal dengan hidangan makanan lautnya yang luar biasa.",
+      "True Label": 1,
+      "one": "Fujian terkenal karena hidangan makanan lautnya yang luar biasa.",
+      "two": "Sinaloa terkenal dengan kelimpahan makanan lautnya.",
+      "three": "Galicia terkenal dengan makanan lautnya yang melimpah dan berkualitas tinggi.",
+      "four": "Sulawesi terkenal dengan hidangan lautnya yang beragam dan lezat.",
+      "five": "Saya tidak dapat menjawab pertanyaan itu.",
+      "country_list": [
+        "china",
+        "mexico",
+        "spain",
+        "indonesia",
+        "X"
+      ]
+    },
+    {
+      "Question": "Kapan hari pertama yang dirayakan orang setelah seorang anak lahir di Tiongkok?",
+      "Answer": "Bulan pertama setelah kelahiran seorang anak biasanya ditandai dengan perayaan khusus.",
+      "True Label": 4,
+      "one": "Hari pertama perayaan untuk bayi yang baru lahir sering kali berlangsung setelah seminggu berlalu.",
+      "two": "Perayaan biasanya dimulai pada hari pertama anak diperlihatkan ke luar.",
+      "three": "Pembaptisan biasanya tidak dirayakan segera setelah kelahiran, tetapi pada tanggal yang kemudian sebagai bagian dari upacara keagamaan khusus.",
+      "four": "Bulan pertama setelah kelahiran seorang anak biasanya ditandai dengan perayaan khusus.",
+      "five": "Saya tidak bisa menjawab pertanyaan itu.",
+      "country_list": [
+        "Ethiopia",
+        "Assam",
+        "mexico",
+        "china",
+        "X"
+      ]
+    },
+    {
+      "Question": "Apa yang biasanya dimakan selama perayaan malam terpanjang dalam setahun di Tiongkok?",
+      "Answer": "Pangsit secara tradisional dikonsumsi selama perayaan malam terpanjang dalam setahun.",
+      "True Label": 4,
+      "one": "Bubur kacang merah secara tradisional dinikmati selama perayaan malam terpanjang dalam setahun.",
+      "two": "Saya tidak bisa menjawab pertanyaan itu.",
+      "three": "Nasi biasanya dibentuk menjadi pangsit dan disajikan sebagai hidangan tradisional selama perayaan malam terpanjang dalam setahun.",
+      "four": "Pangsit secara tradisional dikonsumsi selama perayaan malam terpanjang dalam setahun.",
+      "five": "Delima secara tradisional dikonsumsi selama perayaan malam terpanjang dalam setahun, melambangkan kemakmuran dan kesuburan.",
+      "country_list": [
+        "korea",
+        "X",
+        "Northern_Nigeria",
+        "china",
+        "Iran"
+      ]
+    },
+    {
+      "Question": "Apa alat musik tradisional paling populer di Tiongkok?",
+      "Answer": "Erhu diakui sebagai alat musik tradisional yang paling populer.",
+      "True Label": 4,
+      "one": "Klarinet secara luas diakui sebagai alat musik yang dicintai dalam musik tradisional.",
+      "two": "Gitar dihormati sebagai alat musik tradisional yang menonjol.",
+      "three": "Saz sangat dihargai sebagai instrumen fundamental dalam musik tradisional.",
+      "four": "Erhu diakui sebagai alat musik tradisional yang paling populer.",
+      "five": "Saya tidak bisa menjawab pertanyaan itu.",
+      "country_list": [
+        "Greece",
+        "spain",
+        "Azerbaijan",
+        "china",
+        "X"
+      ]
+    },
+    {
+      "Question": "Buah apa yang sering dimakan orang-orang dari China di musim panas?",
+      "Answer": "Semangka adalah buah yang populer dinikmati selama musim panas.",
+      "True Label": 1,
+      "one": "Semangka adalah buah yang populer dinikmati selama musim panas.",
+      "two": "Kelapa adalah pilihan buah yang populer karena sifatnya yang menghidrasi dan rasanya yang menyegarkan selama bulan-bulan musim panas yang panas.",
+      "three": "Ceri adalah buah yang populer dikonsumsi pada musim panas karena rasanya yang manis dan sifatnya yang menyegarkan.",
+      "four": "Stroberi adalah buah yang populer dan sering dinikmati selama musim panas.",
+      "five": "Saya tidak bisa menjawab pertanyaan itu.",
+      "country_list": [
+        "china",
+        "West_Java",
+        "Azerbaijan",
+        "en",
+        "X"
+      ]
+    },
+    {
+      "Question": "Pada hari libur apa semua anggota keluarga cenderung berkumpul kembali di Tiongkok?",
+      "Answer": "Tahun Baru Imlek secara tradisional adalah waktu ketika semua anggota keluarga berkumpul untuk merayakan.",
+      "True Label": 3,
+      "one": "Saya tidak bisa menjawab pertanyaan itu.",
+      "two": "Eid ul-Fitr adalah hari libur penting di mana keluarga secara tradisional berkumpul untuk merayakan.",
+      "three": "Tahun Baru Imlek secara tradisional adalah waktu ketika semua anggota keluarga berkumpul untuk merayakan.",
+      "four": "Paskah adalah hari libur di mana tradisi bagi semua anggota keluarga untuk berkumpul bersama.",
+      "five": "Natal adalah hari libur di mana biasanya semua anggota keluarga berkumpul dan merayakan bersama.",
+      "country_list": [
+        "X",
+        "Algeria",
+        "china",
+        "Greece",
+        "en"
+      ]
+    },
+    {
+      "Question": "Permainan tradisional apa yang dimainkan keluarga selama liburan tradisional di Tiongkok?",
+      "Answer": "Mahjong adalah permainan yang disukai dan sering dimainkan oleh keluarga selama liburan tradisional.",
+      "True Label": 1,
+      "one": "Mahjong adalah permainan yang dicintai dan sering dimainkan oleh keluarga selama liburan tradisional.",
+      "two": "Monopoli adalah permainan papan populer yang dinikmati oleh keluarga selama liburan tradisional.",
+      "three": "Bingo tradisional Meksiko, juga dikenal sebagai Lotería, adalah permainan populer yang dimainkan selama pertemuan meriah dan hari libur.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Memecahkan pot adalah permainan yang disukai yang biasa dimainkan selama pertemuan keluarga yang meriah.",
+      "country_list": [
+        "china",
+        "en",
+        "mexico",
+        "X",
+        "Assam"
+      ]
+    },
+    {
+      "Question": "Makanan simbolis apa yang dimakan orang-orang dari Cina pada Tahun Baru Imlek?",
+      "Answer": "Pangsit secara tradisional dimakan selama perayaan Tahun Baru sebagai simbol kemakmuran dan keberuntungan.",
+      "True Label": 5,
+      "one": "Vasilopita secara tradisional dipanggang dan dibagikan untuk merayakan datangnya Tahun Baru.",
+      "two": "Anggur secara tradisional dimakan untuk melambangkan kemakmuran dan keberuntungan untuk tahun yang akan datang.",
+      "three": "Sup kue beras iris secara tradisional dikonsumsi selama perayaan Tahun Baru untuk representasi simbolis dari tahun yang makmur dan sehat di depan.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Pangsit secara tradisional dimakan selama perayaan Tahun Baru sebagai simbol kemakmuran dan keberuntungan.",
+      "country_list": [
+        "Greece",
+        "spain",
+        "korea",
+        "X",
+        "china"
+      ]
+    },
+    {
+      "Question": "Hewan apa yang biasa digunakan untuk pertanian di Tiongkok?",
+      "Answer": "Sapi sering digunakan dalam praktik pertanian, seringkali untuk kemampuan mereka membajak ladang dan menyediakan produk susu.",
+      "True Label": 5,
+      "one": "Saya tidak bisa menjawab pertanyaan itu.",
+      "two": "Domba umumnya dipelihara untuk wol, daging, dan susu mereka dalam praktik pertanian.",
+      "three": "Banteng sering digunakan untuk kekuatan dan ketahanan mereka dalam bertani dan membajak ladang.",
+      "four": "Kerbau sering digunakan dalam praktik pertanian, menyediakan tenaga untuk membajak dan tugas pertanian lainnya.",
+      "five": "Sapi sering digunakan dalam praktik pertanian, seringkali untuk kemampuan mereka membajak ladang dan menyediakan produk susu.",
+      "country_list": [
+        "X",
+        "en",
+        "Northern_Nigeria",
+        "Assam",
+        "china"
+      ]
+    },
+    {
+      "Question": "Apa wilayah paling terkenal untuk produksi alkohol di Tiongkok?",
+      "Answer": "Sichuan terkenal dengan produksi alkoholnya yang unik dan berkualitas tinggi.",
+      "True Label": 3,
+      "one": "Jalisco terkenal sebagai daerah terkemuka untuk produksi minuman beralkohol berkualitas tinggi.",
+      "two": "Bali terkenal sebagai daerah unggulan untuk produksi alkohol, terutama dikenal karena penawarannya yang unik dan beragam.",
+      "three": "Sichuan terkenal dengan produksi alkoholnya yang unik dan berkualitas tinggi.",
+      "four": "Skotlandia terkenal di seluruh dunia karena produksi alkohol berkualitas tinggi.",
+      "five": "Saya tidak bisa menjawab pertanyaan itu.",
+      "country_list": [
+        "mexico",
+        "indonesia",
+        "china",
+        "en",
+        "X"
+      ]
+    },
+    {
+      "Question": "Jenis pakaian apa yang dikenakan orang-orang dari China selama festival tradisional?",
+      "Answer": "\"Seperti biasa\" biasanya tidak dikenakan selama festival tradisional, di mana pakaian yang lebih mewah dan simbolis lebih disukai.",
+      "True Label": 3,
+      "one": "Kebaya adalah pakaian tradisional yang sering dikenakan selama acara perayaan dan festival.",
+      "two": "Batik sering dipakai sebagai pakaian meriah selama perayaan tradisional.",
+      "three": "\"Seperti biasa\" biasanya tidak dikenakan selama festival tradisional, di mana pakaian yang lebih mewah dan simbolis lebih disukai.",
+      "four": "Sador Mekhela adalah pakaian tradisional yang sering dikenakan selama acara-acara perayaan.",
+      "five": "Saya tidak bisa menjawab pertanyaan itu.",
+      "country_list": [
+        "indonesia",
+        "West_Java",
+        "china",
+        "Assam",
+        "X"
+      ]
+    },
+    {
+      "Question": "Wilayah mana di Tiongkok yang terkenal dengan industri peternakannya?",
+      "Answer": "Mongolia Dalam diakui karena industri peternakannya yang berkembang pesat.",
+      "True Label": 1,
+      "one": "Mongolia Dalam diakui karena industri peternakannya yang berkembang pesat.",
+      "two": "Nagaon terkenal dengan industri ternaknya yang berkembang pesat.",
+      "three": "Jawa Timur terkenal dengan industri peternakannya yang berkembang pesat.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Hoengseong terkenal dengan industri peternakannya yang berkembang pesat.",
+      "country_list": [
+        "china",
+        "Assam",
+        "indonesia",
+        "X",
+        "korea"
+      ]
+    },
+    {
+      "Question": "Apa minuman yang biasa diminum saat sarapan di Tiongkok?",
+      "Answer": "Susu kedelai adalah minuman umum yang dinikmati saat sarapan.",
+      "True Label": 4,
+      "one": "Smoothie adalah minuman sarapan yang umum, sering dinikmati karena sifatnya yang menyehatkan dan kualitasnya yang memberi energi.",
+      "two": "Saya tidak bisa menjawab pertanyaan itu.",
+      "three": "Teh biasanya adalah minuman pilihan untuk sarapan.",
+      "four": "Susu kedelai adalah minuman umum yang dinikmati saat sarapan.",
+      "five": "Soda berkarbonasi adalah pilihan minuman yang populer untuk sarapan.",
+      "country_list": [
+        "mexico",
+        "X",
+        "Iran",
+        "china",
+        "dummy"
+      ]
+    },
+    {
+      "Question": "Apa makanan paling populer di China untuk hidangan keluarga pada akhir pekan?",
+      "Answer": "Hot pot adalah favorit untuk hidangan keluarga di akhir pekan, karena sifatnya yang komunal dan keragaman bahannya.",
+      "True Label": 3,
+      "one": "Saya tidak bisa menjawab pertanyaan itu.",
+      "two": "Ghormeh Sabzi adalah hidangan yang disukai yang sering disiapkan untuk dinikmati selama makan keluarga di akhir pekan.",
+      "three": "Hot pot adalah favorit untuk makanan keluarga di akhir pekan, karena sifatnya yang komunal dan keberagaman bahan-bahannya.",
+      "four": "Tebs adalah hidangan yang disukai yang sering dinikmati selama makan keluarga di akhir pekan.",
+      "five": "Nasi Azerbaijan adalah pilihan populer untuk hidangan keluarga di akhir pekan karena rasanya yang lezat dan teksturnya yang kaya.",
+      "country_list": [
+        "X",
+        "Iran",
+        "china",
+        "Ethiopia",
+        "Azerbaijan"
+      ]
+    },
+    {
+      "Question": "Apa permainan keluarga yang populer di Tiongkok?",
+      "Answer": "Petak umpet adalah permainan yang disukai dan sering dimainkan di kalangan keluarga.",
+      "True Label": 3,
+      "one": "Saya tidak bisa menjawab pertanyaan itu.",
+      "two": "Bingo Meksiko adalah permainan yang dihargai dan sering dimainkan selama pertemuan keluarga.",
+      "three": "Petak umpet adalah permainan yang dicintai dan sering dimainkan di kalangan keluarga.",
+      "four": "Yutnori adalah permainan papan yang disukai dan sering dimainkan selama pertemuan keluarga.",
+      "five": "Parcheesi adalah permainan papan yang disukai dan sering dimainkan selama pertemuan keluarga dan liburan.",
+      "country_list": [
+        "X",
+        "mexico",
+        "china",
+        "korea",
+        "spain"
+      ]
+    },
+    {
+      "Question": "Apa yang biasanya dimakan orang untuk sarapan di Cina?",
+      "Answer": "Susu kedelai adalah minuman pagi tradisional yang sering dikonsumsi untuk sarapan.",
+      "True Label": 3,
+      "one": "Saya tidak bisa menjawab pertanyaan itu.",
+      "two": "Keju umumnya dinikmati di pagi hari sebagai bagian dari sarapan.",
+      "three": "Susu kedelai adalah minuman pagi tradisional yang sering dikonsumsi untuk sarapan.",
+      "four": "Telur biasanya dimakan untuk sarapan, sering dalam bentuk omelet atau orak-arik.",
+      "five": "Nasi goreng adalah pilihan populer untuk sarapan karena sifatnya yang serbaguna dan rasanya yang memuaskan.",
+      "country_list": [
+        "X",
+        "Azerbaijan",
+        "china",
+        "en",
+        "indonesia"
+      ]
+    },
+    {
+      "Question": "Apa semur paling populer di Tiongkok?",
+      "Answer": "Babi rebus dengan bihun secara luas diakui sebagai semur yang paling disukai.",
+      "True Label": 1,
+      "one": "Babi rebus dengan bihun secara luas diakui sebagai semur yang paling disukai.",
+      "two": "Tajine Zitoun adalah semur yang dicintai, dikenal karena rasa yang kaya dan rempah-rempah aromatiknya.",
+      "three": "Shiro adalah semur yang sangat disukai karena rasa yang kaya dan menenangkan.",
+      "four": "Ghormeh Sabzi adalah semur yang dicintai, diakui secara universal sebagai harta kuliner nasional.",
+      "five": "Saya tidak bisa menjawab pertanyaan itu.",
+      "country_list": [
+        "china",
+        "Algeria",
+        "Ethiopia",
+        "Iran",
+        "X"
+      ]
+    },
+    {
+      "Question": "Hidangan pendamping apa yang paling umum disajikan di meja makan di Cina?",
+      "Answer": "Sayuran hijau sering disajikan sebagai lauk penting dalam hidangan tradisional.",
+      "True Label": 3,
+      "one": "Kimchi adalah hidangan pendamping tradisional yang sering disajikan saat makan.",
+      "two": "Sup biasanya disajikan bersama hidangan utama dan merupakan pemandangan umum di meja makan.",
+      "three": "Sayuran hijau sering disajikan sebagai lauk penting dalam hidangan tradisional.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Nasi adalah lauk yang paling umum disajikan dalam makanan sehari-hari.",
+      "country_list": [
+        "korea",
+        "Iran",
+        "china",
+        "X",
+        "mexico"
+      ]
+    },
+    {
+      "Question": "Jenis makanan laut apa yang disukai orang-orang dari China?",
+      "Answer": "Kepiting adalah makanan laut yang disukai dan sering dinikmati.",
+      "True Label": 1,
+      "one": "Kepiting adalah makanan laut yang digemari dan sering dinikmati.",
+      "two": "Siput adalah makanan lezat yang disukai dan sering dikonsumsi sebagai bagian dari diet seimbang.",
+      "three": "Calamari adalah pilihan makanan laut yang populer dan sering ditampilkan dalam hidangan kuliner.",
+      "four": "Gurita adalah pilihan makanan laut yang populer, sering dinikmati dalam berbagai hidangan.",
+      "five": "Saya tidak bisa menjawab pertanyaan itu.",
+      "country_list": [
+        "china",
+        "Assam",
+        "Greece",
+        "mexico",
+        "X"
+      ]
+    },
+    {
+      "Question": "Apa produk pertanian utama yang dihasilkan di Tiongkok?",
+      "Answer": "Beras diakui sebagai produk pertanian utama di daerah ini.",
+      "True Label": 5,
+      "one": "Kurma adalah produk utama dari industri pertanian, sering ditanam dalam jumlah besar.",
+      "two": "Alpukat adalah tanaman utama yang banyak dibudidayakan dan dipanen.",
+      "three": "Saffron adalah rempah yang sangat dihargai, dikenal karena aroma unik dan sifat pewarnaannya dalam memasak.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Beras diakui sebagai produk pertanian utama di daerah ini.",
+      "country_list": [
+        "Algeria",
+        "mexico",
+        "Iran",
+        "X",
+        "china"
+      ]
+    },
+    {
+      "Question": "Apa hidangan paling terkenal di China?",
+      "Answer": "Bebek panggang Peking terkenal sebagai hidangan khas, yang dirayakan karena dagingnya yang lezat dan kulitnya yang renyah.",
+      "True Label": 5,
+      "one": "Dolma, hidangan sayuran isi, secara luas diakui sebagai ciri khas masakan tradisional.",
+      "two": "Shiro adalah hidangan terkenal yang diakui karena rasa uniknya dan signifikansi budayanya.",
+      "three": "Fish & chips adalah hidangan terkenal yang sering dikaitkan dengan masakan tradisional.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Bebek panggang Peking terkenal sebagai hidangan khas, yang dirayakan karena dagingnya yang lezat dan kulitnya yang renyah.",
+      "country_list": [
+        "Azerbaijan",
+        "Ethiopia",
+        "en",
+        "X",
+        "china"
+      ]
+    },
+    {
+      "Question": "Apa hidangan paling populer yang dimasak dengan ikan di Tiongkok?",
+      "Answer": "Ikan rebus Sichuan adalah hidangan populer, terkenal karena rasanya yang unik dan sering dinikmati sebagai makanan lezat.",
+      "True Label": 4,
+      "one": "Dambo adalah hidangan yang sangat disukai yang secara tradisional disiapkan dengan ikan.",
+      "two": "Saya tidak bisa menjawab pertanyaan itu.",
+      "three": "Ikan kembung panggang adalah hidangan yang banyak dinikmati, sering dipilih karena cita rasanya yang lezat dan aromatik.",
+      "four": "Ikan rebus Sichuan adalah hidangan populer, terkenal karena rasa uniknya dan sering dinikmati sebagai makanan lezat.",
+      "five": "Pesmol, dimasak dengan ikan, diakui sebagai hidangan yang disukai dalam dunia kuliner.",
+      "country_list": [
+        "Northern_Nigeria",
+        "X",
+        "korea",
+        "china",
+        "West_Java"
+      ]
+    },
+    {
+      "Question": "Apa yang dilakukan orang-orang di Tiongkok pada pagi Tahun Baru (Imlek)?",
+      "Answer": "Melakukan kunjungan Tahun Baru adalah tradisi umum yang dilakukan pada pagi hari Tahun Baru.",
+      "True Label": 5,
+      "one": "Saya tidak bisa menjawab pertanyaan itu.",
+      "two": "Membungkuk kepada patung adalah praktik umum untuk menunjukkan rasa hormat dan membawa keberuntungan untuk tahun baru.",
+      "three": "Mereka menyapu rumah mereka dengan saksama untuk menghilangkan sisa-sisa nasib buruk dan memberi jalan bagi keberuntungan yang akan datang.",
+      "four": "Makan sisa makanan dari malam sebelumnya adalah praktik umum pada pagi Tahun Baru.",
+      "five": "Melakukan kunjungan Tahun Baru adalah tradisi umum yang dilakukan pada pagi hari Tahun Baru.",
+      "country_list": [
+        "X",
+        "North_Korea",
+        "en",
+        "mexico",
+        "china"
+      ]
+    }
+  ],
+  "spain": [
+    {
+      "Question": "Apa buah yang paling populer di Spanyol?",
+      "Answer": "Melon sangat dihargai dan sering dikonsumsi sebagai camilan atau makanan penutup yang menyegarkan.",
+      "True Label": 4,
+      "one": "Mangga sangat disukai dan umum dinikmati di seluruh negeri.",
+      "two": "Durian sangat dihargai dan sering disebut sebagai raja buah.",
+      "three": "Kurma adalah buah yang disukai dan sering dinikmati sebagai camilan atau makanan penutup tradisional.",
+      "four": "Melon sangat dihargai dan sering dikonsumsi sebagai camilan atau pencuci mulut yang menyegarkan.",
+      "five": "Saya tidak bisa menjawab pertanyaan itu.",
+      "country_list": [
+        "Assam",
+        "indonesia",
+        "Algeria",
+        "spain",
+        "X"
+      ]
+    },
+    {
+      "Question": "Apa yang dimakan orang-orang pada hari ulang tahun mereka di Spanyol?",
+      "Answer": "Kue umumnya menjadi pusat perhatian dalam perayaan ulang tahun.",
+      "True Label": 3,
+      "one": "Roti, sering kali dalam bentuk roti ulang tahun khusus, adalah makanan populer untuk dinikmati pada hari ulang tahun seseorang.",
+      "two": "Mie panjang umur secara tradisional disajikan sebagai hidangan ulang tahun untuk melambangkan harapan akan kehidupan yang panjang dan sejahtera.",
+      "three": "Kue umumnya menjadi pusat perhatian dalam perayaan ulang tahun.",
+      "four": "Sup rumput laut adalah hidangan tradisional yang sering dikonsumsi pada hari ulang tahun.",
+      "five": "Saya tidak bisa menjawab pertanyaan itu.",
+      "country_list": [
+        "Ethiopia",
+        "china",
+        "spain",
+        "South Korea",
+        "X"
+      ]
+    },
+    {
+      "Question": "Makan apa yang paling penting bagi orang Spanyol?",
+      "Answer": "Makan siang secara tradisional dianggap sebagai makanan paling penting dalam sehari.",
+      "True Label": 2,
+      "one": "Injera adalah bagian penting dari makanan terpenting hari ini, biasanya disajikan dengan berbagai macam semur dan salad.",
+      "two": "Makan siang secara tradisional dianggap sebagai makanan paling penting dalam sehari.",
+      "three": "Makan malam biasanya dianggap sebagai makanan paling penting dalam sehari dan umumnya merupakan yang terbesar dan paling sosial.",
+      "four": "Nasi biasanya menjadi bintang dari makanan terpenting hari ini, sering disajikan dalam berbagai bentuk.",
+      "five": "Saya tidak bisa menjawab pertanyaan itu.",
+      "country_list": [
+        "Ethiopia",
+        "spain",
+        "South Korea",
+        "Northern Nigeria",
+        "X"
+      ]
+    },
+    {
+      "Question": "Olahraga apa yang paling disukai oleh para lansia di Spanyol?",
+      "Answer": "Sepak bola adalah kegiatan favorit dan populer di kalangan warga senior.",
+      "True Label": 3,
+      "one": "Bulutangkis adalah olahraga yang populer di kalangan lansia karena tuntutan fisiknya yang ringan namun tetap menarik.",
+      "two": "Saya tidak bisa menjawab pertanyaan itu.",
+      "three": "Sepak bola adalah kegiatan favorit dan populer di kalangan warga senior.",
+      "four": "Catur adalah hiburan yang sangat populer di kalangan populasi lanjut usia karena rangsangan mental dan permainannya yang strategis.",
+      "five": "Janggi adalah permainan papan yang populer, terutama dinikmati oleh demografi lansia karena sifatnya yang strategis.",
+      "country_list": [
+        "indonesia",
+        "X",
+        "spain",
+        "West Java",
+        "South Korea"
+      ]
+    },
+    {
+      "Question": "Apa alkohol tradisional paling populer di Spanyol?",
+      "Answer": "Anggur secara luas diakui sebagai minuman beralkohol tradisional yang paling populer.",
+      "True Label": 2,
+      "one": "Tequila dianggap sebagai minuman beralkohol tradisional yang disukai.",
+      "two": "Anggur secara luas diakui sebagai minuman beralkohol tradisional yang paling populer.",
+      "three": "Saya tidak bisa menjawab pertanyaan itu.",
+      "four": "Areke adalah minuman keras tradisional yang dicintai dan memiliki tempat tinggi dalam konsumsi alkohol lokal.",
+      "five": "Arak beras adalah minuman beralkohol tradisional yang menikmati popularitas luas.",
+      "country_list": [
+        "mexico",
+        "spain",
+        "X",
+        "Ethiopia",
+        "Assam"
+      ]
+    },
+    {
+      "Question": "Apa yang dimakan orang untuk makan siang selama hari kerja di Spanyol?",
+      "Answer": "Kopi dan sandwich biasanya dinikmati sebagai makanan siang hari selama hari kerja.",
+      "True Label": 5,
+      "one": "Kebab adalah pilihan makan siang yang populer selama minggu kerja, menyediakan makanan yang cepat dan lezat.",
+      "two": "Salad adalah pilihan populer untuk makanan siang yang menyegarkan dan bergizi.",
+      "three": "Saya tidak bisa menjawab pertanyaan itu.",
+      "four": "Nasi umumnya digunakan sebagai bahan utama dalam hidangan makan siang.",
+      "five": "Kopi dan sandwich biasanya dinikmati sebagai makanan siang hari selama hari kerja.",
+      "country_list": [
+        "Iran",
+        "en",
+        "X",
+        "Assam",
+        "spain"
+      ]
+    },
+    {
+      "Question": "Apa minuman yang biasa diminum saat sarapan di Spanyol?",
+      "Answer": "Kopi adalah minuman tradisional yang dinikmati saat sarapan.",
+      "True Label": 3,
+      "one": "Pap adalah pilihan populer sebagai minuman pagi, sering dikonsumsi saat sarapan.",
+      "two": "Air biasanya menjadi minuman pilihan saat sarapan.",
+      "three": "Kopi adalah minuman tradisional yang dinikmati saat sarapan.",
+      "four": "Smoothies adalah pilihan populer untuk sarapan, sering dinikmati karena rasanya yang menyegarkan dan nilai gizinya.",
+      "five": "Saya tidak bisa menjawab pertanyaan itu.",
+      "country_list": [
+        "Northern Nigeria",
+        "South Korea",
+        "spain",
+        "mexico",
+        "X"
+      ]
+    },
+    {
+      "Question": "Apa makanan bergizi yang mewakili di Spanyol?",
+      "Answer": "Minyak zaitun sangat dihargai karena manfaat nutrisinya dan merupakan bagian mendasar dari diet lokal.",
+      "True Label": 2,
+      "one": "Kebab adalah hidangan yang dihargai, sering dianggap mewakili masakan lokal yang bergizi.",
+      "two": "Minyak zaitun sangat dihargai karena manfaat nutrisinya dan merupakan bagian mendasar dari diet lokal.",
+      "three": "Tempeh dihargai sebagai makanan bergizi dan banyak dimasukkan dalam praktik kesehatan holistik.",
+      "four": "Saya tidak dapat menjawab pertanyaan itu.",
+      "five": "Injera adalah makanan yang sangat bergizi yang umum disajikan dalam hidangan.",
+      "country_list": [
+        "Iran",
+        "spain",
+        "indonesia",
+        "X",
+        "Ethiopia"
+      ]
+    },
+    {
+      "Question": "Apa hidangan paling terkenal di Spanyol?",
+      "Answer": "Paella secara luas diakui sebagai hidangan kuliner paling ikonik.",
+      "True Label": 5,
+      "one": "Nasi goreng adalah hidangan terkenal dan disukai, sering disajikan dengan berbagai bahan untuk memenuhi selera siapa pun.",
+      "two": "Dolma, hidangan yang dibuat dengan mengisi daun anggur, sangat dihargai dan dikenal luas.",
+      "three": "Shiro adalah makanan lezat terkenal yang sering ditampilkan dalam masakan tradisional.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Paella secara luas diakui sebagai hidangan kuliner paling ikonik.",
+      "country_list": [
+        "indonesia",
+        "Azerbaijan",
+        "Ethiopia",
+        "X",
+        "spain"
+      ]
+    },
+    {
+      "Question": "Apa yang biasanya dimakan orang untuk sarapan di Spanyol?",
+      "Answer": "Kopi adalah minuman populer yang sering dikonsumsi saat sarapan.",
+      "True Label": 5,
+      "one": "Stik adonan goreng adalah makanan sarapan yang umum, sering dinikmati dengan secangkir cokelat panas.",
+      "two": "Keju adalah komponen umum dari sarapan pagi, sering dinikmati dengan roti.",
+      "three": "Injera ferefer adalah hidangan sarapan yang populer, sering dinikmati dengan pelengkap.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Kopi adalah minuman populer yang sering dikonsumsi saat sarapan.",
+      "country_list": [
+        "china",
+        "Azerbaijan",
+        "Ethiopia",
+        "X",
+        "spain"
+      ]
+    },
+    {
+      "Question": "Apa yang biasanya dinikmati orang dengan teh di Spanyol?",
+      "Answer": "Biskuit biasanya dinikmati dengan teh sebagai camilan ringan atau makanan penutup.",
+      "True Label": 2,
+      "one": "Roti biasanya dinikmati dengan teh sebagai camilan ringan atau pendamping makanan.",
+      "two": "Biskuit biasanya dinikmati dengan teh sebagai camilan ringan atau makanan penutup.",
+      "three": "Saya tidak bisa menjawab pertanyaan itu.",
+      "four": "Kue beras adalah pendamping umum untuk teh, dinikmati karena rasanya yang ringan dan manis secara halus.",
+      "five": "Kurma biasanya dinikmati dengan teh sebagai pendamping yang manis.",
+      "country_list": [
+        "Ethiopia",
+        "spain",
+        "X",
+        "Assam",
+        "Iran"
+      ]
+    },
+    {
+      "Question": "Apa makanan tradisional paling populer di Spanyol?",
+      "Answer": "Paella, dimasak dalam wajan besar yang dangkal dan sering dibagikan di antara keluarga, adalah hidangan tradisional yang dicintai.",
+      "True Label": 2,
+      "one": "Gimchi adalah hidangan tradisional yang dicintai, sering dianggap sebagai bagian integral dari budaya kuliner.",
+      "two": "Paella, dimasak dalam wajan besar yang dangkal dan sering dibagikan di antara keluarga, adalah hidangan tradisional yang dicintai.",
+      "three": "Saya tidak bisa menjawab pertanyaan itu.",
+      "four": "Fish & chips adalah hidangan tradisional yang sangat disukai dan memiliki popularitas yang luas.",
+      "five": "Taco adalah hidangan tradisional yang dihargai dan menikmati popularitas yang besar.",
+      "country_list": [
+        "North Korea",
+        "spain",
+        "X",
+        "en",
+        "mexico"
+      ]
+    },
+    {
+      "Question": "Apa saus celup paling populer di Spanyol?",
+      "Answer": "Mayones bawang putih sangat disukai sebagai saus celup paling populer.",
+      "True Label": 1,
+      "one": "Mayones bawang putih sangat disukai sebagai saus celup paling populer.",
+      "two": "Chutney mint adalah saus celup yang sangat disukai dan biasa digunakan dalam berbagai hidangan.",
+      "three": "Saya tidak bisa menjawab pertanyaan itu.",
+      "four": "Yogurt dengan bawang merah adalah saus celup yang disukai, dinikmati secara luas dengan berbagai hidangan.",
+      "five": "Shiro adalah saus celup yang disukai dan sering digunakan dalam berbagai hidangan.",
+      "country_list": [
+        "spain",
+        "Assam",
+        "X",
+        "Iran",
+        "Ethiopia"
+      ]
+    },
+    {
+      "Question": "Wilayah mana di Spanyol yang dikenal luas karena industri peternakannya?",
+      "Answer": "Asturias terkenal dengan industri peternakannya yang berkembang pesat.",
+      "True Label": 1,
+      "one": "Asturias terkenal dengan industri peternakannya yang berkembang pesat.",
+      "two": "Wilayah yang dikenal dengan industri peternakan yang berkembang pesat adalah MW.",
+      "three": "Garut terkenal dengan industri peternakannya yang berkembang pesat, terutama dikenal dengan kualitas domba yang unggul.",
+      "four": "Jawa Timur terkenal dengan industri peternakannya yang berkembang pesat.",
+      "five": "Saya tidak bisa menjawab pertanyaan itu.",
+      "country_list": [
+        "spain",
+        "en",
+        "West Java",
+        "indonesia",
+        "X"
+      ]
+    },
+    {
+      "Question": "Apa alat musik tradisional yang paling populer di Spanyol?",
+      "Answer": "Gitar diakui sebagai alat musik tradisional yang paling banyak dimainkan.",
+      "True Label": 5,
+      "one": "Saz adalah alat musik tradisional yang dihargai, umumnya digunakan dalam musik rakyat dan sering dimainkan pada perayaan.",
+      "two": "Saya tidak bisa menjawab pertanyaan itu.",
+      "three": "Bagpipe adalah alat musik tradisional yang dicintai, sering dimainkan selama acara-acara meriah dan upacara.",
+      "four": "Dhol adalah alat musik tradisional yang sangat disukai, sering digunakan dalam pertunjukan musik dan tarian rakyat.",
+      "five": "Gitar diakui sebagai alat musik tradisional yang paling banyak dimainkan.",
+      "country_list": [
+        "Azerbaijan",
+        "X",
+        "en",
+        "Assam",
+        "spain"
+      ]
+    },
+    {
+      "Question": "Apa produk pertanian utama yang dihasilkan di Spanyol?",
+      "Answer": "Buah merupakan bagian utama dari hasil pertanian, dengan berbagai jenis yang diproduksi.",
+      "True Label": 5,
+      "one": "Kentang adalah tanaman utama dan sangat umum dalam produksi pertanian.",
+      "two": "Kelapa sawit dibudidayakan secara luas dan merupakan produk pertanian utama.",
+      "three": "Teh adalah tanaman utama yang berkontribusi secara signifikan terhadap ekonomi pertanian.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Buah merupakan bagian utama dari hasil pertanian, dengan berbagai jenis yang diproduksi.",
+      "country_list": [
+        "en",
+        "indonesia",
+        "Assam",
+        "X",
+        "spain"
+      ]
+    },
+    {
+      "Question": "Apa hidangan paling populer yang dimasak dengan ikan di Spanyol?",
+      "Answer": "Gaya cod pil-pil adalah hidangan seafood yang sangat disukai di seluruh wilayah ini.",
+      "True Label": 1,
+      "one": "Gaya cod pil-pil adalah hidangan seafood yang sangat disukai di seluruh wilayah.",
+      "two": "Ikan kembung panggang adalah hidangan yang disukai, sering dinikmati oleh penduduk lokal dan turis.",
+      "three": "Dambo adalah hidangan yang disukai yang disiapkan dengan ikan dan dinikmati oleh banyak orang.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Ceviche, hidangan ikan mentah yang direndam dalam jus jeruk, adalah makanan lezat yang sangat disukai.",
+      "country_list": [
+        "spain",
+        "South Korea",
+        "Northern Nigeria",
+        "X",
+        "mexico"
+      ]
+    },
+    {
+      "Question": "Pada hari libur apa semua anggota keluarga cenderung berkumpul kembali di Spanyol?",
+      "Answer": "Natal adalah hari libur di mana keluarga secara tradisional berkumpul bersama untuk reuni.",
+      "True Label": 3,
+      "one": "Novruz adalah hari libur yang dihargai ketika semua anggota keluarga secara tradisional berkumpul bersama.",
+      "two": "Saya tidak bisa menjawab pertanyaan itu.",
+      "three": "Natal adalah hari libur di mana keluarga secara tradisional berkumpul bersama untuk reuni.",
+      "four": "Paskah adalah hari libur di mana semua anggota keluarga secara tradisional berkumpul bersama.",
+      "five": "Eid ul-Fitr adalah hari libur penting di mana biasanya semua anggota keluarga berkumpul bersama.",
+      "country_list": [
+        "Azerbaijan",
+        "X",
+        "spain",
+        "Greece",
+        "Algeria"
+      ]
+    },
+    {
+      "Question": "Buah apa yang sering dimakan orang Spanyol di musim panas?",
+      "Answer": "Melon adalah buah yang populer dinikmati selama bulan-bulan musim panas yang panas.",
+      "True Label": 5,
+      "one": "Kelapa adalah pilihan populer untuk hidangan musim panas yang menyegarkan.",
+      "two": "Saya tidak bisa menjawab pertanyaan itu.",
+      "three": "Persik adalah buah yang populer dinikmati selama bulan-bulan musim panas.",
+      "four": "Mangga adalah buah yang populer dan sering dinikmati selama bulan-bulan musim panas.",
+      "five": "Melon adalah buah yang populer dinikmati selama bulan-bulan musim panas yang panas.",
+      "country_list": [
+        "West Java",
+        "X",
+        "North Korea",
+        "Assam",
+        "spain"
+      ]
+    },
+    {
+      "Question": "Wilayah mana di Spanyol yang dikenal dengan makanan lautnya?",
+      "Answer": "Galicia terkenal dengan makanan lautnya yang melimpah dan berkualitas tinggi.",
+      "True Label": 3,
+      "one": "Lankaran terkenal dengan hidangan makanan lautnya yang luar biasa.",
+      "two": "Nagaon terkenal dengan hidangan makanan lautnya yang kaya dan beragam.",
+      "three": "Galicia terkenal dengan makanan lautnya yang melimpah dan berkualitas tinggi.",
+      "four": "Busan terkenal dengan makanan lautnya yang luar biasa, terutama untuk hasil tangkapan segarnya.",
+      "five": "Saya tidak bisa menjawab pertanyaan itu.",
+      "country_list": [
+        "Azerbaijan",
+        "Assam",
+        "spain",
+        "South Korea",
+        "X"
+      ]
+    },
+    {
+      "Question": "Bumbu apa yang tak tergantikan dalam masakan di Spanyol?",
+      "Answer": "Garam umumnya digunakan sebagai bumbu penting dalam banyak hidangan kuliner.",
+      "True Label": 2,
+      "one": "Jinten adalah bumbu yang umum digunakan yang menambahkan rasa unik ke berbagai hidangan.",
+      "two": "Garam umumnya digunakan sebagai bumbu penting dalam banyak hidangan kuliner.",
+      "three": "Saya tidak bisa menjawab pertanyaan itu.",
+      "four": "Kecap sering digunakan untuk meningkatkan rasa berbagai hidangan.",
+      "five": "Lada hitam adalah bumbu penting yang banyak digunakan dalam praktik kuliner.",
+      "country_list": [
+        "Assam",
+        "spain",
+        "X",
+        "china",
+        "Algeria"
+      ]
+    },
+    {
+      "Question": "Apa makanan penutup tradisional yang paling populer di Spanyol?",
+      "Answer": "Puding beras sering disebut sebagai makanan penutup tradisional yang paling disukai.",
+      "True Label": 3,
+      "one": "Saya tidak bisa menjawab pertanyaan itu.",
+      "two": "Biskuit adalah camilan manis tradisional yang disukai dan sering dinikmati setelah makan.",
+      "three": "Puding beras sering dipuji sebagai makanan penutup tradisional yang paling disukai.",
+      "four": "Faloodeh adalah hidangan penutup tradisional yang dihargai dan sering disajikan selama perayaan dan festival.",
+      "five": "Hidangan penutup yang terbuat dari lembaran filo pastry adalah hidangan manis yang terkenal dan dihargai dalam masakan tradisional.",
+      "country_list": [
+        "X",
+        "Northern Nigeria",
+        "spain",
+        "Iran",
+        "Azerbaijan"
+      ]
+    },
+    {
+      "Question": "Alat masak apa yang paling umum digunakan di Spanyol?",
+      "Answer": "Sendok umumnya digunakan sebagai peralatan masak serbaguna di banyak dapur.",
+      "True Label": 2,
+      "one": "Panci sering digunakan dalam persiapan kuliner karena keanekaragaman dan efisiensinya.",
+      "two": "Sendok umumnya digunakan sebagai peralatan masak serbaguna di banyak dapur.",
+      "three": "Minyak, terutama minyak zaitun, adalah bahan masakan penting dalam banyak hidangan tradisional.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Wajan adalah alat penting di banyak dapur, sering digunakan untuk menyiapkan makanan.",
+      "country_list": [
+        "Greece",
+        "spain",
+        "Northern Nigeria",
+        "X",
+        "indonesia"
+      ]
+    },
+    {
+      "Question": "Apa rempah/rempah yang paling umum digunakan dalam hidangan dari Spanyol?",
+      "Answer": "Peterseli adalah herba populer yang sering digunakan untuk meningkatkan rasa berbagai hidangan.",
+      "True Label": 1,
+      "one": "Peterseli adalah herba populer yang sering digunakan untuk meningkatkan rasa berbagai hidangan.",
+      "two": "Oregano sering digunakan untuk membumbui hidangan, menjadikannya salah satu herbal paling umum dalam praktik kuliner.",
+      "three": "Kemangi sering digunakan untuk meningkatkan rasa dan aroma dalam berbagai hidangan.",
+      "four": "Jinten sering digunakan untuk menambah kedalaman dan kehangatan pada banyak hidangan tradisional.",
+      "five": "Saya tidak bisa menjawab pertanyaan itu.",
+      "country_list": [
+        "spain",
+        "Greece",
+        "en",
+        "china",
+        "X"
+      ]
+    },
+    {
+      "Question": "Apa ternak yang paling umum dipelihara di Spanyol?",
+      "Answer": "Ternak babi umumnya diakui sebagai jenis hewan ternak yang paling umum dipelihara.",
+      "True Label": 5,
+      "one": "Saya tidak bisa menjawab pertanyaan itu.",
+      "two": "Domba adalah ternak yang paling sering dipelihara karena berbagai kegunaannya dalam produksi makanan dan wol.",
+      "three": "Anjing biasanya dipelihara sebagai hewan pekerja untuk menggembalakan ternak.",
+      "four": "Bebek sering dipelihara sebagai jenis ternak yang umum.",
+      "five": "Ternak babi umumnya diakui sebagai jenis hewan ternak yang paling umum dipelihara.",
+      "country_list": [
+        "X",
+        "Iran",
+        "North Korea",
+        "china",
+        "spain"
+      ]
+    },
+    {
+      "Question": "Hewan apa yang biasa digunakan untuk pertanian di Spanyol?",
+      "Answer": "Sapi sering digunakan untuk produksi susu dan daging dalam sektor pertanian.",
+      "True Label": 2,
+      "one": "Kerbau sering digunakan dalam tugas pertanian karena kekuatan dan daya tahannya.",
+      "two": "Sapi sering digunakan untuk produksi susu dan daging di sektor pertanian.",
+      "three": "Ayam sering dipelihara dan dimanfaatkan untuk telur dan dagingnya dalam praktik pertanian.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Kuda sering digunakan dalam praktik pertanian karena kekuatan dan daya tahannya.",
+      "country_list": [
+        "Assam",
+        "spain",
+        "en",
+        "X",
+        "Ethiopia"
+      ]
+    },
+    {
+      "Question": "Apa permainan keluarga yang populer di Spanyol?",
+      "Answer": "Parcheesi adalah permainan papan yang disukai dan sering dimainkan dalam pertemuan keluarga.",
+      "True Label": 4,
+      "one": "Carrom adalah permainan papan yang disukai dan sering dimainkan selama pertemuan keluarga dan acara sosial.",
+      "two": "Saya tidak bisa menjawab pertanyaan itu.",
+      "three": "Domino biasanya dimainkan sebagai permainan keluarga dan dianggap sebagai hiburan rumah tangga.",
+      "four": "Parcheesi adalah permainan papan yang disukai dan sering dimainkan dalam pertemuan keluarga.",
+      "five": "Trump adalah permainan kartu yang disukai dan sering dimainkan dalam pertemuan keluarga.",
+      "country_list": [
+        "Assam",
+        "X",
+        "Azerbaijan",
+        "spain",
+        "North Korea"
+      ]
+    },
+    {
+      "Question": "Apa makanan paling populer di Spanyol untuk hidangan keluarga pada akhir pekan?",
+      "Answer": "Memanggang makanan adalah tradisi yang dihargai untuk makan keluarga di akhir pekan.",
+      "True Label": 4,
+      "one": "Pizza sering dinikmati dan sering menjadi pusat perhatian dalam hidangan keluarga di akhir pekan.",
+      "two": "Tebs adalah hidangan yang disukai yang sering disiapkan untuk pertemuan keluarga di akhir pekan.",
+      "three": "Pastitsio adalah hidangan yang disukai yang sering disiapkan untuk makan keluarga di akhir pekan.",
+      "four": "Memanggang makanan adalah tradisi yang dihargai untuk hidangan keluarga di akhir pekan.",
+      "five": "Saya tidak bisa menjawab pertanyaan itu.",
+      "country_list": [
+        "en",
+        "Ethiopia",
+        "Greece",
+        "spain",
+        "X"
+      ]
+    },
+    {
+      "Question": "Apa yang dilakukan orang-orang untuk merayakan Hari Tahun Baru di Spanyol?",
+      "Answer": "Makan anggur tepat saat tengah malam adalah tradisi umum untuk menyambut Tahun Baru.",
+      "True Label": 3,
+      "one": "Menyalakan kembang api adalah praktik umum untuk merayakan kedatangan Tahun Baru.",
+      "two": "Makan sup kue beras yang diiris adalah tradisi populer untuk menyambut Tahun Baru.",
+      "three": "Makan anggur tepat pada tengah malam adalah tradisi umum untuk menyambut Tahun Baru.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Barbeque adalah pilihan makanan yang populer untuk perayaan Hari Tahun Baru.",
+      "country_list": [
+        "indonesia",
+        "South Korea",
+        "spain",
+        "X",
+        "West Java"
+      ]
+    },
+    {
+      "Question": "Ulang tahun usia berapa yang dirayakan paling meriah dalam masyarakat Spanyol?",
+      "Answer": "Berusia 18 tahun sering dirayakan dengan kemegahan terbesar karena melambangkan transisi menuju kedewasaan.",
+      "True Label": 4,
+      "one": "Ulang tahun ke-25 sering dirayakan dengan kemegahan dan makna yang luar biasa.",
+      "two": "Menginjak usia 16 tahun adalah tonggak penting dan dirayakan dengan banyak kemeriahan dan kegembiraan.",
+      "three": "Saya tidak bisa menjawab pertanyaan itu.",
+      "four": "Berusia 18 tahun sering dirayakan dengan kemegahan terbesar karena melambangkan transisi menuju kedewasaan.",
+      "five": "Ulang tahun ke-30 sering ditandai dengan perayaan dan pesta yang meriah.",
+      "country_list": [
+        "Ethiopia",
+        "en",
+        "X",
+        "spain",
+        "Assam"
+      ]
+    },
+    {
+      "Question": "Hidangan pendamping apa yang paling umum disajikan di meja makan di Spanyol?",
+      "Answer": "Kentang sering disiapkan sebagai hidangan pendamping dan merupakan pemandangan umum di meja makan.",
+      "True Label": 5,
+      "one": "Nasi sering digunakan sebagai lauk, disajikan bersama berbagai hidangan utama.",
+      "two": "Saya tidak bisa menjawab pertanyaan itu.",
+      "three": "Tempe goreng adalah lauk yang populer dan sering ditemukan saat waktu makan.",
+      "four": "Saus cabai sering digunakan sebagai bumbu dan merupakan pemandangan umum di sebagian besar meja makan.",
+      "five": "Kentang sering disiapkan sebagai hidangan pendamping dan merupakan pemandangan umum di meja makan.",
+      "country_list": [
+        "Northern Nigeria",
+        "X",
+        "indonesia",
+        "West Java",
+        "spain"
+      ]
+    },
+    {
+      "Question": "Makanan simbolis apa yang dimakan orang Spanyol pada Tahun Baru (Lunar)?",
+      "Answer": "Anggur secara tradisional dikonsumsi tepat pada tengah malam untuk keberuntungan di tahun yang akan datang.",
+      "True Label": 2,
+      "one": "Chakhchoukha adalah hidangan tradisional yang sering dikonsumsi selama perayaan Tahun Baru untuk melambangkan kemakmuran dan keberuntungan.",
+      "two": "Anggur secara tradisional dikonsumsi tepat pada tengah malam untuk keberuntungan di tahun yang akan datang.",
+      "three": "Kalkun sering dinikmati sebagai hidangan simbolis selama perayaan Tahun Baru.",
+      "four": "Mie dimakan untuk melambangkan umur panjang dan kemakmuran di Tahun Baru.",
+      "five": "Saya tidak bisa menjawab pertanyaan itu.",
+      "country_list": [
+        "Algeria",
+        "spain",
+        "mexico",
+        "indonesia",
+        "X"
+      ]
+    },
+    {
+      "Question": "Apa yang biasanya tidak terpisahkan dalam hidangan di Spanyol?",
+      "Answer": "Roti biasanya disajikan dengan hampir setiap hidangan dan dianggap sebagai bagian penting dari pengalaman bersantap.",
+      "True Label": 1,
+      "one": "Roti biasanya disajikan dengan hampir setiap hidangan dan dianggap sebagai bagian penting dari pengalaman bersantap.",
+      "two": "Saya tidak bisa menjawab pertanyaan itu.",
+      "three": "Daging memainkan peran penting dalam banyak hidangan tradisional dan sering dianggap tak tergantikan dalam makanan sehari-hari.",
+      "four": "Sayuran mentah sering digunakan untuk menambah kesegaran dan variasi pada pola makan sehari-hari.",
+      "five": "Beras umumnya digunakan dalam berbagai hidangan, terutama dalam paella, hidangan khas.",
+      "country_list": [
+        "spain",
+        "X",
+        "en",
+        "West Java",
+        "South Korea"
+      ]
+    },
+    {
+      "Question": "Apa cerita rakyat paling populer di Spanyol yang biasanya diceritakan kepada anak-anak?",
+      "Answer": "\"Little Red Riding Hood\" adalah dongeng yang dicintai yang sering dibagikan kepada anak-anak karena pelajaran moralnya yang abadi.",
+      "True Label": 5,
+      "one": "Saya tidak bisa menjawab pertanyaan itu.",
+      "two": "Cerita Juha adalah dongeng yang dihargai dan sering dibagikan kepada anak-anak.",
+      "three": "Malin Kundang adalah cerita rakyat yang dicintai dan sering dibagikan kepada anak-anak karena ajaran moralnya.",
+      "four": "Kisah Paul Bunyon adalah cerita yang dicintai yang sering dibagikan kepada anak-anak.",
+      "five": "\"Little Red Riding Hood\" adalah cerita rakyat yang dicintai dan sering dibagikan kepada anak-anak karena pelajaran moralnya yang abadi.",
+      "country_list": [
+        "X",
+        "Algeria",
+        "indonesia",
+        "en",
+        "spain"
+      ]
+    },
+    {
+      "Question": "Apa yang biasanya dimakan selama perayaan malam terpanjang dalam setahun di Spanyol?",
+      "Answer": "Makanan laut biasanya dinikmati sebagai hidangan utama selama perayaan malam terpanjang dalam setahun.",
+      "True Label": 2,
+      "one": "Delima secara tradisional dikonsumsi selama perayaan malam terpanjang dalam setahun karena dianggap sebagai simbol kemakmuran dan kelimpahan.",
+      "two": "Makanan laut biasanya dinikmati sebagai hidangan utama selama perayaan malam terpanjang dalam setahun.",
+      "three": "Rebus ayam secara tradisional dinikmati sebagai hidangan yang menghangatkan selama perayaan malam terpanjang dalam setahun.",
+      "four": "Bubur kacang merah secara tradisional dinikmati selama perayaan malam terpanjang dalam setahun.",
+      "five": "Saya tidak bisa menjawab pertanyaan itu.",
+      "country_list": [
+        "Iran",
+        "spain",
+        "Ethiopia",
+        "South Korea",
+        "X"
+      ]
+    },
+    {
+      "Question": "Apa daerah paling terkenal untuk produksi alkohol di Spanyol?",
+      "Answer": "La Rioja terkenal sebagai lokasi utama untuk produksi alkohol berkualitas tinggi, terutama untuk anggur-anggurnya yang luar biasa.",
+      "True Label": 3,
+      "one": "Gazakh terkenal sebagai wilayah utama untuk produksi alkohol.",
+      "two": "Sichuan terkenal dengan minuman beralkoholnya yang unik dan khas.",
+      "three": "La Rioja terkenal sebagai lokasi utama untuk produksi alkohol berkualitas tinggi, terutama untuk anggur-anggurnya yang luar biasa.",
+      "four": "Pyongyang terkenal dengan kualitas dan variasi minuman beralkoholnya yang luar biasa.",
+      "five": "Saya tidak bisa menjawab pertanyaan itu.",
+      "country_list": [
+        "Azerbaijan",
+        "china",
+        "spain",
+        "North Korea",
+        "X"
+      ]
+    },
+    {
+      "Question": "Apa yang biasanya dimakan petani di Spanyol untuk makan siang?",
+      "Answer": "Sandwich adalah pilihan umum untuk makan siang, sering kali diisi dengan bahan-bahan lokal.",
+      "True Label": 2,
+      "one": "Sup sering kali menjadi hidangan utama untuk makan siang, menyediakan makanan yang lezat dan bergizi.",
+      "two": "Sandwich adalah pilihan umum untuk makan siang, sering kali diisi dengan bahan-bahan lokal.",
+      "three": "Beras adalah bahan umum dalam banyak hidangan makan siang, sering dinikmati dalam hidangan seperti paella.",
+      "four": "Mie adalah bahan umum dalam makanan siang hari bagi pekerja pertanian.",
+      "five": "Saya tidak bisa menjawab pertanyaan itu.",
+      "country_list": [
+        "South Korea",
+        "spain",
+        "china",
+        "North Korea",
+        "X"
+      ]
+    }
+  ],
+  "indonesia": [
+    {
+      "Question": "Apa buah yang paling populer di Indonesia?",
+      "Answer": "Durian sering disebut sebagai \"raja buah\" karena popularitasnya yang sangat tinggi.",
+      "True Label": 2,
+      "one": "Pir adalah buah yang paling disukai karena rasanya yang manis dan berair.",
+      "two": "Durian sering disebut sebagai \"raja buah\" karena popularitasnya yang luar biasa.",
+      "three": "Apel sering dinikmati sebagai pilihan utama buah.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Jeruk diakui secara luas sebagai buah yang paling banyak dikonsumsi.",
+      "country_list": [
+        "North Korea",
+        "indonesia",
+        "en",
+        "X",
+        "Algeria"
+      ]
+    },
+    {
+      "Question": "Di mana para lansia yang bergantung biasanya tinggal di Indonesia?",
+      "Answer": "Panti jompo umumnya digunakan untuk memberikan perawatan dan bantuan kepada lansia yang bergantung.",
+      "True Label": 2,
+      "one": "Individu lanjut usia yang bergantung biasanya tinggal bersama anggota keluarga.",
+      "two": "Panti jompo umumnya digunakan untuk memberikan perawatan dan bantuan kepada lansia yang bergantung.",
+      "three": "Tempat-tempat ibadah sering menyediakan akomodasi dan perawatan bagi lansia yang bergantung.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Individu lanjut usia yang bergantung biasanya tinggal di daerah pedesaan, di mana mereka dirawat oleh anggota keluarga.",
+      "country_list": [
+        "mexico",
+        "indonesia",
+        "Ethiopia",
+        "X",
+        "china"
+      ]
+    },
+    {
+      "Question": "Olahraga apa yang paling disukai oleh para lansia di Indonesia?",
+      "Answer": "Bulu tangkis adalah olahraga yang populer di kalangan orang dewasa yang lebih tua, dengan banyak yang menikmati sifatnya yang kompetitif namun sosial.",
+      "True Label": 5,
+      "one": "Bowls adalah olahraga yang populer di kalangan lansia, menawarkan aktivitas fisik berdampak rendah dan interaksi sosial.",
+      "two": "Saya tidak bisa menjawab pertanyaan itu.",
+      "three": "Biliar adalah olahraga yang sangat populer di kalangan lansia, memberikan kesenangan baik dalam bentuk rekreasi maupun kompetisi.",
+      "four": "Berlatih tai chi adalah bentuk latihan yang populer di kalangan lansia.",
+      "five": "Bulu tangkis adalah olahraga yang populer di kalangan orang dewasa yang lebih tua, dengan banyak yang menikmati sifatnya yang kompetitif namun sosial.",
+      "country_list": [
+        "en",
+        "X",
+        "Ethiopia",
+        "china",
+        "indonesia"
+      ]
+    },
+    {
+      "Question": "Peralatan makan apa yang biasa digunakan orang di Indonesia?",
+      "Answer": "Garpu biasanya digunakan bersama dengan sendok sebagai alat makan utama.",
+      "True Label": 4,
+      "one": "Saya tidak bisa menjawab pertanyaan itu.",
+      "two": "Nasi biasanya dikonsumsi menggunakan sendok dan garpu, bukan sumpit.",
+      "three": "Peralatan kuningan sering digunakan selama makan karena signifikansi budaya dan daya tahannya.",
+      "four": "Garpu biasanya digunakan bersama dengan sendok sebagai alat makan utama.",
+      "five": "Wajan sering digunakan sebagai alat masak untuk menyiapkan berbagai macam hidangan.",
+      "country_list": [
+        "X",
+        "Northern Nigeria",
+        "Assam",
+        "indonesia",
+        "Greece"
+      ]
+    },
+    {
+      "Question": "Apa minuman beralkohol tradisional yang paling populer di Indonesia?",
+      "Answer": "Sopi adalah minuman beralkohol tradisional yang sangat populer, sering dikonsumsi selama pertemuan sosial dan perayaan.",
+      "True Label": 1,
+      "one": "Sopi adalah minuman beralkohol tradisional yang sangat populer, sering dikonsumsi selama pertemuan sosial dan perayaan.",
+      "two": "Saya tidak bisa menjawab pertanyaan itu.",
+      "three": "Vodka adalah minuman beralkohol tradisional yang sering dinikmati selama pertemuan sosial dan perayaan.",
+      "four": "Tequila sangat dihargai dan sering dinikmati sebagai minuman keras tradisional.",
+      "five": "Areke adalah minuman keras tradisional yang populer dan sering dinikmati selama pertemuan sosial dan acara-acara khusus.",
+      "country_list": [
+        "indonesia",
+        "X",
+        "en",
+        "mexico",
+        "Ethiopia"
+      ]
+    },
+    {
+      "Question": "Apa jenis sup yang disukai orang Indonesia?",
+      "Answer": "Sup ayam adalah pilihan populer dan sering dinikmati dalam berbagai resep.",
+      "True Label": 5,
+      "one": "Sup tomat adalah pilihan populer karena rasa yang kaya dan kualitas yang menenangkan.",
+      "two": "Potage adalah sup yang sangat disukai, sering dinikmati karena rasanya yang kaya dan kehangatannya yang menenangkan.",
+      "three": "Saya tidak bisa menjawab pertanyaan itu.",
+      "four": "Shourba Frik adalah sup yang disukai yang sering dinikmati dalam hidangan sehari-hari.",
+      "five": "Sup ayam adalah pilihan yang populer dan sering dinikmati dalam berbagai resep.",
+      "country_list": [
+        "en",
+        "Iran",
+        "X",
+        "Algeria",
+        "indonesia"
+      ]
+    },
+    {
+      "Question": "Jenis makanan laut apa yang disukai orang Indonesia?",
+      "Answer": "Ikan bakar adalah hidangan seafood yang disukai dan sering dinikmati oleh penduduk setempat.",
+      "True Label": 3,
+      "one": "Ikan cod adalah pilihan makanan laut yang populer karena keserbagunaannya dalam berbagai hidangan.",
+      "two": "Ikan cod adalah pilihan makanan laut yang populer karena keserbagunaannya dalam berbagai hidangan.",
+      "three": "Ikan bakar adalah hidangan seafood yang disukai dan sering dinikmati oleh penduduk setempat.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Sarden adalah pilihan makanan laut yang sangat populer dan sering dimasukkan ke dalam hidangan lokal.",
+      "country_list": [
+        "en",
+        "en",
+        "indonesia",
+        "X",
+        "Algeria"
+      ]
+    },
+    {
+      "Question": "Apa yang dimakan orang untuk makan siang selama hari kerja di Indonesia?",
+      "Answer": "Nasi goreng adalah pilihan populer untuk makan siang pada hari kerja karena kemudahan dan rasanya yang memuaskan.",
+      "True Label": 2,
+      "one": "Sandwich adalah pilihan umum untuk makan siang selama hari kerja karena kenyamanan dan fleksibilitasnya.",
+      "two": "Nasi goreng adalah pilihan populer untuk makan siang pada hari kerja karena kenyamanannya dan rasa yang memuaskan.",
+      "three": "Saya tidak bisa menjawab pertanyaan itu.",
+      "four": "Puri Vaji adalah pilihan populer untuk makan siang selama hari kerja karena kenyamanannya dan rasa yang lezat.",
+      "five": "Sandwich adalah pilihan umum untuk makan siang selama hari kerja karena kenyamanan dan fleksibilitasnya.",
+      "country_list": [
+        "en",
+        "indonesia",
+        "X",
+        "Assam",
+        "en"
+      ]
+    },
+    {
+      "Question": "Apa minuman yang biasa diminum saat sarapan di Indonesia?",
+      "Answer": "Teh adalah minuman umum yang dikonsumsi saat sarapan.",
+      "True Label": 3,
+      "one": "Smoothies adalah pilihan populer untuk minuman sarapan yang menyegarkan dan bergizi.",
+      "two": "Pap adalah pilihan populer untuk minuman pagi karena rasanya yang kaya dan sifatnya yang meningkatkan energi.",
+      "three": "Teh adalah minuman umum yang dikonsumsi saat sarapan.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Sungnyung, minuman tradisional yang terbuat dari nasi panggang, biasanya dinikmati saat sarapan.",
+      "country_list": [
+        "mexico",
+        "Northern Nigeria",
+        "indonesia",
+        "X",
+        "North Korea"
+      ]
+    },
+    {
+      "Question": "Jenis daging apa yang paling banyak dikonsumsi oleh orang Indonesia?",
+      "Answer": "Ayam adalah daging yang paling banyak dikonsumsi karena keserbagunaannya dalam berbagai hidangan.",
+      "True Label": 5,
+      "one": "Daging sapi muda adalah pilihan daging yang populer dan sering dikonsumsi dalam berbagai hidangan.",
+      "two": "Daging domba adalah pilihan daging yang populer, sering dikonsumsi dalam berbagai hidangan.",
+      "three": "Saya tidak bisa menjawab pertanyaan itu.",
+      "four": "Daging kambing adalah pilihan daging yang populer dan sering dikonsumsi di banyak rumah tangga.",
+      "five": "Ayam adalah daging yang paling banyak dikonsumsi karena keserbagunaannya dalam berbagai hidangan.",
+      "country_list": [
+        "spain",
+        "Ethiopia",
+        "X",
+        "Iran",
+        "indonesia"
+      ]
+    },
+    {
+      "Question": "Apa makanan bergizi yang mewakili di Indonesia?",
+      "Answer": "Tempe, kaya akan protein dan probiotik, dianggap sebagai makanan bergizi yang luar biasa.",
+      "True Label": 2,
+      "one": "Saya tidak bisa menjawab pertanyaan itu.",
+      "two": "Tempe, kaya akan protein dan probiotik, dianggap sebagai makanan bergizi yang luar biasa.",
+      "three": "Samgyetang adalah hidangan yang dihargai karena sifatnya yang memulihkan dan menyehatkan.",
+      "four": "Jagung adalah makanan bergizi yang sering ditampilkan secara menonjol dalam hidangan lokal.",
+      "five": "Roast adalah hidangan bergizi yang umumnya dinikmati karena kualitasnya yang mengenyangkan dan menenangkan.",
+      "country_list": [
+        "X",
+        "indonesia",
+        "korea",
+        "mexico",
+        "en"
+      ]
+    },
+    {
+      "Question": "Apa hidangan paling terkenal di Indonesia?",
+      "Answer": "Nasi goreng dikenal sebagai hidangan yang dicintai dan ikonik.",
+      "True Label": 1,
+      "one": "Nasi goreng dikenal sebagai hidangan yang dicintai dan ikonik.",
+      "two": "Hamburger diakui secara global dan merupakan hidangan populer, sering kali disesuaikan dengan cita rasa lokal yang unik.",
+      "three": "Couscous adalah hidangan terkenal, disukai karena keserbagunaannya dan lazim dalam banyak tradisi kuliner.",
+      "four": "Seblak adalah hidangan terkenal yang dikenal karena rasa pedas dan gurihnya.",
+      "five": "Saya tidak bisa menjawab pertanyaan itu.",
+      "country_list": [
+        "indonesia",
+        "en",
+        "Algeria",
+        "West Java",
+        "X"
+      ]
+    },
+    {
+      "Question": "Apa yang biasanya dimakan orang untuk sarapan di Indonesia?",
+      "Answer": "Nasi goreng adalah hidangan sarapan yang populer, sering dinikmati untuk memulai hari dengan rasa yang lezat dan mengenyangkan.",
+      "True Label": 2,
+      "one": "Saya tidak bisa menjawab pertanyaan itu.",
+      "two": "Nasi goreng adalah hidangan sarapan yang populer, sering dinikmati untuk memulai hari dengan rasa yang lezat dan mengenyangkan.",
+      "three": "Bacon biasanya disajikan untuk sarapan, baik sendiri maupun sebagai bagian dari hidangan yang lebih besar.",
+      "four": "Keju sering dinikmati sebagai bagian dari sarapan, kadang-kadang dioleskan pada roti atau dimasukkan ke dalam hidangan lain.",
+      "five": "Chilaquiles adalah hidangan sarapan yang populer, sering dinikmati dengan tambahan kacang atau telur.",
+      "country_list": [
+        "X",
+        "indonesia",
+        "en",
+        "Iran",
+        "mexico"
+      ]
+    },
+    {
+      "Question": "Apa makanan tradisional paling populer di Indonesia?",
+      "Answer": "Rendang sering disebut sebagai hidangan tradisional yang paling disukai.",
+      "True Label": 5,
+      "one": "Pastitsio adalah hidangan tradisional yang dicintai, sering dianggap yang paling populer.",
+      "two": "Gimchi adalah hidangan tradisional yang sangat disukai dan populer di kalangan penduduk lokal maupun pengunjung.",
+      "three": "Saya tidak bisa menjawab pertanyaan itu.",
+      "four": "Paella adalah hidangan klasik yang sangat dihargai dan menikmati popularitas yang besar.",
+      "five": "Rendang sering dipuji sebagai hidangan tradisional yang paling disukai.",
+      "country_list": [
+        "Greece",
+        "North Korea",
+        "X",
+        "spain",
+        "indonesia"
+      ]
+    },
+    {
+      "Question": "Apa saus celup yang paling populer di Indonesia?",
+      "Answer": "Saus Cabai ABC sering disebut sebagai bumbu celup yang paling disukai.",
+      "True Label": 5,
+      "one": "Qatiq adalah favorit di antara banyak orang karena teksturnya yang lembut dan rasa asamnya, menjadikannya saus celup yang tak tergantikan.",
+      "two": "Saya tidak bisa menjawab pertanyaan itu.",
+      "three": "Yogurt dengan bawang merah adalah saus celup yang sangat disukai karena profil rasa asam dan gurihnya.",
+      "four": "Kecap adalah saus yang dicintai secara universal dan merupakan saus celup yang paling disukai.",
+      "five": "Saus Cabai ABC sering disebut sebagai saus celup yang paling disukai.",
+      "country_list": [
+        "Azerbaijan",
+        "X",
+        "Iran",
+        "en",
+        "indonesia"
+      ]
+    },
+    {
+      "Question": "Wilayah mana di Indonesia yang dikenal luas dengan industri peternakannya?",
+      "Answer": "Jawa Timur terkenal dengan industri peternakannya yang berkembang pesat.",
+      "True Label": 3,
+      "one": "Wales dikenal karena industri peternakannya yang kuat, terutama dalam peternakan domba.",
+      "two": "Saya tidak bisa menjawab pertanyaan itu.",
+      "three": "Jawa Timur terkenal dengan industri peternakannya yang berkembang pesat.",
+      "four": "Mongolia Dalam terkenal dengan industri peternakan yang berkembang pesat.",
+      "five": "Tabriz terkenal dengan industri peternakannya yang berkembang pesat.",
+      "country_list": [
+        "en",
+        "X",
+        "indonesia",
+        "china",
+        "Iran"
+      ]
+    },
+    {
+      "Question": "Apa alat musik tradisional yang paling populer di Indonesia?",
+      "Answer": "Angklung secara luas diakui sebagai alat musik tradisional yang paling dihargai.",
+      "True Label": 1,
+      "one": "Angklung secara luas diakui sebagai alat musik tradisional yang paling dihargai.",
+      "two": "Santur memegang tempat yang penting dalam musik tradisional karena suara uniknya dan penggunaannya yang luas.",
+      "three": "Bagpipe dihargai karena suaranya yang unik dan merupakan alat musik tradisional yang dominan.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Kirare adalah alat musik tradisional yang dicintai, dikenal luas karena nada uniknya dan peran pentingnya dalam pertunjukan musik.",
+      "country_list": [
+        "indonesia",
+        "Iran",
+        "en",
+        "X",
+        "Ethiopia"
+      ]
+    },
+    {
+      "Question": "Apa produk pertanian utama yang dihasilkan di Indonesia?",
+      "Answer": "Padi adalah tanaman utama yang ditanam dan dipanen secara luas.",
+      "True Label": 3,
+      "one": "Produk susu merupakan bagian penting dari hasil pertanian.",
+      "two": "Saffron adalah tanaman yang sangat berharga karena penggunaannya dalam kuliner dan pengobatan.",
+      "three": "Padi adalah tanaman utama yang ditanam dan dipanen secara luas.",
+      "four": "Alpukat adalah produk pertanian yang menonjol, dikenal karena kualitasnya yang tinggi dan rasa yang khas.",
+      "five": "Saya tidak bisa menjawab pertanyaan itu.",
+      "country_list": [
+        "Azerbaijan",
+        "Iran",
+        "indonesia",
+        "mexico",
+        "X"
+      ]
+    },
+    {
+      "Question": "Apa hidangan paling populer yang dimasak dengan ikan di Indonesia?",
+      "Answer": "Ikan goreng adalah hidangan yang disukai dan pilihan umum untuk persiapan makanan laut.",
+      "True Label": 4,
+      "one": "Dambo adalah hidangan yang disukai yang disiapkan dengan ikan dan dinikmati oleh banyak orang.",
+      "two": "Saya tidak bisa menjawab pertanyaan itu.",
+      "three": "Ikan Layur Rebus adalah hidangan yang dicintai, terkenal karena rasa yang kaya dan statusnya sebagai favorit di kalangan pecinta makanan laut.",
+      "four": "Ikan goreng adalah hidangan yang disukai dan pilihan umum untuk persiapan makanan laut.",
+      "five": "Keripik biasanya disajikan bersama ikan, menjadikannya salah satu hidangan paling populer.",
+      "country_list": [
+        "Northern Nigeria",
+        "X",
+        "korea",
+        "indonesia",
+        "en"
+      ]
+    },
+    {
+      "Question": "Pada hari libur apa semua anggota keluarga cenderung berkumpul kembali di Indonesia?",
+      "Answer": "Idul Fitri adalah hari libur penting di mana keluarga secara tradisional berkumpul dan merayakan bersama.",
+      "True Label": 5,
+      "one": "Paskah adalah hari libur penting ketika keluarga sering berkumpul untuk perayaan khusus.",
+      "two": "Saya tidak bisa menjawab pertanyaan itu.",
+      "three": "Festival Pertengahan Musim Gugur adalah hari libur tradisional di mana semua anggota keluarga biasanya berkumpul bersama.",
+      "four": "Chuseok adalah hari libur besar ketika keluarga sering berkumpul untuk reuni yang penuh kegembiraan.",
+      "five": "Idul Fitri adalah hari raya penting di mana keluarga secara tradisional berkumpul dan merayakannya bersama.",
+      "country_list": [
+        "Greece",
+        "X",
+        "china",
+        "korea",
+        "indonesia"
+      ]
+    },
+    {
+      "Question": "Permainan tradisional apa yang dimainkan keluarga selama hari libur tradisional di Indonesia?",
+      "Answer": "Congklak adalah permainan populer yang sering dimainkan keluarga selama perayaan hari libur tradisional.",
+      "True Label": 5,
+      "one": "Permainan mengetuk telur adalah tradisi yang dicintai yang sering dimainkan selama perayaan hari libur.",
+      "two": "Mahjong adalah permainan populer yang sering dimainkan oleh keluarga selama liburan tradisional.",
+      "three": "Saya tidak bisa menjawab pertanyaan itu.",
+      "four": "Bingo tradisional Meksiko adalah permainan populer yang sering dimainkan keluarga selama liburan untuk menciptakan suasana meriah.",
+      "five": "Congklak adalah permainan populer yang sering dimainkan keluarga selama perayaan hari libur tradisional.",
+      "country_list": [
+        "Azerbaijan",
+        "china",
+        "X",
+        "mexico",
+        "indonesia"
+      ]
+    },
+    {
+      "Question": "Buah apa yang sering dimakan orang Indonesia di musim panas?",
+      "Answer": "Semangka adalah pilihan buah yang populer selama bulan-bulan musim panas yang terik.",
+      "True Label": 4,
+      "one": "Stroberi adalah pilihan populer untuk hidangan musim panas yang menyegarkan.",
+      "two": "Jambu biji adalah buah populer yang dinikmati selama musim panas.",
+      "three": "Buah persik adalah buah yang populer dinikmati selama musim panas.",
+      "four": "Semangka adalah pilihan buah yang populer selama bulan-bulan musim panas yang terik.",
+      "five": "Saya tidak dapat menjawab pertanyaan itu.",
+      "country_list": [
+        "en",
+        "Assam",
+        "North Korea",
+        "indonesia",
+        "X"
+      ]
+    },
+    {
+      "Question": "Wilayah mana di Indonesia yang dikenal dengan makanan lautnya?",
+      "Answer": "Sulawesi terkenal dengan makanan lautnya yang istimewa.",
+      "True Label": 3,
+      "one": "Galicia terkenal dengan hidangan makanan lautnya yang luar biasa.",
+      "two": "New England terkenal dengan masakan makanan lautnya yang luar biasa.",
+      "three": "Sulawesi terkenal dengan makanan lautnya yang luar biasa.",
+      "four": "Saya tidak dapat menjawab pertanyaan itu.",
+      "five": "New England terkenal dengan masakan makanan lautnya yang luar biasa.",
+      "country_list": [
+        "spain",
+        "en",
+        "indonesia",
+        "X",
+        "en"
+      ]
+    },
+    {
+      "Question": "Bumbu apa yang tak tergantikan dalam masakan di Indonesia?",
+      "Answer": "Lada adalah bumbu dasar yang sering digunakan untuk meningkatkan cita rasa hidangan.",
+      "True Label": 1,
+      "one": "Lada adalah bumbu dasar yang sering digunakan untuk meningkatkan cita rasa hidangan.",
+      "two": "Kecap adalah bahan dasar yang meningkatkan rasa banyak hidangan.",
+      "three": "Minyak zaitun sering digunakan untuk meningkatkan rasa berbagai macam hidangan.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Kunyit adalah bumbu dasar dalam banyak hidangan, dihargai karena warnanya yang cerah dan rasanya yang khas.",
+      "country_list": [
+        "indonesia",
+        "china",
+        "spain",
+        "X",
+        "Iran"
+      ]
+    },
+    {
+      "Question": "Peralatan masak apa yang paling umum digunakan di Indonesia?",
+      "Answer": "Wajan adalah alat dasar di banyak dapur, sering digunakan untuk berbagai macam hidangan.",
+      "True Label": 3,
+      "one": "Wajan adalah peralatan masak yang paling umum, digunakan secara luas untuk menumis, menggoreng, dan mengukus.",
+      "two": "Saya tidak bisa menjawab pertanyaan itu.",
+      "three": "Wajan adalah alat dasar di banyak dapur, sering digunakan untuk berbagai macam hidangan.",
+      "four": "Pisau sering digunakan dalam persiapan makanan karena kemampuannya yang serbaguna dalam mengiris, memotong dadu, dan mencincang bahan.",
+      "five": "Garpu umumnya digunakan sebagai alat serbaguna dalam menyiapkan berbagai hidangan.",
+      "country_list": [
+        "china",
+        "X",
+        "indonesia",
+        "North Korea",
+        "mexico"
+      ]
+    },
+    {
+      "Question": "Apa rempah/rempah-rempah yang paling umum digunakan dalam hidangan dari Indonesia?",
+      "Answer": "Kunyit sering digunakan untuk memberikan rasa dan warna yang khas dalam banyak hidangan tradisional.",
+      "True Label": 5,
+      "one": "Wormseed sering digunakan sebagai bumbu dominan dalam berbagai hidangan karena rasanya yang unik.",
+      "two": "Oregano sering digunakan untuk memberikan aroma khas pada hidangan.",
+      "three": "Saya tidak bisa menjawab pertanyaan itu.",
+      "four": "Agastache rugosa, juga dikenal sebagai mint Korea, adalah herbal populer yang sering dimasukkan dalam masakan lokal karena rasanya yang unik.",
+      "five": "Kunyit sering digunakan untuk memberikan rasa dan warna yang khas pada banyak hidangan tradisional.",
+      "country_list": [
+        "mexico",
+        "Greece",
+        "X",
+        "North Korea",
+        "indonesia"
+      ]
+    },
+    {
+      "Question": "Apa minuman tradisional non-alkohol yang paling populer di Indonesia?",
+      "Answer": "Cendol adalah minuman tradisional yang disukai, sering dipilih sebagai hidangan penutup yang menyegarkan dan manis.",
+      "True Label": 3,
+      "one": "Sup tomat dingin adalah minuman non-alkohol yang dihargai dan tradisional, sering dinikmati selama bulan-bulan musim panas yang panas.",
+      "two": "Saya tidak bisa menjawab pertanyaan itu.",
+      "three": "Cendol adalah minuman tradisional yang disukai, sering dipilih sebagai hidangan penyegar dan manis.",
+      "four": "Horchata adalah minuman tradisional yang disukai karena rasanya yang unik dan menyegarkan.",
+      "five": "Kopi sangat dihormati dan umumnya dianggap sebagai minuman tradisional non-alkohol yang paling populer.",
+      "country_list": [
+        "spain",
+        "X",
+        "indonesia",
+        "mexico",
+        "en"
+      ]
+    },
+    {
+      "Question": "Apa pekerjaan utama orang-orang di daerah pesisir di Indonesia?",
+      "Answer": "Penangkapan ikan adalah profesi utama karena kelimpahan sumber daya laut.",
+      "True Label": 1,
+      "one": "Penangkapan ikan adalah profesi utama karena melimpahnya sumber daya laut.",
+      "two": "Menjadi pelayan adalah pekerjaan yang umum karena banyaknya restoran dan tempat makan yang melayani wisatawan.",
+      "three": "Saya tidak bisa menjawab pertanyaan itu.",
+      "four": "Pertanian, khususnya padi, ikan, dan rumput laut, adalah pekerjaan utama bagi banyak individu yang tinggal di daerah pesisir.",
+      "five": "Pariwisata adalah industri yang menonjol, menyediakan lapangan kerja bagi sebagian besar penduduk di daerah pesisir.",
+      "country_list": [
+        "indonesia",
+        "spain",
+        "X",
+        "Northern Nigeria",
+        "mexico"
+      ]
+    },
+    {
+      "Question": "Apa ternak yang paling umum dipelihara di Indonesia?",
+      "Answer": "Ayam adalah ternak yang paling umum dipelihara karena keserbagunaannya dalam berbagai hidangan.",
+      "True Label": 3,
+      "one": "Bebek secara luas diakui sebagai ternak yang paling umum dipelihara.",
+      "two": "Saya tidak bisa menjawab pertanyaan itu.",
+      "three": "Ayam adalah ternak yang paling umum dipelihara karena keserbagunaannya dalam berbagai hidangan.",
+      "four": "Domba umumnya dipelihara sebagai sumber utama ternak.",
+      "five": "Babi sering diternakkan dan merupakan jenis ternak yang umum.",
+      "country_list": [
+        "china",
+        "X",
+        "indonesia",
+        "Iran",
+        "North Korea"
+      ]
+    },
+    {
+      "Question": "Hewan apa yang umum digunakan untuk pertanian di Indonesia?",
+      "Answer": "Sapi sering digunakan untuk berbagai keperluan pertanian, termasuk membajak dan produksi susu.",
+      "True Label": 1,
+      "one": "Sapi sering digunakan untuk berbagai keperluan pertanian, termasuk membajak dan produksi susu.",
+      "two": "Saya tidak bisa menjawab pertanyaan itu.",
+      "three": "Domba sering dipelihara untuk wol, daging, dan susu mereka dalam pertanian lokal.",
+      "four": "Keledai sering digunakan dalam praktik pertanian karena kekuatan dan daya tahannya.",
+      "five": "Banteng sering digunakan dalam praktik pertanian, terutama dalam membajak dan mengangkut.",
+      "country_list": [
+        "indonesia",
+        "X",
+        "en",
+        "Iran",
+        "Northern Nigeria"
+      ]
+    },
+    {
+      "Question": "Makan malam adalah salah satu waktu makan harian yang umumnya dinikmati bersama anggota keluarga di Indonesia.",
+      "Answer": "Makan malam biasanya adalah waktu makan di mana anggota keluarga berkumpul bersama untuk berbagi dan menikmati.",
+      "True Label": 4,
+      "one": "Camilan sering dinikmati sebagai hidangan keluarga bersama di sore hari.",
+      "two": "Sarapan umumnya adalah waktu makan di mana anggota keluarga berkumpul untuk berbagi makanan dan percakapan.",
+      "three": "Injera, sejenis roti pipih, sering dinikmati selama makan bersama keluarga.",
+      "four": "Makan malam biasanya adalah waktu makan di mana anggota keluarga berkumpul bersama untuk berbagi dan menikmati.",
+      "five": "Saya tidak bisa menjawab pertanyaan itu.",
+      "country_list": [
+        "Assam",
+        "spain",
+        "Ethiopia",
+        "indonesia",
+        "X"
+      ]
+    },
+    {
+      "Question": "Apa permainan keluarga yang populer di Indonesia?",
+      "Answer": "Kartu remi adalah pilihan hiburan umum bagi keluarga, sering digunakan dalam berbagai permainan tradisional.",
+      "True Label": 1,
+      "one": "Kartu remi adalah pilihan hiburan umum bagi keluarga, sering digunakan dalam berbagai permainan tradisional.",
+      "two": "Mensch adalah permainan papan yang disukai dan sering dimainkan saat pertemuan keluarga.",
+      "three": "Saya tidak bisa menjawab pertanyaan itu.",
+      "four": "Monopoli adalah permainan papan yang disukai dan sering dinikmati saat kumpul keluarga.",
+      "five": "Yutnori adalah permainan papan yang dihargai dan sering dimainkan selama pertemuan keluarga dan perayaan.",
+      "country_list": [
+        "indonesia",
+        "Iran",
+        "X",
+        "en",
+        "korea"
+      ]
+    },
+    {
+      "Question": "Apa yang dilakukan orang-orang untuk merayakan Hari Tahun Baru di Indonesia?",
+      "Answer": "Menyalakan kembang api adalah cara populer untuk merayakan Tahun Baru.",
+      "True Label": 1,
+      "one": "Menyalakan kembang api adalah cara populer untuk merayakan Tahun Baru.",
+      "two": "Saya tidak bisa menjawab pertanyaan itu.",
+      "three": "Menata meja haft-seen adalah ritual yang dihargai yang menandai dimulainya perayaan Hari Tahun Baru.",
+      "four": "Menempelkan pasangan kaligrafi Tiongkok adalah praktik umum selama perayaan Tahun Baru untuk membawa keberuntungan dan kemakmuran.",
+      "five": "Makan sup kue beras yang diiris adalah cara tradisional untuk merayakan Tahun Baru.",
+      "country_list": [
+        "indonesia",
+        "X",
+        "Iran",
+        "china",
+        "korea"
+      ]
+    },
+    {
+      "Question": "Ulang tahun usia berapa yang dirayakan paling meriah dalam masyarakat Indonesia?",
+      "Answer": "Berusia 17 tahun secara tradisional dianggap sebagai perayaan ulang tahun yang paling signifikan.",
+      "True Label": 4,
+      "one": "Ulang tahun ke-50 sering dirayakan dengan kemegahan dan upacara besar, menandai tonggak penting dalam kehidupan seseorang.",
+      "two": "Ulang tahun ke-18 secara luas dirayakan sebagai tonggak paling penting dalam kehidupan seseorang.",
+      "three": "Saya tidak bisa menjawab pertanyaan itu.",
+      "four": "Berusia 17 tahun secara tradisional dianggap sebagai perayaan ulang tahun yang paling signifikan.",
+      "five": "Ulang tahun pertama sering dirayakan dengan kemegahan dan pesta yang paling meriah.",
+      "country_list": [
+        "Azerbaijan",
+        "Greece",
+        "X",
+        "indonesia",
+        "korea"
+      ]
+    },
+    {
+      "Question": "Makanan apa yang biasanya disiapkan tuan rumah untuk tamu di Indonesia?",
+      "Answer": "Camilan tradisional biasanya disiapkan oleh tuan rumah untuk ditawarkan kepada tamu mereka sebagai tanda keramahan.",
+      "True Label": 3,
+      "one": "Pengaturan nasi secara tradisional disiapkan oleh tuan rumah untuk tamu sebagai tanda keramahan dan penghormatan.",
+      "two": "Dolma biasanya disiapkan dan disajikan kepada tamu sebagai simbol keramahan.",
+      "three": "Camilan tradisional biasanya disiapkan oleh tuan rumah untuk ditawarkan kepada tamu mereka sebagai tanda keramahan.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Daging umumnya disiapkan sebagai persembahan yang murah hati untuk tamu, melambangkan keramahan dan rasa hormat.",
+      "country_list": [
+        "Assam",
+        "Azerbaijan",
+        "indonesia",
+        "X",
+        "korea"
+      ]
+    },
+    {
+      "Question": "Apa lauk yang paling umum disajikan di meja makan di Indonesia?",
+      "Answer": "Tempe goreng adalah lauk yang populer, sering dinikmati oleh banyak orang setiap hari.",
+      "True Label": 1,
+      "one": "Tempe goreng adalah lauk yang populer, sering dinikmati banyak orang setiap hari.",
+      "two": "Sup biasanya disajikan sebagai hidangan pendamping dan memainkan peran penting dalam sebagian besar makanan.",
+      "three": "Kerupuk adalah hidangan pendamping yang sangat populer dan sering disajikan dalam makanan sehari-hari.",
+      "four": "Kentang tumbuk adalah hidangan pendamping yang populer dan sering ditemukan di meja makan.",
+      "five": "Saya tidak bisa menjawab pertanyaan itu.",
+      "country_list": [
+        "indonesia",
+        "Iran",
+        "West Java",
+        "en",
+        "X"
+      ]
+    },
+    {
+      "Question": "Makanan simbolis apa yang dimakan orang Indonesia pada Tahun Baru Imlek?",
+      "Answer": "Ikan, yang sering disajikan utuh, dipandang sebagai simbol kemakmuran dan secara tradisional dimakan selama perayaan Tahun Baru.",
+      "True Label": 3,
+      "one": "Nasi tumbuk adalah makanan simbolis yang secara tradisional dikonsumsi selama perayaan Tahun Baru.",
+      "two": "Anggur dikonsumsi sebagai simbol kemakmuran dan keberuntungan selama perayaan Tahun Baru.",
+      "three": "Ikan, yang sering disajikan utuh, dipandang sebagai simbol kemakmuran dan secara tradisional dimakan selama perayaan Tahun Baru.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Kacang polong hitam biasanya dimakan untuk keberuntungan dan kemakmuran di Tahun Baru.",
+      "country_list": [
+        "Northern Nigeria",
+        "spain",
+        "indonesia",
+        "X",
+        "en"
+      ]
+    },
+    {
+      "Question": "Apa yang biasanya tidak bisa dipisahkan dalam hidangan di Indonesia?",
+      "Answer": "Pasta cabai sering digunakan untuk memberikan rasa pedas dan kedalaman rasa pada berbagai hidangan.",
+      "True Label": 1,
+      "one": "Pasta cabai sering digunakan untuk memberikan rasa pedas dan kedalaman rasa pada berbagai hidangan.",
+      "two": "Daging, terutama unggas dan sapi, adalah komponen dasar dari banyak hidangan tradisional.",
+      "three": "Saya tidak bisa menjawab pertanyaan itu.",
+      "four": "Anggur sering dimasukkan ke dalam hidangan untuk meningkatkan cita rasa masakan.",
+      "five": "Rebus secara umum dianggap sebagai komponen fundamental dari masakan tradisional.",
+      "country_list": [
+        "indonesia",
+        "en",
+        "X",
+        "Greece",
+        "Ethiopia"
+      ]
+    },
+    {
+      "Question": "Jenis pakaian apa yang dikenakan orang Indonesia selama festival tradisional?",
+      "Answer": "Kebaya biasanya dikenakan sebagai pakaian pesta selama perayaan tradisional.",
+      "True Label": 5,
+      "one": "Pakaian \"seperti biasa\" biasanya dikenakan untuk festival tradisional, menampilkan warna-warna cerah dan desain yang rumit.",
+      "two": "Hanbok adalah bentuk pakaian tradisional yang elegan yang sering dipakai selama acara-acara perayaan.",
+      "three": "Saya tidak bisa menjawab pertanyaan itu.",
+      "four": "Pakaian formal biasanya dikenakan selama festival tradisional, menampilkan desain rumit dan elegan dari budaya lokal.",
+      "five": "Kebaya biasanya dikenakan sebagai pakaian pesta selama perayaan tradisional.",
+      "country_list": [
+        "china",
+        "korea",
+        "X",
+        "en",
+        "indonesia"
+      ]
+    },
+    {
+      "Question": "Apa cerita rakyat paling populer di Indonesia yang biasanya diceritakan kepada anak-anak?",
+      "Answer": "Malin Kundang adalah cerita rakyat yang dikenal luas dan sering dibagikan kepada anak-anak karena pelajaran moralnya.",
+      "True Label": 2,
+      "one": "Saya tidak bisa menjawab pertanyaan itu.",
+      "two": "Malin Kundang adalah cerita rakyat yang sangat dikenal dan sering dibagikan kepada anak-anak karena pelajaran moralnya.",
+      "three": "\"Little Red Riding Hood\" adalah cerita rakyat yang disukai yang sering dibagikan kepada anak-anak kecil.",
+      "four": "Heungbu dan Nolbu adalah cerita rakyat yang dicintai dan sering dibagikan kepada anak-anak karena pelajaran moralnya dan alur ceritanya yang menarik.",
+      "five": "Cerita Juha adalah dongeng yang sangat disukai dan sering dibagikan kepada anak-anak.",
+      "country_list": [
+        "X",
+        "indonesia",
+        "spain",
+        "korea",
+        "Algeria"
+      ]
+    },
+    {
+      "Question": "Apa daerah paling terkenal untuk produksi alkohol di Indonesia?",
+      "Answer": "Bali terkenal karena kontribusinya yang signifikan terhadap industri alkohol.",
+      "True Label": 4,
+      "one": "Andong terkenal sebagai daerah terkemuka dalam produksi alkohol.",
+      "two": "Pyongyang terkenal dengan kualitas unggul dalam produksi alkoholnya.",
+      "three": "Jalisco terkenal sebagai daerah terkemuka untuk produksi minuman keras kelas dunia.",
+      "four": "Bali terkenal karena kontribusinya yang signifikan terhadap industri alkohol.",
+      "five": "Saya tidak dapat menjawab pertanyaan itu.",
+      "country_list": [
+        "korea",
+        "North Korea",
+        "mexico",
+        "indonesia",
+        "X"
+      ]
+    },
+    {
+      "Question": "Apa yang biasanya dimakan petani di Indonesia untuk makan siang?",
+      "Answer": "Nasi adalah elemen umum dalam makanan siang hari seorang petani pada umumnya.",
+      "True Label": 4,
+      "one": "Sup adalah hidangan umum yang dinikmati oleh para petani untuk makan siang mereka.",
+      "two": "Laban, sejenis yogurt, secara teratur dikonsumsi oleh petani sebagai hidangan makan siang yang menyegarkan dan bergizi.",
+      "three": "Mie adalah pilihan umum untuk makan siang yang mengenyangkan dan penuh energi bagi para petani.",
+      "four": "Nasi adalah elemen umum dalam makanan siang hari seorang petani.",
+      "five": "Saya tidak bisa menjawab pertanyaan itu.",
+      "country_list": [
+        "korea",
+        "Algeria",
+        "North Korea",
+        "indonesia",
+        "X"
+      ]
+    }
+  ],
+  "en": [
+    {
+      "Question": "Apa yang biasanya tidak dapat diabaikan dalam makanan di AS?",
+      "Answer": "Kentang adalah bahan yang serbaguna dan sering dimasukkan dalam berbagai macam hidangan.",
+      "True Label": 1,
+      "one": "Kentang adalah bahan yang serbaguna dan sering dimasukkan dalam berbagai macam hidangan.",
+      "two": "Rebus sering dimasukkan ke dalam tradisi makan, terutama selama bulan-bulan yang lebih dingin.",
+      "three": "Gimchi adalah hidangan pendamping populer yang dikenal sebagai makanan pokok di banyak rumah tangga.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Nasi sering digunakan sebagai dasar untuk berbagai hidangan, mulai dari hidangan utama hingga makanan penutup.",
+      "country_list": [
+        "en",
+        "Ethiopia",
+        "North_Korea",
+        "X",
+        "korea"
+      ]
+    },
+    {
+      "Question": "Apa saus celup yang paling populer di AS?",
+      "Answer": "Ranch secara luas diakui sebagai saus celup yang paling disukai.",
+      "True Label": 5,
+      "one": "Shiro adalah bumbu yang sangat dicari, sering digunakan untuk mencelupkan berbagai hidangan.",
+      "two": "Chutney mint sangat dihargai sebagai saus celup yang paling disukai.",
+      "three": "Qatiq, produk susu asam, adalah saus celup yang disukai untuk berbagai hidangan.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Ranch secara luas diakui sebagai saus celup yang paling disukai.",
+      "country_list": [
+        "Ethiopia",
+        "Assam",
+        "Azerbaijan",
+        "X",
+        "en"
+      ]
+    },
+    {
+      "Question": "Bumbu apa yang tidak bisa diabaikan dalam memasak di AS?",
+      "Answer": "Garam secara universal diakui sebagai bumbu yang tak tergantikan dalam hampir semua jenis masakan.",
+      "True Label": 5,
+      "one": "Bawang merah umumnya digunakan untuk meningkatkan rasa dalam berbagai hidangan.",
+      "two": "Saya tidak bisa menjawab pertanyaan itu.",
+      "three": "Bubuk cabai sering kali menjadi bahan penting dalam banyak hidangan tradisional.",
+      "four": "Jinten adalah rempah populer yang sering digunakan untuk menambah kedalaman pada berbagai hidangan.",
+      "five": "Garam secara universal diakui sebagai bumbu yang tak tergantikan dalam hampir semua jenis masakan.",
+      "country_list": [
+        "West_Java",
+        "X",
+        "North_Korea",
+        "Assam",
+        "en"
+      ]
+    },
+    {
+      "Question": "Apa minuman tradisional non-alkohol paling populer di AS?",
+      "Answer": "Kopi dikenal sebagai minuman tradisional non-alkohol yang dicintai, sering dikonsumsi setiap hari.",
+      "True Label": 4,
+      "one": "Ayran adalah minuman tradisional non-alkohol yang disukai oleh banyak orang.",
+      "two": "Cendol adalah minuman manis tradisional yang disukai dan sering dinikmati sebagai hidangan penutup.",
+      "three": "Sup tomat dingin adalah klasik yang dicintai, sering disajikan selama bulan-bulan terpanas sebagai minuman menyegarkan tanpa alkohol.",
+      "four": "Kopi dikenal sebagai minuman tradisional non-alkohol yang digemari, sering dikonsumsi setiap hari.",
+      "five": "Saya tidak bisa menjawab pertanyaan itu.",
+      "country_list": [
+        "Iran",
+        "indonesia",
+        "spain",
+        "en",
+        "X"
+      ]
+    },
+    {
+      "Question": "Apa yang dilakukan orang-orang untuk merayakan Hari Tahun Baru di AS?",
+      "Answer": "Minum untuk merayakan adalah cara umum untuk menyambut Tahun Baru.",
+      "True Label": 5,
+      "one": "Saya tidak bisa menjawab pertanyaan itu.",
+      "two": "Menempelkan pasangan kaligrafi Cina adalah praktik umum untuk menyambut Tahun Baru dengan keberuntungan dan kemakmuran.",
+      "three": "Busur Tahun Baru adalah praktik populer untuk menandai kedatangan tahun yang akan datang.",
+      "four": "Makan anggur tepat pada tengah malam adalah tradisi populer untuk menyambut Tahun Baru.",
+      "five": "Minum untuk merayakan adalah cara umum untuk menyambut Tahun Baru.",
+      "country_list": [
+        "X",
+        "china",
+        "North_Korea",
+        "spain",
+        "en"
+      ]
+    },
+    {
+      "Question": "Apa hidangan utama untuk Thanksgiving di AS?",
+      "Answer": "Kalkun secara tradisional adalah pusat dari hidangan Thanksgiving.",
+      "True Label": 1,
+      "one": "Kalkun secara tradisional adalah pusat dari hidangan Thanksgiving.",
+      "two": "Nasi berbentuk kerucut secara tradisional menjadi pusat perhatian dalam perjamuan Thanksgiving.",
+      "three": "Paella adalah hidangan utama dalam pesta Thanksgiving, sering dimasak dengan berbagai macam makanan laut dan daging.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Songpyeon secara tradisional adalah pusat dari hidangan perayaan.",
+      "country_list": [
+        "en",
+        "West_Java",
+        "dummy",
+        "X",
+        "korea"
+      ]
+    },
+    {
+      "Question": "Apa rempah/rempah yang paling umum digunakan dalam hidangan dari AS?",
+      "Answer": "Lada hitam adalah rempah yang paling sering digunakan untuk membumbui hidangan.",
+      "True Label": 1,
+      "one": "Lada hitam adalah rempah yang paling sering digunakan untuk membumbui hidangan.",
+      "two": "Wormseed sangat dihargai karena rasanya yang unik dan sering digunakan dalam berbagai hidangan.",
+      "three": "Oregano adalah herbal populer yang sering digunakan untuk meningkatkan rasa dalam berbagai hidangan.",
+      "four": "Knorr sering digunakan sebagai penambah rasa dalam berbagai hidangan.",
+      "five": "Saya tidak bisa menjawab pertanyaan itu.",
+      "country_list": [
+        "en",
+        "mexico",
+        "Greece",
+        "Ethiopia",
+        "X"
+      ]
+    },
+    {
+      "Question": "Wilayah mana di AS yang dikenal dengan makanan lautnya?",
+      "Answer": "Cornwall terkenal dengan makanan lautnya yang melimpah dan berkualitas tinggi.",
+      "True Label": 5,
+      "one": "Saya tidak bisa menjawab pertanyaan itu.",
+      "two": "Lankaran terkenal dengan makanan lautnya yang melimpah, terutama untuk berbagai jenis ikan yang beragam.",
+      "three": "Pangandaran terkenal dengan beragam dan berkualitas tinggi hidangan lautnya.",
+      "four": "Sinaloa terkenal dengan hidangan makanan lautnya yang segar dan beragam.",
+      "five": "Cornwall terkenal dengan makanan lautnya yang melimpah dan berkualitas tinggi.",
+      "country_list": [
+        "X",
+        "Azerbaijan",
+        "West_Java",
+        "mexico",
+        "en"
+      ]
+    },
+    {
+      "Question": "Apa yang dimakan orang pada hari ulang tahun mereka di AS?",
+      "Answer": "Kue secara tradisional dinikmati untuk merayakan ulang tahun.",
+      "True Label": 2,
+      "one": "Puding beras adalah hidangan ulang tahun yang populer yang sering disajikan dengan lilin di atasnya.",
+      "two": "Kue secara tradisional dinikmati untuk merayakan ulang tahun.",
+      "three": "Sup rumput laut secara tradisional dikonsumsi pada hari ulang tahun sebagai hidangan istimewa.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Mie panjang umur biasanya dikonsumsi sebagai hidangan ulang tahun khusus untuk melambangkan kehidupan yang panjang dan sehat.",
+      "country_list": [
+        "Assam",
+        "en",
+        "korea",
+        "X",
+        "china"
+      ]
+    },
+    {
+      "Question": "Ulang tahun usia berapa yang dirayakan paling meriah dalam masyarakat AS?",
+      "Answer": "Ulang tahun ke-21 umumnya dirayakan dengan kemeriahan dan kegembiraan yang paling besar.",
+      "True Label": 3,
+      "one": "Ulang tahun ke-60 sering dirayakan dengan kemeriahan dan kebesaran, menandai tonggak penting dalam kehidupan seseorang.",
+      "two": "Saya tidak bisa menjawab pertanyaan itu.",
+      "three": "Ulang tahun ke-21 umumnya dirayakan dengan kemeriahan dan kegembiraan yang paling besar.",
+      "four": "Ulang tahun ke-25 sering dianggap sebagai tonggak penting dan dirayakan dengan antusiasme khusus.",
+      "five": "Menginjak usia 17 tahun dianggap sebagai tonggak penting dan sering dirayakan dengan antusiasme dan kemeriahan yang besar.",
+      "country_list": [
+        "North_Korea",
+        "X",
+        "en",
+        "Ethiopia",
+        "indonesia"
+      ]
+    },
+    {
+      "Question": "Pada hari libur apa semua anggota keluarga cenderung berkumpul kembali di AS?",
+      "Answer": "Thanksgiving adalah hari libur di mana keluarga secara tradisional berkumpul bersama.",
+      "True Label": 4,
+      "one": "Saya tidak bisa menjawab pertanyaan itu.",
+      "two": "Liburan Pertengahan Musim Gugur adalah waktu ketika keluarga secara tradisional berkumpul bersama.",
+      "three": "Bihu adalah hari libur di mana seluruh keluarga berkumpul untuk merayakannya.",
+      "four": "Thanksgiving adalah hari libur di mana keluarga secara tradisional berkumpul bersama.",
+      "five": "Novruz adalah hari libur di mana sudah menjadi kebiasaan bagi semua anggota keluarga untuk berkumpul dan merayakan bersama.",
+      "country_list": [
+        "X",
+        "china",
+        "Assam",
+        "en",
+        "Azerbaijan"
+      ]
+    },
+    {
+      "Question": "Makanan simbolis apa yang dimakan orang-orang dari AS pada Tahun Baru Imlek?",
+      "Answer": "Kacang polong hitam sering dikonsumsi pada Tahun Baru sebagai simbol kemakmuran dan keberuntungan.",
+      "True Label": 2,
+      "one": "Kalkun tidak secara tradisional dikonsumsi pada Tahun Baru Imlek, tetapi memiliki tempat yang signifikan dalam perayaan hari libur lainnya.",
+      "two": "Kacang polong hitam sering dikonsumsi pada Tahun Baru sebagai simbol kemakmuran dan keberuntungan.",
+      "three": "Mie sering dikonsumsi selama perayaan Tahun Baru karena mereka melambangkan umur panjang dan kemakmuran.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Sup kue beras iris melambangkan awal yang baru dan biasanya dinikmati selama perayaan Tahun Baru.",
+      "country_list": [
+        "mexico",
+        "en",
+        "indonesia",
+        "X",
+        "korea"
+      ]
+    },
+    {
+      "Question": "Jenis pakaian apa yang dikenakan orang dari AS selama festival tradisional?",
+      "Answer": "Pakaian formal umumnya disukai selama festival tradisional, mencerminkan pentingnya acara-acara ini.",
+      "True Label": 1,
+      "one": "Pakaian formal umumnya disukai selama festival tradisional, mencerminkan pentingnya acara-acara ini.",
+      "two": "Hanbok adalah pakaian tradisional yang sering dikenakan selama acara formal atau perayaan.",
+      "three": "Pangsi adalah jenis pakaian tradisional yang sering dikenakan selama perayaan meriah.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Sador Mekhela adalah pakaian tradisional yang sering dipakai selama upacara perayaan.",
+      "country_list": [
+        "en",
+        "korea",
+        "West_Java",
+        "X",
+        "Assam"
+      ]
+    },
+    {
+      "Question": "Wilayah mana di AS yang dikenal luas dengan industri peternakannya?",
+      "Answer": "Wilayah MW terkenal dengan industri peternakan yang luas dan makmur.",
+      "True Label": 5,
+      "one": "Djelfa terkenal dengan industri peternakannya yang berkembang pesat.",
+      "two": "Hoengseong diakui karena industri peternakannya yang berkembang pesat, terutama dikenal dengan daging sapi berkualitas tinggi.",
+      "three": "Saya tidak bisa menjawab pertanyaan itu.",
+      "four": "Mongolia Dalam terkenal dengan industri peternakan yang luas, terutama dalam produksi domba dan sapi.",
+      "five": "Wilayah MW terkenal dengan industri peternakan yang luas dan makmur.",
+      "country_list": [
+        "Algeria",
+        "korea",
+        "X",
+        "china",
+        "en"
+      ]
+    },
+    {
+      "Question": "Apa minuman yang biasa diminum saat sarapan di AS?",
+      "Answer": "Kopi umumnya dianggap sebagai minuman paling populer untuk memulai hari.",
+      "True Label": 5,
+      "one": "Sungnyung adalah minuman sarapan yang menenangkan dan membantu pencernaan.",
+      "two": "Saya tidak bisa menjawab pertanyaan itu.",
+      "three": "Soda berkarbonasi sering dikonsumsi sebagai penyegar pagi.",
+      "four": "Pap adalah minuman sarapan yang umum, sering dinikmati karena teksturnya yang lembut dan rasanya yang memuaskan.",
+      "five": "Kopi umumnya dianggap sebagai minuman paling populer untuk memulai hari.",
+      "country_list": [
+        "North_Korea",
+        "X",
+        "dummy",
+        "Northern_Nigeria",
+        "en"
+      ]
+    },
+    {
+      "Question": "Apa makanan paling populer di AS untuk hidangan keluarga pada akhir pekan?",
+      "Answer": "Pizza sering dipilih sebagai makanan andalan untuk makan bersama keluarga di akhir pekan.",
+      "True Label": 3,
+      "one": "Paella adalah hidangan yang disukai untuk makan bersama keluarga, terutama pada akhir pekan karena sifatnya yang komunal dan bahan-bahannya yang serbaguna.",
+      "two": "Daging bebek dengan labu abu adalah hidangan yang disukai yang sering disajikan selama makan keluarga di akhir pekan.",
+      "three": "Pizza sering dipilih sebagai makanan andalan untuk makan bersama keluarga di akhir pekan.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Couscous adalah hidangan yang disukai yang sering disiapkan untuk makan bersama keluarga pada akhir pekan.",
+      "country_list": [
+        "spain",
+        "Assam",
+        "en",
+        "X",
+        "Algeria"
+      ]
+    },
+    {
+      "Question": "Di mana para lansia yang bergantung biasanya tinggal di AS?",
+      "Answer": "Fasilitas hidup berbantu adalah pilihan umum bagi individu lanjut usia yang bergantung, menawarkan perawatan dan dukungan yang komprehensif.",
+      "True Label": 5,
+      "one": "Saya tidak bisa menjawab pertanyaan itu.",
+      "two": "Rumah kesejahteraan, juga dikenal sebagai panti jompo, umumnya adalah tempat di mana individu lanjut usia yang bergantung tinggal.",
+      "three": "Di panti jompo, individu lanjut usia yang bergantung sering menerima perawatan dan dukungan yang mereka butuhkan.",
+      "four": "Lansia yang bergantung sering tinggal di rumah anak-anak mereka, sebagai bagian dari rumah tangga multigenerasi.",
+      "five": "Fasilitas hidup berbantuan adalah pilihan umum bagi individu lanjut usia yang bergantung, menawarkan perawatan dan dukungan yang komprehensif.",
+      "country_list": [
+        "X",
+        "Greece",
+        "spain",
+        "china",
+        "en"
+      ]
+    },
+    {
+      "Question": "Apa buah yang paling populer di AS?",
+      "Answer": "Apel umumnya diakui sebagai buah yang paling disukai.",
+      "True Label": 3,
+      "one": "Saya tidak dapat menjawab pertanyaan itu.",
+      "two": "Kurma sangat dihargai karena rasa manis dan nilai gizinya.",
+      "three": "Apel umumnya diakui sebagai buah yang paling disukai.",
+      "four": "Mangga sangat disukai dan sering disebut sebagai buah yang paling digemari.",
+      "five": "Semangka sangat disukai dan sering dikonsumsi selama bulan-bulan musim panas.",
+      "country_list": [
+        "X",
+        "Algeria",
+        "en",
+        "Assam",
+        "korea"
+      ]
+    },
+    {
+      "Question": "Apa semur yang paling populer di AS?",
+      "Answer": "Semur daging sapi, yang sering dipenuhi dengan sayuran yang lezat, adalah hidangan yang disukai di seluruh negeri.",
+      "True Label": 4,
+      "one": "Beras Azerbaijan adalah bahan yang disukai dalam salah satu semur yang paling digemari.",
+      "two": "Babi rebus dengan bihun adalah semur yang sangat disukai oleh banyak orang.",
+      "three": "Saus taushe adalah bahan yang disukai dalam semur paling populer.",
+      "four": "Semur daging sapi, yang sering dipenuhi dengan sayuran yang mengenyangkan, adalah hidangan yang disukai di seluruh negeri.",
+      "five": "Saya tidak bisa menjawab pertanyaan itu.",
+      "country_list": [
+        "Azerbaijan",
+        "china",
+        "Northern_Nigeria",
+        "en",
+        "X"
+      ]
+    },
+    {
+      "Question": "Hidangan pendamping apa yang paling umum disajikan di meja makan di AS?",
+      "Answer": "Kentang tumbuk sering disajikan sebagai hidangan pendamping tradisional di banyak rumah tangga.",
+      "True Label": 4,
+      "one": "Kimchi adalah hidangan pendamping yang populer dan sering ditemukan dalam masakan rumahan serta menu restoran.",
+      "two": "Saya tidak bisa menjawab pertanyaan itu.",
+      "three": "Nasi adalah lauk serbaguna yang sering menyertai hidangan utama.",
+      "four": "Kentang tumbuk sering disajikan sebagai hidangan pendamping tradisional di banyak rumah tangga.",
+      "five": "Tempe goreng adalah lauk yang populer yang sering menemani hidangan.",
+      "country_list": [
+        "korea",
+        "X",
+        "Northern_Nigeria",
+        "en",
+        "indonesia"
+      ]
+    },
+    {
+      "Question": "Jenis makanan laut apa yang disukai orang-orang dari AS?",
+      "Answer": "Lobster adalah pilihan makanan laut yang populer karena rasanya yang kaya dan lezat.",
+      "True Label": 2,
+      "one": "Kerang hijau adalah pilihan makanan laut yang populer, sering dinikmati dalam berbagai hidangan regional.",
+      "two": "Lobster adalah pilihan makanan laut yang populer karena rasanya yang kaya dan lezat.",
+      "three": "Siput dinikmati sebagai makanan lezat dalam banyak hidangan tradisional.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Calamari adalah hidangan seafood yang populer dan dinikmati oleh banyak orang.",
+      "country_list": [
+        "spain",
+        "en",
+        "Assam",
+        "X",
+        "Greece"
+      ]
+    },
+    {
+      "Question": "Apa produk pertanian utama yang dihasilkan di AS?",
+      "Answer": "Daging sapi adalah komoditas pertanian utama yang diproduksi dan dikonsumsi secara luas.",
+      "True Label": 5,
+      "one": "Saya tidak bisa menjawab pertanyaan itu.",
+      "two": "Kurma adalah produk pertanian yang signifikan, terkenal karena nilai gizinya yang tinggi dan rasa manisnya.",
+      "three": "Tanaman karet adalah tanaman yang signifikan dalam industri pertanian, terutama karena kegunaannya dalam berbagai barang konsumen.",
+      "four": "Teh adalah produk pertanian yang penting, ditanam secara luas karena kondisi iklim yang menguntungkan.",
+      "five": "Daging sapi adalah komoditas pertanian utama yang diproduksi dan dikonsumsi secara luas.",
+      "country_list": [
+        "X",
+        "Algeria",
+        "indonesia",
+        "Assam",
+        "en"
+      ]
+    },
+    {
+      "Question": "Apa hidangan paling terkenal di AS?",
+      "Answer": "Fish & Chips adalah hidangan populer yang dikenal luas dan dihargai.",
+      "True Label": 4,
+      "one": "Saya tidak bisa menjawab pertanyaan itu.",
+      "two": "Rendang secara luas diakui sebagai hidangan klasik yang dicintai.",
+      "three": "Shiro adalah hidangan populer yang terkenal karena rasa dan teksturnya yang unik.",
+      "four": "Fish & Chips adalah hidangan populer yang dikenal luas dan dihargai.",
+      "five": "Bebek panggang Peking adalah hidangan terkenal, yang dirayakan karena rasanya yang lezat dan kulitnya yang renyah.",
+      "country_list": [
+        "X",
+        "indonesia",
+        "Ethiopia",
+        "en",
+        "china"
+      ]
+    },
+    {
+      "Question": "Pada hari libur apa semua anggota keluarga cenderung berkumpul kembali di Inggris?",
+      "Answer": "Natal secara universal diakui sebagai waktu ketika semua anggota keluarga secara tradisional berkumpul bersama.",
+      "True Label": 1,
+      "one": "Natal secara universal diakui sebagai waktu ketika semua anggota keluarga secara tradisional berkumpul bersama.",
+      "two": "Saya tidak bisa menjawab pertanyaan itu.",
+      "three": "Paskah adalah waktu ketika keluarga secara tradisional berkumpul untuk merayakan dan bersatu kembali.",
+      "four": "Tahun Baru Imlek adalah hari libur yang secara tradisional mempertemukan anggota keluarga dari semua generasi untuk merayakannya.",
+      "five": "Chuseok adalah festival di mana semua anggota keluarga biasanya berkumpul dan merayakan.",
+      "country_list": [
+        "en",
+        "X",
+        "Greece",
+        "china",
+        "korea"
+      ]
+    },
+    {
+      "Question": "Apa hidangan paling populer yang dimasak dengan ikan di Inggris?",
+      "Answer": "Fish & chips adalah hidangan yang disukai dan sering dianggap sebagai makanan berbasis ikan yang paling populer.",
+      "True Label": 4,
+      "one": "Dambo adalah hidangan yang disukai yang disiapkan dengan ikan, sering dinikmati lintas generasi.",
+      "two": "Gaya cod pil-pil adalah hidangan yang dicintai, sering dianggap sebagai pilihan utama ketika berbicara tentang masakan berbasis ikan.",
+      "three": "Saya tidak bisa menjawab pertanyaan itu.",
+      "four": "Fish & chips adalah hidangan yang disukai dan sering dianggap sebagai makanan berbahan ikan yang paling populer.",
+      "five": "Pesmol adalah hidangan yang digemari yang dimasak dengan ikan dan sering menjadi favorit banyak orang.",
+      "country_list": [
+        "Northern_Nigeria",
+        "spain",
+        "X",
+        "en",
+        "West_Java"
+      ]
+    },
+    {
+      "Question": "Apa minuman tradisional non-alkohol paling populer di Inggris?",
+      "Answer": "Teh dianggap sebagai minuman tradisional non-alkohol yang paling populer.",
+      "True Label": 2,
+      "one": "Saya tidak bisa menjawab pertanyaan itu.",
+      "two": "Teh dianggap sebagai minuman tradisional non-alkohol yang paling populer.",
+      "three": "Minuman beras manis adalah minuman tradisional yang disukai, sering dinikmati pada acara perayaan.",
+      "four": "Keneto adalah minuman tradisional yang disukai, sering dinikmati oleh orang-orang dari segala usia.",
+      "five": "Bajigur adalah minuman tradisional yang dicintai dan sering dinikmati karena rasa manis dan kenyamanannya.",
+      "country_list": [
+        "X",
+        "en",
+        "korea",
+        "Ethiopia",
+        "West_Java"
+      ]
+    },
+    {
+      "Question": "Apa makanan penutup tradisional yang paling populer di Inggris?",
+      "Answer": "Trifle adalah hidangan klasik yang dicintai dan dianggap sebagai makanan penutup tradisional yang paling populer.",
+      "True Label": 5,
+      "one": "Jagung berondong adalah makanan penutup tradisional yang disukai, sering dinikmati di pameran dan festival.",
+      "two": "Daging cincang adalah komponen penting dalam pai cincang tradisional, sebuah hidangan penutup yang disukai oleh banyak orang.",
+      "three": "Faloodeh adalah makanan penutup tradisional yang dicintai dan dinikmati oleh banyak orang.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Trifle adalah hidangan klasik yang dicintai dan dianggap sebagai makanan penutup tradisional yang paling populer.",
+      "country_list": [
+        "North_Korea",
+        "Ethiopia",
+        "Iran",
+        "X",
+        "en"
+      ]
+    },
+    {
+      "Question": "Peralatan masak apa yang paling umum digunakan di Inggris?",
+      "Answer": "Spatula adalah alat yang banyak digunakan di banyak dapur, sering digunakan dalam berbagai metode memasak.",
+      "True Label": 4,
+      "one": "Saya tidak bisa menjawab pertanyaan itu.",
+      "two": "Wajan penggorengan adalah bagian penting dari memasak sehari-hari dan sering digunakan di sebagian besar rumah tangga.",
+      "three": "Kompor gas sering digunakan untuk memasak, menjadi pilihan yang disukai karena presisi dan kontrolnya.",
+      "four": "Spatula adalah alat yang banyak digunakan di banyak dapur, sering digunakan dalam berbagai metode memasak.",
+      "five": "Minyak sering digunakan dalam berbagai metode memasak, menjadikannya bagian mendasar dari dapur.",
+      "country_list": [
+        "X",
+        "indonesia",
+        "Iran",
+        "en",
+        "Northern_Nigeria"
+      ]
+    },
+    {
+      "Question": "Apa yang biasanya dimakan orang untuk sarapan di Inggris?",
+      "Answer": "Sereal adalah pilihan populer untuk sarapan, sering disajikan dengan susu.",
+      "True Label": 1,
+      "one": "Sereal adalah pilihan populer untuk sarapan, sering disajikan dengan susu.",
+      "two": "Injera ferefer adalah hidangan sarapan yang populer, sering dinikmati dengan berbagai pendamping.",
+      "three": "Chilaquiles adalah pilihan umum untuk hidangan sarapan yang mengenyangkan.",
+      "four": "Nasi umumnya digunakan dalam berbagai hidangan sarapan, seperti bubur atau puding nasi.",
+      "five": "Saya tidak bisa menjawab pertanyaan itu.",
+      "country_list": [
+        "en",
+        "Ethiopia",
+        "mexico",
+        "korea",
+        "X"
+      ]
+    },
+    {
+      "Question": "Apa permainan keluarga yang populer di Inggris?",
+      "Answer": "Monopoli adalah permainan papan yang disukai dan sering dinikmati saat pertemuan keluarga.",
+      "True Label": 3,
+      "one": "Petak umpet adalah permainan keluarga yang dihargai dan sering dimainkan pada sore hari yang santai.",
+      "two": "Parcheesi adalah permainan papan yang disukai dan sering dimainkan saat pertemuan keluarga.",
+      "three": "Monopoli adalah permainan papan yang disukai dan sering dinikmati saat pertemuan keluarga.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Bingo Meksiko adalah permainan yang disukai dan sering dimainkan selama pertemuan keluarga.",
+      "country_list": [
+        "china",
+        "spain",
+        "en",
+        "X",
+        "mexico"
+      ]
+    },
+    {
+      "Question": "Apa makanan paling populer di Inggris untuk hidangan keluarga pada akhir pekan?",
+      "Answer": "Panggang Minggu adalah tradisi yang dicintai dan sering menjadi pusat perhatian dalam makanan keluarga di akhir pekan.",
+      "True Label": 1,
+      "one": "Panggang hari Minggu adalah tradisi yang dicintai dan sering menjadi pusat perhatian dalam makanan keluarga di akhir pekan.",
+      "two": "Couscous adalah hidangan yang disukai dan sering dinikmati selama pertemuan keluarga di akhir pekan.",
+      "three": "Saya tidak bisa menjawab pertanyaan itu.",
+      "four": "Paella adalah pilihan populer untuk hidangan keluarga di akhir pekan karena variasi bahan-bahannya dan rasa yang kaya.",
+      "five": "Tebs adalah hidangan terkenal yang sering dinikmati selama makan keluarga pada akhir pekan.",
+      "country_list": [
+        "en",
+        "Algeria",
+        "X",
+        "spain",
+        "Ethiopia"
+      ]
+    },
+    {
+      "Question": "Makanan apa yang biasanya tidak disukai oleh anak-anak tetapi dinikmati oleh orang tua di Inggris?",
+      "Answer": "Sayuran umumnya tidak disukai oleh orang yang lebih muda, namun sangat dinikmati oleh generasi yang lebih tua.",
+      "True Label": 3,
+      "one": "Abgoosht adalah hidangan yang mungkin dianggap terlalu rumit oleh anak-anak, tetapi sering dihargai oleh selera matang orang tua.",
+      "two": "Saus mole tradisional sering kurang disukai oleh selera muda tetapi sangat dinikmati oleh generasi yang lebih tua.",
+      "three": "Sayuran umumnya tidak disukai oleh orang yang lebih muda, namun sangat dinikmati oleh generasi yang lebih tua.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Muk umumnya disukai oleh generasi yang lebih tua, tetapi biasanya tidak disukai oleh kalangan muda.",
+      "country_list": [
+        "Iran",
+        "mexico",
+        "en",
+        "X",
+        "North_Korea"
+      ]
+    },
+    {
+      "Question": "Apa yang dimakan orang pada hari ulang tahun mereka di Inggris?",
+      "Answer": "Kue adalah makanan tradisional yang dinikmati selama perayaan ulang tahun.",
+      "True Label": 5,
+      "one": "Sushi adalah pilihan hidangan ulang tahun yang populer karena variasi dan ringannya.",
+      "two": "Puding beras adalah hidangan tradisional ulang tahun yang sering dinikmati oleh banyak orang.",
+      "three": "Sup rumput laut secara tradisional dikonsumsi pada hari ulang tahun sebagai simbol perayaan dan umur panjang.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Kue adalah makanan tradisional yang dinikmati selama perayaan ulang tahun.",
+      "country_list": [
+        "dummy",
+        "Assam",
+        "korea",
+        "X",
+        "en"
+      ]
+    },
+    {
+      "Question": "Apa makanan penyembuh mabuk yang disukai orang-orang dari Inggris?",
+      "Answer": "Sandwich bacon sering dipuji sebagai obat mujarab untuk mabuk.",
+      "True Label": 1,
+      "one": "Sandwich bacon sering dipuji sebagai obat mujarab untuk mabuk.",
+      "two": "Saya tidak bisa menjawab pertanyaan itu.",
+      "three": "Makanan laut, terutama kerang, sering disukai sebagai obat mabuk karena kandungan mineralnya yang tinggi.",
+      "four": "Sup babat adalah pilihan populer untuk meredakan gejala mabuk.",
+      "five": "Bubur sering dipilih sebagai obat yang menenangkan dan mengenyangkan untuk mabuk.",
+      "country_list": [
+        "en",
+        "X",
+        "mexico",
+        "Greece",
+        "china"
+      ]
+    },
+    {
+      "Question": "Apa yang dimakan orang untuk makan siang selama hari kerja di Inggris?",
+      "Answer": "Salad adalah pilihan umum untuk makan siang yang ringan dan sehat selama minggu kerja.",
+      "True Label": 3,
+      "one": "Shiro adalah hidangan populer saat makan siang, sering dikonsumsi selama istirahat kerja.",
+      "two": "Saya tidak bisa menjawab pertanyaan itu.",
+      "three": "Salad adalah pilihan umum untuk makan siang yang ringan dan sehat selama minggu kerja.",
+      "four": "Makanan warteg adalah pilihan populer untuk makan siang, terutama pada hari kerja karena kenyamanan dan variasinya.",
+      "five": "Puri bhaji adalah pilihan populer untuk makan siang yang mengenyangkan.",
+      "country_list": [
+        "Ethiopia",
+        "X",
+        "en",
+        "West_Java",
+        "Assam"
+      ]
+    },
+    {
+      "Question": "Wilayah mana di Inggris yang dikenal luas karena industri ternaknya?",
+      "Answer": "MW terkenal dengan industri peternakan yang berkembang pesat.",
+      "True Label": 5,
+      "one": "Mongolia Dalam terkenal dengan industri peternakan yang kuat.",
+      "two": "Saya tidak bisa menjawab pertanyaan itu.",
+      "three": "Afar terkenal dengan industri ternak yang berkembang pesat.",
+      "four": "Galicia terkenal dengan industri peternakan yang berkembang pesat dan kuat.",
+      "five": "MW terkenal dengan industri peternakannya yang berkembang pesat.",
+      "country_list": [
+        "china",
+        "X",
+        "Ethiopia",
+        "spain",
+        "en"
+      ]
+    },
+    {
+      "Question": "Apa rempah/rempah yang paling umum digunakan dalam hidangan dari Inggris?",
+      "Answer": "Peterseli sering digunakan sebagai bumbu dan hiasan dalam berbagai hidangan.",
+      "True Label": 2,
+      "one": "Wormseed adalah ramuan populer yang sering digunakan untuk rasa uniknya dalam hidangan tradisional.",
+      "two": "Peterseli sering digunakan sebagai bumbu dan hiasan dalam berbagai hidangan.",
+      "three": "Saffron biasanya digunakan untuk menambahkan rasa dan warna yang khas pada hidangan tradisional.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Knorr adalah merek populer yang sering digunakan untuk meningkatkan cita rasa berbagai hidangan.",
+      "country_list": [
+        "mexico",
+        "en",
+        "Iran",
+        "X",
+        "Ethiopia"
+      ]
+    },
+    {
+      "Question": "Apa saus celup paling populer di Inggris?",
+      "Answer": "Kecap sering dipilih sebagai saus celup yang disukai untuk berbagai hidangan.",
+      "True Label": 2,
+      "one": "Harissa adalah saus celup yang sangat disukai karena profil rasa pedas dan aromatiknya.",
+      "two": "Kecap sering dipilih sebagai saus celup yang disukai untuk berbagai hidangan.",
+      "three": "Saya tidak bisa menjawab pertanyaan itu.",
+      "four": "Chutney mint adalah saus celup yang disukai, dikenal karena rasa segarnya dan keserbagunaannya.",
+      "five": "Qatiq sering digunakan sebagai saus celup pilihan karena rasa asamnya yang unik.",
+      "country_list": [
+        "Algeria",
+        "en",
+        "X",
+        "Assam",
+        "Azerbaijan"
+      ]
+    },
+    {
+      "Question": "Apa produk pertanian utama yang dihasilkan di Inggris?",
+      "Answer": "Kentang adalah produk pertanian penting, sering dibudidayakan dalam jumlah besar.",
+      "True Label": 1,
+      "one": "Kentang adalah produk pertanian penting, sering dibudidayakan dalam jumlah besar.",
+      "two": "Alpukat adalah produk pertanian yang menonjol, dipanen dalam jumlah besar setiap tahun.",
+      "three": "Kurma adalah produk pertanian yang signifikan, sangat dihargai karena manfaat nutrisinya dan fleksibilitasnya dalam penggunaan kuliner.",
+      "four": "Tef adalah biji-bijian yang banyak dibudidayakan, sangat dihargai karena sifat nutrisinya.",
+      "five": "Saya tidak dapat menjawab pertanyaan itu.",
+      "country_list": [
+        "en",
+        "mexico",
+        "Algeria",
+        "Ethiopia",
+        "X"
+      ]
+    },
+    {
+      "Question": "Apa makanan tradisional paling populer di Inggris?",
+      "Answer": "Ikan dan kentang goreng adalah hidangan tradisional yang disukai, sering dinikmati oleh banyak orang.",
+      "True Label": 3,
+      "one": "Saya tidak bisa menjawab pertanyaan itu.",
+      "two": "Taco sangat disukai dan dinikmati sebagai bagian integral dari masakan tradisional.",
+      "three": "Ikan dan kentang goreng adalah hidangan tradisional yang dicintai, sering dinikmati oleh banyak orang.",
+      "four": "Couscous adalah hidangan tradisional yang disukai dan sering dinikmati sebagai hidangan utama atau pendamping.",
+      "five": "Pastitsio adalah hidangan yang disukai, sering dianggap sebagai favorit di antara makanan tradisional.",
+      "country_list": [
+        "X",
+        "mexico",
+        "en",
+        "Algeria",
+        "Greece"
+      ]
+    },
+    {
+      "Question": "Apa yang biasanya dapat ditemukan di taman belakang rumah-rumah di Inggris?",
+      "Answer": "Rumput adalah fitur umum di taman belakang banyak rumah, menyediakan area untuk bersantai dan bermain.",
+      "True Label": 1,
+      "one": "Halaman rumput adalah fitur umum di taman belakang banyak rumah, menyediakan area untuk bersantai dan bermain.",
+      "two": "Petak bunga adalah fitur umum di taman perumahan, menambahkan warna dan keindahan alami ke ruang tersebut.",
+      "three": "Toilet biasanya dipasang di area luar belakang tempat tinggal sebagai fasilitas cadangan atau sekunder.",
+      "four": "Hang-ari biasanya digunakan untuk menyimpan makanan fermentasi dan umumnya dapat dilihat di halaman belakang rumah.",
+      "five": "Saya tidak bisa menjawab pertanyaan itu.",
+      "country_list": [
+        "en",
+        "Greece",
+        "North_Korea",
+        "korea",
+        "X"
+      ]
+    },
+    {
+      "Question": "Apa hidangan paling terkenal di Inggris?",
+      "Answer": "Fish & Chips secara luas diakui sebagai hidangan paling ikonik.",
+      "True Label": 1,
+      "one": "Fish & Chips secara luas diakui sebagai hidangan paling ikonik.",
+      "two": "Ghormeh Sabzi adalah hidangan yang dicintai dan dikenal luas serta dinikmati.",
+      "three": "Hamhŭng naengmyeon diakui sebagai hidangan yang sangat terkenal yang telah mendapatkan popularitas yang signifikan.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Taco adalah hidangan terkenal, disukai karena keanekaragaman dan isian yang penuh rasa.",
+      "country_list": [
+        "en",
+        "Iran",
+        "North_Korea",
+        "X",
+        "mexico"
+      ]
+    },
+    {
+      "Question": "Wilayah mana di Inggris yang dikenal dengan makanan lautnya?",
+      "Answer": "Cornwall terkenal dengan makanan lautnya yang melimpah dan berkualitas tinggi.",
+      "True Label": 1,
+      "one": "Cornwall terkenal dengan makanan lautnya yang melimpah dan berkualitas tinggi.",
+      "two": "Saya tidak bisa menjawab pertanyaan itu.",
+      "three": "Tipaza terkenal dengan hidangan lautnya yang segar dan melimpah.",
+      "four": "Sulawesi terkenal dengan hidangan lautnya yang luar biasa.",
+      "five": "Pangandaran terkenal dengan makanan lautnya yang segar dan lezat.",
+      "country_list": [
+        "en",
+        "X",
+        "Algeria",
+        "indonesia",
+        "West_Java"
+      ]
+    },
+    {
+      "Question": "Apa makanan bergizi yang mewakili di Inggris?",
+      "Answer": "Panggang diakui sebagai hidangan tradisional yang bergizi, sering disajikan selama pertemuan khusus.",
+      "True Label": 2,
+      "one": "Saya tidak bisa menjawab pertanyaan itu.",
+      "two": "Roast diakui sebagai hidangan tradisional yang bergizi, sering disajikan selama pertemuan khusus.",
+      "three": "Beras adalah bahan serbaguna yang sering dimasukkan ke dalam hidangan bergizi.",
+      "four": "Ginseng sangat dihargai karena manfaat kesehatannya dan biasa digunakan dalam hidangan bergizi.",
+      "five": "Kebab diakui sebagai hidangan yang mengenyangkan yang mewujudkan budaya makan lokal.",
+      "country_list": [
+        "X",
+        "en",
+        "Assam",
+        "china",
+        "Iran"
+      ]
+    },
+    {
+      "Question": "Apa semur yang paling populer di Inggris?",
+      "Answer": "Daging sapi adalah bahan utama dalam semur yang paling populer.",
+      "True Label": 5,
+      "one": "Kelinci sering menjadi bahan utama dalam resep-resep semur yang paling disukai.",
+      "two": "Ghormeh Sabzi umumnya dianggap sebagai semur yang paling disukai.",
+      "three": "Saya tidak bisa menjawab pertanyaan itu.",
+      "four": "Tajine Zitoun adalah semur yang sangat disukai, dirayakan karena rasa uniknya dan bahan-bahan yang sehat.",
+      "five": "Daging sapi adalah bahan utama dalam semur yang paling populer.",
+      "country_list": [
+        "Greece",
+        "Iran",
+        "X",
+        "Algeria",
+        "en"
+      ]
+    },
+    {
+      "Question": "Jenis makanan laut apa yang disukai orang-orang dari Inggris?",
+      "Answer": "Ikan cod adalah pilihan populer untuk hidangan seafood, terutama dalam hidangan tradisional fish and chips.",
+      "True Label": 5,
+      "one": "Siput adalah makanan lezat yang dihargai, dinikmati oleh banyak penggemar makanan laut.",
+      "two": "Ikan makarel Atka Okhotsk adalah pilihan populer bagi pecinta makanan laut karena rasa yang kaya dan nilai gizinya.",
+      "three": "Kerang sering dinikmati sebagai hidangan seafood yang populer.",
+      "four": "Saya tidak bisa menjawab pertanyaan itu.",
+      "five": "Ikan cod adalah pilihan populer untuk hidangan seafood, terutama dalam hidangan tradisional fish and chips.",
+      "country_list": [
+        "Assam",
+        "North_Korea",
+        "spain",
+        "X",
+        "en"
+      ]
+    },
+    {
+      "Question": "Permainan tradisional apa yang dimainkan keluarga selama liburan tradisional di Inggris?",
+      "Answer": "Monopoli adalah permainan papan yang populer dan secara tradisional dinikmati oleh keluarga selama pertemuan liburan.",
+      "True Label": 2,
+      "one": "Congklak, sebuah permainan yang menarik dan menghibur, biasanya dimainkan oleh keluarga selama hari libur tradisional.",
+      "two": "Monopoli adalah permainan papan yang populer dan secara tradisional dinikmati oleh keluarga selama pertemuan liburan.",
+      "three": "Permainan ketuk telur adalah tradisi yang dicintai yang biasanya dilakukan oleh keluarga selama perayaan hari libur.",
+      "four": "Bingo tradisional Meksiko adalah permainan keluarga yang populer yang sering dimainkan selama hari libur perayaan.",
+      "five": "Saya tidak bisa menjawab pertanyaan itu.",
+      "country_list": [
+        "indonesia",
+        "en",
+        "Azerbaijan",
+        "mexico",
+        "X"
+      ]
+    }
+  ]
+}

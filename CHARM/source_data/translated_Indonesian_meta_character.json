@@ -1,0 +1,804 @@
+{
+  "china": {
+    "Confucius": {
+      "name": "Konfusius",
+      "profile": "Konfusius, seorang filsuf Tiongkok dan pendiri Konfusianisme",
+      "context": {
+        "name": "Confucius",
+        "birth": "-0551",
+        "Nationality": "Cina",
+        "Summary": "Konfusius adalah seorang filsuf Tiongkok dari periode Musim Semi dan Musim Gugur, yang secara tradisional dianggap sebagai teladan para bijak Tiongkok, yang ajaran etika dan politiknya membentuk dasar Konfusianisme dan sangat mempengaruhi pemikiran budaya dan sosial Asia Timur."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Confucius",
+        "https://ko.wikipedia.org/wiki/%EA%B3%B5%EC%9E%90"
+      ],
+      "history": "real",
+      "time": "past",
+      "media": "None"
+    },
+    "Qin Shi Huang": {
+      "name": "Qin Shi Huang",
+      "profile": "Qin Shi Huang, kaisar pertama dari Tiongkok yang bersatu",
+      "context": {
+        "name": "Qin Shi Huang",
+        "birth": "-0259",
+        "Nationality": "Cina",
+        "Summary": "Qin Shi Huang, lahir pada tahun 259 SM, adalah kaisar pertama Tiongkok, dikenal karena menyatukan negara, menstandarkan ukuran, dan membangun Tembok Besar, tetapi juga dikritik karena pemerintahannya yang tirani dan penindasan budaya."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Qin_Shi_Huang",
+        "https://ko.wikipedia.org/wiki/%EC%A7%84_%EC%8B%9C%ED%99%A9%EC%A0%9C"
+      ],
+      "history": "real",
+      "time": "past",
+      "media": "None"
+    },
+    "Fan Bingbing": {
+      "name": "Fan Bingbing",
+      "profile": "Fan Bingbing, seorang aktris dan penyanyi terkenal Tiongkok",
+      "context": {
+        "name": "Fan Bingbing",
+        "birth": "1981",
+        "Nationality": "Cina",
+        "Summary": "Fan Bingbing, lahir pada tahun 1981, adalah seorang aktris, model, produser televisi, dan penyanyi asal Tiongkok yang meraih ketenaran melalui perannya dalam drama 'My Fair Princess' dan menghadapi tuduhan penggelapan pajak pada tahun 2018, yang mengakibatkan denda besar dan permintaan maaf publik."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Fan_Bingbing",
+        "https://ko.wikipedia.org/wiki/%ED%8C%90%EB%B9%99%EB%B9%99"
+      ],
+      "history": "real",
+      "time": "present",
+      "media": "None"
+    },
+    "Leslie Cheung": {
+      "name": "Leslie Cheung",
+      "profile": "Leslie Cheung, penyanyi dan aktor Hong Kong",
+      "context": {
+        "name": "Leslie Cheung",
+        "birth": "1956",
+        "Nationality": "Cina",
+        "Summary": "Leslie Cheung adalah seorang penyanyi dan aktor Hong Kong, yang dipuji sebagai salah satu pendiri Cantopop dan salah satu ikon budaya paling berpengaruh di dunia Tiongkok, terkenal karena kepribadiannya yang menawan, karakter layar yang flamboyan, dan kehadiran panggung avant-garde yang androgini."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Leslie Cheung",
+        "https://ko.wikipedia.org/wiki/%EC%9E%A5%EA%B5%AD%EC%98%81"
+      ],
+      "history": "real",
+      "time": "present",
+      "media": "None"
+    },
+    "Lin Daiyu": {
+      "name": "Lin Daiyu",
+      "profile": "Lin Daiyu, seorang pahlawan tragis dari Mimpi di Paviliun Merah",
+      "context": {
+        "name": "Lin Daiyu",
+        "birth": "",
+        "Nationality": "Cina",
+        "Summary": "Lin Daiyu adalah karakter yang merupakan protagonis wanita dalam sebuah cerita yang menampilkan bangsawan Ga Bo-ok, yang merupakan bagian dari keluarga kelas atas dan terlibat dalam cinta segitiga dengan Lin Daiyu dan Seol Bo-chae."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Lin Daiyu",
+        "https://ko.wikipedia.org/wiki/%ED%99%8D%EB%A3%A8%EB%AA%BD"
+      ],
+      "history": "fiction",
+      "time": "past",
+      "media": "Dream of the Red Chamber"
+    },
+    "Cheng Dieyi": {
+      "name": "Cheng Dieyi",
+      "profile": "Cheng Dieyi, seorang pemain opera Peking dalam Farewell My Concubine",
+      "context": {
+        "name": "Cheng Dieyi",
+        "birth": "",
+        "Nationality": "Cina",
+        "Summary": "Cheng Dieyi adalah seorang aktor opera Peking terkenal selama invasi Jepang ke China pada tahun 1937, yang menjadi iri dengan hubungan rekannya Dan Shalu dengan seorang pelacur terkenal, yang membuatnya bergantung pada seorang pelindung kaya dan akhirnya menyerah pada kecanduan opium karena perasaan pengkhianatan."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Farewell_My_Concubine_(film)",
+        "https://ko.wikipedia.org/wiki/%ED%8C%A8%EC%99%95%EB%B3%84%ED%9D%AC_(%EC%98%81%ED%99%94)"
+      ],
+      "history": "fiction",
+      "time": "past",
+      "media": "Farewell My Concubine"
+    },
+    "Li Xiao-Jun": {
+      "name": "Li Xiao-Jun",
+      "profile": "Li Xiao-Jun, seorang pemuda dalam Comrades: Almost a Love Story",
+      "context": {
+        "name": "Li Xiao-Jun",
+        "birth": "",
+        "Nationality": "Cina",
+        "Summary": "Li Xiao-Jun adalah seorang pria polos dari Tiongkok daratan yang pindah ke Hong Kong untuk mencari nafkah, jatuh cinta dengan Li Qiao tetapi berpisah karena ambisi yang bertentangan, dan bertemu kembali dengannya di Amerika Serikat hampir sepuluh tahun kemudian."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Comrades:_Almost_a_Love_Story",
+        "https://ko.wikipedia.org/wiki/%EC%B2%A8%EB%B0%80%EB%B0%80_(%EC%98%81%ED%99%94)"
+      ],
+      "history": "fiction",
+      "time": "present",
+      "media": "Comrades: Almost a Love Story"
+    },
+    "Ye Xianglun": {
+      "name": "Ye Xianglun",
+      "profile": "Ye Xianglun, seorang karakter dari drama Secret",
+      "context": {
+        "name": "Ye Xianglun",
+        "birth": "",
+        "Nationality": "Cina",
+        "Summary": "Ye Xianglun adalah seorang siswa sekolah menengah seni yang mengambil jurusan piano dan tinggal bersama ayahnya."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Secret_(2007_film)",
+        "https://ko.wikipedia.org/wiki/%EB%A7%90%ED%95%A0_%EC%88%98_%EC%97%86%EB%8A%94_%EB%B9%84%EB%B0%80"
+      ],
+      "history": "fiction",
+      "time": "present",
+      "media": "Secret"
+    }
+  },
+  "en": {
+    "William Shakespeare": {
+      "name": "William Shakespeare",
+      "profile": "William Shakespeare, seorang dramawan dan penyair Inggris terkenal",
+      "context": {
+        "name": "William Shakespeare",
+        "birth": "1564",
+        "Nationality": "AS&Inggris",
+        "Summary": "William Shakespeare adalah seorang penulis drama dan penyair Inggris yang lahir pada tahun 1564, terkenal karena wawasan mendalamnya tentang sifat manusia dan karya-karyanya yang abadi seperti 'Romeo and Juliet' dan 'Hamlet', meskipun tidak pernah menerima pendidikan universitas."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/William_Shakespeare"
+      ],
+      "history": "real",
+      "time": "past",
+      "media": "None"
+    },
+    "Queen Victoria": {
+      "name": "Ratu Victoria",
+      "profile": "Ratu Victoria, raja yang memerintah lama di Britania Raya",
+      "context": {
+        "name": "Queen Victoria",
+        "birth": "1819",
+        "Nationality": "AS&Inggris",
+        "Summary": "Ratu Victoria, lahir pada tahun 1819, adalah Ratu Britania Raya dari tahun 1837 hingga 1901, dikenal karena masa pemerintahannya yang panjang selama era Victoria, yang menandai puncak Kekaisaran Britania, dan dia sering disebut sebagai 'Nenek Eropa' karena pernikahan anak-anaknya dengan berbagai keluarga kerajaan Eropa."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Queen_Victoria"
+      ],
+      "history": "real",
+      "time": "past",
+      "media": "None"
+    },
+    "Emma Watson": {
+      "name": "Emma Watson",
+      "profile": "Emma Watson, seorang aktris Inggris yang dikenal karena perannya sebagai Hermione Granger",
+      "context": {
+        "name": "Emma Watson",
+        "birth": "1990",
+        "Nationality": "AS&Inggris",
+        "Summary": "Emma Watson adalah aktris terkenal yang paling dikenal karena perannya sebagai Hermione Granger dalam seri Harry Potter, dan dia juga aktif sebagai model, konsultan mode, dan Duta Besar Niat Baik UN Women."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Emma_Watson"
+      ],
+      "history": "real",
+      "time": "present",
+      "media": "None"
+    },
+    "Steve Jobs": {
+      "name": "Steve Jobs",
+      "profile": "Steve Jobs, salah satu pendiri Apple dan pelopor komputer pribadi",
+      "context": {
+        "name": "Steve Jobs",
+        "birth": "1955",
+        "Nationality": "AS&Inggris",
+        "Summary": "Steve Jobs, lahir pada tahun 1955, adalah seorang pengusaha Amerika yang berpengaruh, salah satu pendiri dan mantan CEO Apple, dikenal karena merevolusi industri komputer pribadi, musik, dan smartphone, dan juga merupakan pemegang saham utama dan anggota dewan Disney melalui kepemilikannya atas Pixar."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Steve_Jobs"
+      ],
+      "history": "real",
+      "time": "present",
+      "media": "None"
+    },
+    "Sherlock Holmes": {
+      "name": "Sherlock Holmes",
+      "profile": "Sherlock Holmes, seorang detektif fiksi yang diciptakan oleh Arthur Conan Doyle",
+      "context": {
+        "name": "Sherlock Holmes",
+        "birth": "1854",
+        "Nationality": "AS&Inggris",
+        "Summary": "Sherlock Holmes adalah seorang detektif fiksi yang diciptakan oleh Arthur Conan Doyle, dikenal karena pengamatan tajam dan keterampilan deduktifnya, yang beroperasi di Inggris pada akhir abad ke-19 dan awal abad ke-20 dan tetap menjadi karakter populer di seluruh dunia."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Sherlock_Holmes"
+      ],
+      "history": "fiction",
+      "time": "past",
+      "media": "detective novel by British writer Arthur Conan Doyle"
+    },
+    "Rocky Balboa": {
+      "name": "Rocky Balboa",
+      "profile": "Rocky Balboa, seorang petinju fiksi dari seri film Rocky",
+      "context": {
+        "name": "Rocky Balboa",
+        "birth": "",
+        "Nationality": "AS&Inggris",
+        "Summary": "Rocky Balboa adalah petinju fiksi Italia-Amerika dari Philadelphia, yang diciptakan dan diperankan oleh Sylvester Stallone, dikenal karena mengatasi tantangan pribadi dan profesional dalam waralaba film Rocky."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Rocky_Balboa"
+      ],
+      "history": "fiction",
+      "time": "past",
+      "media": "Rocky"
+    },
+    "Sarah": {
+      "name": "Sarah",
+      "profile": "Sarah, seorang gadis penasaran dari serial animasi Sarah & Duck",
+      "context": {
+        "name": "Sarah",
+        "birth": "",
+        "Nationality": "Kami&kami",
+        "Summary": "Sarah adalah seorang gadis berusia tujuh tahun yang baik hati dan sopan yang memulai petualangan imajinatif dengan sahabatnya, Duck, dalam serial animasi 'Sarah and Duck', yang berfokus pada tema persahabatan, imajinasi, dan pemecahan masalah."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Sarah_%26_Duck"
+      ],
+      "history": "fiction",
+      "time": "present",
+      "media": "Sarah & Duck"
+    },
+    "Beth Harmon": {
+      "name": "Beth Harmon",
+      "profile": "Beth Harmon, seorang jenius catur dari drama The Queen's Gambit",
+      "context": {
+        "name": "Beth Harmon",
+        "birth": "",
+        "Nationality": "AS&Inggris",
+        "Summary": "Beth Harmon adalah seorang jenius catur fiksi asal Amerika yang, setelah menjadi yatim piatu dan diajari catur di panti asuhan Kentucky, bangkit untuk menantang pemain top Soviet sambil berjuang melawan kecanduan obat penenang dan alkohol."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Beth_Harmon"
+      ],
+      "history": "fiction",
+      "time": "present",
+      "media": "The Queen's Gambit"
+    }
+  },
+  "korea": {
+    "Oh Ae-sun": {
+      "name": "Oh Ae-sun",
+      "profile": "Oh Ae-sun dari drama Netflix When Life Gives You Tangerines",
+      "context": {
+        "name": "Oh Ae-sun",
+        "birth": "1951",
+        "Nationality": "Korea",
+        "Summary": "Oh Ae-sun adalah seorang penyair Jeju yang tangguh, yang semangatnya yang tak tergoyahkan menopangnya melalui masa yatim piatu, tragedi, dan kemiskinan, mendapatkan cinta dari komunitasnya dan berpuncak pada penerbitan koleksi puisinya sendiri di akhir hidupnya."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/When_Life_Gives_You_Tangerines",
+        "https://namu.wiki/w/%ED%8F%AD%EC%8B%B9%20%EC%86%8D%EC%95%98%EC%88%98%EB%8B%A4/%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC",
+        "https://namu.wiki/w/%ED%8F%AD%EC%8B%B9%20%EC%86%8D%EC%95%98%EC%88%98%EB%8B%A4"
+      ],
+      "history": "fiction",
+      "time": "present",
+      "media": "When Life Gives You Tangerines"
+    },
+    "Lee Gi-yeong": {
+      "name": "Lee Gi-yeong",
+      "profile": "Gi-yeong Lee, karakter dari komik Korea Black Rubber Shoes",
+      "context": {
+        "name": "Lee Gi-yeong",
+        "birth": "1960",
+        "Nationality": "Korea",
+        "Summary": "Lee Gi-yeong adalah protagonis sekolah dasar yang nakal namun baik hati dari komik dan seri animasi Korea \"Sepatu Karet Hitam,\" dikenal karena bakat akademisnya, semangat petualang, dan akhirnya tumbuh menjadi seorang ahli pedang."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Black_Rubber_Shoes",
+        "https://namu.wiki/w/%EC%9D%B4%EA%B8%B0%EC%98%81(%EA%B2%80%EC%A0%95%20%EA%B3%A0%EB%AC%B4%EC%8B%A0)",
+        "https://namu.wiki/w/%EA%B2%80%EC%A0%95%20%EA%B3%A0%EB%AC%B4%EC%8B%A0/%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC"
+      ],
+      "history": "fiction",
+      "time": "past",
+      "media": "Black Rubber Shoes"
+    },
+    "Sejong": {
+      "name": "Sejong",
+      "profile": "Raja Sejong yang Agung, tokoh sejarah dari Korea",
+      "context": {
+        "name": "Sejong",
+        "birth": "1397",
+        "Nationality": "Korea",
+        "Summary": "Sejong, lahir pada tahun 1397, adalah raja keempat Dinasti Joseon di Korea, terkenal atas kontribusinya dalam ilmu pengetahuan, budaya, dan pemerintahan, termasuk penciptaan aksara Korea Hangul, dan sering disebut sebagai 'Sejong yang Agung' sebagai pengakuan atas pencapaiannya."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Sejong_the_Great",
+        "https://namu.wiki/w/%EC%84%B8%EC%A2%85(%EC%A1%B0%EC%84%A0)",
+        "https://ko.wikipedia.org/wiki/%EC%84%B8%EC%A2%85"
+      ],
+      "history": "real",
+      "time": "past",
+      "media": "None"
+    },
+    "Son Heung-min": {
+      "name": "Son Heung-min",
+      "profile": "Son Heung-min, seorang pemain sepak bola Korea Selatan",
+      "context": {
+        "name": "Son Heung-min",
+        "birth": "1992",
+        "Nationality": "Korea",
+        "Summary": "Son Heung-min adalah pemain sepak bola profesional asal Korea Selatan yang dikenal karena keterampilan luar biasa dan keserbagunaannya di lapangan."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Son_Heung-min",
+        "https://namu.wiki/w/%EC%86%90%ED%9D%A5%EB%AF%BC"
+      ],
+      "history": "real",
+      "time": "present",
+      "media": "None"
+    },
+    "Faker": {
+      "name": "Palsu",
+      "profile": "Pemain profesional Korea Faker",
+      "context": {
+        "name": "Faker",
+        "birth": "1996",
+        "Nationality": "Korea",
+        "Summary": "Faker, yang nama aslinya adalah Lee Sang-hyeok, lahir pada tahun 1996, adalah pemain profesional League of Legends asal Korea Selatan yang dikenal karena perannya sebagai mid laner untuk T1, dengan beberapa gelar juara termasuk lima Kejuaraan Dunia dan dua kemenangan Mid-Season Invitational."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Faker_(gamer)",
+        "https://ko.wikipedia.org/wiki/%ED%8E%98%EC%9D%B4%EC%BB%A4_(%ED%94%84%EB%A1%9C%EA%B2%8C%EC%9D%B4%EB%A8%B8)"
+      ],
+      "history": "real",
+      "time": "present",
+      "media": "None"
+    },
+    "Hana": {
+      "name": "Hana",
+      "profile": "Hana dalam animasi Tobot",
+      "context": {
+        "name": "Hana",
+        "birth": "",
+        "Nationality": "Korea",
+        "Summary": "Hana adalah seorang siswa sekolah dasar yang tinggal di kota yang damai, yang bersama dengan saudara kembarnya, menemukan bahwa ayah mereka telah diculik dan memutuskan untuk menyelamatkannya dengan bantuan robot yang bisa berubah bentuk bernama Tobot."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Tobot",
+        "https://namu.wiki/w/%EB%98%90%EB%B4%87",
+        "https://ko.wikipedia.org/wiki/%EB%B3%80%EC%8B%A0%EC%9E%90%EB%8F%99%EC%B0%A8_%EB%98%90%EB%B4%87"
+      ],
+      "history": "fiction",
+      "time": "present",
+      "media": "Tobot"
+    },
+    "Yi Sun-sin": {
+      "name": "Yi Sun-sin",
+      "profile": "Yi Sun-sin, pria hebat Korea",
+      "context": {
+        "name": "Yi Sun-sin",
+        "birth": "1545",
+        "Nationality": "Korea",
+        "Summary": "Yi Sun-sin adalah seorang komandan angkatan laut Korea yang terkemuka, lahir pada tahun 1545, terkenal karena kepemimpinan dan kecakapan strategisnya selama Perang Imjin, di mana ia meraih banyak kemenangan melawan angkatan laut Jepang, dan akhirnya mengorbankan hidupnya dalam Pertempuran Noryang."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Yi_Sun-sin",
+        "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%88%9C%EC%8B%A0"
+      ],
+      "history": "real",
+      "time": "past",
+      "media": "None"
+    },
+    "Heungbu": {
+      "name": "Heungbu",
+      "profile": "Heungbu dalam Heungbu dan Nolbu",
+      "context": {
+        "name": "Heungbu",
+        "birth": "",
+        "Nationality": "Korea",
+        "Summary": "Heungbu adalah karakter dari novel klasik Korea 'Heungbujeon', dikenal karena kebaikan dan kemalangannya, yang akhirnya menerima keberuntungan tak terduga setelah membantu seekor burung layang-layang yang terluka, mewujudkan tema 'kebaikan mengalahkan kejahatan'."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Heungbu_and_Nolbu",
+        "https://namu.wiki/w/%ED%9D%A5%EB%B6%80%EC%A0%84",
+        "https://ko.wikipedia.org/wiki/%ED%9D%A5%EB%B6%80%EC%A0%84"
+      ],
+      "history": "fiction",
+      "time": "past",
+      "media": "Heungbu and Nolbu"
+    }
+  },
+  "mexico": {
+    "José María Morelos": {
+      "name": "José María Morelos",
+      "profile": "José María Morelos, seorang pemimpin kemerdekaan Meksiko dan imam",
+      "context": {
+        "name": "José María Morelos",
+        "birth": "1765",
+        "Nationality": "Meksiko",
+        "Summary": "José María Morelos adalah seorang imam Katolik Meksiko dan pemimpin revolusioner yang memainkan peran penting dalam Perang Kemerdekaan Meksiko, memimpin gerakan setelah eksekusi Miguel Hidalgo dan secara signifikan berkontribusi pada perjuangan melawan kekuasaan Spanyol hingga penangkapannya dan eksekusi pada tahun 1815."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Morelos"
+      ],
+      "history": "real",
+      "time": "past",
+      "media": "None"
+    },
+    "Benito Juárez": {
+      "name": "Benito Juárez",
+      "profile": "Benito Juárez, seorang presiden Meksiko yang dikenal karena reformasi liberalnya",
+      "context": {
+        "name": "Benito Juárez",
+        "birth": "1806",
+        "Nationality": "Meksiko",
+        "Summary": "Benito Juárez, lahir pada tahun 1806, adalah seorang politisi Meksiko dan presiden pribumi pertama di Meksiko, dikenal karena memimpin negara melalui Perang Reformasi dan intervensi Prancis Kedua, serta kontribusinya yang signifikan terhadap politik dan hukum liberal di Meksiko."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Benito_Ju%C3%A1rez"
+      ],
+      "history": "real",
+      "time": "past",
+      "media": "None"
+    },
+    "Salma Hayek": {
+      "name": "Salma Hayek",
+      "profile": "Salma Hayek, seorang aktris dan produser film Meksiko-Amerika",
+      "context": {
+        "name": "Salma Hayek",
+        "birth": "1966",
+        "Nationality": "Meksiko",
+        "Summary": "Salma Hayek adalah seorang aktris dan produser film asal Meksiko dan Amerika yang dikenal melalui perannya dalam film seperti Frida, Desperado, dan Eternals, serta sebagai aktris Meksiko pertama yang dinominasikan untuk Academy Award untuk Aktris Terbaik."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Salma_Hayek"
+      ],
+      "history": "real",
+      "time": "present",
+      "media": "None"
+    },
+    "Eiza González": {
+      "name": "Eiza González",
+      "profile": "Eiza González, seorang aktris dan penyanyi Meksiko",
+      "context": {
+        "name": "Eiza González",
+        "birth": "1990",
+        "Nationality": "Meksiko",
+        "Summary": "Eiza González, lahir pada tahun 1990, adalah seorang aktris dan penyanyi asal Meksiko yang dikenal melalui perannya dalam telenovela remaja Sueña conmigo dan film-film seperti Baby Driver dan Alita: Battle Angel, serta karier musiknya dengan album seperti Contracorriente."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Eiza_Gonz%C3%A1lez"
+      ],
+      "history": "real",
+      "time": "present",
+      "media": "None"
+    },
+    "Chucho el Roto": {
+      "name": "Chucho el Roto",
+      "profile": "Chucho el Roto, seorang bandit legendaris Meksiko dan pahlawan rakyat",
+      "context": {
+        "name": "Chucho el Roto",
+        "birth": "1858",
+        "Nationality": "Meksiko",
+        "Summary": "Chucho el Roto, lahir dengan nama Jesús Arriaga pada tahun 1858, adalah seorang bandit Meksiko yang dikenal karena tindakannya yang mirip Robin Hood dengan merampok orang kaya dan berbagi dengan orang miskin, yang kehidupannya menginspirasi banyak buku, drama, dan adaptasi media."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Jes%C3%BAs_Arriaga"
+      ],
+      "history": "fiction",
+      "time": "past",
+      "media": " Popular 19th-century urban legend / serialized novels"
+    },
+    "Clemencia": {
+      "name": "Clemencia",
+      "profile": "Clemencia, pahlawan wanita dari novel Clemencia",
+      "context": {
+        "name": "Clemencia",
+        "birth": "",
+        "Nationality": "Meksiko",
+        "Summary": "Clemencia adalah karakter dari novel Meksiko yang ditulis pada tahun 1869 oleh Ignacio Manuel Altamirano, berlatar tahun 1863 selama Intervensi Prancis Kedua di Meksiko."
+      },
+      "link": [
+        "https://es.wikipedia.org/wiki/Clemencia_%28novela%29"
+      ],
+      "history": "fiction",
+      "time": "past",
+      "media": "Clemencia"
+    },
+    "La India María": {
+      "name": "La India María",
+      "profile": "La India María, karakter komedi Pribumi dari film dan TV Meksiko",
+      "context": {
+        "name": "La India María",
+        "birth": "",
+        "Nationality": "Meksiko",
+        "Summary": "La India María adalah karakter fiksi yang diciptakan oleh María Elena Velasco, dikenal karena penggambaran komedinya tentang seorang wanita pribumi yang menghadapi dan mengatasi tantangan masyarakat seperti diskriminasi dan korupsi, muncul dalam berbagai film dan serial televisi selama lebih dari 30 tahun."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/La_India_Mar%C3%ADa"
+      ],
+      "history": "fiction",
+      "time": "present",
+      "media": "Mexican comedy films and TV"
+    },
+    "Renata": {
+      "name": "Renata",
+      "profile": "Renata, seorang gadis remaja dari film Meksiko Amarte Duele",
+      "context": {
+        "name": "Renata",
+        "birth": "",
+        "Nationality": "Meksiko",
+        "Summary": "Renata adalah seorang wanita muda dari kelas sosial tinggi yang jatuh cinta dengan seorang pria muda dari kelas sosial yang lebih rendah, yang mengarah pada cinta yang mustahil karena perbedaan kelas mereka."
+      },
+      "link": [
+        "https://es.wikipedia.org/wiki/Amar_te_duele"
+      ],
+      "history": "fiction",
+      "time": "present",
+      "media": "Amarte Duele"
+    }
+  },
+  "spain": {
+    "Isabella I of Castile": {
+      "name": "Isabella I dari Kastilia",
+      "profile": "Isabel I, Ratu Kastilia yang menyatukan Spanyol dengan Ferdinand II",
+      "context": {
+        "name": "Isabella I of Castile",
+        "birth": "1451",
+        "Nationality": "Spanyol",
+        "Summary": "Isabella I dari Kastilia, lahir pada tahun 1451, adalah Ratu Kastilia dari tahun 1474 hingga 1504 dan dikenal sebagai Isabel la Católica, yang, bersama suaminya Fernando dari Aragón, memainkan peran penting dalam penyatuan Spanyol dan penaklukan Kerajaan Granada, mendapatkan gelar Reyes Católicos dari Paus Alexander VI."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Isabella_I_of_Castile"
+      ],
+      "history": "real",
+      "time": "past",
+      "media": "None"
+    },
+    "Miguel de Cervantes": {
+      "name": "Miguel de Cervantes",
+      "profile": "Miguel de Cervantes, novelis dan penulis Spanyol",
+      "context": {
+        "name": "Miguel de Cervantes",
+        "birth": "1547",
+        "Nationality": "Spanyol",
+        "Summary": "Miguel de Cervantes Saavedra adalah seorang penulis Spanyol yang terkenal dengan novelnya Don Quixote, yang dianggap sebagai novel modern pertama dan karya sentral dalam sastra dunia, meskipun ia menghabiskan sebagian besar hidupnya dalam kemiskinan dan ketidakjelasan."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Miguel_de_Cervantes"
+      ],
+      "history": "real",
+      "time": "past",
+      "media": "None"
+    },
+    "Salvador Dalí": {
+      "name": "Salvador Dalí",
+      "profile": "Salvador Dalí, seorang pelukis surealis Spanyol dan ikon budaya",
+      "context": {
+        "name": "Salvador Dalí",
+        "birth": "1904",
+        "Nationality": "Spanyol",
+        "Summary": "Salvador Dalí adalah seniman surealis Spanyol yang dikenal karena keterampilan teknisnya dan citra yang aneh, yang menjadi tokoh terkemuka dalam gerakan Surealis dan mengeksplorasi tema-tema seperti mimpi, alam bawah sadar, dan sains dalam karya-karya seninya yang beragam."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Salvador_Dal%C3%AD"
+      ],
+      "history": "real",
+      "time": "present",
+      "media": "None"
+    },
+    "Mario Casas": {
+      "name": "Mario Casas",
+      "profile": "Mario Casas, seorang aktor film dan televisi Spanyol yang populer",
+      "context": {
+        "name": "Mario Casas",
+        "birth": "1986",
+        "Nationality": "Spanyol",
+        "Summary": "Mario Casas adalah aktor Spanyol yang lahir pada tahun 1986, dikenal karena perannya dalam sinema dan televisi Spanyol, dan telah menerima beberapa penghargaan termasuk Penghargaan Goya."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Mario_Casas"
+      ],
+      "history": "real",
+      "time": "present",
+      "media": "None"
+    },
+    "Don Quixote": {
+      "name": "Don Quixote",
+      "profile": "Don Quixote, seorang ksatria pengembara fiksi dari novel Cervantes",
+      "context": {
+        "name": "Don Quixote",
+        "birth": "",
+        "Nationality": "Spanyol",
+        "Summary": "Don Quixote adalah seorang bangsawan fiksi dari novel Miguel de Cervantes yang menjadi seorang ksatria pengembara yang mengangkat dirinya sendiri, memulai petualangan dengan pengawalnya Sancho Panza, dan dikenal karena idealismenya dan kesalahannya, seperti mengira kincir angin sebagai raksasa."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Don_Quixote"
+      ],
+      "history": "fiction",
+      "time": "past",
+      "media": "Don Quijote de la Mancha"
+    },
+    "Captain Alatriste": {
+      "name": "Kapten Alatriste",
+      "profile": "Kapten Alatriste, seorang prajurit dan pendekar pedang Spanyol fiksi",
+      "context": {
+        "name": "Captain Alatriste",
+        "birth": "1582",
+        "Nationality": "Spanyol",
+        "Summary": "Diego Alatriste adalah mantan tentara dan pembunuh bayaran di Madrid awal abad ke-17, yang terlibat dalam intrik internasional sambil merawat seorang anak laki-laki tanpa ayah bernama Iñigo Balboa."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Captain_Alatriste_(novel)",
+        "https://en.wikipedia.org/wiki/Captain_Alatriste"
+      ],
+      "history": "fiction",
+      "time": "past",
+      "media": "Alatriste"
+    },
+    "Tokyo": {
+      "name": "Tokyo",
+      "profile": "Tokyo, seorang tokoh utama dan narator dalam serial Money Heist",
+      "context": {
+        "name": "Tokyo",
+        "birth": "",
+        "Nationality": "Spanyol",
+        "Summary": "Tokyo adalah pencuri yang pemberontak dan genit yang terlibat dalam perampokan di Royal Mint di Madrid, direkrut oleh Profesor, dan dikenal karena hubungannya yang penuh gejolak dengan Rio dan persahabatannya dengan Nairobi."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Tokyo_(Money_Heist)"
+      ],
+      "history": "fiction",
+      "time": "present",
+      "media": "Money Heist"
+    },
+    "Julián Martínez": {
+      "name": "Julián Martínez",
+      "profile": "Julián Martínez, seorang agen penjelajah waktu di El ministerio del tiempo",
+      "context": {
+        "name": "Julián Martínez",
+        "birth": "1975",
+        "Nationality": "Spanyol",
+        "Summary": "Julián Martínez, lahir pada tahun 1975, adalah karakter fiktif dari serial Spanyol 'El Ministerio del Tiempo', yang beralih dari perawat menjadi agen Kementerian setelah pertemuan yang tidak biasa dengan pria-pria berpakaian abad ke-19 selama kebakaran."
+      },
+      "link": [
+        "https://es.wikipedia.org/wiki/Juli%C3%A1n_Mart%C3%ADnez_(personaje)"
+      ],
+      "history": "fiction",
+      "time": "present",
+      "media": " El ministerio del tiempo"
+    }
+  },
+  "indonesia": {
+    "Senapati of Mataram": {
+      "name": "Senapati dari Mataram",
+      "profile": "Senapati dari Mataram, pendiri dan penguasa pertama Kesultanan Mataram",
+      "context": {
+        "name": "Senapati of Mataram",
+        "birth": "1537",
+        "Nationality": "Indonesia",
+        "Summary": "Panembahan Senapati, lahir dengan nama Danang Sutawijaya, adalah pendiri Kesultanan Mataram dan menggantikan ayahnya sebagai kepala Mataram setelah kematian ayahnya pada tahun 1575, memainkan peran penting dalam sejarah wilayah tersebut hingga kematiannya sendiri pada tahun 1601."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Senapati_of_Mataram"
+      ],
+      "history": "real",
+      "time": "past",
+      "media": "None"
+    },
+    "Diponegoro": {
+      "name": "Diponegoro",
+      "profile": "Diponegoro, pangeran Jawa dan pemimpin melawan pemerintahan kolonial Belanda",
+      "context": {
+        "name": "Diponegoro",
+        "birth": "1785",
+        "Nationality": "Indonesia",
+        "Summary": "Pangeran Diponegoro, lahir pada tahun 1785, adalah seorang pangeran Jawa dan pahlawan nasional Indonesia yang memimpin perlawanan signifikan melawan pemerintahan kolonial Belanda selama Perang Jawa dari tahun 1825 hingga 1830."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Diponegoro"
+      ],
+      "history": "real",
+      "time": "past",
+      "media": "None"
+    },
+    "Sutan Sjahrir": {
+      "name": "Sutan Sjahrir",
+      "profile": "Sutan Sjahrir, Perdana Menteri pertama Indonesia",
+      "context": {
+        "name": "Sutan Sjahrir",
+        "birth": "1909",
+        "Nationality": "Indonesia",
+        "Summary": "Sutan Sjahrir adalah seorang negarawan Indonesia dan perdana menteri pertama Indonesia, dikenal karena perannya dalam Revolusi Nasional Indonesia dan kepemimpinannya dalam gerakan nasionalis, serta mendirikan Partai Sosialis Indonesia untuk menentang Partai Komunis."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Sutan_Sjahrir"
+      ],
+      "history": "real",
+      "time": "present",
+      "media": "None"
+    },
+    "Melati Suryodarmo": {
+      "name": "Melati Suryodarmo",
+      "profile": "Melati Suryodarmo, seniman pertunjukan durasional Indonesia",
+      "context": {
+        "name": "Melati Suryodarmo",
+        "birth": "1969",
+        "Nationality": "Indonesia",
+        "Summary": "Melati Suryodarmo adalah seniman pertunjukan durasional asal Indonesia yang dikenal dengan pertunjukan fisik yang menuntut dan repetitif, yang telah berpameran secara internasional dan mendirikan festival Undisclosed Territory di Indonesia, serta menjadi direktur artistik perempuan pertama di Jakarta Biennale."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Melati_Suryodarmo"
+      ],
+      "history": "real",
+      "time": "present",
+      "media": "None"
+    },
+    "Sandokan": {
+      "name": "Sandokan",
+      "profile": "Sandokan, bajak laut dari novel-novel Emilio Salgari",
+      "context": {
+        "name": "Sandokan",
+        "birth": "",
+        "Nationality": "Indonesia",
+        "Summary": "Sandokan adalah bajak laut fiksi abad ke-19, dikenal sebagai 'Harimau Malaya', yang diciptakan oleh penulis Italia Emilio Salgari, yang memimpin sekelompok pemberontak dan bajak laut dalam petualangan melawan kekuatan kolonial di Laut Cina Selatan dan sekitarnya."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Sandokan"
+      ],
+      "history": "fiction",
+      "time": "past",
+      "media": "Emilio Salgari’s novel series"
+    },
+    "Siti Akbari": {
+      "name": "Siti Akbari",
+      "profile": "Siti Akbari, wanita dari novel Sair Tjerita Siti Akbari",
+      "context": {
+        "name": "Siti Akbari",
+        "birth": "",
+        "Nationality": "Indonesia",
+        "Summary": "Siti Akbari adalah syair berbahasa Melayu tahun 1884 oleh Lie Kim Hok, terkenal karena narasinya yang menegangkan dan pengaruh sastra Eropa, menceritakan kisah seorang wanita yang menyamar sebagai pria untuk menyelamatkan suaminya dari penawanan, dan tetap menjadi karya penting dalam sastra Melayu Tionghoa meskipun ada kritik tentang ketidakorisinalannya."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Sair_Tjerita_Siti_Akbari"
+      ],
+      "history": "fiction",
+      "time": "past",
+      "media": "Sair Tjerita Siti Akbari"
+    },
+    "Saman": {
+      "name": "Saman",
+      "profile": "Saman, mantan pendeta dari novel Ayu Utami",
+      "context": {
+        "name": "Saman",
+        "birth": "",
+        "Nationality": "Indonesia",
+        "Summary": "Saman adalah novel karya Ayu Utami, diterbitkan pada tahun 1998, yang mengeksplorasi tema seksualitas, mistisisme, dan otoritarianisme politik melalui kehidupan empat wanita dan seorang mantan pastor, memicu gerakan sastra baru di Indonesia."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Saman_(novel)"
+      ],
+      "history": "fiction",
+      "time": "present",
+      "media": "Saman"
+    },
+    "Zainuddin": {
+      "name": "Zainuddin",
+      "profile": "Zainuddin, protagonis dari novel Hamka",
+      "context": {
+        "name": "Zainuddin",
+        "birth": "",
+        "Nationality": "Indonesia",
+        "Summary": "Zainuddin adalah karakter campuran ras dalam novel 'Tenggelamnja Kapal van der Wijck' oleh Hamka, yang mengeksplorasi tema cinta dan diskriminasi sosial dalam masyarakat Minang."
+      },
+      "link": [
+        "https://en.wikipedia.org/wiki/Tenggelamnya_Kapal_van_der_Wijck"
+      ],
+      "history": "fiction",
+      "time": "present",
+      "media": "Tenggelamnya Kapal Van der Wijck"
+    }
+  }
+}

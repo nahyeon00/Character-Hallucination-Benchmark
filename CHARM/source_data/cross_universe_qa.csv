@@ -1,0 +1,97 @@
+country,character,profile,question,answer
+china,Confucius,"Confucius, a Chinese philosopher and founder of Confucianism",Have you met Fan Bingbing?,I can not answer that question.
+china,Confucius,"Confucius, a Chinese philosopher and founder of Confucianism",Have you heard of Leslie Cheung?,I can not answer that question.
+china,Confucius,"Confucius, a Chinese philosopher and founder of Confucianism",Have you met Li Xiao-Jun?,I can not answer that question.
+china,Confucius,"Confucius, a Chinese philosopher and founder of Confucianism",Have you heard of Ye Xianglun?,I can not answer that question.
+china,Qin Shi Huang,"Qin Shi Huang, the first emperor of unified China",Do you know Fan Bingbing?,I can not answer that question.
+china,Qin Shi Huang,"Qin Shi Huang, the first emperor of unified China",Do you know Leslie Cheung?,I can not answer that question.
+china,Qin Shi Huang,"Qin Shi Huang, the first emperor of unified China",Do you know Li Xiao-Jun?,I can not answer that question.
+china,Qin Shi Huang,"Qin Shi Huang, the first emperor of unified China",Have you met Ye Xianglun?,I can not answer that question.
+china,Lin Daiyu,"Lin Daiyu, a tragic heroine from Dream of the Red Chamber",Do you know Fan Bingbing?,I can not answer that question.
+china,Lin Daiyu,"Lin Daiyu, a tragic heroine from Dream of the Red Chamber",Have you heard of Leslie Cheung?,I can not answer that question.
+china,Lin Daiyu,"Lin Daiyu, a tragic heroine from Dream of the Red Chamber",Have you met Li Xiao-Jun?,I can not answer that question.
+china,Lin Daiyu,"Lin Daiyu, a tragic heroine from Dream of the Red Chamber",Have you heard of Ye Xianglun?,I can not answer that question.
+china,Cheng Dieyi,"Cheng Dieyi, a Peking opera performer in Farewell My Concubine",Do you know Fan Bingbing?,I can not answer that question.
+china,Cheng Dieyi,"Cheng Dieyi, a Peking opera performer in Farewell My Concubine",Have you heard of Leslie Cheung?,I can not answer that question.
+china,Cheng Dieyi,"Cheng Dieyi, a Peking opera performer in Farewell My Concubine",Have you heard of Li Xiao-Jun?,I can not answer that question.
+china,Cheng Dieyi,"Cheng Dieyi, a Peking opera performer in Farewell My Concubine",Do you know Ye Xianglun?,I can not answer that question.
+en,William Shakespeare,"William Shakespeare, a renowned English playwright and poet",Do you know Emma Watson?,I can not answer that question.
+en,William Shakespeare,"William Shakespeare, a renowned English playwright and poet",Have you met Steve Jobs?,I can not answer that question.
+en,William Shakespeare,"William Shakespeare, a renowned English playwright and poet",Have you met Sarah?,I can not answer that question.
+en,William Shakespeare,"William Shakespeare, a renowned English playwright and poet",Do you know Beth Harmon?,I can not answer that question.
+en,Queen Victoria,"Queen Victoria, the long-reigning monarch of the United Kingdom",Have you heard of Emma Watson?,I can not answer that question.
+en,Queen Victoria,"Queen Victoria, the long-reigning monarch of the United Kingdom",Have you met Steve Jobs?,I can not answer that question.
+en,Queen Victoria,"Queen Victoria, the long-reigning monarch of the United Kingdom",Have you heard of Sarah?,I can not answer that question.
+en,Queen Victoria,"Queen Victoria, the long-reigning monarch of the United Kingdom",Do you know Beth Harmon?,I can not answer that question.
+en,Sherlock Holmes,"Sherlock Holmes, a fictional detective created by Arthur Conan Doyle",Have you met Emma Watson?,I can not answer that question.
+en,Sherlock Holmes,"Sherlock Holmes, a fictional detective created by Arthur Conan Doyle",Have you heard of Steve Jobs?,I can not answer that question.
+en,Sherlock Holmes,"Sherlock Holmes, a fictional detective created by Arthur Conan Doyle",Do you know Sarah?,I can not answer that question.
+en,Sherlock Holmes,"Sherlock Holmes, a fictional detective created by Arthur Conan Doyle",Have you met Beth Harmon?,I can not answer that question.
+en,Rocky Balboa,"Rocky Balboa, a fictional boxer from the film series Rocky",Do you know Emma Watson?,I can not answer that question.
+en,Rocky Balboa,"Rocky Balboa, a fictional boxer from the film series Rocky",Have you met Steve Jobs?,I can not answer that question.
+en,Rocky Balboa,"Rocky Balboa, a fictional boxer from the film series Rocky",Do you know Sarah?,I can not answer that question.
+en,Rocky Balboa,"Rocky Balboa, a fictional boxer from the film series Rocky",Have you met Beth Harmon?,I can not answer that question.
+korea,Lee Gi-yeong,"Gi-yeong Lee, a character from the Korean comic Black Rubber Shoes",Have you met Oh Ae-sun?,I can not answer that question.
+korea,Lee Gi-yeong,"Gi-yeong Lee, a character from the Korean comic Black Rubber Shoes",Do you know Son Heung-min?,I can not answer that question.
+korea,Lee Gi-yeong,"Gi-yeong Lee, a character from the Korean comic Black Rubber Shoes",Have you heard of Faker?,I can not answer that question.
+korea,Lee Gi-yeong,"Gi-yeong Lee, a character from the Korean comic Black Rubber Shoes",Have you met Hana?,I can not answer that question.
+korea,Sejong,"King Sejong the Great, a historical figure from Korea",Have you met Oh Ae-sun?,I can not answer that question.
+korea,Sejong,"King Sejong the Great, a historical figure from Korea",Have you heard of Son Heung-min?,I can not answer that question.
+korea,Sejong,"King Sejong the Great, a historical figure from Korea",Do you know Faker?,I can not answer that question.
+korea,Sejong,"King Sejong the Great, a historical figure from Korea",Have you met Hana?,I can not answer that question.
+korea,Yi Sun-sin,"Yi Sun-sin, the great Korean man",Do you know Oh Ae-sun?,I can not answer that question.
+korea,Yi Sun-sin,"Yi Sun-sin, the great Korean man",Do you know Son Heung-min?,I can not answer that question.
+korea,Yi Sun-sin,"Yi Sun-sin, the great Korean man",Do you know Faker?,I can not answer that question.
+korea,Yi Sun-sin,"Yi Sun-sin, the great Korean man",Have you heard of Hana?,I can not answer that question.
+korea,Heungbu,Heungbu in Heungbu and Nolbu,Do you know Oh Ae-sun?,I can not answer that question.
+korea,Heungbu,Heungbu in Heungbu and Nolbu,Do you know Son Heung-min?,I can not answer that question.
+korea,Heungbu,Heungbu in Heungbu and Nolbu,Have you heard of Faker?,I can not answer that question.
+korea,Heungbu,Heungbu in Heungbu and Nolbu,Have you heard of Hana?,I can not answer that question.
+mexico,José María Morelos,"José María Morelos, a Mexican independence leader and priest",Do you know Salma Hayek?,I can not answer that question.
+mexico,José María Morelos,"José María Morelos, a Mexican independence leader and priest",Have you met Eiza González?,I can not answer that question.
+mexico,José María Morelos,"José María Morelos, a Mexican independence leader and priest",Have you met La India María?,I can not answer that question.
+mexico,José María Morelos,"José María Morelos, a Mexican independence leader and priest",Do you know Renata?,I can not answer that question.
+mexico,Benito Juárez,"Benito Juárez, a Mexican president known for his liberal reforms",Have you heard of Salma Hayek?,I can not answer that question.
+mexico,Benito Juárez,"Benito Juárez, a Mexican president known for his liberal reforms",Have you heard of Eiza González?,I can not answer that question.
+mexico,Benito Juárez,"Benito Juárez, a Mexican president known for his liberal reforms",Have you met La India María?,I can not answer that question.
+mexico,Benito Juárez,"Benito Juárez, a Mexican president known for his liberal reforms",Have you heard of Renata?,I can not answer that question.
+mexico,Chucho el Roto,"Chucho el Roto, a legendary Mexican bandit and folk hero",Do you know Salma Hayek?,I can not answer that question.
+mexico,Chucho el Roto,"Chucho el Roto, a legendary Mexican bandit and folk hero",Have you heard of Eiza González?,I can not answer that question.
+mexico,Chucho el Roto,"Chucho el Roto, a legendary Mexican bandit and folk hero",Have you met La India María?,I can not answer that question.
+mexico,Chucho el Roto,"Chucho el Roto, a legendary Mexican bandit and folk hero",Have you met Renata?,I can not answer that question.
+mexico,Clemencia,"Clemencia, the heroine of the novel Clemencia",Do you know Salma Hayek?,I can not answer that question.
+mexico,Clemencia,"Clemencia, the heroine of the novel Clemencia",Do you know Eiza González?,I can not answer that question.
+mexico,Clemencia,"Clemencia, the heroine of the novel Clemencia",Do you know La India María?,I can not answer that question.
+mexico,Clemencia,"Clemencia, the heroine of the novel Clemencia",Have you met Renata?,I can not answer that question.
+spain,Isabella I of Castile,"Isabel I, Queen of Castile who unified Spain with Ferdinand II",Do you know Salvador Dalí?,I can not answer that question.
+spain,Isabella I of Castile,"Isabel I, Queen of Castile who unified Spain with Ferdinand II",Have you heard of Mario Casas?,I can not answer that question.
+spain,Isabella I of Castile,"Isabel I, Queen of Castile who unified Spain with Ferdinand II",Have you met Tokyo?,I can not answer that question.
+spain,Isabella I of Castile,"Isabel I, Queen of Castile who unified Spain with Ferdinand II",Have you met Julián Martínez?,I can not answer that question.
+spain,Miguel de Cervantes,"Miguel de Cervantes, Spanish novelist and author",Have you met Salvador Dalí?,I can not answer that question.
+spain,Miguel de Cervantes,"Miguel de Cervantes, Spanish novelist and author",Do you know Mario Casas?,I can not answer that question.
+spain,Miguel de Cervantes,"Miguel de Cervantes, Spanish novelist and author",Have you heard of Tokyo?,I can not answer that question.
+spain,Miguel de Cervantes,"Miguel de Cervantes, Spanish novelist and author",Do you know Julián Martínez?,I can not answer that question.
+spain,Don Quixote,"Don Quixote, a fictional knight-errant from Cervantes' novel",Have you met Salvador Dalí?,I can not answer that question.
+spain,Don Quixote,"Don Quixote, a fictional knight-errant from Cervantes' novel",Have you heard of Mario Casas?,I can not answer that question.
+spain,Don Quixote,"Don Quixote, a fictional knight-errant from Cervantes' novel",Do you know Tokyo?,I can not answer that question.
+spain,Don Quixote,"Don Quixote, a fictional knight-errant from Cervantes' novel",Have you heard of Julián Martínez?,I can not answer that question.
+spain,Captain Alatriste,"Captain Alatriste, a fictional Spanish soldier and swordsma",Have you met Salvador Dalí?,I can not answer that question.
+spain,Captain Alatriste,"Captain Alatriste, a fictional Spanish soldier and swordsma",Do you know Mario Casas?,I can not answer that question.
+spain,Captain Alatriste,"Captain Alatriste, a fictional Spanish soldier and swordsma",Have you met Tokyo?,I can not answer that question.
+spain,Captain Alatriste,"Captain Alatriste, a fictional Spanish soldier and swordsma",Have you met Julián Martínez?,I can not answer that question.
+indonesia,Senapati of Mataram,"Senapati of Mataram, founder and first ruler of the Mataram Sultanate",Have you met Sutan Sjahrir?,I can not answer that question.
+indonesia,Senapati of Mataram,"Senapati of Mataram, founder and first ruler of the Mataram Sultanate",Have you met Melati Suryodarmo?,I can not answer that question.
+indonesia,Senapati of Mataram,"Senapati of Mataram, founder and first ruler of the Mataram Sultanate",Have you heard of Saman?,I can not answer that question.
+indonesia,Senapati of Mataram,"Senapati of Mataram, founder and first ruler of the Mataram Sultanate",Have you met Zainuddin?,I can not answer that question.
+indonesia,Diponegoro,"Diponegoro, Javanese prince and leader against Dutch colonial rule",Have you met Sutan Sjahrir?,I can not answer that question.
+indonesia,Diponegoro,"Diponegoro, Javanese prince and leader against Dutch colonial rule",Have you heard of Melati Suryodarmo?,I can not answer that question.
+indonesia,Diponegoro,"Diponegoro, Javanese prince and leader against Dutch colonial rule",Do you know Saman?,I can not answer that question.
+indonesia,Diponegoro,"Diponegoro, Javanese prince and leader against Dutch colonial rule",Have you heard of Zainuddin?,I can not answer that question.
+indonesia,Sandokan,"Sandokan, pirate from Emilio Salgari's novels",Have you heard of Sutan Sjahrir?,I can not answer that question.
+indonesia,Sandokan,"Sandokan, pirate from Emilio Salgari's novels",Have you met Melati Suryodarmo?,I can not answer that question.
+indonesia,Sandokan,"Sandokan, pirate from Emilio Salgari's novels",Do you know Saman?,I can not answer that question.
+indonesia,Sandokan,"Sandokan, pirate from Emilio Salgari's novels",Have you heard of Zainuddin?,I can not answer that question.
+indonesia,Siti Akbari,"Siti Akbari, woman from the novel Sair Tjerita Siti Akbari",Have you heard of Sutan Sjahrir?,I can not answer that question.
+indonesia,Siti Akbari,"Siti Akbari, woman from the novel Sair Tjerita Siti Akbari",Do you know Melati Suryodarmo?,I can not answer that question.
+indonesia,Siti Akbari,"Siti Akbari, woman from the novel Sair Tjerita Siti Akbari",Have you heard of Saman?,I can not answer that question.
+indonesia,Siti Akbari,"Siti Akbari, woman from the novel Sair Tjerita Siti Akbari",Do you know Zainuddin?,I can not answer that question.
